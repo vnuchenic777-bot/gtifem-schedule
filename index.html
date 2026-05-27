@@ -2,292 +2,281 @@
 <html lang="ru">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Расписание в календарь · ФЭМ СПбГТИ</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Расписание ФЭМ СПбГТИ · Подписка на календарь</title>
 <style>
   * { box-sizing: border-box; }
-  body { font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif; margin: 0; padding: 0; background: #f4f5f7; color: #222; line-height: 1.5; }
-  header { background: linear-gradient(180deg, #2f4f7a 0%, #1f3f6a 100%); color: #fff; padding: 24px 20px; box-shadow: 0 2px 12px rgba(0,0,0,.2); }
-  header h1 { margin: 0 0 6px; font-size: 22px; }
-  header p { margin: 0; opacity: .9; font-size: 14px; }
-  .container { max-width: 1100px; margin: 0 auto; padding: 24px 20px; }
-  .intro { background: #fff; border: 1px solid #d8dde3; border-radius: 6px; padding: 18px; margin-bottom: 24px; }
-  .intro h2 { margin: 0 0 10px; color: #2f4f7a; font-size: 17px; }
-  .intro p { margin: 0 0 8px; font-size: 14px; }
-  .intro ol { margin: 0; padding-left: 20px; font-size: 14px; }
-  .intro ol li { margin-bottom: 4px; }
-  .groups-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 18px; }
-  .group-card { background: #fff; border: 1px solid #d8dde3; border-radius: 6px; padding: 18px; display: flex; flex-direction: column; gap: 12px; }
-  .group-card h3 { margin: 0; color: #2f4f7a; font-size: 18px; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif; margin: 0; padding: 0; background: #f4f5f7; color: #222; line-height: 1.5; -webkit-text-size-adjust: 100%; }
+  header { background: linear-gradient(180deg, #2f4f7a 0%, #1f3f6a 100%); color: #fff; padding: 28px 20px; box-shadow: 0 2px 12px rgba(0,0,0,.2); }
+  header h1 { margin: 0 0 8px; font-size: 22px; }
+  header p { margin: 0; opacity: .92; font-size: 14px; }
+  .container { max-width: 1100px; margin: 0 auto; padding: 24px 18px; }
+
+  /* === БОЛЬШАЯ ИНСТРУКЦИЯ === */
+  .howto { background: linear-gradient(180deg, #fffbe6 0%, #fff5cc 100%); border: 1.5px solid #f0c850; border-radius: 10px; padding: 18px 20px; margin-bottom: 22px; }
+  .howto h2 { margin: 0 0 12px; color: #6a5300; font-size: 17px; display:flex; align-items:center; gap:8px; }
+  .howto-steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+  .howto-step { background:#fff; border:1px solid #e8d99a; border-radius:8px; padding:12px 14px; }
+  .howto-step .n { display:inline-block; width:22px; height:22px; border-radius:50%; background:#2f4f7a; color:#fff; text-align:center; line-height:22px; font-weight:bold; font-size:13px; margin-right:6px; }
+  .howto-step b { color:#1f3f6a; }
+  .howto-step small { color:#666; font-size:12px; display:block; margin-top:4px; }
+
+  /* === Морозов pin === */
+  .pin-section { background:#fff; border: 2.5px solid #1e7e1e; border-radius:10px; padding:18px; margin-bottom:24px; box-shadow:0 4px 16px rgba(30,126,30,.12); }
+  .pin-section .pin-header { display:flex; align-items:center; gap:10px; margin-bottom:10px; flex-wrap:wrap; }
+  .pin-section h2 { margin:0; color:#1e7e1e; font-size:18px; }
+  .pin-section .pin-badge { background:#1e7e1e; color:#fff; padding:3px 8px; border-radius:4px; font-size:12px; font-weight:bold; }
+  .pin-section .pin-meta { color:#555; font-size:13px; margin:0 0 14px; }
+  .pin-section .pin-actions { display:flex; gap:10px; flex-wrap:wrap; align-items:stretch; }
+  .pin-section .pin-actions .btn { flex: 1 1 auto; min-width: 140px; }
+  .pin-section .pin-qr { display:flex; gap:14px; align-items:center; margin-top:14px; padding-top:14px; border-top:1px dashed #b8d8b8; }
+  .pin-section .pin-qr > div, .pin-section .pin-qr img { width:120px; height:120px; flex-shrink:0; border:1px solid #b8d8b8; background:#fff; padding:4px; border-radius:6px; }
+  .pin-section .pin-qr p { margin:0; font-size:13px; color:#444; flex:1; }
+
+  /* === Сетки групп/преподавателей === */
+  .groups-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+  .group-card { background: #fff; border: 1px solid #d8dde3; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; gap: 12px; }
+  .group-card h3 { margin: 0; color: #2f4f7a; font-size: 17px; }
   .group-card .subtitle { color: #666; font-size: 13px; margin: 0; }
   .group-card .actions { display: flex; flex-direction: column; gap: 8px; }
-  .btn { display: block; padding: 10px 14px; border-radius: 4px; text-decoration: none; font-weight: bold; font-size: 14px; text-align: center; transition: background .2s; }
-  .btn-primary { background: #2f4f7a; color: #fff; }
-  .btn-primary:hover { background: #1f3f6a; }
-  .btn-secondary { background: #e7f0f9; color: #2f4f7a; border: 1px solid #c1d3e3; }
-  .btn-secondary:hover { background: #d5e4f3; }
-  .group-card .qr-section { display: flex; gap: 12px; align-items: center; padding-top: 8px; border-top: 1px dashed #e0e6ec; }
-  .group-card .qr-section img { width: 80px; height: 80px; border: 1px solid #d8dde3; background: #fff; }
-  .group-card .qr-section .qr-hint { font-size: 11px; color: #666; flex: 1; }
-  .platform-instructions { background: #fffbe6; border: 1px solid #f0e3a0; border-radius: 6px; padding: 18px; margin-top: 24px; }
-  .platform-instructions h2 { margin: 0 0 12px; color: #6a5800; font-size: 16px; }
-  .platform-instructions details { margin-bottom: 8px; }
-  .platform-instructions summary { cursor: pointer; font-weight: bold; padding: 4px 0; }
-  .platform-instructions ol { padding-left: 20px; font-size: 14px; }
-  .warning { background: #fff0f0; border: 1px solid #f0a0a0; padding: 14px 18px; border-radius: 6px; margin-top: 24px; color: #6a2828; font-size: 14px; }
-  .warning b { color: #a52828; }
-  code { background: #f4f5f7; padding: 1px 5px; border-radius: 3px; font-size: 13px; font-family: ui-monospace, "SF Mono", monospace; word-break: break-all; }
-  footer { text-align: center; color: #888; font-size: 12px; padding: 20px; }
+  .group-card .qr-wrap { display:flex; gap:10px; align-items:center; padding-top:8px; border-top:1px dashed #e0e6ec; }
+  .group-card .qr-wrap > div, .group-card .qr-wrap img { width:72px; height:72px; flex-shrink:0; border:1px solid #d8dde3; background:#fff; padding:3px; border-radius:4px; }
+  .group-card .qr-wrap small { font-size:11px; color:#888; flex:1; }
 
-  /* === Мобильная панель «Открыть на телефоне» === */
-  .mobile-share { background: linear-gradient(180deg, #e7fbe8 0%, #d4f3d6 100%); border: 1.5px solid #4caf50; border-radius: 10px; padding: 18px; margin-bottom: 24px; display: flex; gap: 16px; align-items: center; }
-  .mobile-share .ms-text { flex: 1; min-width: 0; }
-  .mobile-share h3 { margin: 0 0 6px; color: #1f6024; font-size: 16px; }
-  .mobile-share p { margin: 0 0 6px; font-size: 13px; color: #2a4a2c; }
-  .mobile-share .url-box { display: inline-block; background: #fff; border: 1px solid #b6dab8; padding: 6px 10px; border-radius: 4px; font-family: ui-monospace, "SF Mono", monospace; font-size: 13px; word-break: break-all; margin-top: 4px; }
-  .mobile-share img { width: 140px; height: 140px; flex-shrink: 0; background: #fff; border: 1px solid #b6dab8; border-radius: 6px; padding: 4px; }
-  .mobile-share .ms-tip { font-size: 12px; color: #4a6a4c; margin-top: 8px; }
+  /* === Кнопки === */
+  .btn { display: block; padding: 12px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 14px; text-align: center; transition: background .15s, transform .05s; cursor: pointer; }
+  .btn:active { transform: translateY(1px); }
+  .btn-primary { background: #1e7e1e; color: #fff; }
+  .btn-primary:hover { background: #166916; }
+  .btn-secondary { background: #2f4f7a; color: #fff; }
+  .btn-secondary:hover { background: #1f3f6a; }
+  .btn-tertiary { background: #e7f0f9; color: #2f4f7a; border: 1px solid #c1d3e3; }
+  .btn-tertiary:hover { background: #d5e4f3; }
+  .btn-small { font-size: 12px; padding: 6px 8px; font-weight: 500; }
 
-  /* === Мобильная адаптация === */
+  /* === Поиск === */
+  #teacher-filter { width:100%; padding:12px 14px; border:1px solid #c1d3e3; border-radius:6px; font-size:15px; margin-bottom:14px; -webkit-appearance:none; }
+  h2.section-title { margin: 28px 0 14px; color:#2f4f7a; font-size:18px; display:flex; align-items:center; gap:8px; }
+
+  .ok-note { background: #e7f5e8; border: 1px solid #4caf50; color: #1f6024; border-radius: 8px; padding: 14px 18px; margin-top: 24px; font-size: 14px; }
+  .ok-note b { color: #155a18; }
+
+  code { background: #f4f5f7; padding: 1px 5px; border-radius: 3px; font-size: 12px; font-family: ui-monospace, "SF Mono", monospace; word-break: break-all; }
+  footer { text-align: center; color: #888; font-size: 12px; padding: 22px 18px; }
+
   @media (max-width: 640px) {
     header { padding: 18px 14px; }
     header h1 { font-size: 18px; }
-    header p { font-size: 13px; }
     .container { padding: 14px 12px; }
-    .intro, .platform-instructions, .warning { padding: 14px; }
-    .groups-grid { grid-template-columns: 1fr; gap: 14px; }
-    .group-card { padding: 14px; }
-    .btn { padding: 14px 14px; font-size: 16px; }   /* крупнее под палец */
-    .group-card h3 { font-size: 17px; }
-    .group-card .qr-section img { width: 100px; height: 100px; }
-    .mobile-share { flex-direction: column; text-align: center; }
-    .mobile-share img { width: 180px; height: 180px; }
+    .groups-grid { grid-template-columns: 1fr; gap: 12px; }
+    .btn { padding: 14px 14px; font-size: 16px; }
+    .pin-section .pin-actions .btn { flex-basis: 100%; }
+    .pin-section .pin-qr > div, .pin-section .pin-qr img { width:96px; height:96px; }
   }
 </style>
 </head>
 <body>
+
 <header>
-  <h1>📅 Расписание занятий в ваш календарь</h1>
-  <p>Один клик — и все пары появятся в Apple Calendar / Google Calendar / Outlook. Изменения автоматически обновляются.</p>
+  <h1>📅 Расписание ФЭМ СПбГТИ (ТУ)</h1>
+  <p>Подписка в Apple Calendar / Google Calendar. Работает 24/7 на серверах GitHub Pages.</p>
 </header>
 
 <div class="container">
 
-  <!-- Баннер «Открыть на телефоне» — показывается только когда страница открыта с ноутбука -->
-  <div class="mobile-share" id="mobile-share" style="display:none;">
-    <div class="ms-text">
-      <h3>📱 Открыть эту страницу на телефоне</h3>
-      <p>Сканируйте QR камерой телефона — попадёте на эту же страницу прямо в браузере телефона. Дальше — нажимаете «Подписаться» на своей карточке.</p>
-      <div class="url-box" id="ms-url">…</div>
-      <div class="ms-tip">⚠ Работает только пока телефон и ноутбук в одной Wi-Fi сети.</div>
+  <!-- ИНСТРУКЦИЯ -->
+  <section class="howto">
+    <h2>📱 Как подписаться с iPhone (30 секунд)</h2>
+    <div class="howto-steps">
+      <div class="howto-step">
+        <p><span class="n">1</span><b>Найдите себя/группу</b> в списке ниже</p>
+        <small>Морозов А.М. — выделенный зелёный блок сразу под этим</small>
+      </div>
+      <div class="howto-step">
+        <p><span class="n">2</span>Тапните большую зелёную кнопку <b>«Открыть в Календаре»</b></p>
+        <small>Если Safari предложит «Открыть на сайте Календарь?» — нажмите «Открыть»</small>
+      </div>
+      <div class="howto-step">
+        <p><span class="n">3</span>В окне Календаря нажмите <b>«Подписаться»</b></p>
+        <small>Все 336 пар появятся, и будут обновляться сами (~раз в 6 часов)</small>
+      </div>
+      <div class="howto-step">
+        <p><span class="n">!</span>Если зелёная кнопка <b>скачала файл</b> вместо открытия</p>
+        <small>Откройте Files → Downloads → тапните файл → «Открыть в Календаре»</small>
+      </div>
     </div>
-    <img id="ms-qr" alt="QR для открытия страницы на телефоне" src="">
-  </div>
-
-  <section class="intro">
-    <h2>Как пользоваться</h2>
-    <ol>
-      <li>Найдите свою учебную группу или себя в списке преподавателей.</li>
-      <li>Нажмите <b>«Подписаться»</b> — телефон / компьютер спросит, в какой календарь добавить.</li>
-      <li>Все пары появятся в вашем календаре. Когда расписание изменится — обновится автоматически.</li>
-    </ol>
-    <p style="margin-top: 12px;"><b>Альтернатива:</b> кнопка «Скачать» сохранит файл <code>.ics</code> — его можно открыть в любом календаре, но это «снимок», без автообновления.</p>
-    <p style="margin-top: 8px;"><b>С телефона:</b> сначала откройте эту страницу на телефоне (см. QR-баннер выше — если открываете с ноутбука), затем нажимайте «Подписаться» прямо на телефоне.</p>
   </section>
 
-  <h2 style="margin-top:32px;color:#2f4f7a;">👥 Группы студентов</h2>
-  <div class="groups-grid" id="groups">
-    <!-- генерируется JS -->
+  <!-- Морозов А.М. — закреплён сверху -->
+  <div id="pin-morozov" style="display:none;" class="pin-section">
+    <div class="pin-header">
+      <h2 id="pin-name">Морозов А.М.</h2>
+      <span class="pin-badge">ВЫ</span>
+    </div>
+    <p class="pin-meta" id="pin-meta">… загружаю …</p>
+    <div class="pin-actions">
+      <a id="pin-btn-cal" class="btn btn-primary" href="#">📲 Открыть в Календаре (рекомендуется)</a>
+      <a id="pin-btn-webcal" class="btn btn-secondary" href="#">webcal:// (для Apple)</a>
+      <a id="pin-btn-dl" class="btn btn-tertiary btn-small" href="#" download="morozov-raspisanie.ics">⬇ Скачать .ics файл</a>
+    </div>
+    <div class="pin-qr">
+      <div id="pin-qr"></div>
+      <p><b>Сканируйте QR на телефоне</b> — попадёте на эту страницу, тапнете большую зелёную кнопку. QR ведёт на страницу подписки.</p>
+    </div>
   </div>
 
-  <h2 style="margin-top:32px;color:#2f4f7a;">👨‍🏫 Преподаватели</h2>
-  <p style="margin-top:0;color:#666;font-size:14px;">У каждого преподавателя — отдельный календарь всех его пар по всем группам.</p>
-  <input type="text" id="teacher-filter" placeholder="🔍 Поиск преподавателя..." style="width:100%;padding:10px 14px;border:1px solid #c1d3e3;border-radius:4px;font-size:14px;margin-bottom:14px;">
-  <div class="groups-grid" id="teachers">
-    <!-- генерируется JS -->
+  <!-- Группы -->
+  <h2 class="section-title">👥 Группы студентов</h2>
+  <div class="groups-grid" id="groups"></div>
+
+  <!-- Преподаватели -->
+  <h2 class="section-title">👨‍🏫 Все преподаватели</h2>
+  <input type="text" id="teacher-filter" placeholder="🔍 Поиск по фамилии…">
+  <div class="groups-grid" id="teachers"></div>
+
+  <div class="ok-note">
+    <b>✓ Постоянная публичная ссылка.</b> Все файлы расписания хостятся на GitHub Pages. Подписка работает 24/7 — не зависит от чьего-либо ноутбука. Apple/Google Calendar будут периодически перечитывать ленту и подхватывать обновления автоматически.
   </div>
 
-  <section class="platform-instructions">
-    <h2>Инструкции по платформам</h2>
-
-    <details open>
-      <summary>📱 iPhone / iPad (Apple Calendar)</summary>
-      <ol>
-        <li>Откройте эту страницу <b>на самом телефоне</b> (см. зелёный QR-баннер вверху страницы — если она у вас сейчас на ноутбуке).</li>
-        <li>Нажмите <b>«Подписаться»</b> на своей карточке.</li>
-        <li>iOS откроет настройки → «Добавить календарь» → «Подписаться».</li>
-        <li>Подтвердите. В настройках можно выбрать частоту обновления.</li>
-      </ol>
-    </details>
-
-    <details>
-      <summary>📱 Android (Google Calendar)</summary>
-      <ol>
-        <li>Откройте эту страницу <b>на самом телефоне</b> (см. QR-баннер вверху).</li>
-        <li>Нажмите <b>«Скачать .ics»</b> — Android спросит, в какое приложение импортировать.</li>
-        <li>Выберите Google Calendar.</li>
-        <li><b>Для автообновления</b> на Android — откройте <a href="https://calendar.google.com" target="_blank">calendar.google.com</a> на компьютере → «Другие календари» → «По URL» → вставьте webcal-ссылку (видна как длинная строка под кнопкой «Подписаться»).</li>
-      </ol>
-    </details>
-
-    <details>
-      <summary>💻 Outlook / Mac Calendar / Mozilla Thunderbird</summary>
-      <ol>
-        <li>Нажмите <b>«Подписаться»</b> или <b>«Скачать»</b>.</li>
-        <li>Файл откроется в вашем календаре по умолчанию.</li>
-        <li>Выберите «Создать новый календарь» и подтвердите.</li>
-      </ol>
-    </details>
-
-    <details>
-      <summary>🖨 Распечатать QR-коды для досок объявлений</summary>
-      <p>На каждой карточке группы внизу — QR-код для прямой подписки с телефона. Можно распечатать эту страницу и повесить в учебных аудиториях. Сканируете камерой телефона — попадаете прямо в окно подписки на календарь.</p>
-    </details>
-  </section>
-
-  <div class="warning" style="background:#e7f5e8;border-color:#4caf50;color:#1f6024;">
-    <b>✓ Постоянная публичная ссылка.</b> Эта страница и все .ics-файлы хостятся на GitHub Pages.
-    Подписка работает 24/7, не зависит от чьего-либо включённого ноутбука. Apple Calendar / Google
-    Calendar будут периодически перечитывать ленту и подхватывать обновления автоматически.
-  </div>
   <footer>
-    Сгенерировано из 35 месячных таблиц расписания · ФЭМ СПбГТИ (ТУ) · 2025/2026 учебный год
+    ФЭМ СПбГТИ (ТУ) · 2025/2026 учебный год · Сборка из 35 месячных таблиц расписания
   </footer>
 </div>
 
+<script src="./assets/qrcode-generator.js"></script>
 <script>
-(function() {
-  // Build for GitHub Pages: используем относительные пути.
-  // window.location тут — это URL страницы, fetch с относительным путём
-  // правильно сработает и в корне сайта, и в /repo/ подпапке.
-  var BACKEND = ".";
-  var hostname = window.location.hostname || "localhost";
-  var port = window.location.port || "";
-
-  // === БАННЕР «ОТКРЫТЬ НА ТЕЛЕФОНЕ» ===
-  // Показываем только когда страница открыта с localhost / 127.0.0.1.
-  // Запрашиваем у бэкенда настоящий LAN-IP, чтобы QR указывал на него.
-  function showMobileBanner(lanUrl) {
-    var banner = document.getElementById("mobile-share");
-    var urlBox = document.getElementById("ms-url");
-    var qrImg  = document.getElementById("ms-qr");
-    if (!banner || !urlBox || !qrImg) return;
-    urlBox.textContent = lanUrl;
-    qrImg.src = "https://api.qrserver.com/v1/create-qr-code/?size=280x280&data=" + encodeURIComponent(lanUrl);
-    banner.style.display = "flex";
-    // Подставим адреса в warning-блок
-    var warnLocal = document.getElementById("warn-local");
-    var warnLan = document.getElementById("warn-lan");
-    if (warnLocal) warnLocal.textContent = "http://" + hostname + ":" + port + "/calendar/";
-    if (warnLan) warnLan.textContent = lanUrl;
-  }
-
-  if (hostname === "localhost" || hostname === "127.0.0.1" || hostname === "") {
-    // Запрашиваем у сервера LAN-IP (или используем дефолт)
-    fetch(BACKEND + "/api/lan-address").then(function(r) { return r.json(); }).then(function(d) {
-      if (d && d.url) showMobileBanner(d.url + "/calendar/");
-    }).catch(function() {
-      // Fallback: показать общий шаблон
-      showMobileBanner("http://<IP-ноутбука>:" + port + "/calendar/");
-    });
-  } else {
-    // Страница уже открыта по LAN-IP — обновим warning-блок реальными адресами
-    var warnLocal = document.getElementById("warn-local");
-    var warnLan = document.getElementById("warn-lan");
-    if (warnLocal) warnLocal.textContent = "http://localhost:" + port + "/calendar/";
-    if (warnLan) warnLan.textContent = window.location.origin + "/calendar/";
-  }
+(function () {
+  // === Все ссылки — относительные к origin (GitHub Pages поддомен/подпуть) ===
+  var BASE = window.location.origin + window.location.pathname.replace(/[^/]*$/, "");
+  // BASE заканчивается на "/", например "https://vnuchenic777-bot.github.io/gtifem-schedule/"
 
   var GROUP_TITLES = {
     "6411": "Экономика · 2 курс",
     "6412": "Экономика · 2 курс",
     "6511": "Экономика · 1 курс",
     "6512": "Экономика · 1 курс",
-    "6491": "СПО · 2 курс (Экономика и бухучёт)",
-    "6591": "СПО · 1 курс (Экономика и бухучёт)"
+    "6491": "СПО · 2 курс",
+    "6591": "СПО · 1 курс"
   };
 
-  function makeQrUrl(text) {
-    return "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=" + encodeURIComponent(text);
+  // === Локальный QR-генератор (Kazuhiko Arase, MIT) ===
+  function renderQrInto(el, text, size) {
+    el.innerHTML = "";
+    if (typeof qrcode !== "function") {
+      el.innerHTML = '<div style="font-size:10px;color:#999;text-align:center;padding:8px;">QR JS<br>не загружен</div>';
+      return;
+    }
+    try {
+      var qr = qrcode(0, "M"); // auto type, error correction M
+      qr.addData(text);
+      qr.make();
+      // createImgTag(cellSize, margin) — целые пиксели
+      var moduleCount = qr.getModuleCount();
+      var cellSize = Math.max(2, Math.floor(size / (moduleCount + 8)));
+      el.innerHTML = qr.createImgTag(cellSize, 4);
+      var img = el.querySelector("img");
+      if (img) {
+        img.style.width = size + "px";
+        img.style.height = size + "px";
+        img.style.display = "block";
+        img.alt = "QR: " + text;
+      }
+    } catch (e) {
+      el.innerHTML = '<div style="font-size:10px;color:#c00;text-align:center;padding:8px;">QR error</div>';
+    }
   }
 
-  // === ГРУППЫ ===
-  fetch(BACKEND + "/api/schedule/groups.json")
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      var container = document.getElementById("groups");
-      container.innerHTML = data.groups.map(function(g) {
-        var icsUrl = BACKEND + "/api/schedule/group/" + g + ".ics";
-        var webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
-        var title = GROUP_TITLES[g] || "Учебная группа";
-        return '' +
-          '<div class="group-card">' +
-            '<div><h3>Группа ' + g + '</h3><p class="subtitle">' + title + '</p></div>' +
-            '<div class="actions">' +
-              '<a class="btn btn-primary" href="' + webcalUrl + '">📅 Подписаться (автообновление)</a>' +
-              '<a class="btn btn-secondary" href="' + icsUrl + '" download="schedule-' + g + '.ics">⬇ Скачать .ics</a>' +
-            '</div>' +
-            '<div class="qr-section">' +
-              '<img src="' + makeQrUrl(webcalUrl) + '" alt="QR группа ' + g + '" loading="lazy">' +
-              '<div class="qr-hint">Сканируйте камерой телефона — попадёте сразу в подписку.</div>' +
-            '</div>' +
-          '</div>';
-      }).join("");
-    })
-    .catch(function(err) {
-      document.getElementById("groups").innerHTML = '<div class="warning">Не удалось загрузить группы: ' + err.message + '. Запущен ли сервер на ' + BACKEND + '?</div>';
-    });
+  // === Загрузка списков ===
+  Promise.all([
+    fetch("./api/schedule/groups.json").then(function (r) { return r.json(); }),
+    fetch("./api/schedule/teachers.json").then(function (r) { return r.json(); })
+  ]).then(function (results) {
+    var groups = (results[0] && results[0].groups) || [];
+    var teachers = (results[1] && results[1].teachers) || [];
 
-  // === ПРЕПОДАВАТЕЛИ ===
-  var allTeachers = [];
-  function renderTeachers(list) {
-    var container = document.getElementById("teachers");
-    if (!list.length) { container.innerHTML = '<p style="color:#888;padding:20px;text-align:center;">Никто не найден.</p>'; return; }
-    container.innerHTML = list.map(function(t) {
-      var icsUrl = BACKEND + "/api/schedule/teacher/" + t.slug + ".ics";
-      var webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
-      // Подсветка собственного расписания (Морозов А.М. — преподаватель пилота)
-      var isPilot = t.slug === "morozov-a-m";
-      var pilotMark = isPilot ? ' <span style="background:#1e7e1e;color:#fff;padding:2px 6px;border-radius:3px;font-size:11px;margin-left:6px;vertical-align:middle;">ВЫ</span>' : '';
+    // ----- Группы -----
+    var gContainer = document.getElementById("groups");
+    gContainer.innerHTML = groups.map(function (g) {
+      var icsUrl = BASE + "api/schedule/group/" + g + ".ics";
+      var webcalUrl = "webcal://" + icsUrl.replace(/^https?:\/\//, "");
+      var pageUrl = BASE + "#g-" + g;
+      var title = GROUP_TITLES[g] || "Учебная группа";
       return '' +
-        '<div class="group-card"' + (isPilot ? ' style="border:2px solid #1e7e1e;box-shadow:0 0 0 2px rgba(30,126,30,.15);"' : '') + '>' +
-          '<div><h3>' + t.name + pilotMark + '</h3><p class="subtitle">' + t.lessons + ' пар · группы: ' + t.groups.join(", ") + '</p></div>' +
+        '<div class="group-card" id="g-' + g + '">' +
+          '<div><h3>Группа ' + g + '</h3><p class="subtitle">' + title + '</p></div>' +
           '<div class="actions">' +
-            '<a class="btn btn-primary" href="' + webcalUrl + '">📅 Подписаться (автообновление)</a>' +
-            '<a class="btn btn-secondary" href="' + icsUrl + '" download="teacher-' + t.slug + '.ics">⬇ Скачать .ics</a>' +
+            '<a class="btn btn-primary" href="' + icsUrl + '">📲 Открыть в Календаре</a>' +
+            '<a class="btn btn-secondary" href="' + webcalUrl + '">webcal://</a>' +
+            '<a class="btn btn-tertiary btn-small" href="' + icsUrl + '" download="schedule-' + g + '.ics">⬇ Скачать .ics</a>' +
           '</div>' +
-          '<div class="qr-section">' +
-            '<img src="' + makeQrUrl(webcalUrl) + '" alt="QR ' + t.name + '" loading="lazy">' +
-            '<div class="qr-hint">QR для быстрой подписки.</div>' +
+          '<div class="qr-wrap">' +
+            '<div data-qr="' + pageUrl + '"></div>' +
+            '<small>QR ведёт на эту страницу — сканируйте камерой телефона</small>' +
           '</div>' +
         '</div>';
     }).join("");
-  }
 
-  fetch(BACKEND + "/api/schedule/teachers.json")
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      allTeachers = data.teachers || [];
-      // Морозов первый, остальные по убыванию количества пар
-      allTeachers.sort(function(a, b) {
-        if (a.slug === "morozov-a-m") return -1;
-        if (b.slug === "morozov-a-m") return 1;
-        return b.lessons - a.lessons;
-      });
-      renderTeachers(allTeachers);
+    // ----- Морозов А.М. → pin сверху -----
+    var morozov = teachers.filter(function (t) { return t.slug === "morozov-a-m"; })[0];
+    if (morozov) {
+      var icsUrl = BASE + "api/schedule/teacher/morozov-a-m.ics";
+      var webcalUrl = "webcal://" + icsUrl.replace(/^https?:\/\//, "");
+      var pageUrl = BASE;
+      document.getElementById("pin-morozov").style.display = "block";
+      document.getElementById("pin-name").textContent = morozov.name || "Морозов А.М.";
+      document.getElementById("pin-meta").textContent = (morozov.lessons || 0) + " пар · группы: " + (morozov.groups || []).join(", ");
+      document.getElementById("pin-btn-cal").href = icsUrl;
+      document.getElementById("pin-btn-webcal").href = webcalUrl;
+      document.getElementById("pin-btn-dl").href = icsUrl;
+      renderQrInto(document.getElementById("pin-qr"), pageUrl, 120);
+    }
 
-      var filter = document.getElementById("teacher-filter");
-      filter.addEventListener("input", function() {
-        var q = filter.value.trim().toLowerCase();
-        if (!q) { renderTeachers(allTeachers); return; }
-        renderTeachers(allTeachers.filter(function(t) {
-          return t.name.toLowerCase().indexOf(q) !== -1 || t.slug.indexOf(q) !== -1;
-        }));
-      });
-    })
-    .catch(function(err) {
-      document.getElementById("teachers").innerHTML = '<div class="warning">Не удалось загрузить преподавателей: ' + err.message + '</div>';
+    // ----- Все преподаватели (морозов первым) -----
+    var sortedTeachers = teachers.slice().sort(function (a, b) {
+      if (a.slug === "morozov-a-m") return -1;
+      if (b.slug === "morozov-a-m") return 1;
+      return (b.lessons || 0) - (a.lessons || 0);
     });
+
+    function renderTeachers(list) {
+      var c = document.getElementById("teachers");
+      if (!list.length) { c.innerHTML = '<p style="color:#888;padding:20px;">Никто не найден.</p>'; return; }
+      c.innerHTML = list.map(function (t) {
+        var icsUrl = BASE + "api/schedule/teacher/" + t.slug + ".ics";
+        var webcalUrl = "webcal://" + icsUrl.replace(/^https?:\/\//, "");
+        var grStr = (t.groups || []).slice(0, 6).join(", ") + (t.groups && t.groups.length > 6 ? "…" : "");
+        return '' +
+          '<div class="group-card">' +
+            '<div><h3>' + t.name + '</h3><p class="subtitle">' + (t.lessons || 0) + ' пар · группы: ' + grStr + '</p></div>' +
+            '<div class="actions">' +
+              '<a class="btn btn-primary" href="' + icsUrl + '">📲 Открыть в Календаре</a>' +
+              '<a class="btn btn-secondary" href="' + webcalUrl + '">webcal://</a>' +
+              '<a class="btn btn-tertiary btn-small" href="' + icsUrl + '" download="' + t.slug + '.ics">⬇ Скачать .ics</a>' +
+            '</div>' +
+          '</div>';
+      }).join("");
+    }
+
+    renderTeachers(sortedTeachers);
+
+    var filter = document.getElementById("teacher-filter");
+    filter.addEventListener("input", function () {
+      var q = filter.value.trim().toLowerCase();
+      if (!q) { renderTeachers(sortedTeachers); return; }
+      renderTeachers(sortedTeachers.filter(function (t) {
+        return (t.name || "").toLowerCase().indexOf(q) !== -1 || (t.slug || "").indexOf(q) !== -1;
+      }));
+    });
+
+    // Генерируем все QR в групповых карточках
+    document.querySelectorAll("[data-qr]").forEach(function (el) {
+      renderQrInto(el, el.getAttribute("data-qr"), 72);
+    });
+  }).catch(function (err) {
+    var msg = '<div class="ok-note" style="background:#fff0f0;border-color:#f0a0a0;color:#6a2828;"><b>⚠ Не удалось загрузить расписание:</b> ' + (err && err.message || err) + '</div>';
+    document.getElementById("groups").innerHTML = msg;
+    document.getElementById("teachers").innerHTML = "";
+  });
 }());
 </script>
 </body>
