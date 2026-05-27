@@ -1,0 +1,96 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Спиридонов Я.В (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Спиридонов Я.В, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-spiridonov-ya-v-20250903-1600-основы-российской-государствeн-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\nАудитория: а.6107
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-spiridonov-ya-v-20250903-1600-основы-российской-государствeн-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6512\nАудитория: а.6107
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-spiridonov-ya-v-20251001-1130-основы-российской-государствeн-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\nАудитория: а.414
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-spiridonov-ya-v-20251001-1130-основы-российской-государствeн-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6512\nАудитория: а.414
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-spiridonov-ya-v-20251007-1130-основы-российской-государствeн-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Основы российской государственности лекция · гр. 6511 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6511\nАудитория: а.409
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-spiridonov-ya-v-20251007-1130-основы-российской-государствeн-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Основы российской государственности лекция · гр. 6512 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6512\nАудитория: а.409
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

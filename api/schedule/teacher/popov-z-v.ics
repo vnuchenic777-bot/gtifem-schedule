@@ -1,0 +1,148 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Попов З.В (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Попов З.В, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251001-0930-основы-российской-государствeн-6511@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\nАудитория: а.414
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251001-0930-основы-российской-государствeн-6512@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6512\nАудитория: а.414
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251001-0930-основы-российской-государствeн-6511@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности лекция · гр. 6511 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251001-0930-основы-российской-государствeн-6512@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности лекция · гр. 6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251002-0930-основы-российской-государствeн-6511@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251002-0930-основы-российской-государствeн-6512@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251106-1400-основы-российской-государствeн-6511@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251106-1400-основы-российской-государствeн-6512@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251106-1600-основы-российской-государствeн-6511@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-popov-z-v-20251106-1600-основы-российской-государствeн-6512@gti
+ fem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

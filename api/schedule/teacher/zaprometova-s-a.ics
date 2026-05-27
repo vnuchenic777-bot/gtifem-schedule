@@ -1,0 +1,307 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Запрометова С.А (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Запрометова С.А, ФЭМ СПбГТИ (ТУ
+ )
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250901-0930-элeктивныe-курсы-по-физичeской-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250901-0930-элeктивныe-курсы-по-физичeской-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250902-1130-элeктивныe-курсы-по-физичeской-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250902-1130-элeктивныe-курсы-по-физичeской-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250902-1130-элeктивныe-курсы-по-физичeской-64
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250902-1130-элeктивныe-курсы-по-физичeской-64
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250902-1400-элeктивныe-курсы-по-физичeской-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250902-1400-элeктивныe-курсы-по-физичeской-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250903-1130-элeктивныe-курсы-по-физичeской-64
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250903-1130-элeктивныe-курсы-по-физичeской-64
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250903-1400-элeктивныe-курсы-по-физичeской-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250903-1400-элeктивныe-курсы-по-физичeской-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250904-1130-элeктивныe-курсы-по-физичeской-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250904-1130-элeктивныe-курсы-по-физичeской-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250904-1400-элeктивныe-курсы-по-физичeской-64
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250904-1400-элeктивныe-курсы-по-физичeской-64
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250905-1130-элeктивныe-курсы-по-физичeской-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250905-1130-элeктивныe-курсы-по-физичeской-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250905-1130-элeктивныe-курсы-по-физичeской-64
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250905-1130-элeктивныe-курсы-по-физичeской-64
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250905-1400-элeктивныe-курсы-по-физичeской-65
+ 11@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\nАудитория: а.6116
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-zaprometova-s-a-20250905-1400-элeктивныe-курсы-по-физичeской-65
+ 12@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6512\nАудитория: а.6116
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

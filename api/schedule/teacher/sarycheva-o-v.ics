@@ -1,0 +1,2966 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Сарычева О.В (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Сарычева О.В, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250901-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\nАудитория: а.6116
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250901-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6412\nАудитория: а.6116
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250901-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\nАудитория: а.6116
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250901-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6412\nАудитория: а.6116
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250901-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250901-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\nАудитория: а.6240
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6412\nАудитория: а.6240
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\nАудитория: а.6236
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6412\nАудитория: а.6236
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\nАудитория: а.6240
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6412\nАудитория: а.6240
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\nАудитория: а.6236
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6412\nАудитория: а.6236
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250902-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250903-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250903-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250903-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250903-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250904-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250904-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250904-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20250904-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251003-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\nАудитория: а.6117
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251003-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6412\nАудитория: а.6117
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251003-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411
+DESCRIPTION:Группа: 6411
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251003-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412
+DESCRIPTION:Группа: 6412
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251003-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\nАудитория: а.6117
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251003-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6412\nАудитория: а.6117
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\nАудитория: а.6376
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6412\nАудитория: а.6376
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6411\nАудитория: а.401
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6412\nАудитория: а.401
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\nАудитория: а.6376
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6412\nАудитория: а.6376
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6411\nАудитория: а.401
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251006-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6412\nАудитория: а.401
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\nАудитория: а.6117
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251007-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6412\nАудитория: а.6117
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251101-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251101-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251101-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251101-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251103-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T093000
+DTEND;TZID=Europe/Moscow:20251103T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\nАудитория: а.6249
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251103-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T093000
+DTEND;TZID=Europe/Moscow:20251103T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6412\nАудитория: а.6249
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251103-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T113000
+DTEND;TZID=Europe/Moscow:20251103T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\nАудитория: а.6249
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251103-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T113000
+DTEND;TZID=Europe/Moscow:20251103T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6412\nАудитория: а.6249
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251104-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T140000
+DTEND;TZID=Europe/Moscow:20251104T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251104-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T140000
+DTEND;TZID=Europe/Moscow:20251104T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251104-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T160000
+DTEND;TZID=Europe/Moscow:20251104T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251104-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T160000
+DTEND;TZID=Europe/Moscow:20251104T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\nАудитория: а.6378
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6412\nАудитория: а.6378
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\nАудитория: а.6378
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6412\nАудитория: а.6378
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\nАудитория: а.6248
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6412\nАудитория: а.6248
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\nАудитория: а.6248
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251105-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6412\nАудитория: а.6248
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251106-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\nАудитория: а.6248
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251106-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6412\nАудитория: а.6248
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251106-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\nАудитория: а.6248
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251106-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6412\nАудитория: а.6248
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251202-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6411\nАудитория: а.409
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251202-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6412\nАудитория: а.409
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251202-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6411\nАудитория: а.106
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251202-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6412\nАудитория: а.106
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251202-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6411\nАудитория: а.409
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251202-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6412\nАудитория: а.409
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251204-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\nАудитория: а.6382
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251204-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6412\nАудитория: а.6382
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251204-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\nАудитория: а.6382
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251204-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6412\nАудитория: а.6382
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251205-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+  · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\nАудитория: а.6240
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251205-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6412
+  · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6412\nАудитория: а.6240
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251205-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20251205-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\nАудитория: а.6240
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6412\nАудитория: а.6240
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6411\nАудитория: а.406
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6412\nАудитория: а.406
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\nАудитория: а.6378
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260112-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6412\nАудитория: а.6378
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260113-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\nАудитория: а.6381
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260113-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6412\nАудитория: а.6381
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260115-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260115-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260115-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\nАудитория: а.6382
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260115-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6412\nАудитория: а.6382
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260115-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260115-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260116-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260116-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260116-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260116-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260116-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260116-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411
+DESCRIPTION:Группа: 6411
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
+DESCRIPTION:Группа: 6412
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411
+DESCRIPTION:Группа: 6411
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412
+DESCRIPTION:Группа: 6412
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\nАудитория: а.6116
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6412\nАудитория: а.6116
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411
+DESCRIPTION:Группа: 6411
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412
+DESCRIPTION:Группа: 6412
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\nАудитория: а.6249
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6412\nАудитория: а.6249
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411
+DESCRIPTION:Группа: 6411
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260202-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412
+DESCRIPTION:Группа: 6412
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6411\nАудитория: а.409
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6412\nАудитория: а.409
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6411\nАудитория: а.411
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6412\nАудитория: а.411
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6411\nАудитория: а.403
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6412\nАудитория: а.403
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260203-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260204-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260204-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260204-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260204-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260205-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260205-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\nАудитория: а.6116
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6412\nАудитория: а.6116
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6411\nАудитория: а.101
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6412\nАудитория: а.101
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\nАудитория: а.6376
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6412\nАудитория: а.6376
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6411\nАудитория: а.6107
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260206-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6412\nАудитория: а.6107
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260302-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\nАудитория: а.6381
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260302-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6412\nАудитория: а.6381
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260302-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\nАудитория: а.6248
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260302-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6412\nАудитория: а.6248
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) АУД · гр. 6
+ 411 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\nАудитория: а.6376
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) АУД · гр. 6
+ 412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6412\nАудитория: а.6376
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\nАудитория: а.6249
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6412\nАудитория: а.6249
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260303-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T093000
+DTEND;TZID=Europe/Moscow:20260305T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\nАудитория: а.6116
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T093000
+DTEND;TZID=Europe/Moscow:20260305T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6412\nАудитория: а.6116
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\nАудитория: а.6116
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6412\nАудитория: а.6116
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\nАудитория: а.6236
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6412\nАудитория: а.6236
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\nАудитория: а.6236
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260305-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6412\nАудитория: а.6236
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260306-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6411\nАудитория: а.106
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260306-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6412\nАудитория: а.106
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260306-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260306-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260306-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\nАудитория: а.6117
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260306-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6412\nАудитория: а.6117
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260402-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260403-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\nАудитория: а.6381
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260403-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6412\nАудитория: а.6381
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260403-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260403-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260403-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260403-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\nАудитория: а.6248
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6412\nАудитория: а.6248
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\nАудитория: а.6382
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6412\nАудитория: а.6382
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\nАудитория: а.6249
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6412\nАудитория: а.6249
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\nАудитория: а.6378
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6412\nАудитория: а.6378
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\nАудитория: а.6249
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260406-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6412\nАудитория: а.6249
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260407-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\nАудитория: а.6373
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260407-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412 
+ · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6412\nАудитория: а.6373
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260407-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\nАудитория: а.6248
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260407-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6412\nАудитория: а.6248
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260504-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260504-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260504-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T160000
+DTEND;TZID=Europe/Moscow:20260504T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260504-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T160000
+DTEND;TZID=Europe/Moscow:20260504T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260506-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260506-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260506-1400-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260506-1400-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260506-1600-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\nАудитория: а.6115
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260506-1600-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
+  а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6412\nАудитория: а.6115
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260507-0930-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260507-0930-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260507-1130-основы-управлeния-в-профeссион-6411
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sarycheva-o-v-20260507-1130-основы-управлeния-в-профeссион-6412
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412 
+ · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

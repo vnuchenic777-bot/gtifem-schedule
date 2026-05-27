@@ -1,0 +1,252 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Пищикова М.В (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Пищикова М.В, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20250901-1400-основы-российской-государствeн-651
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6511\nАудитория: а.106
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20250901-1400-основы-российской-государствeн-651
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6512\nАудитория: а.106
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20251002-1130-основы-российской-государствeн-651
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20251002-1130-основы-российской-государствeн-651
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20251006-1130-основы-российской-государствeн-651
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20251006-1130-основы-российской-государствeн-651
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20251006-1400-основы-российской-государствeн-651
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Основы российской государственности лекция · гр. 6511 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20251006-1400-основы-российской-государствeн-651
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Основы российской государственности лекция · гр. 6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260402-0930-основы-управлeния-в-профeссион-641
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6411 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260402-0930-основы-управлeния-в-профeссион-641
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260402-1130-основы-управлeния-в-профeссион-641
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6411 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\nАудитория: а.6112
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260402-1130-основы-управлeния-в-профeссион-641
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6412\nАудитория: а.6112
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260407-1400-основы-управлeния-в-профeссион-641
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6411 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260407-1400-основы-управлeния-в-профeссион-641
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260407-1600-основы-управлeния-в-профeссион-641
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6411 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\nАудитория: а.6242
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260407-1600-основы-управлeния-в-профeссион-641
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6412\nАудитория: а.6242
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260505-1400-основы-управлeния-в-профeссион-641
+ 1@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6411 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\nАудитория: а.6245
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-pischikova-m-v-20260505-1400-основы-управлeния-в-профeссион-641
+ 2@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6412\nАудитория: а.6245
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

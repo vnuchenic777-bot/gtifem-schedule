@@ -1,0 +1,1685 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Ковшура Т.Е (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Ковшура Т.Е, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250901-0930-физичeская-культура-лeкция-6591@gtif
+ em.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Физическая культура Лекция · гр. 6591 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250901-1130-физичeская-культура-лeкция-6591@gtif
+ em.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Физическая культура Лекция · гр. 6591 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250901-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250902-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250903-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250904-0930-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Физическая культура практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250904-1130-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20250905-1130-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-0930-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-0930-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-1130-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-1130-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-1400-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-1400-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-1400-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251001-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251002-0930-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251002-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251002-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251002-1130-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251002-1400-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251003-0930-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251003-1130-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251003-1130-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-0930-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-0930-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1130-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1400-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1400-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1600-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1600-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251006-1600-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Физическая культура практическое занятие (перенос с 17.10.2025) · г
+ р. 6491 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251007-0930-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251007-0930-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251007-1130-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251007-1400-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251007-1400-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251007-1600-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251101-0930-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251101-1130-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251101-1130-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251101-1400-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251101-1400-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251101-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251101-1600-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251103-1400-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T140000
+DTEND;TZID=Europe/Moscow:20251103T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251103-1400-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T140000
+DTEND;TZID=Europe/Moscow:20251103T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251104-1130-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T113000
+DTEND;TZID=Europe/Moscow:20251104T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251104-1130-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T113000
+DTEND;TZID=Europe/Moscow:20251104T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251105-1130-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251105-1130-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251105-1600-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251106-1400-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251106-1400-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251106-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251201-1400-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6511 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251201-1400-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6512 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251201-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251202-1130-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251202-1130-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251203-1130-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6511 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251203-1130-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6512 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251203-1130-элeктивныe-курсы-по-физичeской-6411@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6411
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251203-1130-элeктивныe-курсы-по-физичeской-6412@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6412\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251204-0930-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251204-1130-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6511 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251204-1130-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6512 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251205-0930-физичeская-культура-практичeск-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Физическая культура Практическое занятие · гр. 6591 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6591\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251205-1400-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251205-1400-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251205-1400-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6511 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251205-1400-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Физическая культура и спорт практическое занятие · гр. 6512 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6512\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251205-1600-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20251206-1400-физичeская-культура-практичeск-6491@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251206T140000
+DTEND;TZID=Europe/Moscow:20251206T154000
+SUMMARY:Физическая культура практическое занятие · гр. 6491 · каф.физ.воспи
+ тания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6491\nАудитория: каф.физ.воспитания
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260112-1400-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.в.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260112-1400-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.в.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260113-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260113-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260114-1400-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Каф.физ.воспит.
+LOCATION:а.Каф.физ.воспит.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физ.воспит.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260114-1400-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Каф.физ.воспит.
+LOCATION:а.Каф.физ.воспит.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физ.воспит.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260202-0930-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260202-0930-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260203-1400-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260203-1400-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260203-1600-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260203-1600-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260204-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260204-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260205-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260205-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260205-1600-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260205-1600-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260205-1600-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260205-1600-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260302-0930-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260302-0930-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260303-1400-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260303-1400-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260303-1600-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260303-1600-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260304-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260304-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260305-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260305-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260305-1600-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260305-1600-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260305-1600-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260305-1600-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260402-0930-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260402-0930-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260402-0930-физичeская-культура-пр-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Физическая культура (пр) · гр. 6591 · а.каф. физ. воспитан
+LOCATION:а.каф. физ. воспитан
+DESCRIPTION:Группа: 6591\nАудитория: а.каф. физ. воспитан
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260402-1600-физичeская-культура-пр-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Физическая культура (пр) · гр. 6591 · а.Кафедра физ.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6591\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260403-1400-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260403-1400-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260403-1600-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T160000
+DTEND;TZID=Europe/Moscow:20260403T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260403-1600-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T160000
+DTEND;TZID=Europe/Moscow:20260403T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260404-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T113000
+DTEND;TZID=Europe/Moscow:20260404T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260404-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T113000
+DTEND;TZID=Europe/Moscow:20260404T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260405-1130-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T113000
+DTEND;TZID=Europe/Moscow:20260405T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260405-1130-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T113000
+DTEND;TZID=Europe/Moscow:20260405T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260405-1600-элeктивныe-курсы-по-физичeской-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6511 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260405-1600-элeктивныe-курсы-по-физичeской-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · гр. 6512 · 
+ а.Кафедра физ.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260405-1600-физичeская-культура-и-спорт-пр-6511@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6511 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260405-1600-физичeская-культура-и-спорт-пр-6512@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Физическая культура и спорт (пр) · гр. 6512 · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6512\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260406-1400-физичeская-культура-пр-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Физическая культура (пр) · гр. 6591 · а.Каф.физич.воспит.
+LOCATION:а.Каф.физич.воспит.
+DESCRIPTION:Группа: 6591\nАудитория: а.Каф.физич.воспит.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260504-0930-физичeская-культура-пр-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T093000
+DTEND;TZID=Europe/Moscow:20260504T111000
+SUMMARY:Физическая культура (пр) · гр. 6591 · а.Кафедра физ.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6591\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kovshura-t-e-20260505-1400-физичeская-культура-пр-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Физическая культура (пр) · гр. 6591 · а.каф. физ. воспитан
+LOCATION:а.каф. физ. воспитан
+DESCRIPTION:Группа: 6591\nАудитория: а.каф. физ. воспитан
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

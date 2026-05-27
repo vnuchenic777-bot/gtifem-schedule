@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Барышникова Е.И (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Барышникова Е.И, ФЭМ СПбГТИ (ТУ
+ )
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20250905-1400-основы-российской-государствeн-6
+ 511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20250905-1400-основы-российской-государствeн-6
+ 512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20250905-1600-основы-российской-государствeн-6
+ 511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Основы российской государственности лекция · гр. 6511 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20250905-1600-основы-российской-государствeн-6
+ 512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Основы российской государственности лекция · гр. 6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20251003-1130-основы-российской-государствeн-6
+ 511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20251003-1130-основы-российской-государствeн-6
+ 512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20251101-1400-основы-российской-государствeн-6
+ 511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Основы российской государственности лекция · гр. 6511 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20251101-1400-основы-российской-государствeн-6
+ 512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Основы российской государственности лекция · гр. 6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20251101-1600-основы-российской-государствeн-6
+ 511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-baryshnikova-e-i-20251101-1600-основы-российской-государствeн-6
+ 512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6512
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

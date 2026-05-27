@@ -1,0 +1,357 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Кармановская Т.В (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Кармановская Т.В, ФЭМ СПбГТИ (Т
+ У)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260114-1400-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\nАудитория: а.6240
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260114-1400-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6512\nАудитория: а.6240
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260114-1600-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260114-1600-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260115-0930-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\nАудитория: а.6373
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260115-0930-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6512\nАудитория: а.6373
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260202-1400-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\nАудитория: а.6107
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260202-1400-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6512\nАудитория: а.6107
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260203-1130-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6511\nАудитория: а.6115
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260203-1130-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6512\nАудитория: а.6115
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260205-1600-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260205-1600-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260302-1400-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\nАудитория: а.6107
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260302-1400-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6512\nАудитория: а.6107
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260303-1130-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6511\nАудитория: а.6115
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260303-1130-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6512\nАудитория: а.6115
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260305-1600-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260305-1600-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260402-1400-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\nАудитория: а.6107
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260402-1400-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6512\nАудитория: а.6107
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260403-1130-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6511\nАудитория: а.6115
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260403-1130-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6512\nАудитория: а.6115
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260405-1600-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260405-1600-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260506-1400-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\nАудитория: а.6382
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260506-1400-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6512\nАудитория: а.6382
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260506-1600-бeзопасность-жизнeдeятeльности-
+ 6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\nАудитория: а.6382
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-karmanovskaya-t-v-20260506-1600-бeзопасность-жизнeдeятeльности-
+ 6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6512\nАудитория: а.6382
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

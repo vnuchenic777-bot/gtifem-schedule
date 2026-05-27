@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Коломиец Г.Г (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Коломиец Г.Г, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1400-философия-лeкция-6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Философия лекция · гр. 6511 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6511\nАудитория: а.106
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1400-философия-лeкция-6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Философия лекция · гр. 6512 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6512\nАудитория: а.106
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1400-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\nАудитория: а.414
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1400-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6512\nАудитория: а.414
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1600-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6511\nАудитория: а.106
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1600-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6512\nАудитория: а.106
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1600-философия-лeкция-6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Философия лекция · гр. 6511 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\nАудитория: а.414
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250902-1600-философия-лeкция-6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Философия лекция · гр. 6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6512\nАудитория: а.414
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250904-1400-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250904-1400-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250904-1600-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250904-1600-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250905-0930-философия-лeкция-6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Философия лекция · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250905-0930-философия-лeкция-6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Философия лекция · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250905-1130-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20250905-1130-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-0930-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-0930-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-1130-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-1130-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-1400-философия-лeкция-6511@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Философия лекция · гр. 6511 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-1400-философия-лeкция-6512@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Философия лекция · гр. 6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-1600-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251003-1600-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251106-0930-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251106-0930-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251106-1130-философия-практичeскоe-занятиe-6511
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Философия практическое занятие · гр. 6511 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403
+CATEGORIES:Преподавание,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-kolomiets-g-g-20251106-1130-философия-практичeскоe-занятиe-6512
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Философия практическое занятие · гр. 6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403
+CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

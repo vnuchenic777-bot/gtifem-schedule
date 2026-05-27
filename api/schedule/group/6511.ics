@@ -1,0 +1,4917 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание группы 6511 (ФЭМ)
+X-WR-CALDESC:Учебное расписание группы 6511, факультет экономики и менеджме
+ нта СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:lesson-6511-20250901-0930-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: Овсянникова О. С.\; Сарамаха С. И.\; Черкасова А
+ . В.\nГруппа: 6511\nАудитория: ауд.каф.ин.яз.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-0930-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-0930-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Кузьмина С. А.\; Запрометова С. А.\nГруппа: 6511
+ \nАудитория: каф.физ.воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-0930-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Теория анализа и статистика практическое занятие · а.6248
+LOCATION:а.6248
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1130-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: Овсянникова О. С.\; Сарамаха С. И.\; Черкасова А
+ . В.\nГруппа: 6511\nАудитория: ауд.каф.ин.яз.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1130-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1130-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Основы российской государственности практическое занятие · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Васина О. В.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1130-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Теория анализа и статистика практическое занятие · а.6248
+LOCATION:а.6248
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Основы российской государственности практическое занятие · а.106
+LOCATION:а.106
+DESCRIPTION:Преподаватель: Пищикова М. В.\nГруппа: 6511\nАудитория: а.106
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1400-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:История России лекция · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Экономика практическое занятие · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а. 6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1600-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T160000
+DTEND;TZID=Europe/Moscow:20250901T174000
+SUMMARY:История России лекция · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250901-1600-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T160000
+DTEND;TZID=Europe/Moscow:20250901T174000
+SUMMARY:Экономика лекция · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а. 6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-0930-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Экономика лекция · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-0930-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Экономика лабораторный практикум · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1130-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Экономика практическое занятие · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Кузьмина С. А.\; Запрометова С. А.\nГруппа: 6511
+ \nАудитория: каф.физ.воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1130-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Экономика лабораторный практикум · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы российской государственности лекция · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: кафедра Социологии\; Васина О. В.\nГруппа: 6511\
+ nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1400-философия-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Философия лекция · а.106
+LOCATION:а.106
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.106
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Кузьмина С. А.\; Запрометова С. А.\nГруппа: 6511
+ \nАудитория: каф.физ.воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1400-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: Овсянникова О. С.\; Сарамаха С. И.\; Черкасова А
+ . В.\nГруппа: 6511\nАудитория: ауд.каф.ин.яз.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1400-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Философия практическое занятие · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1600-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы российской государственности практическое занятие · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Васина О. В.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1600-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Философия практическое занятие · а.106
+LOCATION:а.106
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.106
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1600-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: Овсянникова О. С.\; Сарамаха С. И.\; Черкасова А
+ . В.\nГруппа: 6511\nАудитория: ауд.каф.ин.яз.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250902-1600-философия-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Философия лекция · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-0930-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:История России лекция · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-0930-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:Экономика практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-1130-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:История России лекция · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-1130-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Экономика лекция · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Кузьмина С. А.\; Запрометова С. А.\nГруппа: 6511
+ \nАудитория: каф.физ.воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Основы российской государственности лекция · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Гонашвили А. С.\nГруппа: 6511\nАудитория: а.6107
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-1600-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы российской государственности практическое занятие · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Спиридонов Я. В.\nГруппа: 6511\nАудитория: а.610
+ 7
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250903-1600-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы российской государственности лекция · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Гонашвили А. С.\nГруппа: 6511\nАудитория: а.6107
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-0930-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: Овсянникова О. С.\; Сарамаха С. И.\; Черкасова А
+ . В.\nГруппа: 6511\nАудитория: ауд.каф.ин.яз.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-0930-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Экономика лекция · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-0930-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Экономика практическое занятие · а.6249
+LOCATION:а.6249
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6249
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1130-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: Овсянникова О. С.\; Сарамаха С. И.\; Черкасова А
+ . В.\nГруппа: 6511\nАудитория: ауд.каф.ин.яз.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Кузьмина С. А.\; Запрометова С. А.\nГруппа: 6511
+ \nАудитория: каф.физ.воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1130-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Экономика практическое занятие · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1130-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Экономика лабораторный практикум · а.6249
+LOCATION:а.6249
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6249
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Теория анализа и статистика лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1400-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Теория анализа и статистика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1400-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Философия практическое занятие · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1600-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Теория анализа и статистика лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1600-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Теория анализа и статистика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250904-1600-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Философия практическое занятие · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-0930-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:История России практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-0930-философия-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Философия лекция · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1130-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:История России практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1130-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Философия практическое занятие · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Кузьмина С. А.\; Запрометова С. А.\nГруппа: 6511
+ \nАудитория: каф.физ.воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Кузьмина С. А.\; Запрометова С. А.\nГруппа: 6511
+ \nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Основы российской государственности практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Барышникова Е. И.\nГруппа: 6511\nАудитория: а.40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1400-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Экономика лабораторный практикум · а.6376
+LOCATION:а.6376
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6376
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1600-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Основы российской государственности лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Барышникова Е. И.\nГруппа: 6511\nАудитория: а.40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20250905-1600-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Экономика практическое занятие · а.6376
+LOCATION:а.6376
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6376
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-0930-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-0930-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности практическое занятие · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Попов З. В.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-0930-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности лекция · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Попов З. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-0930-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1130-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1130-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Основы российской государственности практическое занятие · а.414
+LOCATION:а.414
+DESCRIPTION:Преподаватель: Спиридонов Я. В.\nГруппа: 6511\nАудитория: а.414
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1130-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Экономика лекция · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1400-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Безопасность жизнедеятельности лекция · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1400-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Экономика лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1600-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251001-1600-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-0930-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Основы российской государственности практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Попов З. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-0930-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Экономика лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-0930-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-0930-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:История России практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1130-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Основы российской государственности практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Пищикова М. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1130-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1130-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1130-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:История России практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Экономика практическое занятие · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1400-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Теория анализа и статистика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1400-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1600-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Экономика лекция · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1600-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Теория анализа и статистика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1600-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251002-1600-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Теория анализа и статистика лекция · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-0930-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Философия практическое занятие · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-0930-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Экономика практическое занятие · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-0930-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Экономика лабораторный практикум · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1130-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Философия практическое занятие · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1130-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Экономика практическое занятие · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1130-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Экономика лабораторный практикум · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1130-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы российской государственности практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Барышникова Е. И.\nГруппа: 6511\nАудитория: а.40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Теория анализа и статистика лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1400-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Теория анализа и статистика практическое занятие · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1400-философия-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Философия лекция · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1600-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Теория анализа и статистика лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1600-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Теория анализа и статистика практическое занятие · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251003-1600-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Философия практическое занятие · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-0930-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-0930-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:История России практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1130-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы российской государственности практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Пищикова М. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1130-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:История России практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Основы российской государственности лекция · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Пищикова М. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1400-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Экономика лекция · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1600-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251006-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-0930-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Безопасность жизнедеятельности лекция · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-0930-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:История России практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-0930-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:История России лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-0930-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Основы российской государственности практическое занятие · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Гонашвили А. С.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1130-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1130-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:История России практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1130-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:История России лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1130-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Основы российской государственности лекция · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Спиридонов Я. В.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Экономика практическое занятие · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Теория анализа и статистика лекция · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1600-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Экономика лекция · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251007-1600-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Теория анализа и статистика лекция · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-0930-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Теория анализа и статистика лекция · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-0930-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Безопасность жизнедеятельности лекция · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-0930-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Экономика лекция · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-1130-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Теория анализа и статистика практическое занятие · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-1130-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · а.408
+LOCATION:а.408
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.408
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-1130-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Экономика практическое занятие · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Основы российской государственности лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Барышникова Е. И.\nГруппа: 6511\nАудитория: а.40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-1400-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Экономика Курсовая работа · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-1600-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Основы российской государственности практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Барышникова Е. И.\nГруппа: 6511\nАудитория: а.40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251101-1600-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Экономика лекция · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251103-0930-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T093000
+DTEND;TZID=Europe/Moscow:20251103T111000
+SUMMARY:История России лекция · а.405
+LOCATION:а.405
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.405
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251103-1130-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T113000
+DTEND;TZID=Europe/Moscow:20251103T131000
+SUMMARY:История России лекция · а.405
+LOCATION:а.405
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.405
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251103-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T140000
+DTEND;TZID=Europe/Moscow:20251103T154000
+SUMMARY:Экономика практическое занятие ИНДИГО · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251103-1400-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T140000
+DTEND;TZID=Europe/Moscow:20251103T154000
+SUMMARY:Экономика лабораторный практикум · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251103-1600-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T160000
+DTEND;TZID=Europe/Moscow:20251103T174000
+SUMMARY:Экономика лекция · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6107
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251103-1600-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T160000
+DTEND;TZID=Europe/Moscow:20251103T174000
+SUMMARY:Экономика практическое занятие · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251104-0930-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T093000
+DTEND;TZID=Europe/Moscow:20251104T111000
+SUMMARY:Теория анализа и статистика лекция · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251104-0930-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T093000
+DTEND;TZID=Europe/Moscow:20251104T111000
+SUMMARY:Теория анализа и статистика практическое занятие · а.6242
+LOCATION:а.6242
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6242
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251104-0930-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T093000
+DTEND;TZID=Europe/Moscow:20251104T111000
+SUMMARY:Экономика практическое занятие ИНДИГО · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251104-1130-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T113000
+DTEND;TZID=Europe/Moscow:20251104T131000
+SUMMARY:Теория анализа и статистика практическое занятие · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251104-1130-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T113000
+DTEND;TZID=Europe/Moscow:20251104T131000
+SUMMARY:Экономика лекция · а.6248
+LOCATION:а.6248
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251104-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T140000
+DTEND;TZID=Europe/Moscow:20251104T154000
+SUMMARY:Экономика практическое занятие · а.6248
+LOCATION:а.6248
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251104-1600-экономика-лабораторный-практик@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251104T160000
+DTEND;TZID=Europe/Moscow:20251104T174000
+SUMMARY:Экономика лабораторный практикум · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-0930-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-0930-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Безопасность жизнедеятельности лекция · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-1130-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-1130-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-1400-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Теория анализа и статистика практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Основы российской государственности практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Гонашвили А. С.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-1600-тeория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Теория анализа и статистика практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251105-1600-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Основы российской государственности практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Гонашвили А. С.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-0930-философия-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Философия лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Мерзенина А. С.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-0930-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:История России практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-0930-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Философия практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1130-философия-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Философия лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Мерзенина А. С.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1130-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:История России практическое занятие · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1130-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Философия практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Коломиец Г. Г.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1400-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Основы российской государственности практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Попов З. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Экономика практическое занятие · а.6115
+LOCATION:а.6115
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6115
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1600-основы-российской-государствeн@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Основы российской государственности практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Попов З. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251106-1600-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Экономика практическое занятие · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-0930-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Экономика практическое занятие · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-0930-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:История России практическое занятие · а. 106
+LOCATION:а. 106
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а. 10
+ 6
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-0930-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:История России лекция · а. 403
+LOCATION:а. 403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а. 40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-0930-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Теория анализа и статистика Лабораторная работа · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6249
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1130-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Экономика Курсовая работа · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1130-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:История России практическое занятие · а. 106
+LOCATION:а. 106
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а. 10
+ 6
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1130-история-россии-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:История России лекция · а. 403
+LOCATION:а. 403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а. 40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Теория анализа и статистика Лабораторная работа · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6249
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1400-основы-права-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Основы права лекция · а. 406
+LOCATION:а. 406
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а. 406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1400-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Физическая культура и спорт практическое занятие · каф.физ.воспитан
+ ия
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1400-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1600-основы-права-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Основы права лекция · а. 406
+LOCATION:а. 406
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а. 406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251201-1600-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Экономика практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-0930-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:История России практическое занятие · а. 403
+LOCATION:а. 403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а. 40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-0930-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Философия практическое занятие · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Мерзенина А. С.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-0930-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Экономика практическое занятие · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-1130-история-россии-практичeскоe-за@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:История России практическое занятие · а. 403
+LOCATION:а. 403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а. 40
+ 3
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-1130-философия-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Философия Лекция · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Мерзенина А. С.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-1130-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Экономика лекция · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Теория анализа и статистика Лабораторная работа · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-1400-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-1600-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Теория анализа и статистика Лабораторная работа · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251202-1600-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-0930-выходной-дeнь@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T093000
+DTEND;TZID=Europe/Moscow:20251203T111000
+SUMMARY:Выходной день · Новый год
+LOCATION:Новый год
+DESCRIPTION:Группа: 6511\nАудитория: Новый год
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1130-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Физическая культура и спорт практическое занятие · каф.физ.воспитан
+ ия
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Теория анализа и статистика лекция · а. 409
+LOCATION:а. 409
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1400-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Экономика Курсовая работа · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1400-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1600-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Теория анализа и статистика лекция · а. 409
+LOCATION:а. 409
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1600-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Экономика практическое занятие · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1600-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251203-1600-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Экономика лекция · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а. 6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-0930-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-1130-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Физическая культура и спорт практическое занятие · каф.физ.воспитан
+ ия
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-1130-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-1400-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Теория анализа и статистика Лабораторная работа · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Теория анализа и статистика лекция · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-1600-иностранный-язык-практичeскоe-@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Иностранный язык практическое занятие · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Преподаватель: каф.ин яз\nГруппа: 6511\nАудитория: ауд.каф.ин.я
+ з.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251204-1600-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Теория анализа и статистика Лабораторная работа · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а. 6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-0930-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Безопасность жизнедеятельности лекция · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а. 6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-0930-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Экономика Курсовая работа · а.405
+LOCATION:а.405
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.405
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-0930-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Экономика лекция · а.6382
+LOCATION:а.6382
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6382
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-0930-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Философия практическое занятие · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Мерзенина А. С.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-1130-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Преподаватель: Давудов М. Г.\nГруппа: 6511\nАудитория: а. 6248
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-1130-экономика-лeкция@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Экономика лекция · а.405
+LOCATION:а.405
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.405
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-1130-экономика-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Экономика практическое занятие · а.6382
+LOCATION:а.6382
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6382
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-1130-философия-практичeскоe-занятиe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Философия практическое занятие · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Мерзенина А. С.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20251205-1400-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Физическая культура и спорт практическое занятие · каф.физ.воспитан
+ ия
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: каф.физ.
+ воспитания
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260112-0930-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Теория анализа и статистика (лек) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260112-0930-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260112-1130-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Теория анализа и статистика (лек) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260112-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260112-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.в.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260112-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Экономика (пр) · а.6382
+LOCATION:а.6382
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6382
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260112-1600-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Экономика (лек) · а.6382
+LOCATION:а.6382
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6382
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260113-0930-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T093000
+DTEND;TZID=Europe/Moscow:20260113T111000
+SUMMARY:Экономика (пр) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260113-0930-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T093000
+DTEND;TZID=Europe/Moscow:20260113T111000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260113-1130-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Философия (пр) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260113-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260113-1130-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260113-1400-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Основы права (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260114-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
+ оспит.
+LOCATION:а.Каф.физ.воспит.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ з.воспит.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260114-1400-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260114-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Экономика (Курс.работа) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260114-1600-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.1
+ 01
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260115-0930-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Основы права (пр) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260115-0930-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260115-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260115-1130-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Экономика (лек) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260115-1130-основы-права-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Основы права (лек) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260115-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260115-1400-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-0930-философия-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Философия (лек) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-1130-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Экономика (лек) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-1400-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-1400-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Философия (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Экономика (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T160000
+DTEND;TZID=Europe/Moscow:20260116T174000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260116-1600-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260116T160000
+DTEND;TZID=Europe/Moscow:20260116T174000
+SUMMARY:Экономика (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-0930-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:История России (лек) · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-0930-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-1130-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:История России (лек) · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-1130-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Теория анализа и статистика (лек) · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-1400-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-1400-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 107
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-1600-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260202-1600-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Философия (пр) · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-0930-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-1130-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.6115
+LOCATION:а.6115
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 115
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-1130-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-1400-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260203-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1130-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1400-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Экономика (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1400-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1600-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Философия (пр) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1600-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Экономика (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260204-1600-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-0930-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T093000
+DTEND;TZID=Europe/Moscow:20260205T111000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1130-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Экономика (Курс.работа) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Теория анализа и статистика (лек) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1400-экономика-лаб@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Экономика (лаб) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1600-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.1
+ 01
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260205-1600-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-0930-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-1130-философия-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Философия (лек) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-1400-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Основы права (пр) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260206-1600-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Основы права (пр) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-0930-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:История России (лек) · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-0930-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-1130-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:История России (лек) · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-1130-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:Теория анализа и статистика (лек) · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-1400-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-1400-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 107
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-1600-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T160000
+DTEND;TZID=Europe/Moscow:20260302T174000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260302-1600-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260302T160000
+DTEND;TZID=Europe/Moscow:20260302T174000
+SUMMARY:Философия (пр) · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-0930-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-1130-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.6115
+LOCATION:а.6115
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 115
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-1130-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-1400-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260303-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1130-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1400-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:Экономика (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1400-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1600-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:Философия (пр) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1600-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:Экономика (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260304-1600-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-0930-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T093000
+DTEND;TZID=Europe/Moscow:20260305T111000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1130-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Экономика (Курс.работа) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Теория анализа и статистика (лек) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1400-экономика-лаб@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Экономика (лаб) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1600-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.1
+ 01
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260305-1600-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-0930-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-1130-философия-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Философия (лек) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-1400-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Основы права (пр) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260306-1600-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Основы права (пр) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-0930-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:История России (лек) · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-0930-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-1130-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:История России (лек) · а.403
+LOCATION:а.403
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.403
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-1130-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Теория анализа и статистика (лек) · а.409
+LOCATION:а.409
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.409
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-1400-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-1400-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 107
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-1600-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностранного я
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260402-1600-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Философия (пр) · а.406
+LOCATION:а.406
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.406
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-0930-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-1130-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.6115
+LOCATION:а.6115
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 115
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-1130-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-1400-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T160000
+DTEND;TZID=Europe/Moscow:20260403T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260403-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260403T160000
+DTEND;TZID=Europe/Moscow:20260403T174000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1130-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T113000
+DTEND;TZID=Europe/Moscow:20260404T131000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T113000
+DTEND;TZID=Europe/Moscow:20260404T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1400-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T140000
+DTEND;TZID=Europe/Moscow:20260404T154000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T140000
+DTEND;TZID=Europe/Moscow:20260404T154000
+SUMMARY:Экономика (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1400-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T140000
+DTEND;TZID=Europe/Moscow:20260404T154000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1600-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T160000
+DTEND;TZID=Europe/Moscow:20260404T174000
+SUMMARY:Философия (пр) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1600-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T160000
+DTEND;TZID=Europe/Moscow:20260404T174000
+SUMMARY:Экономика (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1600-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T160000
+DTEND;TZID=Europe/Moscow:20260404T174000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260404-1600-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260404T160000
+DTEND;TZID=Europe/Moscow:20260404T174000
+SUMMARY:Экономика (лек) · а.6373
+LOCATION:а.6373
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6373
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-0930-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T093000
+DTEND;TZID=Europe/Moscow:20260405T111000
+SUMMARY:Экономика (Курс.работа) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T113000
+DTEND;TZID=Europe/Moscow:20260405T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1130-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T113000
+DTEND;TZID=Europe/Moscow:20260405T131000
+SUMMARY:Экономика (Курс.работа) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T140000
+DTEND;TZID=Europe/Moscow:20260405T154000
+SUMMARY:Теория анализа и статистика (лек) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1400-экономика-лаб@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T140000
+DTEND;TZID=Europe/Moscow:20260405T154000
+SUMMARY:Экономика (лаб) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T140000
+DTEND;TZID=Europe/Moscow:20260405T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Кафедр
+ а физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1600-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.1
+ 01
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260405-1600-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260405T160000
+DTEND;TZID=Europe/Moscow:20260405T174000
+SUMMARY:Физическая культура и спорт (пр) · а.Каф.физич. восп.
+LOCATION:а.Каф.физич. восп.
+DESCRIPTION:Преподаватель: Ковшура Т. Е.\nГруппа: 6511\nАудитория: а.Каф.фи
+ зич. восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-0930-экономика-курс-работа@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T093000
+DTEND;TZID=Europe/Moscow:20260406T111000
+SUMMARY:Экономика (Курс.работа) · а.6116
+LOCATION:а.6116
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6116
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T093000
+DTEND;TZID=Europe/Moscow:20260406T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-1130-философия-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:Философия (лек) · а.401
+LOCATION:а.401
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.401
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6236
+LOCATION:а.6236
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6236
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-1400-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Основы права (пр) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260406-1600-основы-права-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Основы права (пр) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Гуркин Я. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-0930-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T093000
+DTEND;TZID=Europe/Moscow:20260504T111000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностр.языка
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-0930-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T093000
+DTEND;TZID=Europe/Moscow:20260504T111000
+SUMMARY:Физическая культура и спорт (пр) · а.каф. физ. воспитан
+LOCATION:а.каф. физ. воспитан
+DESCRIPTION:Группа: 6511\nАудитория: а.каф. физ. воспитан
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-0930-экономика-лаб@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T093000
+DTEND;TZID=Europe/Moscow:20260504T111000
+SUMMARY:Экономика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1130-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностр.языка
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1130-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:Экономика (пр) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1130-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:Теория анализа и статистика (лек) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1130-экономика-лаб@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:Экономика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:Экономика (пр) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:Теория анализа и статистика (лек) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1400-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:Экономика (лек) · а.6107
+LOCATION:а.6107
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6107
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260504-1600-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260504T160000
+DTEND;TZID=Europe/Moscow:20260504T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
+  воспитан
+LOCATION:а.каф. физ. воспитан
+DESCRIPTION:Группа: 6511\nАудитория: а.каф. физ. воспитан
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-0930-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T093000
+DTEND;TZID=Europe/Moscow:20260505T111000
+SUMMARY:Экономика (пр) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-0930-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T093000
+DTEND;TZID=Europe/Moscow:20260505T111000
+SUMMARY:Философия (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1130-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
+ осп.
+LOCATION:а.Каф.физ.восп.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физ.восп.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1130-экономика-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Экономика (лек) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1130-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Философия (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1400-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1400-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Философия (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1400-тeория-анализа-и-статистика-лe@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Теория анализа и статистика (лек) · а.6381
+LOCATION:а.6381
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6381
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1600-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T160000
+DTEND;TZID=Europe/Moscow:20260505T174000
+SUMMARY:Теория анализа и статистика (лаб) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260505-1600-философия-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260505T160000
+DTEND;TZID=Europe/Moscow:20260505T174000
+SUMMARY:Философия (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-0930-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностр.языка
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-0930-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:История России (лек) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-0930-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:Физическая культура и спорт (пр) · а.каф. физ. воспитан
+LOCATION:а.каф. физ. воспитан
+DESCRIPTION:Группа: 6511\nАудитория: а.каф. физ. воспитан
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1130-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностр.языка
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:История России (пр) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1130-история-россии-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:История России (лек) · а.411
+LOCATION:а.411
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.411
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1130-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Экономика (пр) · а.6117
+LOCATION:а.6117
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6117
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Экономика (пр) · а.6240
+LOCATION:а.6240
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6240
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1400-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · а.6382
+LOCATION:а.6382
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 382
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1600-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Экономика (пр) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260506-1600-бeзопасность-жизнeдeятeльности@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · а.6382
+LOCATION:а.6382
+DESCRIPTION:Преподаватель: Кармановская Т. В.\nГруппа: 6511\nАудитория: а.6
+ 382
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-0930-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Теория анализа и статистика (лаб) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-0930-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностр.языка
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-0930-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Экономика (пр) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Теория анализа и статистика (лаб) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1130-иностранный-язык-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Иностранный язык (пр) · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.иностр.языка
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1130-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Экономика (пр) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6511\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1400-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Экономика (пр) · а.6382
+LOCATION:а.6382
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6382
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1400-философия-лeк@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Философия (лек) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Семенюк К. А.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1400-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:История России (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1600-экономика-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T160000
+DTEND;TZID=Europe/Moscow:20260507T174000
+SUMMARY:Экономика (пр) · а.6378
+LOCATION:а.6378
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6378
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260507-1600-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260507T160000
+DTEND;TZID=Europe/Moscow:20260507T174000
+SUMMARY:История России (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-0930-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:История России (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-0930-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
+  воспитан
+LOCATION:а.каф. физ. воспитан
+DESCRIPTION:Группа: 6511\nАудитория: а.каф. физ. воспитан
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-0930-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:Теория анализа и статистика (лаб) · а.6249
+LOCATION:а.6249
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6249
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-1130-история-россии-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:История России (пр) · а.101
+LOCATION:а.101
+DESCRIPTION:Преподаватель: Ведерников В. В.\nГруппа: 6511\nАудитория: а.101
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-1130-экономика-лаб@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:Экономика (лаб) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-1130-тeория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:Теория анализа и статистика (лаб) · а.6249
+LOCATION:а.6249
+DESCRIPTION:Преподаватель: Воронов А. А.\nГруппа: 6511\nАудитория: а.6249
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-1400-физичeская-культура-и-спорт-пр@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:Физическая культура и спорт (пр) · а.каф. физ. воспитан
+LOCATION:а.каф. физ. воспитан
+DESCRIPTION:Группа: 6511\nАудитория: а.каф. физ. воспитан
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-1400-экономика-лаб@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:Экономика (лаб) · а.6245
+LOCATION:а.6245
+DESCRIPTION:Преподаватель: Крылова И. Ю.\nГруппа: 6511\nАудитория: а.6245
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lesson-6511-20260508-1400-элeктивныe-курсы-по-физичeской@gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
+ оспит.
+LOCATION:а.Каф.физ.воспит.
+DESCRIPTION:Группа: 6511\nАудитория: а.Каф.физ.воспит.
+CATEGORIES:Учёба,6511
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

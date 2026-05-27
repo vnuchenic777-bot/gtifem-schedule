@@ -1,0 +1,320 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Гостенков П.А (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Гостенков П.А, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20250902-0930-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:История России Лекция · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20250902-1130-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:История России Лекция · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20250903-0930-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:История России Лекция · гр. 6591 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6591\nАудитория: а.401
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20250903-1130-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:История России Лекция · гр. 6591 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6591\nАудитория: а.401
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20250904-0930-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:История России Лекция · гр. 6591 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6591\nАудитория: а.401
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20250904-1130-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:История России Лекция · гр. 6591 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6591\nАудитория: а.401
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251001-0930-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:История России Лекция · гр. 6591 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6591\nАудитория: а.106
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251001-1130-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:История России Лекция · гр. 6591 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6591\nАудитория: а.106
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251001-1400-история-россии-практичeскоe-за-6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:История России Практическое занятие · гр. 6591 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6591\nАудитория: а.403
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251001-1600-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:История России Лекция · гр. 6591 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6591\nАудитория: а.403
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251006-1400-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251006-1600-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251006-1600-история-россии-практичeскоe-за-6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:История России Практическое занятие · гр. 6591 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6591\nАудитория: а.411
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251101-1400-история-россии-практичeскоe-за-6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:История России Практическое занятие · гр. 6591 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6591\nАудитория: а.411
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251101-1600-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:История России Лекция · гр. 6591 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6591\nАудитория: а.411
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251103-0930-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T093000
+DTEND;TZID=Europe/Moscow:20251103T111000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251103-1130-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251103T113000
+DTEND;TZID=Europe/Moscow:20251103T131000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251105-0930-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251105-1130-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251106-1400-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251106-1600-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:История России Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251201-0930-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:История России Лекция · гр. 6591 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6591\nАудитория: а.406
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251201-1130-история-россии-лeкция-6591@gtifem.r
+ u
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:История России Лекция · гр. 6591 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6591\nАудитория: а.406
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251203-0930-история-россии-консультация-6591@gt
+ ifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251203T093000
+DTEND;TZID=Europe/Moscow:20251203T111000
+SUMMARY:История России Консультация · гр. 6591 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6591\nАудитория: а.406
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-gostenkov-p-a-20251204-1130-история-россии-экзамeн-6591@gtifem.
+ ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:История России Экзамен · гр. 6591 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6591\nАудитория: а.6382
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

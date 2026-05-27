@@ -1,0 +1,211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание преподавателя Сивакова Ю.С (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Сивакова Ю.С, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20250901-0930-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Основы финансовой грамотности Практическое занятие · гр. 6591 · а.4
+ 05
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20250901-1130-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Основы финансовой грамотности Практическое занятие · гр. 6591 · а.4
+ 05
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20250902-1400-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы финансовой грамотности Лекция · гр. 6591 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20250902-1600-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы финансовой грамотности Практическое занятие · гр. 6591 · а.6
+ 378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20250905-0930-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Основы финансовой грамотности Лекция · гр. 6591 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 6591\nАудитория: а. 6245
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20250905-1130-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Основы финансовой грамотности Лекция · гр. 6591 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 6591\nАудитория: а. 6245
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251003-1130-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы финансовой грамотности Лабораторное занятие · гр. 6591 · а.6
+ 245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6591\nАудитория: а.6245
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251101-1400-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Основы финансовой грамотности Практическое занятие · гр. 6591 · а.6
+ 236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251101-1600-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Основы финансовой грамотности Практическое занятие · гр. 6591 · а.6
+ 236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251106-1400-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Основы финансовой грамотности Лекция (перенос с 24.10.2025) · гр. 6
+ 591 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6591\nАудитория: а.403
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251106-1600-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Основы финансовой грамотности Практическое занятие (перенос с 24.10
+ .2025) · гр. 6591 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6591\nАудитория: а.403
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251204-1130-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Основы финансовой грамотности Практическое занятие Промежуточная ат
+ тестация (Зачет с оценкой) · гр. 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251204-1400-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Основы финансовой грамотности Лабораторное занятие · гр. 6591 · а.6
+ 242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251204-1600-основы-финансовой-грамотности--6591
+ @gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Основы финансовой грамотности Лабораторное занятие · гр. 6591 · а.6
+ 242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-sivakova-yu-s-20251205-1400-основы-финансовой-грамотности-6591@
+ gtifem.ru
+DTSTAMP:20260526T153747Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Основы финансовой грамотности · гр. 6591 · а.6369
+LOCATION:а.6369
+DESCRIPTION:Группа: 6591\nАудитория: а.6369
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
