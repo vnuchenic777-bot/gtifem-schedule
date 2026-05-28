@@ -1,0 +1,3085 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Безукладова Е. Ю. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Безукладова Е. Ю., ФЭМ СПбГТИ (
+ ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250904-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6211\nАудитория: а.6376\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6212\nАудитория: а.6376\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6211\nАудитория: а.6376\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6212\nАудитория: а.6376\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6211\nАудитория: а.6236\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6212\nАудитория: а.6236\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6211\nАудитория: а.6236\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6212\nАудитория: а.6236\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №6\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №6\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №8\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №8\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №6\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №6\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6211\nАудитория: а.6117\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6212\nАудитория: а.6117\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6211\nАудитория: а.6117\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6212\nАудитория: а.6117\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №1\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №2\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №3\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6211\nАудитория: а.6236\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6212\nАудитория: а.6236\nПара №4\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №5\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №6\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №6\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №6\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №6\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №8\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №8\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №7\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №8\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №8\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №16\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №16\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №8\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №8\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6211\nАудитория: а.6382\nПара №17\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6212\nАудитория: а.6382\nПара №17\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6211\nАудитория: а.6382\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6212\nАудитория: а.6382\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №16\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №16\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №17\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №17\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №18\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №18\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 6211\nАудитория: а. 6245\nПара №18\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 6212\nАудитория: а. 6245\nПара №18\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №19\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №19\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №19\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №19\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №20\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №20\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251125T140000
+DTEND;TZID=Europe/Moscow:20251125T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6211\nАудитория: а.6236\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251125T140000
+DTEND;TZID=Europe/Moscow:20251125T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6212\nАудитория: а.6236\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251125T160000
+DTEND;TZID=Europe/Moscow:20251125T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №20\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251125T160000
+DTEND;TZID=Europe/Moscow:20251125T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №20\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №21\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №21\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №21\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №21\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6211\nАудитория: а.6115\nПара №22\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6212\nАудитория: а.6115\nПара №22\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПара №22\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПара №22\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПара №9\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
+  6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Контроллинг и антикризисное управление КР · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №10\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №23\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №23\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №24\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №24\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №23\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №23\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №25\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №25\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №26\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №26\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №27\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №27\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №24\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №24\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6211\nАудитория: а.403\nПара №25\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6212\nАудитория: а.403\nПара №25\nПреподаватель: Безукл
+ адова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №29\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №29\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6211\nАудитория: а.6382\nПара №30\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6212\nАудитория: а.6382\nПара №30\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 211 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6211\nАудитория: а. 6378\nПара №26\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
+ 212 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6212\nАудитория: а. 6378\nПара №26\nПреподаватель: Безу
+ кладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №31\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №31\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №27\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №27\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6211\nАудитория: а.6112\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6212\nАудитория: а.6112\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6211\nАудитория: а.6112\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6212 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6212\nАудитория: а.6112\nПара №11\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №32\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №32\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6211\nАудитория: а.6116\nПара №28\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6212\nАудитория: а.6116\nПара №28\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6211\nАудитория: а.6116\nПара №16\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6212\nАудитория: а.6116\nПара №16\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211 · а
+ .6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6211\nАудитория: а.6116\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6212 · а
+ .6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6212\nАудитория: а.6116\nПара №12\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №33\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №33\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №29\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №29\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T140000
+DTEND;TZID=Europe/Moscow:20260127T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6211\nАудитория: а.6381\nПара №30\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T140000
+DTEND;TZID=Europe/Moscow:20260127T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6212\nАудитория: а.6381\nПара №30\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T160000
+DTEND;TZID=Europe/Moscow:20260127T174000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №17\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T160000
+DTEND;TZID=Europe/Moscow:20260127T174000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №17\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211 · а
+ .6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6212 · а
+ .6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №13\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №31\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №31\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №32\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №32\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6211\nАудитория: а.6382\nПара №34\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6212\nАудитория: а.6382\nПара №34\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6211\nАудитория: а.6382\nПара №35\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6212\nАудитория: а.6382\nПара №35\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №18\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №18\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №19\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №19\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №36\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №36\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №37\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №37\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №38\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №38\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №33\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №33\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6211\nАудитория: а.6382\nПара №34\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6212\nАудитория: а.6382\nПара №34\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6211\nАудитория: а.6107\nПара №39\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6212\nАудитория: а.6107\nПара №39\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №35\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №35\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6211\nАудитория: а.6381\nПара №36\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6212\nАудитория: а.6381\nПара №36\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6211\nАудитория: а.6382\nПара №40\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6212\nАудитория: а.6382\nПара №40\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №20\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №20\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №21\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №21\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №22\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №22\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №23\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №23\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №24\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №24\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №41\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №41\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №37\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №37\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №42\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №42\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №38\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №38\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №39\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №39\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №40\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №40\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211 · а
+ .6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6212 · а
+ .6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №14\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №41\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №41\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1600-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211 · а
+ .6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1600-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6212 · а
+ .6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №15\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T093000
+DTEND;TZID=Europe/Moscow:20260316T111000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211 · а
+ .6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №16\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T093000
+DTEND;TZID=Europe/Moscow:20260316T111000
+SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6212 · а
+ .6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №16\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1130-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6211\nАудитория: а.6115\nПара №42\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1130-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6212 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6212\nАудитория: а.6115\nПара №42\nПреподаватель: Безук
+ ладова Е. Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-0930-6211-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260327T093000
+DTEND;TZID=Europe/Moscow:20260327T111000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 6211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПреподаватель: Безукладова Е. 
+ Ю.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-0930-6212-контроллинг-и-антикризисное-уп@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260327T093000
+DTEND;TZID=Europe/Moscow:20260327T111000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 6212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПреподаватель: Безукладова Е. 
+ Ю.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

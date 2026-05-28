@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Гогуа Л.С (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Гогуа Л.С, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Гогуа Л. С. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Гогуа Л. С., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -18,469 +18,851 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20250903-0930-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20250903-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250903T093000
 DTEND;TZID=Europe/Moscow:20250903T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
- екция · гр. 6491 · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6491\nАудитория: а. 6373
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20250903-1130-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20250903-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250903T113000
 DTEND;TZID=Europe/Moscow:20250903T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
- екция · гр. 6491 · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6491\nАудитория: а. 6373
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20250905-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20250905-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
  екция · гр. 6491
-DESCRIPTION:Группа: 6491
+DESCRIPTION:Группа: 6491\nПара №3\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251002-0930-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20250924-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
+ екция · гр. 6491 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6491\nАудитория: а. 6373\nПара №4\nПреподаватель: Гогуа
+  Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
+ екция · гр. 6491 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6491\nАудитория: а. 6373\nПара №5\nПреподаватель: Гогуа
+  Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251002T093000
 DTEND;TZID=Europe/Moscow:20251002T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251002-1130-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251002-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251002-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251002-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие (перенос с 17.10.2025) · гр. 6491 · 6236
-LOCATION:6236
-DESCRIPTION:Группа: 6491\nАудитория: 6236
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие · гр. 6491 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №3\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251104-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251023-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие · гр. 6491 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №4\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие (перенос с 17.10.2025) · гр. 6491 · 6236
+LOCATION:6236
+DESCRIPTION:Группа: 6491\nАудитория: 6236\nПара №1\nПреподаватель: Гогуа Л.
+  С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251104-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251104T140000
 DTEND;TZID=Europe/Moscow:20251104T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251104-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251104-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251104T160000
 DTEND;TZID=Europe/Moscow:20251104T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251106-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251106-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251106-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251106-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251106T160000
 DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
  рактическое занятие · гр. 6491 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №5\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251204-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251111-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №6\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №7\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №8\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №9\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
+ рактическое занятие · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №10\nПреподаватель: Гогуа
+  Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251204-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251204-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251206-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251206-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251206T140000
 DTEND;TZID=Europe/Moscow:20251206T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20251206-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251206-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251206T160000
 DTEND;TZID=Europe/Moscow:20251206T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260112-0930-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260112-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260112T093000
 DTEND;TZID=Europe/Moscow:20260112T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260113-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  лаб) · гр. 6491 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6491\nАудитория: а.6116
+DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №1\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260113-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20260113T140000
-DTEND;TZID=Europe/Moscow:20260113T154000
+UID:teacher-20260113-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260113-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260113T160000
 DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  лаб) · гр. 6491 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6491\nАудитория: а.6116
+DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №2\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260114-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T140000
 DTEND;TZID=Europe/Moscow:20260114T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260114-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T160000
 DTEND;TZID=Europe/Moscow:20260114T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260116-0930-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260116T093000
 DTEND;TZID=Europe/Moscow:20260116T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260116-1130-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260116T113000
 DTEND;TZID=Europe/Moscow:20260116T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260116-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  лаб) · гр. 6491 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №3\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260116-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260116T160000
+DTEND;TZID=Europe/Moscow:20260116T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260116T160000
 DTEND;TZID=Europe/Moscow:20260116T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  лек) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №1\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260202-1130-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260120-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №1\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ лек) · гр. 6491 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №2\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ лаб) · гр. 6491 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №4\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №2\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ лек) · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №3\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ лек) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №4\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T113000
 DTEND;TZID=Europe/Moscow:20260202T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260202-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260202-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T140000
 DTEND;TZID=Europe/Moscow:20260202T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260203-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260203-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260203T160000
 DTEND;TZID=Europe/Moscow:20260203T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  пр) · гр. 6491 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6491\nАудитория: а.6378
+DESCRIPTION:Группа: 6491\nАудитория: а.6378\nПара №3\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260204-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260204-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260204T140000
 DTEND;TZID=Europe/Moscow:20260204T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  лек) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №5\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260204-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260204-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
 DTEND;TZID=Europe/Moscow:20260204T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  пр) · гр. 6491 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6491\nАудитория: а.6378
+DESCRIPTION:Группа: 6491\nАудитория: а.6378\nПара №4\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260205-1400-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260205-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
 DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №6\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260304-1130-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260209-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №7\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6491\nАудитория: а.6240\nПара №8\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №9\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ лаб) · гр. 6491 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №5\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T160000
+DTEND;TZID=Europe/Moscow:20260227T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №10\nПреподаватель: Гогуа
+  Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260304T113000
 DTEND;TZID=Europe/Moscow:20260304T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  лаб) · гр. 6491 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №6\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260305-0930-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260305-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T093000
 DTEND;TZID=Europe/Moscow:20260305T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6491\nАудитория: а.6236
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260305-1130-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260305-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T113000
 DTEND;TZID=Europe/Moscow:20260305T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- Консультация) · гр. 6491 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260306-1600-мдк-03-01-организация-расчeтов-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260306T160000
 DTEND;TZID=Europe/Moscow:20260306T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
  лаб) · гр. 6491 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №7\nПреподаватель: Гогуа 
+ Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gogua-l-s-20260403-0930-пм-03-провeдeниe-расчeтов-с-бю-6491@gti
- fem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260312-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260312T093000
+DTEND;TZID=Europe/Moscow:20260312T111000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ пр) · гр. 6491 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6491\nАудитория: а.6236\nПара №11\nПреподаватель: Гогуа
+  Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260312T113000
+DTEND;TZID=Europe/Moscow:20260312T131000
+SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
+ Консультация) · гр. 6491 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-0930--пм-03-проведение-расчетов-с-бю@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260403T093000
 DTEND;TZID=Europe/Moscow:20260403T111000
 SUMMARY:ПМ.03 Проведение расчетов с бюджетом и внебюджетными фондами (экз) 
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-6491-пм-03-проведение-расчетов-с-бю@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:ПМ.03 Проведение расчетов с бюджетом и внебюджетными фондами (экз) 
  · гр. 6491 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT

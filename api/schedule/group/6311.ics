@@ -1,0 +1,4583 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Group Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание группы 6311 (ФЭМ)
+X-WR-CALDESC:Расписание учебной группы 6311, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:group-6311-20250901-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250902-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250903-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250904-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250905-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250908-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250909-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250910-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250911-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250912-0930-ознакомительная-практика@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Ознакомительная практика · практика
+LOCATION:практика
+DESCRIPTION:Группа: 6311\nАудитория: практика
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250915-0930-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6242
+ \nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250915-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а. 624
+ 2
+LOCATION:а. 6242
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6242
+ \nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250915-1400-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250915-1600-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250916-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.409\nП
+ ара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250916-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.409\nП
+ ара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250916-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nАудитория: каф.физ.воспитания\nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250917-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250917-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250917T160000
+DTEND;TZID=Europe/Moscow:20250917T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250918-0930-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6115
+ \nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250918-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а. 611
+ 5
+LOCATION:а. 6115
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6115
+ \nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250918-1400-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Организация и планирование лекция · Лебедева А. В. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6107\
+ nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250918-1600-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6107\
+ nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250919-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.411\nП
+ ара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250919-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.411\nП
+ ара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250919-1400-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Организация и планирование лекция · Лебедева А. В. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6240\
+ nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250919-1600-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6240\
+ nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250922-0930-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 8\nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250922-1130-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.62
+ 48
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 8\nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250922-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6242\n
+ Пара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250922-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6242\n
+ Пара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250923-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nАудитория: каф.физ.воспитания\nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250923-1400-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а. 637
+ 8
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6378
+ \nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250923-1600-экономический-анализ-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Экономический анализ лабораторный практикум · Сивакова Ю. С. · а. 6
+ 378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6378
+ \nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250924-0930-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а. 4
+ 06
+LOCATION:а. 406
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 40
+ 6\nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250924-1130-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а. 4
+ 06
+LOCATION:а. 406
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 40
+ 6\nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250924-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6236\n
+ Пара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250924-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6236\n
+ Пара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250925-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250925-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6382\n
+ Пара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250925-1400-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Организация и планирование практическое занятие · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6311\nАудитория: а.408\nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250925-1600-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:Организация и планирование лекция · Лебедева А. В. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.408\n
+ Пара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250926-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250926-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250929-0930-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 106\
+ nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250929-1130-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 106\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250929-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.408\nП
+ ара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250929-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.408\nП
+ ара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250930-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nАудитория: каф.физ.воспитания\nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250930-1400-экономический-анализ-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Экономический анализ лабораторный практикум · Сивакова Ю. С. · а.62
+ 49
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20250930-1600-экономический-анализ-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Экономический анализ лабораторный практикум · Сивакова Ю. С. · а.62
+ 49
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251001-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251001-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251001-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251002-0930-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6245\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251002-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6245\
+ nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251003-0930-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6249\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251003-1130-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6249\
+ nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251003-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.411\nП
+ ара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251003-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.411\nП
+ ара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251006-1400-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а. 6
+ 373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251006-1600-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251007-0930-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6240\
+ nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251007-1130-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6240\
+ nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251007-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.638
+ 1
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6381\n
+ Пара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251007-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251008-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251008-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.403\nП
+ ара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251009-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251009-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251009-1400-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251009-1600-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251010-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.406\nП
+ ара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251010-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.406\nП
+ ара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251013-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.624
+ 9
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6249\n
+ Пара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251013-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6249\n
+ Пара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251013-1400-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.62
+ 49
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 9\nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251013-1600-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.61
+ 15
+LOCATION:а.6115
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 5\nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251014-0930-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251014-1130-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6381\
+ nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251014-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а. 63
+ 73
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а. 6373\
+ nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251014-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а. 63
+ 73
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а. 6373\
+ nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251015-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а. 63
+ 73
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а. 6373\
+ nПара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251015-1400-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.638
+ 1\nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251015-1600-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.638
+ 1\nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251016-0930-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251016T093000
+DTEND;TZID=Europe/Moscow:20251016T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251016-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6236\
+ nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251016-1400-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6245\
+ nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251017-0930-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6245\
+ nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251017-1130-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Организация и планирование лекция · Лебедева А. В. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6373\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251017-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251017-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251020-0930-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251020-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251020-1400-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251020-1600-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251020T160000
+DTEND;TZID=Europe/Moscow:20251020T174000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251021-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251021-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251021-1400-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6382\
+ nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251021-1600-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6382\
+ nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251022-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251022-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251022T160000
+DTEND;TZID=Europe/Moscow:20251022T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251023-1130-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Экономика инвестиций практическое занятие (перенос с 16.10.2025) · 
+ а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nАудитория: а.6245\nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251023-1400-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251023-1600-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251024-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251024-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251024-1400-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.411\n
+ Пара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251024-1600-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Организация и планирование лекция · Лебедева А. В. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.411\n
+ Пара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251027-0930-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6248\
+ nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251027-1130-экономический-анализ-лекция-те@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Экономический анализ лекция тест Индиго · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251027-1400-экономика-инвестиций-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Экономика инвестиций лабораторный практикум · Гродинская А. Н. · а.
+ 6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 5\nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251027-1600-экономика-инвестиций-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Экономика инвестиций лабораторный практикум · Гродинская А. Н. · а.
+ 6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 5\nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251028-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.411\nП
+ ара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251028-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.411\nП
+ ара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251029-0930-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6245\
+ nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251029-1130-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6245\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251029-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251029-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251030-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251030-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.624
+ 8
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6248\n
+ Пара №19
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251031-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251031-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251101-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251101-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251101-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251105-0930-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251105-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251105-1400-экономика-инвестиций-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Экономика инвестиций лабораторный практикум · Гродинская А. Н. · а.
+ 6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 5\nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251105-1600-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 5\nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251106-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251106-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а. 63
+ 73
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а. 6373\
+ nПара №20
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251106-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а. 6248\
+ nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251107-0930-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251107-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251110-1400-экономика-инвестиций-кр@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Экономика инвестиций КР · Гродинская А. Н. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251110-1600-экономика-инвестиций-кр@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Экономика инвестиций КР · Гродинская А. Н. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251111-1400-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Организация и планирование лекция · Лебедева А. В. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6240\
+ nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251111-1600-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6240\
+ nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251112-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251112-1400-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251112-1600-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251113-0930-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6245\
+ nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251113-1130-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:Организация и планирование лекция · Лебедева А. В. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6240\
+ nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251114-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251114-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251114T160000
+DTEND;TZID=Europe/Moscow:20251114T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251117-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251117T093000
+DTEND;TZID=Europe/Moscow:20251117T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251117-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.610
+ 7
+LOCATION:а.6107
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6107\n
+ Пара №21
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251118-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251118-1400-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6115\
+ nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251118-1600-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6115\
+ nПара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251119-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251119-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251120-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251120-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251121-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251121-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.638
+ 2
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6382\n
+ Пара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251124-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251124-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251124-1400-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251124-1600-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251125-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251125-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251126-0930-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251126T093000
+DTEND;TZID=Europe/Moscow:20251126T111000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6249\
+ nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251126-1130-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6249\
+ nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251126-1400-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251126-1600-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 63
+ 73\nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251127-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251127-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №19
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251128-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №20
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251128-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251201-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251201-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.624
+ 0
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6240\n
+ Пара №23
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251202-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №21
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251202-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251202-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251203-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251203T093000
+DTEND;TZID=Europe/Moscow:20251203T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251203-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251204-0930-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6116\
+ nПара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251204-1130-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6116\
+ nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251204-1400-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а. 1
+ 01
+LOCATION:а. 101
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 10
+ 1\nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251204-1600-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а. 1
+ 01
+LOCATION:а. 101
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а. 10
+ 1\nПара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251205-0930-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251205-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251208-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251208-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251208-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251209-0930-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6376\
+ nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251209-1130-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6376\
+ nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251209-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.406\nП
+ ара №24
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251209-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.406\nП
+ ара №23
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251210-1400-экономика-инвестиций-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251210T140000
+DTEND;TZID=Europe/Moscow:20251210T154000
+SUMMARY:Экономика инвестиций лекция · Гродинская А. Н. · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.106
+ \nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251210-1600-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251210T160000
+DTEND;TZID=Europe/Moscow:20251210T174000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.10
+ 6
+LOCATION:а.106
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.106
+ \nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251211-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция (ауд) · Сиденко И. К. ·
+  а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6249\n
+ Пара №25
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251211-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6382\n
+ Пара №24
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251211-1400-экономика-инвестиций-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Экономика инвестиций лабораторный практикум (перенос с 23.12.2025) 
+ · Гродинская А. Н. · 6245
+LOCATION:6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: 6245\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251211-1600-экономика-инвестиций-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Экономика инвестиций лабораторный практикум (перенос с 23.12.2025) 
+ · Гродинская А. Н. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 5\nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251212-0930-экономический-анализ-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Экономический анализ лабораторная работа · Сивакова Ю. С. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6248\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251212-1130-экономический-анализ-лаборатор@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Экономический анализ лабораторная работа · Сивакова Ю. С. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6248\
+ nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251212-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251215-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №25
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251215-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251215-1400-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.63
+ 78
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.637
+ 8\nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251215-1600-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:Экономика инвестиций практическое занятие · Гродинская А. Н. · а.63
+ 78
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.637
+ 8\nПара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251216-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251216-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №19
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251216-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.624
+ 0
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6240\n
+ Пара №26
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251217-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251217T140000
+DTEND;TZID=Europe/Moscow:20251217T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · Сиденко
+  И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №26
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251217-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251217T160000
+DTEND;TZID=Europe/Moscow:20251217T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251218-0930-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251218T093000
+DTEND;TZID=Europe/Moscow:20251218T111000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6378\
+ nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251218-1130-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6378\
+ nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251219-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие (перенос с 29.12.2025) · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251219-1400-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а. 624
+ 5
+LOCATION:а. 6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6245
+ \nПара №19
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251219-1600-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а. 6373
+ \nПара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251222-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №20
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251222-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №21
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251223-0930-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6236\
+ nПара №20
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251223-1130-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6236\
+ nПара №21
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251224-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251224-1400-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Организация и планирование лабораторный практикум · Лебедева А. В. 
+ · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6381\
+ nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251224-1600-организация-и-планирование-пра@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Организация и планирование практическое занятие · Лебедева А. В. · 
+ а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117\
+ nПара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251225-0930-экономика-инвестиций-лекция-пе@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251225T093000
+DTEND;TZID=Europe/Moscow:20251225T111000
+SUMMARY:Экономика инвестиций лекция (перенос с 30.12.2025) · Гродинская А. 
+ Н. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 8\nПара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251225-1130-экономика-инвестиций-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:Экономика инвестиций практическое занятие (перенос с 30.12.2025) · 
+ Гродинская А. Н. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 9\nПара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251225-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · Сиденко И. К. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.403\nП
+ ара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251225-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · Сиденко И. К. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.403\nП
+ ара №27
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251226-0930-экономический-анализ-практичес@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:Экономический анализ практическое занятие · Сивакова Ю. С. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6236\
+ nПара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251226-1130-экономический-анализ-лекция@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Экономический анализ лекция · Сивакова Ю. С. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6240\
+ nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251226-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251229-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6249\n
+ Пара №19
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251229-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · Сиден
+ ко И. К. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6249\n
+ Пара №20
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20251231-0930-выходной-день@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251231T093000
+DTEND;TZID=Europe/Moscow:20251231T111000
+SUMMARY:Выходной день · Новый год
+LOCATION:Новый год
+DESCRIPTION:Группа: 6311\nАудитория: Новый год
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260114-0930-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T093000
+DTEND;TZID=Europe/Moscow:20260114T111000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №23
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260114-1130-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №24
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260114-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.409\nП
+ ара №28
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260114-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №21
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260115-0930-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.в.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260115-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6373\n
+ Пара №29
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260115-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6248\n
+ Пара №23
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260115-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №24
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260116-0930-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6382\
+ nПара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260116-1130-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.101\n
+ Пара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260116-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260119-1130-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117\
+ nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260119-1400-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6382\
+ nПара №19
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260119-1600-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260119T160000
+DTEND;TZID=Europe/Moscow:20260119T174000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №25
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260120-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T093000
+DTEND;TZID=Europe/Moscow:20260120T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6116\n
+ Пара №25
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260120-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6116\n
+ Пара №26
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260120-1400-экономический-анализ-лек-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Экономический анализ (лек) · Сивакова Ю. С. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6373\
+ nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260121-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260121-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №27
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260123-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6381\n
+ Пара №30
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260123-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.406\nП
+ ара №31
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260123-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260123T160000
+DTEND;TZID=Europe/Moscow:20260123T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6249\n
+ Пара №28
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260128-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T093000
+DTEND;TZID=Europe/Moscow:20260128T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6116\n
+ Пара №29
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260128-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T113000
+DTEND;TZID=Europe/Moscow:20260128T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6240\n
+ Пара №32
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260128-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
+ осп.
+LOCATION:а.Каф.физ.восп.
+DESCRIPTION:Группа: 6311\nАудитория: а.Каф.физ.восп.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260128-1600-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №1
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260130-0930-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6116\
+ nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260130-1130-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117\
+ nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260130-1400-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Организация и планирование (лек) · Лебедева А. В. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.406\n
+ Пара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260202-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №30
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260202-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6381\n
+ Пара №33
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260202-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №31
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260202-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №32
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260203-0930-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6117\
+ nПара №2
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260203-1130-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6376\
+ nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260203-1400-экономический-анализ-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Экономический анализ (лаб) · Сивакова Ю. С. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6245\
+ nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260203-1600-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.406\n
+ Пара №20
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260204-0930-экономический-анализ-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:Экономический анализ (лаб) · Сивакова Ю. С. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6236\
+ nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260204-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · Ковшура Т. 
+ Е. · а.Кафедра физ.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: а.Кафедр
+ а физ.в.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260206-0930-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6373\
+ nПара №21
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260206-1130-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Организация и планирование (лек) · Лебедева А. В. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6382\
+ nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260206-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · Ковшура Т. 
+ Е. · а.Кафедра физ.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6311\nПреподаватель: Ковшура Т. Е.\nАудитория: а.Кафедр
+ а физ.в.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260210-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260210-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №33
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260211-0930-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6117\
+ nПара №26
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260211-1130-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6107\
+ nПара №27
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260211-1400-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260211T140000
+DTEND;TZID=Europe/Moscow:20260211T154000
+SUMMARY:Организация и планирование (лек) · Лебедева А. В. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6382\
+ nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260211-1600-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6381\
+ nПара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260212-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6116\n
+ Пара №34
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260212-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6116\n
+ Пара №35
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260212-1400-экономический-анализ-лек-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Экономический анализ (лек) · Сивакова Ю. С. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6382\
+ nПара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260213-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №36
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260213-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.101\nП
+ ара №34
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260213-1400-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Организация и планирование (лек) · Лебедева А. В. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.101\n
+ Пара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260216-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №37
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260216-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №27
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260216-1400-экономика-инвестиций-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Экономика инвестиций (Курс.работа) · Гродинская А. Н. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.610
+ 7\nПара №3
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260216-1600-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117\
+ nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260217-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260217-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №23
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260217-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №38
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260217-1600-экономика-инвестиций-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Экономика инвестиций (Курс.работа) · Гродинская А. Н. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.637
+ 8\nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260218-0930-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6249\
+ nПара №4
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260218-1130-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6373\
+ nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260218-1400-экономический-анализ-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260218T140000
+DTEND;TZID=Europe/Moscow:20260218T154000
+SUMMARY:Экономический анализ (лаб) · Сивакова Ю. С. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6116\
+ nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260219-0930-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260219T093000
+DTEND;TZID=Europe/Moscow:20260219T111000
+SUMMARY:Организация и планирование (лек) · Лебедева А. В. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6378\
+ nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260219-1130-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6381\
+ nПара №23
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260219-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · Сиденко И. К. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6382\n
+ Пара №28
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260219-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №29
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260220-1130-экономика-инвестиций-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Экономика инвестиций (Курс.работа) · Гродинская А. Н. · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 2\nПара №5
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260220-1400-экономика-инвестиций-лек-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Экономика инвестиций (лек) · Гродинская А. Н. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.411
+ \nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260220-1600-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117\
+ nПара №13
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260303-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №24
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260303-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №25
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260303-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260304-0930-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6245\
+ nПара №28
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260304-1130-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6245\
+ nПара №29
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260304-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6248\n
+ Пара №35
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260304-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6381\n
+ Пара №36
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260305-0930-экономика-инвестиций-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260305T093000
+DTEND;TZID=Europe/Moscow:20260305T111000
+SUMMARY:Экономика инвестиций (лаб) · Гродинская А. Н. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 7\nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260305-1130-экономика-инвестиций-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Экономика инвестиций (лаб) · Гродинская А. Н. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260305-1400-экономический-анализ-лек-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Экономический анализ (лек) · Сивакова Ю. С. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6381\
+ nПара №17
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260305-1600-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260310-1400-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.406\n
+ Пара №24
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260310-1600-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T160000
+DTEND;TZID=Europe/Moscow:20260310T174000
+SUMMARY:Организация и планирование (лек) · Лебедева А. В. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.406\n
+ Пара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260311-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260311T093000
+DTEND;TZID=Europe/Moscow:20260311T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №26
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260311-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6381\n
+ Пара №37
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260311-1400-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С.
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260312-1400-экономический-анализ-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Экономический анализ (лаб) · Сивакова Ю. С.
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260312-1600-экономический-анализ-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Экономический анализ (лаб) · Сивакова Ю. С.
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260313-0930-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T093000
+DTEND;TZID=Europe/Moscow:20260313T111000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.в.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260313-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6249\n
+ Пара №27
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260313-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6373\n
+ Пара №38
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260317-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №28
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260317-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260317T113000
+DTEND;TZID=Europe/Moscow:20260317T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6117\n
+ Пара №29
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260317-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260317T140000
+DTEND;TZID=Europe/Moscow:20260317T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физич
+ .воспит.
+LOCATION:а.Каф.физич.воспит.
+DESCRIPTION:Группа: 6311\nАудитория: а.Каф.физич.воспит.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260318-1400-экономический-анализ-лек-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:Экономический анализ (лек) · Сивакова Ю. С. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6381\
+ nПара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260318-1600-экономический-анализ-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260318T160000
+DTEND;TZID=Europe/Moscow:20260318T174000
+SUMMARY:Экономический анализ (пр) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №30
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260319-0930-экономика-инвестиций-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Экономика инвестиций (пр) · Гродинская А. Н. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 5\nПара №18
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260319-1130-экономика-инвестиций-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Экономика инвестиций (пр) · Гродинская А. Н. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 0\nПара №19
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260319-1400-организация-и-планирование-лек@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260319T140000
+DTEND;TZID=Europe/Moscow:20260319T154000
+SUMMARY:Организация и планирование (лек) · Лебедева А. В. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.406\n
+ Пара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260319-1600-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260319T160000
+DTEND;TZID=Europe/Moscow:20260319T174000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.406\n
+ Пара №25
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260320-0930-экономика-инвестиций-лек-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260320T093000
+DTEND;TZID=Europe/Moscow:20260320T111000
+SUMMARY:Экономика инвестиций (лек) · Гродинская А. Н. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.637
+ 3\nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260320-1130-экономика-инвестиций-лек-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:Экономика инвестиций (лек) · Гродинская А. Н. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.637
+ 3\nПара №16
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260320-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260323-0930-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260323T093000
+DTEND;TZID=Europe/Moscow:20260323T111000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260323-1130-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117\
+ nПара №14
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260324-0930-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260324T093000
+DTEND;TZID=Europe/Moscow:20260324T111000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260324-1130-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260324-1400-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6249\
+ nПара №26
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260324-1600-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260324T160000
+DTEND;TZID=Europe/Moscow:20260324T174000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6249\
+ nПара №15
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260325-0930-экономический-анализ-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260325T093000
+DTEND;TZID=Europe/Moscow:20260325T111000
+SUMMARY:Экономический анализ (лаб) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №11
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260325-1130-экономический-анализ-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:Экономический анализ (лаб) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №12
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260326-0930-экономика-инвестиций-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260326T093000
+DTEND;TZID=Europe/Moscow:20260326T111000
+SUMMARY:Экономика инвестиций (лаб) · Гродинская А. Н. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 9\nПара №8
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260326-1130-экономика-инвестиций-лаб-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:Экономика инвестиций (лаб) · Гродинская А. Н. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.624
+ 9\nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260327-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260327T093000
+DTEND;TZID=Europe/Moscow:20260327T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6373\n
+ Пара №39
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260327-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260327T113000
+DTEND;TZID=Europe/Moscow:20260327T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · Сиденко И. К. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6373\n
+ Пара №40
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260327-1400-организация-и-планирование-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Организация и планирование (пр) · Лебедева А. В. · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6235\
+ nПара №27
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260331-0930-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260331T093000
+DTEND;TZID=Europe/Moscow:20260331T111000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №9
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260331-1130-экономический-анализ-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260331T113000
+DTEND;TZID=Europe/Moscow:20260331T131000
+SUMMARY:Экономический анализ (Курс.работа) · Сивакова Ю. С. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6378\
+ nПара №10
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260331-1400-экономика-инвестиций-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260331T140000
+DTEND;TZID=Europe/Moscow:20260331T154000
+SUMMARY:Экономика инвестиций (Курс.работа) · Гродинская А. Н. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260331-1600-экономика-инвестиций-курс-рабо@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260331T160000
+DTEND;TZID=Europe/Moscow:20260331T174000
+SUMMARY:Экономика инвестиций (Курс.работа) · Гродинская А. Н. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.611
+ 6\nПара №7
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260506-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №37
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260506-1400-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · Сиденко И. К. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №38
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260506-1600-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6378\n
+ Пара №43
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260507-0930-экономика-инвестиций-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Экономика инвестиций (пр) · Москвичева А. И. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Москвичева А. И.\nАудитория: а.611
+ 7\nПара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260507-1130-экономика-инвестиций-пр-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Экономика инвестиций (пр) · Москвичева А. И. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Москвичева А. И.\nАудитория: а.611
+ 7\nПара №23
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260507-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физич
+ .воспит.
+LOCATION:а.Каф.физич.воспит.
+DESCRIPTION:Группа: 6311\nАудитория: а.Каф.физич.воспит.
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260508-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №44
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260508-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · Сиденко И. К. 
+ · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245\n
+ Пара №45
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260508-1400-организация-и-планирование-лаб@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:Организация и планирование (лаб) · Лебедева А. В. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117\
+ nПара №22
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260514-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · а.Кафедр
+ а физ.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6311\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260518-1130-экономика-инвестиций-экз-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260518T113000
+DTEND;TZID=Europe/Moscow:20260518T131000
+SUMMARY:Экономика инвестиций (экз) · Гродинская А. Н. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.623
+ 6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260518-1400-экономика-инвестиций-экз-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260518T140000
+DTEND;TZID=Europe/Moscow:20260518T154000
+SUMMARY:Экономика инвестиций (экз) · Гродинская А. Н. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Гродинская А. Н.\nАудитория: а.623
+ 6
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260522-0930-организация-и-планирование-экз@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260522T093000
+DTEND;TZID=Europe/Moscow:20260522T111000
+SUMMARY:Организация и планирование (экз) · Лебедева А. В. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\nПреподаватель: Лебедева А. В.\nАудитория: а.6117
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260525-1400-экономический-анализ-экз-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260525T140000
+DTEND;TZID=Europe/Moscow:20260525T154000
+SUMMARY:Экономический анализ (экз) · Сивакова Ю. С. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6236
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260525-1600-экономический-анализ-экз-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260525T160000
+DTEND;TZID=Europe/Moscow:20260525T174000
+SUMMARY:Экономический анализ (экз) · Сивакова Ю. С. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\nПреподаватель: Сивакова Ю. С.\nАудитория: а.6236
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260529-0930-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260529T093000
+DTEND;TZID=Europe/Moscow:20260529T111000
+SUMMARY:Бухгалтерский учет и налогообложение (экз) · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6311-20260529-1130-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260529T113000
+DTEND;TZID=Europe/Moscow:20260529T131000
+SUMMARY:Бухгалтерский учет и налогообложение (экз) · Сиденко И. К. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\nПреподаватель: Сиденко И. К.\nАудитория: а.6245
+CATEGORIES:Учёба,6311
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

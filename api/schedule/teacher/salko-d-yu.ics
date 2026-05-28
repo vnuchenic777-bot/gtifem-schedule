@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Салько Д.Ю (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Салько Д.Ю, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Салько Д. Ю. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Салько Д. Ю., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -18,266 +18,484 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260113-0930-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260113T093000
 DTEND;TZID=Europe/Moscow:20260113T111000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260113-1600-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260113T160000
 DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260114-0930-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T093000
 DTEND;TZID=Europe/Moscow:20260114T111000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260114-1130-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1130-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T113000
 DTEND;TZID=Europe/Moscow:20260114T131000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260114-1400-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T140000
 DTEND;TZID=Europe/Moscow:20260114T154000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260202-1600-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260127-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T093000
+DTEND;TZID=Europe/Moscow:20260127T111000
+SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №3\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T160000
+DTEND;TZID=Europe/Moscow:20260127T174000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №1\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T093000
+DTEND;TZID=Europe/Moscow:20260128T111000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №2\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1130-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260128T113000
+DTEND;TZID=Europe/Moscow:20260128T131000
+SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №4\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6491\nАудитория: а.6116
+DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260202-1600-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260202-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6491\nАудитория: а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260203-1400-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260203-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260203T140000
 DTEND;TZID=Europe/Moscow:20260203T154000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260203-1400-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260203-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260203T140000
 DTEND;TZID=Europe/Moscow:20260203T154000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6491\nАудитория: а.405
+DESCRIPTION:Группа: 6491\nАудитория: а.405\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260203-1600-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260203-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260203T160000
 DTEND;TZID=Europe/Moscow:20260203T174000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260204-0930-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260204-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260204T093000
 DTEND;TZID=Europe/Moscow:20260204T111000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260204-1130-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260204-1130-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260204T113000
 DTEND;TZID=Europe/Moscow:20260204T131000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6491\nАудитория: а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260205-0930-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T093000
 DTEND;TZID=Europe/Moscow:20260205T111000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6491\nАудитория: а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260205-1130-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-1130-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T113000
 DTEND;TZID=Europe/Moscow:20260205T131000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6491\nАудитория: а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260205-1400-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6491\nАудитория: а.406
+DESCRIPTION:Группа: 6491\nАудитория: а.406\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260205-1400-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6491\nАудитория: а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260205-1600-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
 DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6491\nАудитория: а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260303-1130-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260209-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260209T160000
+DTEND;TZID=Europe/Moscow:20260209T174000
+SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №6\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №7\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260210T160000
+DTEND;TZID=Europe/Moscow:20260210T174000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №3\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6491\nАудитория: а.406\nПара №4\nПреподаватель: Салько 
+ Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6491\nАудитория: а.405\nПара №5\nПреподаватель: Салько 
+ Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6491\nАудитория: а.405\nПара №6\nПреподаватель: Салько 
+ Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №8\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №7\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260224T160000
+DTEND;TZID=Europe/Moscow:20260224T174000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №8\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №9\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6491\nАудитория: а.6236\nПара №9\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №10\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №10\nПреподаватель: Салько
+  Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260303T113000
 DTEND;TZID=Europe/Moscow:20260303T131000
 SUMMARY:Основы предпринимательской деятельности (лек) · гр. 6491 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260303-1600-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260303-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260303T160000
 DTEND;TZID=Europe/Moscow:20260303T174000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260305-1400-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260305-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T140000
 DTEND;TZID=Europe/Moscow:20260305T154000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260305-1600-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260305-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T160000
 DTEND;TZID=Europe/Moscow:20260305T174000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПреподаватель: Салько Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-salko-d-yu-20260306-1400-основы-прeдприниматeльской-дeя-6491@gt
- ifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260306T140000
 DTEND;TZID=Europe/Moscow:20260306T154000
 SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6491\nАудитория: а.6117
+DESCRIPTION:Группа: 6491\nАудитория: а.6117\nПреподаватель: Салько Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T160000
+DTEND;TZID=Europe/Moscow:20260310T174000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №12\nПреподаватель: Сальк
+ о Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1400-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №13\nПреподаватель: Сальк
+ о Д. Ю.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1600-6491-основы-предпринимательской-дея@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Основы предпринимательской деятельности (пр) · гр. 6491 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №14\nПреподаватель: Сальк
+ о Д. Ю.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT

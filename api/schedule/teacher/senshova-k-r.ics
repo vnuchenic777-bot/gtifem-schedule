@@ -1,0 +1,1268 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Сеньшова К. Р. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Сеньшова К. Р., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №6\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №6\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №5\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №5\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПара №6\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПара №6\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПара №7\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПара №7\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6211\nАудитория: а.6381\nПара №8\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6212\nАудитория: а.6381\nПара №8\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №9\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №9\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №10\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №10\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №11\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №11\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6211\nАудитория: а.6240\nПара №12\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6212\nАудитория: а.6240\nПара №12\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лекция · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №9\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лекция · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №9\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №13\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №13\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №14\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №14\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6211\nАудитория: а.406\nПара №15\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6212\nАудитория: а.406\nПара №15\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6211\nАудитория: а.406\nПара №16\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6212\nАудитория: а.406\nПара №16\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №17\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №17\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1400-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6211\nАудитория: а.403\nПара №18\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1400-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6212\nАудитория: а.403\nПара №18\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6211\nАудитория: а.6116\nПара №19\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6212\nАудитория: а.6116\nПара №19\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6211\nАудитория: а.6116\nПара №20\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6212\nАудитория: а.6116\nПара №20\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6211\nАудитория: а. 6373\nПара №21\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6212\nАудитория: а. 6373\nПара №21\nПреподаватель: Сень
+ шова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6211 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6211\nАудитория: а.6116\nПара №7\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6212 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6212\nАудитория: а.6116\nПара №7\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6211 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6211\nАудитория: а.6116\nПара №8\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6212 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6212\nАудитория: а.6116\nПара №8\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6211\nАудитория: а.6236\nПара №22\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6212\nАудитория: а.6236\nПара №22\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6211 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6211\nАудитория: а.6236\nПара №23\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й практическое занятие · гр. 6212 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6212\nАудитория: а.6236\nПара №23\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6211 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6211\nАудитория: а.6117\nПара №9\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й лабораторный практикум · гр. 6212 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6212\nАудитория: а.6117\nПара №9\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T093000
+DTEND;TZID=Europe/Moscow:20260114T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6211\nАудитория: а.106\nПара №24\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T093000
+DTEND;TZID=Europe/Moscow:20260114T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6212\nАудитория: а.106\nПара №24\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6211\nАудитория: а.106\nПара №25\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6212\nАудитория: а.106\nПара №25\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1600-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №26\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1600-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №26\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №10\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №10\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6211\nАудитория: а.6248\nПара №27\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6212\nАудитория: а.6248\nПара №27\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №28\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №28\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6211\nАудитория: а.6245\nПара №29\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6212\nАудитория: а.6245\nПара №29\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6211 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6211\nАудитория: а.6249\nПара №11\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6212 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6212\nАудитория: а.6249\nПара №11\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6211\nАудитория: а.411\nПара №30\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6212\nАудитория: а.411\nПара №30\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6211\nАудитория: а.411\nПара №31\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6212\nАудитория: а.411\nПара №31\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6211\nАудитория: а.403\nПара №32\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6212\nАудитория: а.403\nПара №32\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6211\nАудитория: а.411\nПара №33\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6212\nАудитория: а.411\nПара №33\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6211 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6211\nАудитория: а.6117\nПара №12\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6212 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6212\nАудитория: а.6117\nПара №12\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6211 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6211\nАудитория: а.106\nПара №13\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6212 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6212\nАудитория: а.106\nПара №13\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПара №14\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПара №14\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6211\nАудитория: а.6236\nПара №34\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6212\nАудитория: а.6236\nПара №34\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПара №35\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПара №35\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №36\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №36\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6211\nАудитория: а.6373\nПара №37\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6212\nАудитория: а.6373\nПара №37\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6211 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6211\nАудитория: а.6242\nПара №15\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6212 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6212\nАудитория: а.6242\nПара №15\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-0930-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T093000
+DTEND;TZID=Europe/Moscow:20260313T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6211\nАудитория: а.408\nПара №38\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-0930-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T093000
+DTEND;TZID=Europe/Moscow:20260313T111000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6212\nАудитория: а.408\nПара №38\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6211\nАудитория: а.409\nПара №39\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6212\nАудитория: а.409\nПара №39\nПреподаватель: Сеньшо
+ ва К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №40\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (пр) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №40\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-6211-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6211 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6211\nАудитория: а.6378\nПара №16\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6211
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-6212-экономика-внешнеэкономической-@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Экономика внешнеэкономической деятельности предприятий и организаци
+ й (лаб) · гр. 6212 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6212\nАудитория: а.6378\nПара №16\nПреподаватель: Сеньш
+ ова К. Р.
+CATEGORIES:Преподавание,6212
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

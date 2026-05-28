@@ -1,10 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Москаленко М.Н (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Москаленко М.Н, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Москаленко М. Н. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Москаленко М. Н., ФЭМ СПбГТИ (Т
+ У)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -18,353 +19,688 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260112-1130-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260112-1130--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260112T113000
 DTEND;TZID=Europe/Moscow:20260112T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
- с.работа) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260112-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260112-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260112T140000
 DTEND;TZID=Europe/Moscow:20260112T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
- с.работа) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260113-1130-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1130--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260113T113000
 DTEND;TZID=Europe/Moscow:20260113T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.408
-LOCATION:а.408
-DESCRIPTION:Группа: 6491\nАудитория: а.408
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260113-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6491\nАудитория: а.6240
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260114-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T140000
 DTEND;TZID=Europe/Moscow:20260114T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.405
-LOCATION:а.405
-DESCRIPTION:Группа: 6491\nАудитория: а.405
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260114-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T160000
 DTEND;TZID=Europe/Moscow:20260114T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.405
-LOCATION:а.405
-DESCRIPTION:Группа: 6491\nАудитория: а.405
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260115-0930-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260115-0930--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260115T093000
 DTEND;TZID=Europe/Moscow:20260115T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
  ) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №1\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260115-1130-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260115-1130--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
 DTEND;TZID=Europe/Moscow:20260115T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
  ) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №2\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260116-0930-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-0930--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260116T093000
 DTEND;TZID=Europe/Moscow:20260116T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
  ) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №3\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260116-1130-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-1130--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260116T113000
 DTEND;TZID=Europe/Moscow:20260116T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
  ) · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №4\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260202-0930-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260121-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6491\nАудитория: а.405\nПара №1\nПреподаватель: Москале
+ нко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6491\nАудитория: а.405\nПара №2\nПреподаватель: Москале
+ нко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
+ ) · гр. 6491 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №5\nПреподаватель: Москале
+ нко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (лек
+ ) · гр. 6491 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №6\nПреподаватель: Москале
+ нко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+ с.работа) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №1\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260126T140000
+DTEND;TZID=Europe/Moscow:20260126T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+ с.работа) · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №2\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T113000
+DTEND;TZID=Europe/Moscow:20260127T131000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6491\nАудитория: а.408\nПара №3\nПреподаватель: Москале
+ нко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260127T140000
+DTEND;TZID=Europe/Moscow:20260127T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6491\nАудитория: а.6240\nПара №4\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T093000
 DTEND;TZID=Europe/Moscow:20260202T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
- с.работа) · гр. 6491 · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6491\nАудитория: а.6240
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260202-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260202-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
  с.работа) · гр. 6491 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №3\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260206-0930-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260206-0930--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260206T093000
 DTEND;TZID=Europe/Moscow:20260206T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.408
-LOCATION:а.408
-DESCRIPTION:Группа: 6491\nАудитория: а.408
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260206-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260206-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
   · гр. 6491 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6491\nАудитория: а.6382
+DESCRIPTION:Группа: 6491\nАудитория: а.6382\nПара №5\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260206-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20260206T140000
-DTEND;TZID=Europe/Moscow:20260206T154000
+UID:teacher-20260206-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6491\nАудитория: а.6382\nПара №6\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
  с.работа) · гр. 6491 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6491\nАудитория: а.405
+DESCRIPTION:Группа: 6491\nАудитория: а.405\nПара №4\nПреподаватель: Москале
+ нко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260206-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20260206T160000
-DTEND;TZID=Europe/Moscow:20260206T174000
-SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6491\nАудитория: а.6382
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260206-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20260206T160000
-DTEND;TZID=Europe/Moscow:20260206T174000
+UID:teacher-20260213-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260213T160000
+DTEND;TZID=Europe/Moscow:20260213T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
  с.работа) · гр. 6491 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376
+DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №5\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260302-0930-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260216-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+ с.работа) · гр. 6491 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6491\nАудитория: а.6240\nПара №6\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6491\nАудитория: а.408\nПара №7\nПреподаватель: Москале
+ нко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6491\nАудитория: а.6382\nПара №8\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-0930--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260302T093000
 DTEND;TZID=Europe/Moscow:20260302T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
  с.работа) · гр. 6491 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №7\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260302-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260302-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260302T160000
+DTEND;TZID=Europe/Moscow:20260302T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260302T160000
 DTEND;TZID=Europe/Moscow:20260302T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
  с.работа) · гр. 6491 · а.6112
 LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112
+DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №8\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260303-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260303-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260303T140000
 DTEND;TZID=Europe/Moscow:20260303T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260304-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260304-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260304T140000
 DTEND;TZID=Europe/Moscow:20260304T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6491\nАудитория: а.6236
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260304-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260304-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260304T140000
 DTEND;TZID=Europe/Moscow:20260304T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
- с.работа) · гр. 6491 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6491\nАудитория: а.6236\nПара №9\nПреподаватель: Москал
+ енко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260304-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260304-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кон
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260304T160000
 DTEND;TZID=Europe/Moscow:20260304T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
   · гр. 6491 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6491\nАудитория: а.6236
+DESCRIPTION:Группа: 6491\nАудитория: а.6236\nПара №10\nПреподаватель: Моска
+ ленко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260304-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20260304T160000
-DTEND;TZID=Europe/Moscow:20260304T174000
-SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кон
- сультация) · гр. 6491 · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6491\nАудитория: а.6240
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260306-1400-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260306T140000
 DTEND;TZID=Europe/Moscow:20260306T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
-  · гр. 6491 · а.408
-LOCATION:а.408
-DESCRIPTION:Группа: 6491\nАудитория: а.408
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260306-1600-мдк-04-02-основы-анализа-бухга-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1600--мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260306T160000
 DTEND;TZID=Europe/Moscow:20260306T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кон
- сультация) · гр. 6491 · а.408
-LOCATION:а.408
-DESCRIPTION:Группа: 6491\nАудитория: а.408
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №11\nПреподаватель: Моска
+ ленко М. Н.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-moskalenko-m-n-20260407-1130-пм-04-составлeниe-и-использова-649
- 1@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260311-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кур
+ с.работа) · гр. 6491 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №9\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260311T160000
+DTEND;TZID=Europe/Moscow:20260311T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кон
+ сультация) · гр. 6491 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6491\nАудитория: а.6240\nПреподаватель: Москаленко М. Н
+ .
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (пр)
+  · гр. 6491 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6491\nАудитория: а.408\nПара №12\nПреподаватель: Москал
+ енко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности (Кон
+ сультация) · гр. 6491 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6491\nАудитория: а.408\nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130--пм-04-составление-и-использова@gtifem.ru
+DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260407T113000
 DTEND;TZID=Europe/Moscow:20260407T131000
 SUMMARY:ПМ.04 Составление и использование бухгалтерской (финансовой) отчетн
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Москаленко М. Н.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1130-6491-пм-04-составление-и-использова@gtifem.ru
+DTSTAMP:20260528T172937Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:ПМ.04 Составление и использование бухгалтерской (финансовой) отчетн
  ости (экз) · гр. 6491 · а.6112
 LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112
+DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПреподаватель: Москаленко М. Н
+ .
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
