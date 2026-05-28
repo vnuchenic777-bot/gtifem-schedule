@@ -1,10 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Ведерников В.В (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Ведерников В.В, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Ведерников В.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Ведерников В.В., ФЭМ СПбГТИ (ТУ
+ )
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -66,6 +67,42 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250902-1400-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №1\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1600-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №2\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-0930-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №1\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20250903-0930-история-россии-лeкция-6511@gtifem.
  ru
 DTSTAMP:20260526T153747Z
@@ -87,6 +124,18 @@ SUMMARY:История России лекция · гр. 6512 · а.406
 LOCATION:а.406
 DESCRIPTION:Группа: 6512\nАудитория: а.406
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1130-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №2\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -114,6 +163,43 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1400-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №1\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1600-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №2\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №1\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20250905-0930-история-россии-практичeскоe-за-651
  1@gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -126,15 +212,16 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20250905-0930-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250905T093000
-DTEND;TZID=Europe/Moscow:20250905T111000
-SUMMARY:История России практическое занятие · гр. 6512 · а.406
+UID:teacher-20250905-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №2\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -150,15 +237,205 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20250905-1130-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250905T113000
-DTEND;TZID=Europe/Moscow:20250905T131000
-SUMMARY:История России практическое занятие · гр. 6512 · а.406
+UID:teacher-20250910-0930-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №1\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №2\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-0930-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.409\nПара №1\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.409\nПара №2\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №3\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №4\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.405\nПара №3\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.405\nПара №4\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №3\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №4\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.409\nПара №3\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.409\nПара №4\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.409\nПара №3\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.409\nПара №4\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-0930-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №3\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №4\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -174,18 +451,6 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251002-0930-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251002T093000
-DTEND;TZID=Europe/Moscow:20251002T111000
-SUMMARY:История России практическое занятие · гр. 6512 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
-CATEGORIES:Преподавание,6512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20251002-1130-история-россии-практичeскоe-за-651
  1@gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -195,18 +460,6 @@ SUMMARY:История России практическое занятие · �
 LOCATION:а.403
 DESCRIPTION:Группа: 6511\nАудитория: а.403
 CATEGORIES:Преподавание,6511
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251002-1130-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251002T113000
-DTEND;TZID=Europe/Moscow:20251002T131000
-SUMMARY:История России практическое занятие · гр. 6512 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
-CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -222,18 +475,6 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251006-0930-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251006T093000
-DTEND;TZID=Europe/Moscow:20251006T111000
-SUMMARY:История России практическое занятие · гр. 6512 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
-CATEGORIES:Преподавание,6512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20251006-1130-история-россии-практичeскоe-за-651
  1@gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -243,18 +484,6 @@ SUMMARY:История России практическое занятие · �
 LOCATION:а.403
 DESCRIPTION:Группа: 6511\nАудитория: а.403
 CATEGORIES:Преподавание,6511
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251006-1130-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251006T113000
-DTEND;TZID=Europe/Moscow:20251006T131000
-SUMMARY:История России практическое занятие · гр. 6512 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
-CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -267,18 +496,6 @@ SUMMARY:История России практическое занятие · �
 LOCATION:а.406
 DESCRIPTION:Группа: 6511\nАудитория: а.406
 CATEGORIES:Преподавание,6511
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251007-0930-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251007T093000
-DTEND;TZID=Europe/Moscow:20251007T111000
-SUMMARY:История России практическое занятие · гр. 6512 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
-CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -318,18 +535,6 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251007-1130-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251007T113000
-DTEND;TZID=Europe/Moscow:20251007T131000
-SUMMARY:История России практическое занятие · гр. 6512 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
-CATEGORIES:Преподавание,6512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20251007-1130-история-россии-лeкция-6511@gtifem.
  ru
 DTSTAMP:20260526T153747Z
@@ -351,6 +556,312 @@ SUMMARY:История России лекция · гр. 6512 · а.403
 LOCATION:а.403
 DESCRIPTION:Группа: 6512\nАудитория: а.403
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №5\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №6\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1400-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №5\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1600-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №6\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №7\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №8\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №7\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №8\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-0930-6521-6561-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251016T093000
+DTEND;TZID=Europe/Moscow:20251016T111000
+SUMMARY:История России практическое занятие · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №5\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1130-6521-6561-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:История России практическое занятие · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №6\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-6521-6561-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:История России практическое занятие · гр. 6521\, 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПара №7\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6521-6561-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:История России практическое занятие · гр. 6521\, 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПара №8\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-0930-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №5\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №6\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6521-6561-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:История России лекция · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №5\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1600-6521-6561-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:История России лекция · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №6\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №5\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №6\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №9\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №10\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №9\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №10\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6521-6561-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:История России практическое занятие · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №9\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6521-6561-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:История России практическое занятие · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №10\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -414,18 +925,6 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251106-0930-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251106T093000
-DTEND;TZID=Europe/Moscow:20251106T111000
-SUMMARY:История России практическое занятие · гр. 6512 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
-CATEGORIES:Преподавание,6512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20251106-1130-история-россии-практичeскоe-за-651
  1@gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -438,15 +937,153 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251106-1130-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251106T113000
-DTEND;TZID=Europe/Moscow:20251106T131000
-SUMMARY:История России практическое занятие · гр. 6512 · а.406
+UID:teacher-20251110-1400-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №11\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №12\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №11\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №12\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №11\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №12\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.405\nПара №7\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:История России лекция · гр. 6511\,6512 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.405\nПара №8\nПреподаватель: В
+ едерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №7\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №8\nПреподава
+ тель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №7\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №8\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -459,18 +1096,6 @@ SUMMARY:История России практическое занятие · �
 LOCATION:а. 106
 DESCRIPTION:Группа: 6511\nАудитория: а. 106
 CATEGORIES:Преподавание,6511
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251201-0930-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251201T093000
-DTEND;TZID=Europe/Moscow:20251201T111000
-SUMMARY:История России практическое занятие · гр. 6512 · а. 106
-LOCATION:а. 106
-DESCRIPTION:Группа: 6512\nАудитория: а. 106
-CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -510,18 +1135,6 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251201-1130-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251201T113000
-DTEND;TZID=Europe/Moscow:20251201T131000
-SUMMARY:История России практическое занятие · гр. 6512 · а. 106
-LOCATION:а. 106
-DESCRIPTION:Группа: 6512\nАудитория: а. 106
-CATEGORIES:Преподавание,6512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20251201-1130-история-россии-лeкция-6511@gtifem.
  ru
 DTSTAMP:20260526T153747Z
@@ -546,6 +1159,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251202-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 403\nПара №13\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20251202-0930-история-россии-практичeскоe-за-651
  1@gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -558,15 +1184,16 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251202-0930-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251202T093000
-DTEND;TZID=Europe/Moscow:20251202T111000
-SUMMARY:История России практическое занятие · гр. 6512 · а. 403
+UID:teacher-20251202-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а. 403
 LOCATION:а. 403
-DESCRIPTION:Группа: 6512\nАудитория: а. 403
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 403\nПара №14\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -582,15 +1209,337 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-vedernikov-v-v-20251202-1130-история-россии-практичeскоe-за-651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251202T113000
-DTEND;TZID=Europe/Moscow:20251202T131000
-SUMMARY:История России практическое занятие · гр. 6512 · а. 403
+UID:teacher-20251205-0930-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а. 41
+ 1
+LOCATION:а. 411
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 411\nПара №13\nПрепода
+ ватель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а. 41
+ 1
+LOCATION:а. 411
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 411\nПара №14\nПрепода
+ ватель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а. 411
+LOCATION:а. 411
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 411\nПара №13\nПреподаватель
+ : Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1600-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а. 411
+LOCATION:а. 411
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 411\nПара №14\nПреподаватель
+ : Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 106\nПара №15\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 106\nПара №16\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 106\nПара №15\nПреподаватель
+ : Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 106\nПара №16\nПреподаватель
+ : Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-0930-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а. 40
+ 9
+LOCATION:а. 409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПара №15\nПрепода
+ ватель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а. 40
+ 9
+LOCATION:а. 409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПара №16\nПрепода
+ ватель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:История России лекция · гр. 6511\,6512 · а. 403
 LOCATION:а. 403
-DESCRIPTION:Группа: 6512\nАудитория: а. 403
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 403\nПара №9\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6511-6512-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:История России лекция · гр. 6511\,6512 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 403\nПара №10\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-0930-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251216T093000
+DTEND;TZID=Europe/Moscow:20251216T111000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 403\nПара №9\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1130-6561-6521-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:История России лекция · гр. 6561\, 6521 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 403\nПара №10\nПреподаватель
+ : Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а. 401
+LOCATION:а. 401
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 401\nПара №9\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-6541-6542-6581-история-россии-лекция@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:История России лекция · гр. 6541\,6542\, 6581 · а. 401
+LOCATION:а. 401
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 401\nПара №10\nПрепода
+ ватель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 403\nПара №17\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-6511-6512-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:История России практическое занятие · гр. 6511\,6512 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 403\nПара №18\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-0930-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251225T093000
+DTEND;TZID=Europe/Moscow:20251225T111000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 403\nПара №17\nПреподаватель
+ : Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1130-6561-6521-история-россии-практическое-за@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:История России практическое занятие · гр. 6561\, 6521 · а. 403
+LOCATION:а. 403
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 403\nПара №18\nПреподаватель
+ : Ведерников В.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-0930-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а. 40
+ 9
+LOCATION:а. 409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПара №17\nПрепода
+ ватель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6541-6542-6581-история-россии-практическое-за@gti
+ fem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:История России практическое занятие · гр. 6541\,6542\, 6581 · а. 40
+ 9
+LOCATION:а. 409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПара №18\nПрепода
+ ватель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260114T093000
+DTEND;TZID=Europe/Moscow:20260114T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №19\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №20\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №19\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №20\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -638,6 +1587,42 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260123-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №19\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №20\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №11\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260202-0930-история-россии-лeк-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260202T093000
@@ -657,6 +1642,18 @@ SUMMARY:История России (лек) · гр. 6512 · а.403
 LOCATION:а.403
 DESCRIPTION:Группа: 6512\nАудитория: а.403
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №12\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -682,6 +1679,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260203-0930-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №11\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260203-0930-история-россии-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260203T093000
@@ -704,6 +1713,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260203-1130-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №12\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260203-1130-история-россии-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260203T113000
@@ -723,6 +1744,30 @@ SUMMARY:История России (пр) · гр. 6512 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6512\nАудитория: а.411
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-0930-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №11\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1130-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №12\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -767,6 +1812,150 @@ SUMMARY:История России (пр) · гр. 6512 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6512\nАудитория: а.411
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПара №21\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПара №22\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №21\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №22\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №21\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №22\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260225T093000
+DTEND;TZID=Europe/Moscow:20260225T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №23\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №24\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №23\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №24\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №23\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №24\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -902,6 +2091,210 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260311-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260311T093000
+DTEND;TZID=Europe/Moscow:20260311T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №25\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №26\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260312T093000
+DTEND;TZID=Europe/Moscow:20260312T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №25\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260312T113000
+DTEND;TZID=Europe/Moscow:20260312T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №26\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-0930-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260316T093000
+DTEND;TZID=Europe/Moscow:20260316T111000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №13\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-0930-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260318T093000
+DTEND;TZID=Europe/Moscow:20260318T111000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №13\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1130-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260318T113000
+DTEND;TZID=Europe/Moscow:20260318T131000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №14\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №25\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №26\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №13\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1400-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №14\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1600-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T160000
+DTEND;TZID=Europe/Moscow:20260323T174000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №14\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260324T093000
+DTEND;TZID=Europe/Moscow:20260324T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №27\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №28\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260326T093000
+DTEND;TZID=Europe/Moscow:20260326T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №27\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №28\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №29\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260402-0930-история-россии-лeк-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260402T093000
@@ -924,6 +2317,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260402-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №30\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260402-1130-история-россии-лeк-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260402T113000
@@ -943,6 +2348,30 @@ SUMMARY:История России (лек) · гр. 6512 · а.403
 LOCATION:а.403
 DESCRIPTION:Группа: 6512\nАудитория: а.403
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1400-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №29\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1600-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №30\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -990,6 +2419,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260406-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260406T093000
+DTEND;TZID=Europe/Moscow:20260406T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №27\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260406-0930-история-россии-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260406T093000
@@ -1012,6 +2453,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260406-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №28\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260406-1130-история-россии-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260406T113000
@@ -1031,6 +2484,246 @@ SUMMARY:История России (пр) · гр. 6512 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6512\nАудитория: а.411
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1400-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260408T140000
+DTEND;TZID=Europe/Moscow:20260408T154000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №15\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1600-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260408T160000
+DTEND;TZID=Europe/Moscow:20260408T174000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №16\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1400-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260415T140000
+DTEND;TZID=Europe/Moscow:20260415T154000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №31\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1600-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260415T160000
+DTEND;TZID=Europe/Moscow:20260415T174000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №32\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-0930-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260416T093000
+DTEND;TZID=Europe/Moscow:20260416T111000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №15\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1130-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260416T113000
+DTEND;TZID=Europe/Moscow:20260416T131000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №16\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260421T093000
+DTEND;TZID=Europe/Moscow:20260421T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №33\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №34\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260422T113000
+DTEND;TZID=Europe/Moscow:20260422T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №31\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1400-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260422T140000
+DTEND;TZID=Europe/Moscow:20260422T154000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №32\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №29\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260423T113000
+DTEND;TZID=Europe/Moscow:20260423T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №30\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №17\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №33\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №34\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-0930-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260429T093000
+DTEND;TZID=Europe/Moscow:20260429T111000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №15\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1130-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260429T113000
+DTEND;TZID=Europe/Moscow:20260429T131000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №16\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-0930-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260430T093000
+DTEND;TZID=Europe/Moscow:20260430T111000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №17\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1130-6541-6542-6581-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260430T113000
+DTEND;TZID=Europe/Moscow:20260430T131000
+SUMMARY:История России (лек) · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №18\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №35\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1075,6 +2768,18 @@ SUMMARY:История России (лек) · гр. 6512 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6512\nАудитория: а.411
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №36\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1166,6 +2871,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260508-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №31\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260508-0930-история-россии-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260508T093000
@@ -1188,6 +2905,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260508-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №32\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vedernikov-v-v-20260508-1130-история-россии-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260508T113000
@@ -1207,6 +2936,232 @@ SUMMARY:История России (пр) · гр. 6512 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6512\nАудитория: а.101
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-0930-6521-6561-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260512T093000
+DTEND;TZID=Europe/Moscow:20260512T111000
+SUMMARY:История России (лек) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №18\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №35\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-0930-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260514T093000
+DTEND;TZID=Europe/Moscow:20260514T111000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №33\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1130-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №34\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260515T093000
+DTEND;TZID=Europe/Moscow:20260515T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №37\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260515T113000
+DTEND;TZID=Europe/Moscow:20260515T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №36\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260519T093000
+DTEND;TZID=Europe/Moscow:20260519T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №37\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260519T113000
+DTEND;TZID=Europe/Moscow:20260519T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №38\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1400-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260519T140000
+DTEND;TZID=Europe/Moscow:20260519T154000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №38\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-0930-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260521T093000
+DTEND;TZID=Europe/Moscow:20260521T111000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №17\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1130-6511-6512-история-россии-лек-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260521T113000
+DTEND;TZID=Europe/Moscow:20260521T131000
+SUMMARY:История России (лек) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №18\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-0930-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260525T093000
+DTEND;TZID=Europe/Moscow:20260525T111000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №39\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1130-6521-6561-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260525T113000
+DTEND;TZID=Europe/Moscow:20260525T131000
+SUMMARY:История России (пр) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №40\nПреподаватель:
+  Ведерников В.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-0930-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260528T093000
+DTEND;TZID=Europe/Moscow:20260528T111000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №39\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1130-6541-6542-6581-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260528T113000
+DTEND;TZID=Europe/Moscow:20260528T131000
+SUMMARY:История России (пр) · гр. 6541\,6542\, 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №40\nПреподав
+ атель: Ведерников В.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1400-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260529T140000
+DTEND;TZID=Europe/Moscow:20260529T154000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №35\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1600-6511-6512-история-россии-пр-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260529T160000
+DTEND;TZID=Europe/Moscow:20260529T174000
+SUMMARY:История России (пр) · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №36\nПреподаватель: 
+ Ведерников В.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-0930-6521-история-россии-экз-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260702T093000
+DTEND;TZID=Europe/Moscow:20260702T111000
+SUMMARY:История России (экз) · гр. 6521 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\nАудитория: а.411\nПреподаватель: Ведерников В.В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1130-6561-история-россии-экз-@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260702T113000
+DTEND;TZID=Europe/Moscow:20260702T131000
+SUMMARY:История России (экз) · гр. 6561 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\nАудитория: а.411\nПреподаватель: Ведерников В.В.
+CATEGORIES:Преподавание,6561
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

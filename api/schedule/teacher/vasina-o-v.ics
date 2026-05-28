@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Васина О.В (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Васина О.В, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Васина О.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Васина О.В., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -44,6 +44,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250902-1400-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы российской государственности лекция · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №1\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-vasina-o-v-20250902-1400-основы-российской-государствeн-6511@gt
  ifem.ru
 DTSTAMP:20260526T153747Z
@@ -65,6 +78,20 @@ SUMMARY:Основы российской государственности л�
 LOCATION:а.101
 DESCRIPTION:Группа: 6512\nАудитория: а.101
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1600-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №1\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -91,6 +118,260 @@ SUMMARY:Основы российской государственности п�
 LOCATION:а.101
 DESCRIPTION:Группа: 6512\nАудитория: а.101
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1600-6551-6552-6553-6554-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552\, 6553\,6554 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6107\nПара №3\nПр
+ еподаватель: Васина О.В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1600-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+ \, 6521 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №1\nПреподаватель: 
+ Васина О.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6531-6532-6533-6534-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Основы российской государственности лекция · гр. 6531\,6532\, 6533\
+ ,6534 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.106\nПара №2\nПре
+ подаватель: Васина О.В.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №4\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №5\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6533-6534-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6533
+ \,6534 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.408\nПара №4\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1600-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+ \, 6521 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №4\nПреподаватель: 
+ Васина О.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №5\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6531-6532-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6531
+ \,6532 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №5\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6531-6532-6533-6534-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Основы российской государственности лекция · гр. 6531\,6532\, 6533\
+ ,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №4\nПре
+ подаватель: Васина О.В.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Основы российской государственности лекция · гр. 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №5\nПреподаватель: Васина
+  О.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1600-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:Основы российской государственности лекция · гр. 6561\, 6521 · а.40
+ 6
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №4\nПреподаватель: 
+ Васина О.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6531-6532-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6531
+ \,6532 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.403\nПара №8\nПреподаватель: В
+ асина О.В.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6533-6534-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6533
+ \,6534 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.403\nПара №12\nПреподаватель: 
+ Васина О.В.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-0930-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
+ российской-государствен@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260701T093000
+DTEND;TZID=Europe/Moscow:20260701T111000
+SUMMARY:Основы российской государственности (пр) · гр. 656зэ\, 659зф\, 659з
+ б\, 659зр\, 658зк\, 659зм\, 659зу · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6112\nПреподаватель: Васина О.В.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-1130-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
+ российской-государствен@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260701T113000
+DTEND;TZID=Europe/Moscow:20260701T131000
+SUMMARY:Основы российской государственности (пр) · гр. 656зэ\, 659зф\, 659з
+ б\, 659зр\, 658зк\, 659зм\, 659зу · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6112\nПреподаватель: Васина О.В.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1130-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
+ российской-государствен@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260702T113000
+DTEND;TZID=Europe/Moscow:20260702T131000
+SUMMARY:Основы российской государственности (пр) · гр. 656зэ\, 659зф\, 659з
+ б\, 659зр\, 658зк\, 659зм\, 659зу · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6115\nПреподаватель: Васина О.В.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1400-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
+ российской-государствен@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260702T140000
+DTEND;TZID=Europe/Moscow:20260702T154000
+SUMMARY:Основы российской государственности (зачет) · гр. 656зэ\, 659зф\, 6
+ 59зб\, 659зр\, 658зк\, 659зм\, 659зу · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6115\nПара №с оценкой\nПреподаватель: Васина О.В.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

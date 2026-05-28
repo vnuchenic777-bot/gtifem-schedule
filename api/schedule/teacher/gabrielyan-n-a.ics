@@ -1,0 +1,611 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Габриелян Н.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Габриелян Н.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250903-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.411\nПара №1\nПреподаватель: Г
+ абриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-0930-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.411\nПара №2\nПреподаватель: Г
+ абриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.106\nПара №3\nПреподаватель: Г
+ абриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.106\nПара №4\nПреподаватель: Г
+ абриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №5\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1600-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №1\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6117\nПара №2\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6117\nПара №3\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.403\nПара №6\nПреподаватель: Г
+ абриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6116\nПара №7\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6116\nПара №4\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1400-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №5\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1600-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №6\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №7\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-0930-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251008T093000
+DTEND;TZID=Europe/Moscow:20251008T111000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.403\nПара №8\nПреподаватель: Г
+ абриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1130-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T131000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.403\nПара №9\nПреподаватель: Г
+ абриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6381\nПара №10\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6381\nПара №11\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1400-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №8\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6240\nПара №12\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6240\nПара №13\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №14\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6253-6254-медиапланирование-лабораторный@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Медиапланирование лабораторный практикум · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №9\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.411\nПара №15\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6382\nПара №16\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №19\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1600-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №20\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1600-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №21\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.406\nПара №22\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-0930-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №23\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6253-6254-медиапланирование-лабораторная@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Медиапланирование Лабораторная работа · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №10\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6253-6254-медиапланирование-лабораторная@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Медиапланирование Лабораторная работа · гр. 6253\,6254 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.406\nПара №11\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №24\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1600-6253-6254-медиапланирование-лабораторная@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:Медиапланирование Лабораторная работа · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №12\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6253-6254-медиапланирование-лабораторная@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Медиапланирование Лабораторная работа · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №13\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1600-6253-6254-медиапланирование-лабораторная@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Медиапланирование Лабораторная работа · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №14\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №25\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6112\nПара №26\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6253-6254-медиапланирование-практическое@gtifem.r
+ u
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Медиапланирование практическое занятие · гр. 6253\,6254 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6240\nПара №27\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1600-6253-6254-медиапланирование-пр-@gtifem.ru
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Медиапланирование (пр) · гр. 6253\,6254 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.106\nПара №28\nПреподаватель: 
+ Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-0930-6253-6254-медиапланирование-пр-@gtifem.ru
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20260120T093000
+DTEND;TZID=Europe/Moscow:20260120T111000
+SUMMARY:Медиапланирование (пр) · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №29\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1130-6253-6254-медиапланирование-пр-@gtifem.ru
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Медиапланирование (пр) · гр. 6253\,6254 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6382\nПара №30\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-0930-6253-6254-медиапланирование-лаб-@gtifem.ru
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20260129T093000
+DTEND;TZID=Europe/Moscow:20260129T111000
+SUMMARY:Медиапланирование (лаб) · гр. 6253\,6254 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6116\nПара №15\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1130-6253-6254-медиапланирование-лаб-@gtifem.ru
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20260129T113000
+DTEND;TZID=Europe/Moscow:20260129T131000
+SUMMARY:Медиапланирование (лаб) · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №16\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930-6253-6254-медиапланирование-лаб-@gtifem.ru
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Медиапланирование (лаб) · гр. 6253\,6254 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6236\nПара №17\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6253-6254-медиапланирование-лаб-@gtifem.ru
+DTSTAMP:20260528T175447Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Медиапланирование (лаб) · гр. 6253\,6254 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6236\nПара №18\nПреподаватель:
+  Габриелян Н.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

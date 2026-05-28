@@ -1,0 +1,1150 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Бовыкина Н.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Бовыкина Н.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20251217-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251217T093000
+DTEND;TZID=Europe/Moscow:20251217T111000
+SUMMARY:Планирование и аудит персонала. Лекция · гр. 6271 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6271\nАудитория: а.6373\nПара №18\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:Планирование и аудит персонала. Лабораторная работа · гр. 6271 · а.
+ 6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6271\nАудитория: а.6376\nПара №26\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:Планирование и аудит персонала. Лабораторная работа · гр. 6271 · а.
+ 6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6271\nАудитория: а.6378\nПара №27\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Планирование и аудит персонала. Лекция · гр. 6271 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6271\nАудитория: а.6381\nПара №19\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251222T180000
+DTEND;TZID=Europe/Moscow:20251222T184500
+SUMMARY:Планирование и аудит персонала\, лекц · гр. 619ву · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6242\nПара №-\nПреподаватель: Бовы
+ кина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251222T200000
+DTEND;TZID=Europe/Moscow:20251222T204500
+SUMMARY:Планирование и аудит персонала\, лекц · гр. 619ву · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6242\nПара №-\nПреподаватель: Бовы
+ кина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:Планирование и аудит персонала. Лекция (перенос с 16.12.2025) · гр.
+  6271 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6271\nАудитория: а.401\nПара №17\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Планирование и аудит персонала. Лабораторная работа (перенос с 16.1
+ 2.2025) · гр. 6271 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6271\nАудитория: а.401\nПара №25\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Планирование и аудит персонала.Практическое занятие · гр. 6271 · а.
+ 405
+LOCATION:а.405
+DESCRIPTION:Группа: 6271\nАудитория: а.405\nПара №28\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Планирование и аудит персонала. Лабораторная работа · гр. 6271 · а.
+ 6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6271\nАудитория: а.6373\nПара №28\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251229T180000
+DTEND;TZID=Europe/Moscow:20251229T184500
+SUMMARY:Планирование и аудит персонала\, лекц · гр. 619ву · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6242\nПара №-\nПреподаватель: Бовы
+ кина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20251229T200000
+DTEND;TZID=Europe/Moscow:20251229T204500
+SUMMARY:Планирование и аудит персонала\, лекц · гр. 619ву · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6242\nПара №-\nПреподаватель: Бовы
+ кина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6271\nАудитория: а.6248\nПара №21\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260112T180000
+DTEND;TZID=Europe/Moscow:20260112T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПара №1\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260112T200000
+DTEND;TZID=Europe/Moscow:20260112T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПара №2\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260114T093000
+DTEND;TZID=Europe/Moscow:20260114T111000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6271\nАудитория: а.6107\nПара №22\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6271\nАудитория: а.6107\nПара №29\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6271\nАудитория: а.6116\nПара №30\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Планирование и аудит персонала (Курс.работа) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №6\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260119T180000
+DTEND;TZID=Europe/Moscow:20260119T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПара №3\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260119T200000
+DTEND;TZID=Europe/Moscow:20260119T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПара №4\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6271\nАудитория: а.106\nПара №23\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6271\nАудитория: а.106\nПара №31\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Планирование и аудит персонала (Курс.работа) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №7\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №29\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260122T160000
+DTEND;TZID=Europe/Moscow:20260122T174000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6271\nАудитория: а.408\nПара №32\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260126T180000
+DTEND;TZID=Europe/Moscow:20260126T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПара №5\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260126T200000
+DTEND;TZID=Europe/Moscow:20260126T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПара №6\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Планирование и аудит персонала (Курс.работа) · гр. 6271 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6271\nАудитория: а.6112\nПара №8\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6271\nАудитория: а.401\nПара №24\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6271\nАудитория: а.401\nПара №33\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260130T160000
+DTEND;TZID=Europe/Moscow:20260130T174000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №30\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6271\nАудитория: а.408\nПара №34\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6271\nАудитория: а.6240\nПара №25\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Планирование и аудит персонала (Курс.работа) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №9\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260202T180000
+DTEND;TZID=Europe/Moscow:20260202T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260202T200000
+DTEND;TZID=Europe/Moscow:20260202T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6271\nАудитория: а.408\nПара №35\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6271\nАудитория: а.408\nПара №36\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6271\nАудитория: а.106\nПара №26\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6271\nАудитория: а.403\nПара №37\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260209T160000
+DTEND;TZID=Europe/Moscow:20260209T174000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6271\nАудитория: а.6117\nПара №31\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260209T180000
+DTEND;TZID=Europe/Moscow:20260209T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260209T200000
+DTEND;TZID=Europe/Moscow:20260209T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260211T140000
+DTEND;TZID=Europe/Moscow:20260211T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6271\nАудитория: а.101\nПара №38\nПреподаватель: Бовыки
+ на Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6271\nАудитория: а.6376\nПара №32\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6271\nАудитория: а.6249\nПара №33\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6271\nАудитория: а.6116\nПара №34\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Планирование и аудит персонала (Курс.работа) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №10\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6271\nАудитория: а.6107\nПара №27\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6271\nАудитория: а.6248\nПара №39\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6271\nАудитория: а.6236\nПара №35\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260216T180000
+DTEND;TZID=Europe/Moscow:20260216T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260216T200000
+DTEND;TZID=Europe/Moscow:20260216T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6271\nАудитория: а.6245\nПара №36\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Планирование и аудит персонала (Курс.работа) · гр. 6271 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6271\nАудитория: а.6245\nПара №11\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260225T093000
+DTEND;TZID=Europe/Moscow:20260225T111000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6271\nАудитория: а.6240\nПара №40\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 6271 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6271\nАудитория: а.6240\nПара №28\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6271\nАудитория: а.6112\nПара №41\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6271\nАудитория: а.6107\nПара №42\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №43\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260302T160000
+DTEND;TZID=Europe/Moscow:20260302T174000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №44\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260302T180000
+DTEND;TZID=Europe/Moscow:20260302T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260302T200000
+DTEND;TZID=Europe/Moscow:20260302T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6271\nАудитория: а.6112\nПара №37\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6271\nАудитория: а.6112\nПара №45\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6271\nАудитория: а.6117\nПара №38\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Планирование и аудит персонала (Курс.работа) · гр. 6271 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6271\nАудитория: а.6117\nПара №12\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6271\nАудитория: а.6242\nПара №47\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6271\nАудитория: а.6236\nПара №39\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260313T093000
+DTEND;TZID=Europe/Moscow:20260313T111000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №40\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №41\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №42\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6271\nАудитория: а.6240\nПара №48\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6271\nАудитория: а.6240\nПара №49\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260316T180000
+DTEND;TZID=Europe/Moscow:20260316T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260316T200000
+DTEND;TZID=Europe/Moscow:20260316T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260320T093000
+DTEND;TZID=Europe/Moscow:20260320T111000
+SUMMARY:Планирование и аудит персонала (пр) (перенос с 05.03.2026) · гр. 62
+ 71 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6271\nАудитория: а.6116\nПара №46\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6271\nАудитория: а.6236\nПара №43\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6271\nАудитория: а.6236\nПара №44\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260320T160000
+DTEND;TZID=Europe/Moscow:20260320T174000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6271\nАудитория: а.6236\nПара №50\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6271\nАудитория: а.6248\nПара №51\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6271\nАудитория: а.6248\nПара №52\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T160000
+DTEND;TZID=Europe/Moscow:20260323T174000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6271\nАудитория: а.6248\nПара №53\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T180000
+DTEND;TZID=Europe/Moscow:20260323T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260323T200000
+DTEND;TZID=Europe/Moscow:20260323T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-0930-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260327T093000
+DTEND;TZID=Europe/Moscow:20260327T111000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №45\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1130-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260327T113000
+DTEND;TZID=Europe/Moscow:20260327T131000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №54\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1400-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260330T140000
+DTEND;TZID=Europe/Moscow:20260330T154000
+SUMMARY:Планирование и аудит персонала (лаб) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №46\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260330T160000
+DTEND;TZID=Europe/Moscow:20260330T174000
+SUMMARY:Планирование и аудит персонала (пр) · гр. 6271 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6271\nАудитория: а.6235\nПара №55\nПреподаватель: Бовык
+ ина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260330T180000
+DTEND;TZID=Europe/Moscow:20260330T194000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260330T200000
+DTEND;TZID=Europe/Moscow:20260330T214000
+SUMMARY:Планирование и аудит персонала (лек) · гр. 619ву · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 619ву\nАудитория: а.6378\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1600-6271-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Планирование и аудит персонала (экз) · гр. 6271 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6271\nАудитория: а.6115\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,6271
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1800-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260406T180000
+DTEND;TZID=Europe/Moscow:20260406T194000
+SUMMARY:Планирование и аудит персонала (экз) · гр. 619ву · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 619ву\nАудитория: а.6115\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-2000-619ву-планирование-и-аудит-персонала@gtifem.ru
+DTSTAMP:20260528T175446Z
+DTSTART;TZID=Europe/Moscow:20260406T200000
+DTEND;TZID=Europe/Moscow:20260406T214000
+SUMMARY:Планирование и аудит персонала (экз) · гр. 619ву · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 619ву\nАудитория: а.6115\nПреподаватель: Бовыкина Н.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
