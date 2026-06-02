@@ -3,20 +3,60 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Расписание ФЭМ СПбГТИ · Подписка на календарь</title>
+<title>Расписание ФЭМ СПбГТИ (ТУ)</title>
+<meta name="description" content="Расписание занятий факультета экономики и менеджмента СПбГТИ (ТУ) — подписка на Apple Calendar и Google Calendar.">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%232f4f7a'/%3E%3Ctext x='50%25' y='52%25' dominant-baseline='middle' text-anchor='middle' font-family='-apple-system,sans-serif' font-weight='700' font-size='13' fill='%23fff'%3EФЭМ%3C/text%3E%3C/svg%3E">
 <style>
   * { box-sizing: border-box; }
-  body { font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif; margin: 0; padding: 0; background: #f4f5f7; color: #222; line-height: 1.5; -webkit-text-size-adjust: 100%; }
-  header { background: linear-gradient(180deg, #2f4f7a 0%, #1f3f6a 100%); color: #fff; padding: 28px 20px; box-shadow: 0 2px 12px rgba(0,0,0,.2); }
-  header h1 { margin: 0 0 8px; font-size: 22px; }
-  header p { margin: 0; opacity: .92; font-size: 14px; }
-  .container { max-width: 1100px; margin: 0 auto; padding: 24px 18px; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: #f4f5f7; color: #222; line-height: 1.55;
+    -webkit-text-size-adjust: 100%;
+  }
+  a { color: #2f4f7a; }
+  code { background: #f4f5f7; padding: 1px 5px; border-radius: 3px; font-size: 12px; font-family: ui-monospace, "SF Mono", monospace; word-break: break-all; }
 
-  /* === БОЛЬШАЯ ИНСТРУКЦИЯ === */
-  .howto { background: linear-gradient(180deg, #fffbe6 0%, #fff5cc 100%); border: 1.5px solid #f0c850; border-radius: 10px; padding: 18px 20px; margin-bottom: 22px; }
-  .howto h2 { margin: 0 0 12px; color: #6a5300; font-size: 17px; display:flex; align-items:center; gap:8px; }
-  .howto-steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
-  .howto-step { background:#fff; border:1px solid #e8d99a; border-radius:8px; padding:12px 14px; }
+  /* === HEADER в стиле ФЭМ === */
+  .top-bar { background: #1f3f6a; color: #b8c8d9; font-size: 12px; padding: 6px 0; }
+  .top-bar .container { display: flex; gap: 16px; justify-content: flex-end; }
+  .top-bar a { color: #b8c8d9; text-decoration: none; }
+  .top-bar a:hover { color: #fff; }
+
+  .site-header { background: linear-gradient(180deg, #2f4f7a 0%, #1f3f6a 100%); color: #fff; padding: 20px 0 22px; box-shadow: 0 2px 12px rgba(0,0,0,.18); }
+  .site-header .container { display: flex; align-items: center; gap: 18px; flex-wrap: wrap; }
+  .site-logo { display:flex; align-items:center; gap: 14px; text-decoration: none; color: #fff; }
+  .site-logo .badge { width:54px; height:54px; background:#fff; color:#2f4f7a; border-radius:8px; display:flex; align-items:center; justify-content:center; font-weight:800; font-size:18px; letter-spacing:.5px; box-shadow: 0 2px 4px rgba(0,0,0,.18); }
+  .site-logo .titles h1 { margin:0; font-size:18px; font-weight:700; line-height:1.2; }
+  .site-logo .titles p  { margin:4px 0 0; font-size:12px; opacity:.85; line-height:1.3; }
+
+  .main-nav { background: #15355c; padding: 0; }
+  .main-nav .container { display: flex; gap: 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .main-nav a {
+    color: #c5d5e8; text-decoration: none; padding: 12px 16px;
+    font-size: 14px; white-space: nowrap; border-bottom: 3px solid transparent;
+    transition: background .15s, color .15s, border-color .15s;
+  }
+  .main-nav a:hover { background: #1f3f6a; color: #fff; }
+  .main-nav a.current { color: #fff; border-bottom-color: #4fa0ff; background: rgba(255,255,255,.05); }
+  .main-nav a .ext { opacity:.6; font-size:11px; margin-left:4px; }
+
+  /* === Container === */
+  .container { max-width: 1180px; margin: 0 auto; padding: 0 18px; }
+  .main { padding: 24px 0 40px; }
+
+  /* === Hero (page title) === */
+  .page-title { margin: 0 0 6px; color:#1f3f6a; font-size: 26px; font-weight:700; }
+  .page-subtitle { margin: 0 0 22px; color: #666; font-size: 14px; }
+  .breadcrumbs { font-size: 13px; color: #888; margin-bottom: 16px; }
+  .breadcrumbs a { color: #888; text-decoration: none; }
+  .breadcrumbs a:hover { color: #2f4f7a; text-decoration: underline; }
+
+  /* === Стартовая инструкция === */
+  .howto { background: linear-gradient(180deg, #fffbe6 0%, #fff5cc 100%); border: 1.5px solid #f0c850; border-radius: 8px; padding: 18px 20px; margin-bottom: 22px; }
+  .howto h2 { margin: 0 0 12px; color: #6a5300; font-size: 16px; display:flex; align-items:center; gap:8px; }
+  .howto-steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+  .howto-step { background:#fff; border:1px solid #e8d99a; border-radius:6px; padding:11px 14px; }
   .howto-step .n { display:inline-block; width:22px; height:22px; border-radius:50%; background:#2f4f7a; color:#fff; text-align:center; line-height:22px; font-weight:bold; font-size:13px; margin-right:6px; }
   .howto-step b { color:#1f3f6a; }
   .howto-step small { color:#666; font-size:12px; display:block; margin-top:4px; }
@@ -34,17 +74,17 @@
   .pin-section .pin-qr p { margin:0; font-size:13px; color:#444; flex:1; }
 
   /* === Сетки групп/преподавателей === */
-  .groups-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
-  .group-card { background: #fff; border: 1px solid #d8dde3; border-radius: 8px; padding: 16px; display: flex; flex-direction: column; gap: 12px; }
-  .group-card h3 { margin: 0; color: #2f4f7a; font-size: 17px; }
-  .group-card .subtitle { color: #666; font-size: 13px; margin: 0; }
-  .group-card .actions { display: flex; flex-direction: column; gap: 8px; }
+  .groups-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 14px; }
+  .group-card { background: #fff; border: 1px solid #d8dde3; border-radius: 8px; padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+  .group-card h3 { margin: 0; color: #2f4f7a; font-size: 16px; }
+  .group-card .subtitle { color: #666; font-size: 12px; margin: 0; }
+  .group-card .actions { display: flex; flex-direction: column; gap: 6px; }
   .group-card .qr-wrap { display:flex; gap:10px; align-items:center; padding-top:8px; border-top:1px dashed #e0e6ec; }
-  .group-card .qr-wrap > div, .group-card .qr-wrap img { width:72px; height:72px; flex-shrink:0; border:1px solid #d8dde3; background:#fff; padding:3px; border-radius:4px; }
+  .group-card .qr-wrap > div, .group-card .qr-wrap img { width:64px; height:64px; flex-shrink:0; border:1px solid #d8dde3; background:#fff; padding:3px; border-radius:4px; }
   .group-card .qr-wrap small { font-size:11px; color:#888; flex:1; }
 
   /* === Кнопки === */
-  .btn { display: block; padding: 12px 14px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 14px; text-align: center; transition: background .15s, transform .05s; cursor: pointer; }
+  .btn { display: block; padding: 10px 12px; border-radius: 5px; text-decoration: none; font-weight: 600; font-size: 13px; text-align: center; transition: background .15s, transform .05s; cursor: pointer; border: 0; }
   .btn:active { transform: translateY(1px); }
   .btn-primary { background: #1e7e1e; color: #fff; }
   .btn-primary:hover { background: #166916; }
@@ -52,24 +92,88 @@
   .btn-secondary:hover { background: #1f3f6a; }
   .btn-tertiary { background: #e7f0f9; color: #2f4f7a; border: 1px solid #c1d3e3; }
   .btn-tertiary:hover { background: #d5e4f3; }
-  .btn-small { font-size: 12px; padding: 6px 8px; font-weight: 500; }
+  .btn-small { font-size: 11px; padding: 5px 6px; font-weight: 500; }
 
-  /* === Поиск === */
-  #teacher-filter { width:100%; padding:12px 14px; border:1px solid #c1d3e3; border-radius:6px; font-size:15px; margin-bottom:14px; -webkit-appearance:none; }
-  h2.section-title { margin: 28px 0 14px; color:#2f4f7a; font-size:18px; display:flex; align-items:center; gap:8px; }
+  #teacher-filter { width:100%; padding:11px 13px; border:1px solid #c1d3e3; border-radius:5px; font-size:14px; margin-bottom:14px; -webkit-appearance:none; }
+  h2.section-title { margin: 26px 0 12px; color:#1f3f6a; font-size:18px; display:flex; align-items:center; gap:8px; border-bottom: 2px solid #d8dde3; padding-bottom: 6px; }
 
-  .ok-note { background: #e7f5e8; border: 1px solid #4caf50; color: #1f6024; border-radius: 8px; padding: 14px 18px; margin-top: 24px; font-size: 14px; }
-  .ok-note b { color: #155a18; }
+  /* === Footer === */
+  .site-footer { background: #15355c; color: #b8c8d9; padding: 26px 0; margin-top: 40px; font-size: 13px; }
+  .site-footer .container { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 24px; }
+  .site-footer h4 { color:#fff; font-size: 14px; margin: 0 0 10px; font-weight: 700; }
+  .site-footer a { color: #b8c8d9; text-decoration: none; }
+  .site-footer a:hover { color: #fff; }
+  .site-footer ul { list-style: none; padding: 0; margin: 0; }
+  .site-footer li { margin-bottom: 6px; }
+  .site-footer .copyr { border-top: 1px solid rgba(255,255,255,.1); padding-top: 14px; margin-top: 18px; opacity:.7; font-size:12px; text-align:center; }
 
-  code { background: #f4f5f7; padding: 1px 5px; border-radius: 3px; font-size: 12px; font-family: ui-monospace, "SF Mono", monospace; word-break: break-all; }
-  footer { text-align: center; color: #888; font-size: 12px; padding: 22px 18px; }
+  /* === ПЛАВАЮЩАЯ КНОПКА «МОЁ РАСПИСАНИЕ» === */
+  .float-btn {
+    position: fixed; bottom: 20px; right: 20px; z-index: 1000;
+    background: #1e7e1e; color: #fff; border-radius: 50px;
+    padding: 14px 22px; font-size: 15px; font-weight: 700;
+    box-shadow: 0 6px 18px rgba(30,126,30,.45);
+    border: 0; cursor: pointer; display: flex; align-items: center; gap: 8px;
+    transition: transform .15s, box-shadow .15s;
+  }
+  .float-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgba(30,126,30,.55); }
+  .float-btn:active { transform: translateY(0); }
+  .float-btn .icon { font-size: 18px; }
 
-  @media (max-width: 640px) {
-    header { padding: 18px 14px; }
-    header h1 { font-size: 18px; }
-    .container { padding: 14px 12px; }
-    .groups-grid { grid-template-columns: 1fr; gap: 12px; }
-    .btn { padding: 14px 14px; font-size: 16px; }
+  /* === МОДАЛЬНОЕ ОКНО ВИДЖЕТА === */
+  .modal-overlay {
+    position: fixed; inset: 0; background: rgba(0,0,0,.55);
+    z-index: 1001; display: none; align-items: flex-end; justify-content: center;
+    -webkit-backdrop-filter: blur(2px); backdrop-filter: blur(2px);
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: #fff; border-radius: 12px 12px 0 0; width: 100%; max-width: 560px;
+    max-height: 88vh; overflow: hidden; display: flex; flex-direction: column;
+    box-shadow: 0 -10px 40px rgba(0,0,0,.3);
+    animation: slideUp .25s ease;
+  }
+  @keyframes slideUp { from { transform: translateY(100%); } to { transform: translateY(0); } }
+  .modal-head {
+    background: linear-gradient(180deg, #2f4f7a 0%, #1f3f6a 100%); color: #fff;
+    padding: 14px 18px; display: flex; align-items: center; justify-content: space-between;
+  }
+  .modal-head h3 { margin: 0; font-size: 17px; }
+  .modal-close {
+    background: rgba(255,255,255,.15); color: #fff; border: 0;
+    width: 32px; height: 32px; border-radius: 50%; cursor: pointer;
+    font-size: 18px; line-height: 1;
+  }
+  .modal-close:hover { background: rgba(255,255,255,.28); }
+  .modal-body { padding: 16px 18px; overflow-y: auto; -webkit-overflow-scrolling: touch; }
+  .modal-search { width: 100%; padding: 11px 13px; border: 1px solid #c1d3e3; border-radius: 6px; font-size: 14px; margin-bottom: 12px; -webkit-appearance: none; }
+  .modal-tabs { display: flex; gap: 6px; margin-bottom: 12px; }
+  .modal-tab {
+    flex: 1; background: #eef2f7; color: #2f4f7a; border: 0; padding: 8px 10px;
+    border-radius: 5px; cursor: pointer; font-size: 13px; font-weight: 600;
+  }
+  .modal-tab.active { background: #2f4f7a; color: #fff; }
+  .modal-list { display: flex; flex-direction: column; gap: 8px; }
+  .modal-item {
+    background: #f9fafc; border: 1px solid #e0e6ec; border-radius: 6px;
+    padding: 10px 12px; display: flex; align-items: center; gap: 10px; cursor: pointer;
+    transition: background .12s, border-color .12s;
+  }
+  .modal-item:hover { background: #e7f0f9; border-color: #2f4f7a; }
+  .modal-item .info { flex: 1; }
+  .modal-item .name { font-weight: 600; color: #1f3f6a; font-size: 14px; }
+  .modal-item .meta { color: #888; font-size: 12px; margin-top: 2px; }
+  .modal-item.is-pin { border-color: #1e7e1e; background: #f0fbf0; }
+  .modal-item.is-pin .name::after { content: " ВЫ"; background: #1e7e1e; color: #fff; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-left: 6px; vertical-align: middle; }
+  .modal-actions { display: flex; gap: 8px; margin-top: 12px; }
+  .modal-actions .btn { flex: 1; }
+  .modal-empty { color: #888; text-align: center; padding: 20px; font-size: 13px; }
+
+  @media (max-width: 720px) {
+    .site-footer .container { grid-template-columns: 1fr; }
+    .float-btn { padding: 12px 18px; font-size: 14px; bottom: 14px; right: 14px; }
+    .modal { max-width: 100%; }
+    .page-title { font-size: 22px; }
     .pin-section .pin-actions .btn { flex-basis: 100%; }
     .pin-section .pin-qr > div, .pin-section .pin-qr img { width:96px; height:96px; }
   }
@@ -77,126 +181,205 @@
 </head>
 <body>
 
-<header>
-  <h1>📅 Расписание ФЭМ СПбГТИ (ТУ)</h1>
-  <p>Подписка в Apple Calendar / Google Calendar. Работает 24/7 на серверах GitHub Pages.</p>
+<!-- Полоска сверху -->
+<div class="top-bar">
+  <div class="container">
+    <a href="https://gtifem.ru/" target="_blank" rel="noopener">Официальный сайт ↗</a>
+    <a href="https://gtifem.ru/kontakty/" target="_blank" rel="noopener">Контакты</a>
+    <a href="https://www.technolog.edu.ru/" target="_blank" rel="noopener">СПбГТИ (ТУ)</a>
+  </div>
+</div>
+
+<!-- Шапка с лого -->
+<header class="site-header">
+  <div class="container">
+    <a class="site-logo" href="https://gtifem.ru/" target="_blank" rel="noopener" aria-label="Сайт ФЭМ">
+      <div class="badge">ФЭМ</div>
+      <div class="titles">
+        <h1>Факультет экономики и менеджмента</h1>
+        <p>Санкт-Петербургский государственный технологический институт (технический университет)</p>
+      </div>
+    </a>
+  </div>
 </header>
 
-<div class="container">
+<!-- Меню -->
+<nav class="main-nav">
+  <div class="container">
+    <a href="https://gtifem.ru/" target="_blank" rel="noopener">Главная<span class="ext">↗</span></a>
+    <a href="https://gtifem.ru/o-fakultete/" target="_blank" rel="noopener">О факультете<span class="ext">↗</span></a>
+    <a href="https://gtifem.ru/dekanat/" target="_blank" rel="noopener">Деканат<span class="ext">↗</span></a>
+    <a href="#schedule" class="current">📅 Расписание</a>
+    <a href="https://gtifem.ru/dekanat/lichniy-kabinet-bizhitskogo/" target="_blank" rel="noopener">Личный кабинет<span class="ext">↗</span></a>
+    <a href="https://gtifem.ru/studentam/" target="_blank" rel="noopener">Студентам<span class="ext">↗</span></a>
+    <a href="https://gtifem.ru/prepodavatelyam/" target="_blank" rel="noopener">Преподавателям<span class="ext">↗</span></a>
+  </div>
+</nav>
 
-  <!-- ИНСТРУКЦИЯ -->
-  <section class="howto">
-    <h2>📱 Как подписаться с iPhone (30 секунд)</h2>
-    <div class="howto-steps">
-      <div class="howto-step">
-        <p><span class="n">1</span><b>Найдите себя/группу</b> в списке ниже</p>
-        <small>Морозов А.М. — выделенный зелёный блок сразу под этим</small>
-      </div>
-      <div class="howto-step">
-        <p><span class="n">2</span>Тапните большую зелёную кнопку <b>«Открыть в Календаре»</b></p>
-        <small>Если Safari предложит «Открыть на сайте Календарь?» — нажмите «Открыть»</small>
-      </div>
-      <div class="howto-step">
-        <p><span class="n">3</span>В окне Календаря нажмите <b>«Подписаться»</b></p>
-        <small>Все 336 пар появятся, и будут обновляться сами (~раз в 6 часов)</small>
-      </div>
-      <div class="howto-step">
-        <p><span class="n">!</span>Если зелёная кнопка <b>скачала файл</b> вместо открытия</p>
-        <small>Откройте Files → Downloads → тапните файл → «Открыть в Календаре»</small>
-      </div>
-    </div>
-  </section>
+<main class="main">
+  <div class="container">
 
-  <!-- Морозов А.М. — закреплён сверху -->
-  <div id="pin-morozov" style="display:none;" class="pin-section">
-    <div class="pin-header">
-      <h2 id="pin-name">Морозов А.М.</h2>
-      <span class="pin-badge">ВЫ</span>
+    <p class="breadcrumbs">
+      <a href="https://gtifem.ru/" target="_blank" rel="noopener">gtifem.ru</a> · <a href="https://gtifem.ru/dekanat/" target="_blank" rel="noopener">Деканат</a> · <span>Расписание занятий (подписка)</span>
+    </p>
+
+    <h1 class="page-title">📅 Расписание занятий — подписка в календарь</h1>
+    <p class="page-subtitle">
+      Apple Calendar и Google Calendar поддерживают подписку на удалённое расписание.
+      Подпишитесь один раз — все изменения будут приходить автоматически.
+      Сайт обновляется с gtifem.ru каждые 6 часов.
+    </p>
+
+    <section class="howto">
+      <h2>📱 Как подписаться с iPhone (30 секунд)</h2>
+      <div class="howto-steps">
+        <div class="howto-step">
+          <p><span class="n">1</span><b>Найдите себя/группу</b> в списке или через плавающую кнопку</p>
+          <small>Морозов А.М. — выделенный блок сразу под этим</small>
+        </div>
+        <div class="howto-step">
+          <p><span class="n">2</span>Тапните зелёную <b>«Открыть в Календаре»</b></p>
+          <small>Safari: «Открыть на сайте Календарь?» → Открыть</small>
+        </div>
+        <div class="howto-step">
+          <p><span class="n">3</span>В Календаре — <b>«Подписаться»</b></p>
+          <small>Все пары появятся, дальше обновляются сами</small>
+        </div>
+        <div class="howto-step">
+          <p><span class="n">!</span>Если файл <b>сохранился в Files</b></p>
+          <small>Откройте Files → Downloads → тап → «Открыть в Календаре»</small>
+        </div>
+      </div>
+    </section>
+
+    <h2 class="section-title" id="schedule">⭐ Ваше расписание</h2>
+    <div id="pin-morozov" style="display:none;" class="pin-section">
+      <div class="pin-header">
+        <h2 id="pin-name">Морозов А.М.</h2>
+        <span class="pin-badge">ВЫ</span>
+      </div>
+      <p class="pin-meta" id="pin-meta">… загружаю …</p>
+      <div class="pin-actions">
+        <a id="pin-btn-cal" class="btn btn-primary" href="#">📲 Открыть в Календаре</a>
+        <a id="pin-btn-webcal" class="btn btn-secondary" href="#">webcal://</a>
+        <a id="pin-btn-dl" class="btn btn-tertiary btn-small" href="#" download="morozov-raspisanie.ics">⬇ Скачать .ics</a>
+      </div>
+      <div class="pin-qr">
+        <div id="pin-qr"></div>
+        <p><b>Сканируйте QR на телефоне</b> — попадёте на эту страницу, тапнете большую зелёную кнопку.</p>
+      </div>
     </div>
-    <p class="pin-meta" id="pin-meta">… загружаю …</p>
-    <div class="pin-actions">
-      <a id="pin-btn-cal" class="btn btn-primary" href="#">📲 Открыть в Календаре (рекомендуется)</a>
-      <a id="pin-btn-webcal" class="btn btn-secondary" href="#">webcal:// (для Apple)</a>
-      <a id="pin-btn-dl" class="btn btn-tertiary btn-small" href="#" download="morozov-raspisanie.ics">⬇ Скачать .ics файл</a>
+
+    <h2 class="section-title">👥 Группы студентов</h2>
+    <div class="groups-grid" id="groups"></div>
+
+    <h2 class="section-title">👨‍🏫 Все преподаватели</h2>
+    <input type="text" id="teacher-filter" placeholder="🔍 Поиск по фамилии…">
+    <div class="groups-grid" id="teachers"></div>
+
+  </div>
+</main>
+
+<!-- Плавающая кнопка -->
+<button class="float-btn" id="float-btn" aria-label="Открыть виджет расписания">
+  <span class="icon">📅</span><span>Моё расписание</span>
+</button>
+
+<!-- Модальное окно виджета -->
+<div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+  <div class="modal">
+    <div class="modal-head">
+      <h3 id="modal-title">📅 Подписка на расписание</h3>
+      <button class="modal-close" id="modal-close" aria-label="Закрыть">×</button>
     </div>
-    <div class="pin-qr">
-      <div id="pin-qr"></div>
-      <p><b>Сканируйте QR на телефоне</b> — попадёте на эту страницу, тапнете большую зелёную кнопку. QR ведёт на страницу подписки.</p>
+    <div class="modal-body">
+      <input type="text" class="modal-search" id="modal-search" placeholder="🔍 Введите фамилию или номер группы…" autocomplete="off">
+      <div class="modal-tabs">
+        <button class="modal-tab active" data-tab="teachers">Преподаватели</button>
+        <button class="modal-tab" data-tab="groups">Группы</button>
+      </div>
+      <div class="modal-list" id="modal-list">
+        <div class="modal-empty">Загружаю список…</div>
+      </div>
     </div>
   </div>
-
-  <!-- Группы -->
-  <h2 class="section-title">👥 Группы студентов</h2>
-  <div class="groups-grid" id="groups"></div>
-
-  <!-- Преподаватели -->
-  <h2 class="section-title">👨‍🏫 Все преподаватели</h2>
-  <input type="text" id="teacher-filter" placeholder="🔍 Поиск по фамилии…">
-  <div class="groups-grid" id="teachers"></div>
-
-  <div class="ok-note">
-    <b>✓ Постоянная публичная ссылка.</b> Все файлы расписания хостятся на GitHub Pages. Подписка работает 24/7 — не зависит от чьего-либо ноутбука. Apple/Google Calendar будут периодически перечитывать ленту и подхватывать обновления автоматически.
-  </div>
-
-  <footer>
-    ФЭМ СПбГТИ (ТУ) · 2025/2026 учебный год · Сборка из 35 месячных таблиц расписания
-  </footer>
 </div>
+
+<!-- Footer -->
+<footer class="site-footer">
+  <div class="container">
+    <div>
+      <h4>ФЭМ СПбГТИ (ТУ)</h4>
+      <p style="margin:0;">Факультет экономики и менеджмента<br>Санкт-Петербургского государственного технологического института (технического университета).</p>
+      <p style="margin:10px 0 0;"><a href="https://gtifem.ru/" target="_blank" rel="noopener">↗ Перейти на gtifem.ru</a></p>
+    </div>
+    <div>
+      <h4>Расписание</h4>
+      <ul>
+        <li><a href="#schedule">Ваше расписание</a></li>
+        <li><a href="#" id="open-modal-link">Виджет (поиск)</a></li>
+        <li><a href="https://gtifem.ru/dekanat/raspisanie/" target="_blank" rel="noopener">↗ Сайт ФЭМ — Группы</a></li>
+        <li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/" target="_blank" rel="noopener">↗ Сайт ФЭМ — Преподаватели</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Технически</h4>
+      <ul>
+        <li>Подписка через webcal:// / .ics</li>
+        <li>Автообновление каждые 6 часов</li>
+        <li><a href="https://github.com/vnuchenic777-bot/gtifem-schedule" target="_blank" rel="noopener">↗ Открытый репо</a></li>
+      </ul>
+    </div>
+    <div class="copyr" style="grid-column: 1 / -1;">
+      Расписание — публичная информация с gtifem.ru. Сайт-визитка для подписки в календарь. Не является официальным сайтом факультета.
+    </div>
+  </div>
+</footer>
 
 <script src="./assets/qrcode-generator.js"></script>
 <script>
 (function () {
-  // === Все ссылки — относительные к origin (GitHub Pages поддомен/подпуть) ===
   var BASE = window.location.origin + window.location.pathname.replace(/[^/]*$/, "");
-  // BASE заканчивается на "/", например "https://vnuchenic777-bot.github.io/gtifem-schedule/"
-
   var GROUP_TITLES = {
-    "6411": "Экономика · 2 курс",
-    "6412": "Экономика · 2 курс",
-    "6511": "Экономика · 1 курс",
-    "6512": "Экономика · 1 курс",
-    "6491": "СПО · 2 курс",
-    "6591": "СПО · 1 курс"
+    "6211": "Экономика · 4 курс", "6212": "Экономика · 4 курс",
+    "6311": "Экономика · 3 курс", "6312": "Экономика · 3 курс",
+    "6411": "Экономика · 2 курс", "6412": "Экономика · 2 курс",
+    "6461": "Бакалавриат",
+    "6491": "СПО · 2 курс", "6591": "СПО · 1 курс",
+    "6511": "Экономика · 1 курс", "6512": "Экономика · 1 курс"
   };
 
-  // === Локальный QR-генератор (Kazuhiko Arase, MIT) ===
   function renderQrInto(el, text, size) {
     el.innerHTML = "";
     if (typeof qrcode !== "function") {
-      el.innerHTML = '<div style="font-size:10px;color:#999;text-align:center;padding:8px;">QR JS<br>не загружен</div>';
+      el.innerHTML = '<div style="font-size:10px;color:#999;text-align:center;padding:8px;">QR не загружен</div>';
       return;
     }
     try {
-      var qr = qrcode(0, "M"); // auto type, error correction M
-      qr.addData(text);
-      qr.make();
-      // createImgTag(cellSize, margin) — целые пиксели
+      var qr = qrcode(0, "M");
+      qr.addData(text); qr.make();
       var moduleCount = qr.getModuleCount();
       var cellSize = Math.max(2, Math.floor(size / (moduleCount + 8)));
       el.innerHTML = qr.createImgTag(cellSize, 4);
       var img = el.querySelector("img");
-      if (img) {
-        img.style.width = size + "px";
-        img.style.height = size + "px";
-        img.style.display = "block";
-        img.alt = "QR: " + text;
-      }
+      if (img) { img.style.width = size + "px"; img.style.height = size + "px"; img.style.display = "block"; img.alt = "QR"; }
     } catch (e) {
       el.innerHTML = '<div style="font-size:10px;color:#c00;text-align:center;padding:8px;">QR error</div>';
     }
   }
 
-  // === Загрузка списков ===
+  var teachersCache = [], groupsCache = [];
+
   Promise.all([
     fetch("./api/schedule/groups.json").then(function (r) { return r.json(); }),
     fetch("./api/schedule/teachers.json").then(function (r) { return r.json(); })
   ]).then(function (results) {
-    var groups = (results[0] && results[0].groups) || [];
-    var teachers = (results[1] && results[1].teachers) || [];
+    groupsCache = (results[0] && results[0].groups) || [];
+    teachersCache = (results[1] && results[1].teachers) || [];
 
-    // ----- Группы -----
+    // ----- Группы (основной список) -----
     var gContainer = document.getElementById("groups");
-    gContainer.innerHTML = groups.map(function (g) {
+    gContainer.innerHTML = groupsCache.map(function (g) {
       var icsUrl = BASE + "api/schedule/group/" + g + ".ics";
       var webcalUrl = "webcal://" + icsUrl.replace(/^https?:\/\//, "");
       var pageUrl = BASE + "#g-" + g;
@@ -211,33 +394,31 @@
           '</div>' +
           '<div class="qr-wrap">' +
             '<div data-qr="' + pageUrl + '"></div>' +
-            '<small>QR ведёт на эту страницу — сканируйте камерой телефона</small>' +
+            '<small>QR на эту страницу</small>' +
           '</div>' +
         '</div>';
     }).join("");
 
-    // ----- Морозов А.М. → pin сверху -----
-    var morozov = teachers.filter(function (t) { return t.slug === "morozov-a-m"; })[0];
+    // ----- Морозов pin -----
+    var morozov = teachersCache.filter(function (t) { return t.slug === "morozov-a-m"; })[0];
     if (morozov) {
       var icsUrl = BASE + "api/schedule/teacher/morozov-a-m.ics";
       var webcalUrl = "webcal://" + icsUrl.replace(/^https?:\/\//, "");
-      var pageUrl = BASE;
       document.getElementById("pin-morozov").style.display = "block";
       document.getElementById("pin-name").textContent = morozov.name || "Морозов А.М.";
       document.getElementById("pin-meta").textContent = (morozov.lessons || 0) + " пар · группы: " + (morozov.groups || []).join(", ");
       document.getElementById("pin-btn-cal").href = icsUrl;
       document.getElementById("pin-btn-webcal").href = webcalUrl;
       document.getElementById("pin-btn-dl").href = icsUrl;
-      renderQrInto(document.getElementById("pin-qr"), pageUrl, 120);
+      renderQrInto(document.getElementById("pin-qr"), BASE, 120);
     }
 
-    // ----- Все преподаватели (морозов первым) -----
-    var sortedTeachers = teachers.slice().sort(function (a, b) {
+    // ----- Все преподаватели -----
+    var sorted = teachersCache.slice().sort(function (a, b) {
       if (a.slug === "morozov-a-m") return -1;
       if (b.slug === "morozov-a-m") return 1;
       return (b.lessons || 0) - (a.lessons || 0);
     });
-
     function renderTeachers(list) {
       var c = document.getElementById("teachers");
       if (!list.length) { c.innerHTML = '<p style="color:#888;padding:20px;">Никто не найден.</p>'; return; }
@@ -247,37 +428,99 @@
         var grStr = (t.groups || []).slice(0, 6).join(", ") + (t.groups && t.groups.length > 6 ? "…" : "");
         return '' +
           '<div class="group-card">' +
-            '<div><h3>' + t.name + '</h3><p class="subtitle">' + (t.lessons || 0) + ' пар · группы: ' + grStr + '</p></div>' +
+            '<div><h3>' + t.name + '</h3><p class="subtitle">' + (t.lessons || 0) + ' пар · ' + grStr + '</p></div>' +
             '<div class="actions">' +
               '<a class="btn btn-primary" href="' + icsUrl + '">📲 Открыть в Календаре</a>' +
               '<a class="btn btn-secondary" href="' + webcalUrl + '">webcal://</a>' +
-              '<a class="btn btn-tertiary btn-small" href="' + icsUrl + '" download="' + t.slug + '.ics">⬇ Скачать .ics</a>' +
+              '<a class="btn btn-tertiary btn-small" href="' + icsUrl + '" download="' + t.slug + '.ics">⬇ Скачать</a>' +
             '</div>' +
           '</div>';
       }).join("");
     }
+    renderTeachers(sorted);
 
-    renderTeachers(sortedTeachers);
-
-    var filter = document.getElementById("teacher-filter");
-    filter.addEventListener("input", function () {
-      var q = filter.value.trim().toLowerCase();
-      if (!q) { renderTeachers(sortedTeachers); return; }
-      renderTeachers(sortedTeachers.filter(function (t) {
+    document.getElementById("teacher-filter").addEventListener("input", function (e) {
+      var q = e.target.value.trim().toLowerCase();
+      renderTeachers(q ? sorted.filter(function (t) {
         return (t.name || "").toLowerCase().indexOf(q) !== -1 || (t.slug || "").indexOf(q) !== -1;
-      }));
+      }) : sorted);
     });
 
-    // Генерируем все QR в групповых карточках
     document.querySelectorAll("[data-qr]").forEach(function (el) {
-      renderQrInto(el, el.getAttribute("data-qr"), 72);
+      renderQrInto(el, el.getAttribute("data-qr"), 64);
     });
   }).catch(function (err) {
-    var msg = '<div class="ok-note" style="background:#fff0f0;border-color:#f0a0a0;color:#6a2828;"><b>⚠ Не удалось загрузить расписание:</b> ' + (err && err.message || err) + '</div>';
-    document.getElementById("groups").innerHTML = msg;
-    document.getElementById("teachers").innerHTML = "";
+    document.getElementById("groups").innerHTML =
+      '<div class="howto" style="background:#fff0f0;border-color:#f0a0a0;color:#6a2828;"><b>⚠ Не удалось загрузить расписание:</b> ' + (err && err.message || err) + '</div>';
+  });
+
+  // === ВИДЖЕТ (плавающее окно) ===
+  var modal = document.getElementById("modal-overlay");
+  var modalList = document.getElementById("modal-list");
+  var modalSearch = document.getElementById("modal-search");
+  var currentTab = "teachers";
+
+  function openModal() { modal.classList.add("open"); modalSearch.focus(); renderModal(); }
+  function closeModal() { modal.classList.remove("open"); }
+
+  function renderModal() {
+    var q = modalSearch.value.trim().toLowerCase();
+    var src;
+    if (currentTab === "teachers") {
+      src = teachersCache.slice().sort(function (a, b) {
+        if (a.slug === "morozov-a-m") return -1;
+        if (b.slug === "morozov-a-m") return 1;
+        return (b.lessons || 0) - (a.lessons || 0);
+      });
+    } else {
+      src = groupsCache.map(function (g) { return { slug: g, name: "Группа " + g, lessons: 0, groups: [GROUP_TITLES[g] || "учебная"] }; });
+    }
+    if (q) {
+      src = src.filter(function (it) {
+        return ((it.name || "") + " " + (it.slug || "")).toLowerCase().indexOf(q) !== -1;
+      });
+    }
+    if (!src.length) {
+      modalList.innerHTML = '<div class="modal-empty">Ничего не найдено</div>';
+      return;
+    }
+    modalList.innerHTML = src.slice(0, 80).map(function (it) {
+      var icsUrl = BASE + "api/schedule/" + (currentTab === "teachers" ? "teacher" : "group") + "/" + it.slug + ".ics";
+      var webcalUrl = "webcal://" + icsUrl.replace(/^https?:\/\//, "");
+      var isPin = it.slug === "morozov-a-m";
+      var groupsText = currentTab === "teachers"
+        ? (it.lessons || 0) + " пар · " + (it.groups || []).slice(0, 4).join(", ")
+        : (it.groups[0] || "");
+      return '' +
+        '<div class="modal-item ' + (isPin ? "is-pin" : "") + '" data-ics="' + icsUrl + '" data-webcal="' + webcalUrl + '">' +
+          '<div class="info">' +
+            '<div class="name">' + it.name + '</div>' +
+            '<div class="meta">' + groupsText + '</div>' +
+          '</div>' +
+          '<div style="display:flex;flex-direction:column;gap:4px;">' +
+            '<a class="btn btn-primary btn-small" href="' + icsUrl + '">Открыть</a>' +
+          '</div>' +
+        '</div>';
+    }).join("");
+  }
+
+  document.getElementById("float-btn").addEventListener("click", openModal);
+  document.getElementById("modal-close").addEventListener("click", closeModal);
+  document.getElementById("open-modal-link").addEventListener("click", function (e) { e.preventDefault(); openModal(); });
+  modal.addEventListener("click", function (e) { if (e.target === modal) closeModal(); });
+  document.addEventListener("keydown", function (e) { if (e.key === "Escape" && modal.classList.contains("open")) closeModal(); });
+
+  modalSearch.addEventListener("input", renderModal);
+  document.querySelectorAll(".modal-tab").forEach(function (b) {
+    b.addEventListener("click", function () {
+      document.querySelectorAll(".modal-tab").forEach(function (x) { x.classList.remove("active"); });
+      b.classList.add("active");
+      currentTab = b.getAttribute("data-tab");
+      renderModal();
+    });
   });
 }());
 </script>
+
 </body>
 </html>
