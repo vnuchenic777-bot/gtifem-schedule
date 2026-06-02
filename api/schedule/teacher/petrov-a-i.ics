@@ -1,0 +1,241 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Петров А.И. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Петров А.И., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6451-6452-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6451\,6452 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6451\,6452\nАудитория: каф.физ.воспитания\nПара №1\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №1\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №2\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №3\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №4\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6451-6452-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6451\,6452 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6451\,6452\nАудитория: каф.физ.воспитания\nПара №2\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №5\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №6\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6281-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6281 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6281\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
+ тель: Петров А.И.
+CATEGORIES:Преподавание,6281
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6381-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6381 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6381\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
+ тель: Петров А.И.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №7\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\nАудитория: каф.физ.воспитания\nПара №8\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6251-6252-6451-6452-элективные-курсы-по-физическо
+ й@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6251\,6252\, 6451\,6452 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6251\,6252\, 6451\,6452\nАудитория: каф.физ.воспитания\
+ nПара №9\nПреподаватель: Петров А.И.
+CATEGORIES:Преподавание,6251\,6252\, 6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-6381-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6381 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6381\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
+ тель: Петров А.И.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6381-6251-6252-элективные-курсы-по-физической@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6381\, 6251\,6252 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6381\, 6251\,6252\nАудитория: каф.физ.воспитания\nПара 
+ №3\nПреподаватель: Петров А.И.
+CATEGORIES:Преподавание,6381\, 6251\,6252
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6451-6452-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6451\,6452 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6451\,6452\nАудитория: каф.физ.воспитания\nПара №5\nПре
+ подаватель: Петров А.И.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

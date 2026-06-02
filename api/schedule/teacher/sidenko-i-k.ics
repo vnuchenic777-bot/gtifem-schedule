@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Сиденко И. К. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Сиденко И. К., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Сиденко И.К. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Сиденко И.К., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -17,6 +17,20 @@ TZNAME:MSK
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250916-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 9
+LOCATION:а.409
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.409\nПара №1\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
@@ -42,6 +56,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250916-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 9
+LOCATION:а.409
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.409\nПара №2\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250916-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250916T113000
@@ -63,6 +91,20 @@ LOCATION:а.409
 DESCRIPTION:Группа: 6312\nАудитория: а.409\nПара №2\nПреподаватель: Сиденко
   И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №1\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -92,6 +134,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250917-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T160000
+DTEND;TZID=Europe/Moscow:20250917T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №2\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250917-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250917T160000
@@ -115,6 +171,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №2\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.41
+ 1
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.411\nПара №3\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -142,6 +212,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250919-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.41
+ 1
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.411\nПара №4\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250919-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250919T113000
@@ -163,6 +247,33 @@ LOCATION:а.411
 DESCRIPTION:Группа: 6312\nАудитория: а.411\nПара №4\nПреподаватель: Сиденко
   И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6533-6534-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Экономика практическое занятие · гр. 6533\,6534 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.6116\nПара №6\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6242\nПара №1\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -192,6 +303,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250922-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6242\nПара №2\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250922-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250922T160000
@@ -215,6 +340,20 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6312\nАудитория: а.6242\nПара №2\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6236\nПара №3\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -244,6 +383,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250924-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6236\nПара №4\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250924-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250924T160000
@@ -270,6 +423,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250925-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.63
+ 78
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №5\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250925T093000
@@ -291,6 +458,20 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6312\nАудитория: а.6378\nПара №5\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6382\nПара №5\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -320,6 +501,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250926-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №7\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250926-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250926T140000
@@ -343,6 +538,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №7\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №8\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -372,6 +581,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250929-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.408\nПара №6\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250929-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250929T140000
@@ -395,6 +618,20 @@ LOCATION:а.408
 DESCRIPTION:Группа: 6312\nАудитория: а.408\nПара №6\nПреподаватель: Сиденко
   И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 8
+LOCATION:а.408
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.408\nПара №6\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -422,6 +659,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251001-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.62
+ 45
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №7\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251001-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251001T140000
@@ -443,6 +694,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №7\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №3\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -472,6 +737,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251003-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.411\nПара №4\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251003-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251003T140000
@@ -495,6 +774,20 @@ LOCATION:а.411
 DESCRIPTION:Группа: 6312\nАудитория: а.411\nПара №4\nПреподаватель: Сиденко
   И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.41
+ 1
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.411\nПара №8\nПреподаватель: С
+ иденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -522,6 +815,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251006-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T180000
+DTEND;TZID=Europe/Moscow:20251006T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T200000
+DTEND;TZID=Europe/Moscow:20251006T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, практ · гр. 636вэ1-9\,636вэ1
+ 0-18 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.63
+ 81
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6381\nПара №9\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251007-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251007T140000
@@ -543,6 +878,19 @@ LOCATION:а.6381
 DESCRIPTION:Группа: 6312\nАудитория: а.6381\nПара №9\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №1\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -570,6 +918,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251008-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №2\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251008-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251008T140000
@@ -591,6 +952,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №2\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 3
+LOCATION:а.403
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.403\nПара №10\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -618,6 +993,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251009-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №3\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251009-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251009T093000
@@ -639,6 +1027,19 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №3\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №4\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -666,6 +1067,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251010-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 6
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.406\nПара №11\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251010-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251010T093000
@@ -687,6 +1102,20 @@ LOCATION:а.406
 DESCRIPTION:Группа: 6312\nАудитория: а.406\nПара №11\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 6
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.406\nПара №12\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -714,6 +1143,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251013-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.62
+ 49
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6249\nПара №13\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251013-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251013T093000
@@ -735,6 +1178,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6312\nАудитория: а.6249\nПара №13\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6249\nПара №5\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -764,6 +1221,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251013-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T180000
+DTEND;TZID=Europe/Moscow:20251013T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6373\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T200000
+DTEND;TZID=Europe/Moscow:20251013T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, практ · гр. 636вэ1-9\,636вэ1
+ 0-18 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6373\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а. 6
+ 373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а. 6373\nПара №14\nПреподаватель
+ : Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251014-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251014T140000
@@ -785,6 +1284,20 @@ LOCATION:а. 6373
 DESCRIPTION:Группа: 6312\nАудитория: а. 6373\nПара №14\nПреподаватель: Сиде
  нко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а. 6
+ 373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а. 6373\nПара №15\nПреподаватель
+ : Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -812,6 +1325,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251015-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а. 6
+ 373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а. 6373\nПара №16\nПреподаватель
+ : Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251015-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251015T113000
@@ -833,6 +1360,20 @@ LOCATION:а. 6373
 DESCRIPTION:Группа: 6312\nАудитория: а. 6373\nПара №16\nПреподаватель: Сиде
  нко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №6\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -862,6 +1403,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251017-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №7\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251017-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251017T160000
@@ -885,6 +1440,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №7\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №9\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -914,6 +1483,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251021-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №10\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251021-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251021T113000
@@ -937,6 +1520,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №10\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №8\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -966,6 +1563,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251022-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T160000
+DTEND;TZID=Europe/Moscow:20251022T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №9\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251022-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251022T160000
@@ -989,6 +1600,48 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №9\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T180000
+DTEND;TZID=Europe/Moscow:20251022T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6249\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T200000
+DTEND;TZID=Europe/Moscow:20251022T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, практ · гр. 636вэ1-9\,636вэ1
+ 0-18 · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6249\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №11\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1018,6 +1671,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251024-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №12\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251024-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251024T113000
@@ -1041,6 +1708,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №12\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.41
+ 1
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.411\nПара №17\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1068,6 +1749,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251028-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.41
+ 1
+LOCATION:а.411
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.411\nПара №18\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251028-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251028T113000
@@ -1089,6 +1784,20 @@ LOCATION:а.411
 DESCRIPTION:Группа: 6312\nАудитория: а.411\nПара №18\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №10\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1118,6 +1827,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251029-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №5\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251029-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251029T160000
@@ -1139,6 +1861,19 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №5\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №6\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1166,6 +1901,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251030-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.62
+ 48
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6248\nПара №19\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251030-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251030T113000
@@ -1187,6 +1936,20 @@ LOCATION:а.6248
 DESCRIPTION:Группа: 6312\nАудитория: а.6248\nПара №19\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №11\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1216,6 +1979,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251031-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №7\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251031-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251031T113000
@@ -1237,6 +2013,19 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №7\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №8\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1264,6 +2053,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251101-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №9\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251101-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251101T113000
@@ -1288,6 +2090,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251106-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а. 6
+ 373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а. 6373\nПара №20\nПреподаватель
+ : Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251106-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
@@ -1309,6 +2125,20 @@ LOCATION:а. 6373
 DESCRIPTION:Группа: 6312\nАудитория: а. 6373\nПара №20\nПреподаватель: Сиде
  нко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а. 6248\nПара №12\nПреподаватель
+ : Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1338,6 +2168,76 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251106-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T180000
+DTEND;TZID=Europe/Moscow:20251106T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T200000
+DTEND;TZID=Europe/Moscow:20251106T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, практ · гр. 636вэ1-9\,636вэ1
+ 0-18 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T180000
+DTEND;TZID=Europe/Moscow:20251112T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лаб · гр. 636вэ1-9\,636вэ10-
+ 18 · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6117\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T200000
+DTEND;TZID=Europe/Moscow:20251112T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, лаб · гр. 636вэ1-9\,636вэ10-
+ 18 · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6117\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №13\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251114-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251114T140000
@@ -1361,6 +2261,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №13\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T160000
+DTEND;TZID=Europe/Moscow:20251114T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №14\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1390,6 +2304,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251117-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T093000
+DTEND;TZID=Europe/Moscow:20251117T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №10\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251117-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251117T093000
@@ -1414,6 +2341,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251117-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.61
+ 07
+LOCATION:а.6107
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6107\nПара №21\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251117-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251117T113000
@@ -1435,6 +2376,20 @@ LOCATION:а.6107
 DESCRIPTION:Группа: 6312\nАудитория: а.6107\nПара №21\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №15\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1464,6 +2419,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251119-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №16\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251119-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251119T160000
@@ -1487,6 +2456,47 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №16\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T180000
+DTEND;TZID=Europe/Moscow:20251119T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лаб · гр. 636вэ1-9\,636вэ10-
+ 18 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T200000
+DTEND;TZID=Europe/Moscow:20251119T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, лаб · гр. 636вэ1-9\,636вэ10-
+ 18 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №11\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1514,6 +2524,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251120-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №12\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251120-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251120T160000
@@ -1535,6 +2558,19 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №12\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №13\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1562,6 +2598,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251121-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.63
+ 82
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6382\nПара №22\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251121-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251121T113000
@@ -1583,6 +2633,20 @@ LOCATION:а.6382
 DESCRIPTION:Группа: 6312\nАудитория: а.6382\nПара №22\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №13\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1612,6 +2676,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251124-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №14\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251124-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251124T113000
@@ -1635,6 +2713,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №14\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №17\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1664,6 +2756,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251125-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №14\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251125-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251125T113000
@@ -1685,6 +2790,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №14\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №18\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1714,6 +2833,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251127-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №19\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251127-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251127T160000
@@ -1737,6 +2870,34 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №19\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T180000
+DTEND;TZID=Europe/Moscow:20251127T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, КР · гр. 636вэ1-9\,636вэ10-1
+ 8 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №20\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1766,6 +2927,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251128-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №15\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251128-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251128T113000
@@ -1789,6 +2964,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №15\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №16\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1818,6 +3007,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251201-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.62
+ 40
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6240\nПара №23\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251201-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251201T160000
@@ -1839,6 +3042,20 @@ LOCATION:а.6240
 DESCRIPTION:Группа: 6312\nАудитория: а.6240\nПара №23\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №21\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1868,6 +3085,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251202-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №15\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251202-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251202T113000
@@ -1892,6 +3122,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251203-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T093000
+DTEND;TZID=Europe/Moscow:20251203T111000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №16\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251203-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251203T093000
@@ -1913,6 +3156,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №16\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №17\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1942,6 +3199,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251208-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №17\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251208-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251208T140000
@@ -1963,6 +3233,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №17\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №22\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1992,6 +3276,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251208-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T180000
+DTEND;TZID=Europe/Moscow:20251208T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T200000
+DTEND;TZID=Europe/Moscow:20251208T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 6
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.406\nПара №24\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251209-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251209T140000
@@ -2013,6 +3339,20 @@ LOCATION:а.406
 DESCRIPTION:Группа: 6312\nАудитория: а.406\nПара №24\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.406\nПара №23\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2042,6 +3382,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251211-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:Бухгалтерский учет и налогообложение лекция (ауд) · гр. 6311\,6312 
+ · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6249\nПара №25\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251211-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251211T093000
@@ -2065,6 +3419,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6312\nАудитория: а.6249\nПара №25\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6382\nПара №24\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2094,6 +3462,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251215-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №25\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251215-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251215T093000
@@ -2117,6 +3499,19 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №25\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №18\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,6 +3539,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251216-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №19\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251216-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251216T140000
@@ -2168,6 +3576,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251216-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.62
+ 40
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6240\nПара №26\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251216-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251216T160000
@@ -2189,6 +3611,20 @@ LOCATION:а.6240
 DESCRIPTION:Группа: 6312\nАудитория: а.6240\nПара №26\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T140000
+DTEND;TZID=Europe/Moscow:20251217T154000
+SUMMARY:Бухгалтерский учет и налогообложение практическое занятие · гр. 631
+ 1\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №26\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2218,6 +3654,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251217-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T160000
+DTEND;TZID=Europe/Moscow:20251217T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №18\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251217-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251217T160000
@@ -2241,6 +3691,47 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №18\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6116\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6116\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №20\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2268,6 +3759,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251222-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №21\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251222-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251222T160000
@@ -2289,6 +3793,47 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №21\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T180000
+DTEND;TZID=Europe/Moscow:20251222T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T200000
+DTEND;TZID=Europe/Moscow:20251222T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, лекц · гр. 636вэ1-9\,636вэ10
+ -18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Бухгалтерский учет и налогообложение КР · гр. 6311\,6312 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.403\nПара №22\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2316,6 +3861,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251225-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Бухгалтерский учет и налогообложение лекция · гр. 6311\,6312 · а.40
+ 3
+LOCATION:а.403
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.403\nПара №27\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251225-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251225T160000
@@ -2337,6 +3896,20 @@ LOCATION:а.403
 DESCRIPTION:Группа: 6312\nАудитория: а.403\nПара №27\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6249\nПара №19\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2366,6 +3939,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251229-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Бухгалтерский учет и налогообложение лабораторный практикум · гр. 6
+ 311\,6312 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6249\nПара №20\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251229-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251229T160000
@@ -2389,6 +3976,47 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6312\nАудитория: а.6249\nПара №20\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T180000
+DTEND;TZID=Europe/Moscow:20251229T184500
+SUMMARY:Бухгалтерский учет и налогообложение\, практ · гр. 636вэ1-9\,636вэ1
+ 0-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T200000
+DTEND;TZID=Europe/Moscow:20251229T204500
+SUMMARY:Бухгалтерский учет и налогообложение\, практ · гр. 636вэ1-9\,636вэ1
+ 0-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.409\nПара №28\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2416,6 +4044,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260114-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №21\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260114-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T160000
@@ -2440,6 +4082,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260114-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T180000
+DTEND;TZID=Europe/Moscow:20260114T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №1\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T200000
+DTEND;TZID=Europe/Moscow:20260114T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №2\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6373\nПара №29\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260115-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
@@ -2461,6 +4145,20 @@ LOCATION:а.6373
 DESCRIPTION:Группа: 6312\nАудитория: а.6373\nПара №29\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6248\nПара №23\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2490,6 +4188,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260115-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №24\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260115-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260115T160000
@@ -2513,6 +4225,20 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6312\nАудитория: а.6378\nПара №24\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T093000
+DTEND;TZID=Europe/Moscow:20260120T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №25\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2542,6 +4268,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260120-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №26\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260120-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260120T113000
@@ -2565,6 +4305,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6312\nАудитория: а.6116\nПара №26\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №27\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2594,6 +4348,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260121-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260121T180000
+DTEND;TZID=Europe/Moscow:20260121T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №3\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260121T200000
+DTEND;TZID=Europe/Moscow:20260121T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №4\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.638
+ 1
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6381\nПара №30\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260123T113000
@@ -2618,6 +4414,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260123-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.406\nПара №31\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
@@ -2639,6 +4448,20 @@ LOCATION:а.406
 DESCRIPTION:Группа: 6312\nАудитория: а.406\nПара №31\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T160000
+DTEND;TZID=Europe/Moscow:20260123T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6249\nПара №28\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2668,6 +4491,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260128-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T093000
+DTEND;TZID=Europe/Moscow:20260128T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №29\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260128-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260128T093000
@@ -2694,6 +4531,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260128-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T113000
+DTEND;TZID=Europe/Moscow:20260128T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.624
+ 0
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6240\nПара №32\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260128-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260128T113000
@@ -2715,6 +4566,20 @@ LOCATION:а.6240
 DESCRIPTION:Группа: 6312\nАудитория: а.6240\nПара №32\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №30\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2744,6 +4609,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260202-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.638
+ 1
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6381\nПара №33\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260202-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T113000
@@ -2765,6 +4644,20 @@ LOCATION:а.6381
 DESCRIPTION:Группа: 6312\nАудитория: а.6381\nПара №33\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №31\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2794,6 +4687,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260202-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №32\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260202-1600-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
@@ -2820,6 +4727,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260210-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПреподаватель: Сиденко И
+ .К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260210-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260210T093000
@@ -2841,6 +4762,20 @@ SUMMARY:Бухгалтерский учет и налогообложение (�
 LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПреподаватель: Сиденко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №33\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2870,6 +4805,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260211-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T180000
+DTEND;TZID=Europe/Moscow:20260211T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №5\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T200000
+DTEND;TZID=Europe/Moscow:20260211T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №6\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №34\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260212-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260212T093000
@@ -2893,6 +4870,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6312\nАудитория: а.6116\nПара №34\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №35\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2922,6 +4913,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260213-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №36\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260213T093000
@@ -2948,6 +4953,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260213-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.101\nПара №34\nПреподаватель: 
+ Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260213T113000
@@ -2969,6 +4987,20 @@ LOCATION:а.101
 DESCRIPTION:Группа: 6312\nАудитория: а.101\nПара №34\nПреподаватель: Сиденк
  о И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №37\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2998,6 +5030,19 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260216-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №27\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260216-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260216T113000
@@ -3019,6 +5064,20 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6312\nАудитория: а.6378\nПара №27\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №22\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3046,6 +5105,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260217-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №23\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260217-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260217T113000
@@ -3067,6 +5140,20 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6312\nАудитория: а.6378\nПара №23\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №38\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3096,6 +5183,47 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260218-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260218T180000
+DTEND;TZID=Europe/Moscow:20260218T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №7\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260218T200000
+DTEND;TZID=Europe/Moscow:20260218T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №8\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6382\nПара №28\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260219-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260219T140000
@@ -3117,6 +5245,19 @@ LOCATION:а.6382
 DESCRIPTION:Группа: 6312\nАудитория: а.6382\nПара №28\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №29\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3144,6 +5285,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260225-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T180000
+DTEND;TZID=Europe/Moscow:20260225T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №9\nПрепо
+ даватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T200000
+DTEND;TZID=Europe/Moscow:20260225T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №10\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №24\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260303-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260303T093000
@@ -3165,6 +5348,20 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6312\nАудитория: а.6378\nПара №24\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №25\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3192,6 +5389,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260304-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.624
+ 8
+LOCATION:а.6248
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6248\nПара №35\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260304-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260304T140000
@@ -3213,6 +5424,20 @@ LOCATION:а.6248
 DESCRIPTION:Группа: 6312\nАудитория: а.6248\nПара №35\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.638
+ 1
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6381\nПара №36\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3240,6 +5465,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260304-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T180000
+DTEND;TZID=Europe/Moscow:20260304T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №11\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T200000
+DTEND;TZID=Europe/Moscow:20260304T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №12\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260311T093000
+DTEND;TZID=Europe/Moscow:20260311T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №26\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260311-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260311T093000
@@ -3261,6 +5528,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №26\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.638
+ 1
+LOCATION:а.6381
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6381\nПара №37\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3288,6 +5569,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260313-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.624
+ 9
+LOCATION:а.6249
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6249\nПара №27\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260313-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260313T113000
@@ -3309,6 +5604,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6312\nАудитория: а.6249\nПара №27\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6373\nПара №38\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3336,6 +5645,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260317-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №28\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260317-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260317T093000
@@ -3357,6 +5680,20 @@ LOCATION:а.6117
 DESCRIPTION:Группа: 6312\nАудитория: а.6117\nПара №28\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260317T113000
+DTEND;TZID=Europe/Moscow:20260317T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №29\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3384,6 +5721,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260325-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260325T180000
+DTEND;TZID=Europe/Moscow:20260325T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №13\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260325T200000
+DTEND;TZID=Europe/Moscow:20260325T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №14\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260327T093000
+DTEND;TZID=Europe/Moscow:20260327T111000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6373\nПара №39\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260327-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260327T093000
@@ -3405,6 +5784,20 @@ LOCATION:а.6373
 DESCRIPTION:Группа: 6312\nАудитория: а.6373\nПара №39\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260327T113000
+DTEND;TZID=Europe/Moscow:20260327T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 6311\,6312 · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6373\nПара №40\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3432,6 +5825,378 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260401-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №30\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T160000
+DTEND;TZID=Europe/Moscow:20260401T174000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №31\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T180000
+DTEND;TZID=Europe/Moscow:20260401T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №15\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T200000
+DTEND;TZID=Europe/Moscow:20260401T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №16\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260408T160000
+DTEND;TZID=Europe/Moscow:20260408T174000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №32\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260408T180000
+DTEND;TZID=Europe/Moscow:20260408T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №17\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260408T200000
+DTEND;TZID=Europe/Moscow:20260408T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №18\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №33\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T160000
+DTEND;TZID=Europe/Moscow:20260409T174000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №34\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T140000
+DTEND;TZID=Europe/Moscow:20260415T154000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6236\nПара №40\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T160000
+DTEND;TZID=Europe/Moscow:20260415T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6236\nПара №41\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T180000
+DTEND;TZID=Europe/Moscow:20260415T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №19\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T200000
+DTEND;TZID=Europe/Moscow:20260415T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №20\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T160000
+DTEND;TZID=Europe/Moscow:20260422T174000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №30\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T180000
+DTEND;TZID=Europe/Moscow:20260422T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №21\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T200000
+DTEND;TZID=Europe/Moscow:20260422T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №22\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T113000
+DTEND;TZID=Europe/Moscow:20260423T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №35\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T140000
+DTEND;TZID=Europe/Moscow:20260423T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6117\nПара №36\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6240\nПара №31\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260424T160000
+DTEND;TZID=Europe/Moscow:20260424T174000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6240\nПара №32\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №33\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6116\nПара №34\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 6311\,6312 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6382\nПара №35\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №42\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260429T180000
+DTEND;TZID=Europe/Moscow:20260429T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №23\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260429T200000
+DTEND;TZID=Europe/Moscow:20260429T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №24\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №37\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260506-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260506T113000
@@ -3456,6 +6221,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260506-1400-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Бухгалтерский учет и налогообложение (лаб) · гр. 6311\,6312 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №38\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260506-1400-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260506T140000
@@ -3477,6 +6256,20 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6312\nАудитория: а.6378\nПара №38\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6378\nПара №43\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3506,6 +6299,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260508-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №44\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260508-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260508T093000
@@ -3529,6 +6336,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПара №44\nПреподаватель: Сиден
  ко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:Бухгалтерский учет и налогообложение (Курс.работа) · гр. 6311\,6312
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПара №45\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,6311\,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3558,6 +6379,48 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260527-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260527T180000
+DTEND;TZID=Europe/Moscow:20260527T194000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №25\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-2000-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260527T200000
+DTEND;TZID=Europe/Moscow:20260527T214000
+SUMMARY:Бухгалтерский учет и налогообложение (лек) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6248\nПара №26\nПреп
+ одаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-0930-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260529T093000
+DTEND;TZID=Europe/Moscow:20260529T111000
+SUMMARY:Бухгалтерский учет и налогообложение (экз) · гр. 6311\,6312 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПреподаватель: Сиденко И
+ .К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260529-0930-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260529T093000
@@ -3580,6 +6443,20 @@ CATEGORIES:Преподавание,6312
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260529-1130-6311-6312-бухгалтерский-учет-и-налогообл@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260529T113000
+DTEND;TZID=Europe/Moscow:20260529T131000
+SUMMARY:Бухгалтерский учет и налогообложение (экз) · гр. 6311\,6312 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6311\,6312\nАудитория: а.6245\nПреподаватель: Сиденко И
+ .К.
+CATEGORIES:Преподавание,6311\,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260529-1130-6311-бухгалтерский-учет-и-налогообл@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260529T113000
@@ -3599,6 +6476,119 @@ SUMMARY:Бухгалтерский учет и налогообложение (�
 LOCATION:а.6245
 DESCRIPTION:Группа: 6312\nАудитория: а.6245\nПреподаватель: Сиденко И. К.
 CATEGORIES:Преподавание,6312
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-0930-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260625T093000
+DTEND;TZID=Europe/Moscow:20260625T111000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6236\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-1130-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260625T113000
+DTEND;TZID=Europe/Moscow:20260625T131000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6236\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-1400-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260625T140000
+DTEND;TZID=Europe/Moscow:20260625T154000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6236\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260626-0930-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260626T093000
+DTEND;TZID=Europe/Moscow:20260626T111000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6236\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260626-1130-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260626T113000
+DTEND;TZID=Europe/Moscow:20260626T131000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6236\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-1400-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260701T140000
+DTEND;TZID=Europe/Moscow:20260701T154000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6378\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-1600-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260701T160000
+DTEND;TZID=Europe/Moscow:20260701T174000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6378\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-1800-636вэ1-9-636вэ10-18-бухгалтерский-учет-и-налогооб
+ л@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260701T180000
+DTEND;TZID=Europe/Moscow:20260701T194000
+SUMMARY:Бухгалтерский учет и налогообложение (экз) · гр. 636вэ1-9\,636вэ10-
+ 18 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6378\nПреподаватель:
+  Сиденко И.К.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1400-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260702T140000
+DTEND;TZID=Europe/Moscow:20260702T154000
+SUMMARY:Бухгалтерский учет и налогообложение (пр) · гр. 636зэ · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6235\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1600-636зэ-бухгалтерский-учет-и-налогообл@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260702T160000
+DTEND;TZID=Europe/Moscow:20260702T174000
+SUMMARY:Бухгалтерский учет и налогообложение (экз) · гр. 636зэ · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6235\nПреподаватель: Сиденко И.К.
+CATEGORIES:Преподавание,636зэ
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

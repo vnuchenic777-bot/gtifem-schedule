@@ -1,0 +1,1175 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Ткачев В.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Ткачев В.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20251001-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T180000
+DTEND;TZID=Europe/Moscow:20251001T184500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лекц · гр. 619
+ вл · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 619вл\nАудитория: а.6107\nПара №-\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T200000
+DTEND;TZID=Europe/Moscow:20251001T204500
+SUMMARY:Управление логистическими рисками в цепях поставок\, практ · гр. 61
+ 9вл · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 619вл\nАудитория: а.6107\nПара №-\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T180000
+DTEND;TZID=Europe/Moscow:20251008T184500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лаб · гр. 619в
+ л · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6373\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T200000
+DTEND;TZID=Europe/Moscow:20251008T204500
+SUMMARY:Управление логистическими рисками в цепях поставок\, практ · гр. 61
+ 9вл · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6373\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T180000
+DTEND;TZID=Europe/Moscow:20251015T184500
+SUMMARY:Управление социальным развитием персонала\, лаб · гр. 619ву · а. 61
+ 07
+LOCATION:а. 6107
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6107\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T200000
+DTEND;TZID=Europe/Moscow:20251015T204500
+SUMMARY:Управление социальным развитием персонала\, практ · гр. 619ву · а. 
+ 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6107\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T180000
+DTEND;TZID=Europe/Moscow:20251017T184500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6245\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T200000
+DTEND;TZID=Europe/Moscow:20251017T204500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6245\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1855-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T185500
+DTEND;TZID=Europe/Moscow:20251021T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6245\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-2055-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T205500
+DTEND;TZID=Europe/Moscow:20251021T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6245\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T180000
+DTEND;TZID=Europe/Moscow:20251022T184500
+SUMMARY:Управление социальным развитием персонала\, лаб · гр. 619ву · а. 61
+ 15
+LOCATION:а. 6115
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6115\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T200000
+DTEND;TZID=Europe/Moscow:20251022T204500
+SUMMARY:Управление социальным развитием персонала\, практ · гр. 619ву · а. 
+ 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6115\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T180000
+DTEND;TZID=Europe/Moscow:20251024T184500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6245\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T200000
+DTEND;TZID=Europe/Moscow:20251024T204500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6245\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T180000
+DTEND;TZID=Europe/Moscow:20251027T184500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6242\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T200000
+DTEND;TZID=Europe/Moscow:20251027T204500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6242\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T180000
+DTEND;TZID=Europe/Moscow:20251031T184500
+SUMMARY:Управление социальным развитием персонала\, лаб · гр. 619ву · а. 62
+ 40
+LOCATION:а. 6240
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6240\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T200000
+DTEND;TZID=Europe/Moscow:20251031T204500
+SUMMARY:Управление социальным развитием персонала\, практ · гр. 619ву · а. 
+ 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6240\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T180000
+DTEND;TZID=Europe/Moscow:20251106T184500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лаб · гр. 629
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6249\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1855-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T185500
+DTEND;TZID=Europe/Moscow:20251106T194000
+SUMMARY:Управление логистическими рисками в цепях поставок\, лаб · гр. 619в
+ л · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6378\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T200000
+DTEND;TZID=Europe/Moscow:20251106T204500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6249\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-2055-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T205500
+DTEND;TZID=Europe/Moscow:20251106T214000
+SUMMARY:Управление логистическими рисками в цепях поставок\, практ · гр. 61
+ 9вл · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6378\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T180000
+DTEND;TZID=Europe/Moscow:20251110T184500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лаб · гр. 619в
+ л · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6378\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T200000
+DTEND;TZID=Europe/Moscow:20251110T204500
+SUMMARY:Управление логистическими рисками в цепях поставок\, практ · гр. 61
+ 9вл · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6378\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T180000
+DTEND;TZID=Europe/Moscow:20251112T184500
+SUMMARY:Управление социальным развитием персонала\, лаб · гр. 619ву · а.623
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 619ву\nАудитория: а.6236\nПара №-\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T200000
+DTEND;TZID=Europe/Moscow:20251112T204500
+SUMMARY:Управление социальным развитием персонала\, практ · гр. 619ву · а.6
+ 236
+LOCATION:а.6236
+DESCRIPTION:Группа: 619ву\nАудитория: а.6236\nПара №-\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-1855-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T185500
+DTEND;TZID=Europe/Moscow:20251116T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лаб · гр. 629
+ вм · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6376\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-2055-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T205500
+DTEND;TZID=Europe/Moscow:20251116T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6376\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T180000
+DTEND;TZID=Europe/Moscow:20251119T184500
+SUMMARY:Управление социальным развитием персонала\, КР · гр. 619ву · а. 637
+ 6
+LOCATION:а. 6376
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6376\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T200000
+DTEND;TZID=Europe/Moscow:20251119T204500
+SUMMARY:Управление социальным развитием персонала\, практ · гр. 619ву · а. 
+ 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6376\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T180000
+DTEND;TZID=Europe/Moscow:20251120T184500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лаб · гр. 629
+ вм · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6376\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T200000
+DTEND;TZID=Europe/Moscow:20251120T204500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6376\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T180000
+DTEND;TZID=Europe/Moscow:20251124T184500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лаб · гр. 619в
+ л · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6373\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T200000
+DTEND;TZID=Europe/Moscow:20251124T204500
+SUMMARY:Управление логистическими рисками в цепях поставок\, практ · гр. 61
+ 9вл · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6373\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T180000
+DTEND;TZID=Europe/Moscow:20251126T184500
+SUMMARY:Управление логистическими рисками в цепях поставок · гр. 619вл · а.
+  6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6249\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1855-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T185500
+DTEND;TZID=Europe/Moscow:20251126T194000
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · -
+LOCATION:-
+DESCRIPTION:Группа: 619ву\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T200000
+DTEND;TZID=Europe/Moscow:20251126T204500
+SUMMARY:Управление логистическими рисками в цепях поставок · гр. 619вл · а.
+  6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6249\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-2055-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T205500
+DTEND;TZID=Europe/Moscow:20251126T214000
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · -
+LOCATION:-
+DESCRIPTION:Группа: 619ву\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T180000
+DTEND;TZID=Europe/Moscow:20251127T184500
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · -
+LOCATION:-
+DESCRIPTION:Группа: 619ву\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T200000
+DTEND;TZID=Europe/Moscow:20251127T204500
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · -
+LOCATION:-
+DESCRIPTION:Группа: 619ву\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251206-1855-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251206T185500
+DTEND;TZID=Europe/Moscow:20251206T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251206-2055-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251206T205500
+DTEND;TZID=Europe/Moscow:20251206T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T180000
+DTEND;TZID=Europe/Moscow:20251208T184500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лекц · гр. 619
+ вл · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6382\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T200000
+DTEND;TZID=Europe/Moscow:20251208T204500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лекц · гр. 619
+ вл · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6382\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T180000
+DTEND;TZID=Europe/Moscow:20251209T184500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T200000
+DTEND;TZID=Europe/Moscow:20251209T204500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T180000
+DTEND;TZID=Europe/Moscow:20251215T184500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лаб · гр. 619в
+ л · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6382\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T200000
+DTEND;TZID=Europe/Moscow:20251215T204500
+SUMMARY:Управление логистическими рисками в цепях поставок\, лаб · гр. 619в
+ л · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 619вл\nАудитория: а. 6382\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · а. 6
+ 382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6382\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · а. 6
+ 382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6382\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251221-1855-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251221T185500
+DTEND;TZID=Europe/Moscow:20251221T194000
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · а. 6
+ 117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6117\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251221-2055-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251221T205500
+DTEND;TZID=Europe/Moscow:20251221T214000
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · а. 6
+ 117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6117\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T180000
+DTEND;TZID=Europe/Moscow:20251223T184500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, лекц · гр. 62
+ 9вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T200000
+DTEND;TZID=Europe/Moscow:20251223T204500
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)\, практ · гр. 6
+ 29вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 629вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · а. 6
+ 117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6117\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Управление социальным развитием персонала\, лекц · гр. 619ву · а. 6
+ 117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 619ву\nАудитория: а. 6117\nПара №-\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T180000
+DTEND;TZID=Europe/Moscow:20260114T194000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 619ву\nАудитория: а.6373\nПара №1\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T200000
+DTEND;TZID=Europe/Moscow:20260114T214000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 619ву\nАудитория: а.6373\nПара №2\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T180000
+DTEND;TZID=Europe/Moscow:20260120T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №1\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T200000
+DTEND;TZID=Europe/Moscow:20260120T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №2\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T180000
+DTEND;TZID=Europe/Moscow:20260126T194000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 619в
+ л · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 619вл\nАудитория: а.6373\nПара №1\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T200000
+DTEND;TZID=Europe/Moscow:20260126T214000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 619в
+ л · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 619вл\nАудитория: а.6373\nПара №2\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T180000
+DTEND;TZID=Europe/Moscow:20260128T194000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.ОНЛ
+ АЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 619ву\nАудитория: а.ОНЛАЙН\nПара №3\nПреподаватель: Тка
+ чев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T200000
+DTEND;TZID=Europe/Moscow:20260128T214000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.ОНЛ
+ АЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 619ву\nАудитория: а.ОНЛАЙН\nПара №4\nПреподаватель: Тка
+ чев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T180000
+DTEND;TZID=Europe/Moscow:20260202T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · 3
+LOCATION:3
+DESCRIPTION:Группа: 629вм\nАудитория: 3\nПара №Онлайн занятие\nПреподавател
+ ь: Ткачев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T200000
+DTEND;TZID=Europe/Moscow:20260202T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · 4
+LOCATION:4
+DESCRIPTION:Группа: 629вм\nАудитория: 4\nПара №Онлайн занятие\nПреподавател
+ ь: Ткачев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T180000
+DTEND;TZID=Europe/Moscow:20260204T194000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 619в
+ л · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 619вл\nАудитория: а.6373\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T200000
+DTEND;TZID=Europe/Moscow:20260204T214000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 619в
+ л · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 619вл\nАудитория: а.6373\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T180000
+DTEND;TZID=Europe/Moscow:20260212T194000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.611
+ 2
+LOCATION:а.6112
+DESCRIPTION:Группа: 619ву\nАудитория: а.6112\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T200000
+DTEND;TZID=Europe/Moscow:20260212T214000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.611
+ 2
+LOCATION:а.6112
+DESCRIPTION:Группа: 619ву\nАудитория: а.6112\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T180000
+DTEND;TZID=Europe/Moscow:20260216T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №5\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T200000
+DTEND;TZID=Europe/Moscow:20260216T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №6\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260302T180000
+DTEND;TZID=Europe/Moscow:20260302T194000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 619в
+ л · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 619вл\nАудитория: а.6373\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260302T200000
+DTEND;TZID=Europe/Moscow:20260302T214000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 619в
+ л · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 619вл\nАудитория: а.6373\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1800-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T180000
+DTEND;TZID=Europe/Moscow:20260318T194000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 619ву\nАудитория: а.6373\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-2000-619ву-управление-социальным-развитие@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T200000
+DTEND;TZID=Europe/Moscow:20260318T214000
+SUMMARY:Управление социальным развитием персонала (лек) · гр. 619ву · а.637
+ 3
+LOCATION:а.6373
+DESCRIPTION:Группа: 619ву\nАудитория: а.6373\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619ву
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T180000
+DTEND;TZID=Europe/Moscow:20260324T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №7\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T200000
+DTEND;TZID=Europe/Moscow:20260324T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №8\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1800-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260331T180000
+DTEND;TZID=Europe/Moscow:20260331T194000
+SUMMARY:Управление логистическими рисками в цепях поставок (экз) · гр. 619в
+ л · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 619вл\nАудитория: а.6236\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-2000-619вл-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260331T200000
+DTEND;TZID=Europe/Moscow:20260331T214000
+SUMMARY:Управление логистическими рисками в цепях поставок (экз) · гр. 619в
+ л · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 619вл\nАудитория: а.6236\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,619вл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T180000
+DTEND;TZID=Europe/Moscow:20260401T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №9\nПреподаватель: Ткаче
+ в В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T200000
+DTEND;TZID=Europe/Moscow:20260401T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №10\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260408T180000
+DTEND;TZID=Europe/Moscow:20260408T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №11\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260408T200000
+DTEND;TZID=Europe/Moscow:20260408T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №12\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T180000
+DTEND;TZID=Europe/Moscow:20260415T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 629вм\nАудитория: а.6242\nПара №13\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T200000
+DTEND;TZID=Europe/Moscow:20260415T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 629вм\nАудитория: а.6242\nПара №14\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T180000
+DTEND;TZID=Europe/Moscow:20260422T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №15\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-2000-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T200000
+DTEND;TZID=Europe/Moscow:20260422T214000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 629вм\nАудитория: а.6115\nПара №16\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260429T180000
+DTEND;TZID=Europe/Moscow:20260429T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ вм · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 629вм\nАудитория: а.6373\nПара №17\nПреподаватель: Ткач
+ ев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1800-629вм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260518T180000
+DTEND;TZID=Europe/Moscow:20260518T194000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (экз) · гр. 629
+ вм · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 629вм\nАудитория: а.6245\nПреподаватель: Ткачев В.А.
+CATEGORIES:Преподавание,629вм
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

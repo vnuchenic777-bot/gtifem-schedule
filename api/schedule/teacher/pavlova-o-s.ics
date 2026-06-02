@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Павлова О.С. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Павлова О.С., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20260130-1400-639збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Иностранный язык в профессиональной деятельности (пр) · гр. 639збу 
+ · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 639збу\nАудитория: а.405\nПреподаватель: Павлова О.С.
+CATEGORIES:Преподавание,639збу
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

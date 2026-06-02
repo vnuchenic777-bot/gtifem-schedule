@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Дудкина П. В. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Дудкина П. В., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Дудкина П.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Дудкина П.В., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -17,6 +17,19 @@ TZNAME:MSK
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250901-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
+ сти лекция · гр. 6491 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250901-0930--мдк-04-01-технология-составлен@gtifem.ru
 DTSTAMP:20260528T172937Z
@@ -40,15 +53,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250901-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250901T093000
-DTEND;TZID=Europe/Moscow:20250901T111000
+UID:teacher-20250901-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6245
 LOCATION:а.6245
-DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №1\nПреподаватель: Дудкин
- а П. В.
+DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №2\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -75,26 +88,14 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250901-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250901T113000
-DTEND;TZID=Europe/Moscow:20250901T131000
-SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти лекция · гр. 6491 · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №2\nПреподаватель: Дудкин
- а П. В.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20250901-1400-6591-основы-бухгалтерского-учета-ле@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250901T140000
 DTEND;TZID=Europe/Moscow:20250901T154000
 SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №1\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -111,12 +112,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250901-1600-6591-основы-бухгалтерского-учета-пр@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250901T160000
 DTEND;TZID=Europe/Moscow:20250901T174000
 SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.623
-LOCATION:а.623
-DESCRIPTION:Группа: 6591\nАудитория: а.623\nПреподаватель: Дудкина П. В.
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №1\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -155,12 +158,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1400-6591-налоги-и-налогообложение-лекци@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250902T140000
 DTEND;TZID=Europe/Moscow:20250902T154000
 SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №1\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -177,12 +181,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1600-6591-налоги-и-налогообложение-практ@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250902T160000
 DTEND;TZID=Europe/Moscow:20250902T174000
 SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №1\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -220,6 +225,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
+ сти лекция · гр. 6491 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №3\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250903-1400-6591-основы-бухгалтерского-учета-ле@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250903T140000
@@ -253,15 +271,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250903-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250903T140000
-DTEND;TZID=Europe/Moscow:20250903T154000
+UID:teacher-20250903-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №3\nПреподаватель: Дудкин
- а П. В.
+DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №4\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -296,19 +314,6 @@ SUMMARY:МДК.04.02 Основы анализа бухгалтерской (ф�
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20250903-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250903T160000
-DTEND;TZID=Europe/Moscow:20250903T174000
-SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти лекция · гр. 6491 · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №4\nПреподаватель: Дудкин
- а П. В.
-CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -356,6 +361,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250904-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
+ ия · гр. 6491 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250904-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
@@ -367,15 +385,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250904-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250904T140000
-DTEND;TZID=Europe/Moscow:20250904T154000
+UID:teacher-20250904-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №1\nПреподаватель: Дудкин
- а П. В.
+DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №2\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -388,19 +406,6 @@ SUMMARY:МДК.04.02 Основы анализа бухгалтерской (ф�
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20250904-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250904T160000
-DTEND;TZID=Europe/Moscow:20250904T174000
-SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
- ия · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №2\nПреподаватель: Дудкин
- а П. В.
-CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -493,361 +498,500 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250908-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250908T093000
 DTEND;TZID=Europe/Moscow:20250908T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.106
 LOCATION:а.106
 DESCRIPTION:Группа: 6491\nАудитория: а.106\nПара №5\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250908-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250908T113000
 DTEND;TZID=Europe/Moscow:20250908T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.106
 LOCATION:а.106
 DESCRIPTION:Группа: 6491\nАудитория: а.106\nПара №6\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250909-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250909T093000
 DTEND;TZID=Europe/Moscow:20250909T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.405
 LOCATION:а.405
 DESCRIPTION:Группа: 6491\nАудитория: а.405\nПара №7\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250909-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250909T113000
 DTEND;TZID=Europe/Moscow:20250909T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.405
 LOCATION:а.405
 DESCRIPTION:Группа: 6491\nАудитория: а.405\nПара №8\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250909-1400-6591-налоги-и-налогообложение-лекци@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1600-6591-налоги-и-налогообложение-лабор@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250909T160000
+DTEND;TZID=Europe/Moscow:20250909T174000
+SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6591-основы-бухгалтерского-учета-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.611
+ 6
+LOCATION:а.6116
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250911-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.414
 LOCATION:а.414
 DESCRIPTION:Группа: 6491\nАудитория: а.414\nПара №3\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250911T160000
 DTEND;TZID=Europe/Moscow:20250911T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.414
 LOCATION:а.414
 DESCRIPTION:Группа: 6491\nАудитория: а.414\nПара №4\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250912-1400-6591-налоги-и-налогообложение-лекци@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №3\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1600-6591-налоги-и-налогообложение-практ@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250915-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250915T093000
 DTEND;TZID=Europe/Moscow:20250915T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №5\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250915T113000
 DTEND;TZID=Europe/Moscow:20250915T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №6\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250916T093000
 DTEND;TZID=Europe/Moscow:20250916T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №1\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250916T113000
 DTEND;TZID=Europe/Moscow:20250916T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №2\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250917-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250917T093000
 DTEND;TZID=Europe/Moscow:20250917T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6491\nАудитория: а.411\nПара №3\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250917-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250917T113000
 DTEND;TZID=Europe/Moscow:20250917T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6491\nАудитория: а.411\nПара №4\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250918T093000
 DTEND;TZID=Europe/Moscow:20250918T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.409
 LOCATION:а.409
 DESCRIPTION:Группа: 6491\nАудитория: а.409\nПара №7\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250918T113000
 DTEND;TZID=Europe/Moscow:20250918T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.409
 LOCATION:а.409
 DESCRIPTION:Группа: 6491\nАудитория: а.409\nПара №8\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250919T093000
 DTEND;TZID=Europe/Moscow:20250919T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №9\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250919T113000
 DTEND;TZID=Europe/Moscow:20250919T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 6491\nАудитория: а.6378\nПара №10\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250923-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250923T093000
 DTEND;TZID=Europe/Moscow:20250923T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491
-DESCRIPTION:Группа: 6491\nПара №6\nПреподаватель: Дудкина П. В.
+ сти практическое занятие · гр. 6491 · 6
+LOCATION:6
+DESCRIPTION:Группа: 6491\nАудитория: 6\nПара №Онлайн занятие\nПреподаватель
+ : Дудкина П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250923-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250923T113000
 DTEND;TZID=Europe/Moscow:20250923T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти лабораторный практикум · гр. 6491
-DESCRIPTION:Группа: 6491\nПара №2\nПреподаватель: Дудкина П. В.
+ сти лабораторный практикум · гр. 6491 · 2
+LOCATION:2
+DESCRIPTION:Группа: 6491\nАудитория: 2\nПара №Онлайн занятие\nПреподаватель
+ : Дудкина П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250923-1400-6591-налоги-и-налогообложение-практ@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №3\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6591-налоги-и-налогообложение-лабор@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250924-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250924T140000
 DTEND;TZID=Europe/Moscow:20250924T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.6381
 LOCATION:а.6381
 DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №11\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250924-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250924T160000
 DTEND;TZID=Europe/Moscow:20250924T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.6381
 LOCATION:а.6381
 DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №12\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250925T093000
 DTEND;TZID=Europe/Moscow:20250925T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6248
 LOCATION:а.6248
 DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №5\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лабораторный практикум · гр. 6491 · а.6248
 LOCATION:а.6248
 DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №1\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250926-0930-6591-основы-бухгалтерского-учета-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6591\nАудитория: а.6245\nПара №3\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6591\nАудитория: а.6245\nПара №3\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250926-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250926T140000
 DTEND;TZID=Europe/Moscow:20250926T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6491\nАудитория: а.401\nПара №13\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250926T160000
 DTEND;TZID=Europe/Moscow:20250926T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6491\nАудитория: а.401\nПара №14\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250929T140000
 DTEND;TZID=Europe/Moscow:20250929T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6491\nАудитория: а.411\nПара №15\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250929T160000
 DTEND;TZID=Europe/Moscow:20250929T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности лекц
  ия · гр. 6491 · а.411
 LOCATION:а.411
 DESCRIPTION:Группа: 6491\nАудитория: а.411\nПара №16\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250930-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250930T093000
 DTEND;TZID=Europe/Moscow:20250930T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лабораторный практикум · гр. 6491 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №3\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250930-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250930T113000
 DTEND;TZID=Europe/Moscow:20250930T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №7\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
+ сти практическое занятие · гр. 6491 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №8\nПреподаватель: Дудкина
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -885,15 +1029,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251001T093000
-DTEND;TZID=Europe/Moscow:20251001T111000
+UID:teacher-20251001-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №8\nПреподаватель: Дудкина
-  П. В.
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №9\nПреподаватель: Дудкина
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -931,26 +1075,14 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251001T113000
-DTEND;TZID=Europe/Moscow:20251001T131000
-SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491 · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №9\nПреподаватель: Дудкина
-  П. В.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20251001-1400-6591-налоги-и-налогообложение-лабор@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251001T140000
 DTEND;TZID=Europe/Moscow:20251001T154000
 SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №3\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -967,12 +1099,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-1600-6591-налоги-и-налогообложение-лекци@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251001T160000
 DTEND;TZID=Europe/Moscow:20251001T174000
 SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.408
 LOCATION:а.408
-DESCRIPTION:Группа: 6591\nАудитория: а.408\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №4\nПреподаватель: Дудкина
+  П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -989,12 +1122,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-0930-6591-основы-бухгалтерского-учета-ле@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251002T093000
 DTEND;TZID=Europe/Moscow:20251002T111000
 SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6591\nАудитория: а.401\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.401\nПара №4\nПреподаватель: Дудкина
+  П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1033,12 +1167,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1130-6591-основы-бухгалтерского-учета-пр@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6591\nАудитория: а.401\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.401\nПара №4\nПреподаватель: Дудкина
+  П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1120,6 +1255,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251003-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
+ тическое занятие · гр. 6491 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251003-1400--мдк-04-02-основы-анализа-бухга@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251003T140000
@@ -1131,15 +1279,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251003-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251003T140000
-DTEND;TZID=Europe/Moscow:20251003T154000
+UID:teacher-20251003-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №1\nПреподаватель: Дудкин
- а П. В.
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №2\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -1155,26 +1303,14 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251003-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251003T160000
-DTEND;TZID=Europe/Moscow:20251003T174000
-SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
- тическое занятие · гр. 6491 · а.6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №2\nПреподаватель: Дудкин
- а П. В.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20251006-0930-6591-налоги-и-налогообложение-практ@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251006T093000
 DTEND;TZID=Europe/Moscow:20251006T111000
 SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПара №4\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1202,12 +1338,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1130-6591-налоги-и-налогообложение-лекци@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
 SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №5\nПреподаватель: Дудкин
+ а П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1220,6 +1357,19 @@ SUMMARY:МДК.04.01 Технология составления бухгалт�
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
+ сти практическое занятие · гр. 6491 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №10\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1245,15 +1395,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251006-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251006T140000
-DTEND;TZID=Europe/Moscow:20251006T154000
+UID:teacher-20251006-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491 · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №10\nПреподаватель: Дудки
- на П. В.
+ сти практическое занятие · гр. 6491 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №11\nПреподаватель: Дудки
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -1280,26 +1430,38 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251006-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251006T160000
-DTEND;TZID=Europe/Moscow:20251006T174000
-SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №11\nПреподаватель: Дудки
- на П. В.
-CATEGORIES:Преподавание,6491
+UID:teacher-20251006-1800-639вф-финансы-деньги-кредит-банки-ла@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251006T180000
+DTEND;TZID=Europe/Moscow:20251006T184500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, лаб · гр. 639вф · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6245\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-2000-639вф-финансы-деньги-кредит-банки-кр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251006T200000
+DTEND;TZID=Europe/Moscow:20251006T204500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, КР · гр. 639вф · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6245\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251007-0930-6591-основы-бухгалтерского-учета-ле@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251007T093000
 DTEND;TZID=Europe/Moscow:20251007T111000
 SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6591\nАудитория: а. 6373\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а. 6373\nПара №5\nПреподаватель: Дудки
+ на П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1316,12 +1478,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251007-1130-6591-основы-бухгалтерского-учета-ле@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251007T113000
 DTEND;TZID=Europe/Moscow:20251007T131000
 SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6591\nАудитория: а. 6373\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а. 6373\nПара №6\nПреподаватель: Дудки
+ на П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1334,6 +1497,19 @@ SUMMARY:МДК.04.01 Технология составления бухгалт�
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
+ сти практическое занятие · гр. 6491 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6491\nАудитория: а.6107\nПара №12\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1359,15 +1535,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251007-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251007T140000
-DTEND;TZID=Europe/Moscow:20251007T154000
+UID:teacher-20251007-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491 · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 6491\nАудитория: а.6107\nПара №12\nПреподаватель: Дудки
- на П. В.
+ сти практическое занятие · гр. 6491 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №13\nПреподаватель: Дудки
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -1394,337 +1570,496 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251007-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251007T160000
-DTEND;TZID=Europe/Moscow:20251007T174000
-SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491 · а.6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №13\nПреподаватель: Дудки
- на П. В.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20251008-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251008T140000
 DTEND;TZID=Europe/Moscow:20251008T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
- тическое занятие · гр. 6491
-DESCRIPTION:Группа: 6491\nПара №3\nПреподаватель: Дудкина П. В.
+ тическое занятие · гр. 6491 · 3
+LOCATION:3
+DESCRIPTION:Группа: 6491\nАудитория: 3\nПара №Онлайн занятие\nПреподаватель
+ : Дудкина П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251008-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251008T160000
 DTEND;TZID=Europe/Moscow:20251008T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
- тическое занятие · гр. 6491
-DESCRIPTION:Группа: 6491\nПара №4\nПреподаватель: Дудкина П. В.
+ тическое занятие · гр. 6491 · 4
+LOCATION:4
+DESCRIPTION:Группа: 6491\nАудитория: 4\nПара №Онлайн занятие\nПреподаватель
+ : Дудкина П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251009T093000
 DTEND;TZID=Europe/Moscow:20251009T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.408
 LOCATION:а.408
 DESCRIPTION:Группа: 6491\nАудитория: а.408\nПара №5\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251009T113000
 DTEND;TZID=Europe/Moscow:20251009T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.408
 LOCATION:а.408
 DESCRIPTION:Группа: 6491\nАудитория: а.408\nПара №6\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251010-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251010T093000
 DTEND;TZID=Europe/Moscow:20251010T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6382
 LOCATION:а.6382
 DESCRIPTION:Группа: 6491\nАудитория: а.6382\nПара №7\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251010-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251010T113000
 DTEND;TZID=Europe/Moscow:20251010T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6382
 LOCATION:а.6382
 DESCRIPTION:Группа: 6491\nАудитория: а.6382\nПара №8\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251013-0930-6591-налоги-и-налогообложение-практ@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПара №5\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6591-налоги-и-налогообложение-лекци@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПара №6\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251013-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251013T140000
 DTEND;TZID=Europe/Moscow:20251013T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №9\nПреподаватель: Дудкина
-  П. В.
+  П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251013T160000
 DTEND;TZID=Europe/Moscow:20251013T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №10\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251014T140000
 DTEND;TZID=Europe/Moscow:20251014T154000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №14\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251014T160000
 DTEND;TZID=Europe/Moscow:20251014T174000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.414
 LOCATION:а.414
 DESCRIPTION:Группа: 6491\nАудитория: а.414\nПара №15\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251015-0930-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6591\nАудитория: а.101\nПара №5\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6591\nАудитория: а.101\nПара №6\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251016-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251016T093000
 DTEND;TZID=Europe/Moscow:20251016T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6491\nАудитория: а.6240\nПара №9\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251016T113000
 DTEND;TZID=Europe/Moscow:20251016T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6491\nАудитория: а.6240\nПара №10\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251020-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251020T093000
 DTEND;TZID=Europe/Moscow:20251020T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №11\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251020-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251020T113000
 DTEND;TZID=Europe/Moscow:20251020T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №12\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251021-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251021T093000
 DTEND;TZID=Europe/Moscow:20251021T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6491\nАудитория: а.401\nПара №13\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251021-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251021T113000
 DTEND;TZID=Europe/Moscow:20251021T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6491\nАудитория: а.401\nПара №14\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251022T093000
 DTEND;TZID=Europe/Moscow:20251022T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №11\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251022T113000
 DTEND;TZID=Europe/Moscow:20251022T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №12\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251023-0930-6591-налоги-и-налогообложение-практ@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378\nПара №6\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6591-налоги-и-налогообложение-лабор@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378\nПара №4\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6591\nАудитория: а.411\nПара №7\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6591-основы-бухгалтерского-учета-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6591\nАудитория: а.6382\nПара №7\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251024-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251024T140000
 DTEND;TZID=Europe/Moscow:20251024T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №13\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251024T160000
 DTEND;TZID=Europe/Moscow:20251024T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №14\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251027-0930-6591-налоги-и-налогообложение-лабор@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378\nПара №5\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6591-налоги-и-налогообложение-лекци@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6591\nАудитория: а.6248\nПара №7\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251027-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251027T140000
 DTEND;TZID=Europe/Moscow:20251027T154000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №15\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251027-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251027T180000
+DTEND;TZID=Europe/Moscow:20251027T184500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, лекц · гр. 639вф · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-2000-639вф-финансы-деньги-кредит-банки-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251027T200000
+DTEND;TZID=Europe/Moscow:20251027T204500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, практ · гр. 639вф · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251028-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251028T113000
 DTEND;TZID=Europe/Moscow:20251028T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти лекция · гр. 6491 · а.6382
 LOCATION:а.6382
 DESCRIPTION:Группа: 6491\nАудитория: а.6382\nПара №16\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251028-1400-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251028T140000
 DTEND;TZID=Europe/Moscow:20251028T154000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №15\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251028-1600-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251028T160000
 DTEND;TZID=Europe/Moscow:20251028T174000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6382
 LOCATION:а.6382
 DESCRIPTION:Группа: 6491\nАудитория: а.6382\nПара №16\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251030-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251030T113000
 DTEND;TZID=Europe/Moscow:20251030T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №16\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №8\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1130-6591-основы-бухгалтерского-учета-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Основы бухгалтерского учета Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №8\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1937,6 +2272,31 @@ CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251105-2000-639вф-финансы-деньги-кредит-банки-ла@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251105T200000
+DTEND;TZID=Europe/Moscow:20251105T204500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, лаб · гр. 639вф · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6249\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
+ сти практическое занятие · гр. 6491 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №17\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251106-1400--мдк-04-01-технология-составлен@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
@@ -1948,15 +2308,15 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251106T140000
-DTEND;TZID=Europe/Moscow:20251106T154000
+UID:teacher-20251106-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491 · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6491\nАудитория: а.101\nПара №17\nПреподаватель: Дудкин
- а П. В.
+ сти практическое занятие · гр. 6491 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №18\nПреподаватель: Дудки
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -1972,159 +2332,318 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251106T160000
-DTEND;TZID=Europe/Moscow:20251106T174000
-SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
- сти практическое занятие · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №18\nПреподаватель: Дудки
- на П. В.
-CATEGORIES:Преподавание,6491
+UID:teacher-20251107-0930-6591-налоги-и-налогообложение-практ@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПара №7\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6591-налоги-и-налогообложение-лабор@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПара №6\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251107T140000
 DTEND;TZID=Europe/Moscow:20251107T154000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6107
 LOCATION:а.6107
 DESCRIPTION:Группа: 6491\nАудитория: а.6107\nПара №19\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1600-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251107T160000
 DTEND;TZID=Europe/Moscow:20251107T174000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6107
 LOCATION:а.6107
 DESCRIPTION:Группа: 6491\nАудитория: а.6107\nПара №20\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251111T093000
 DTEND;TZID=Europe/Moscow:20251111T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6112
 LOCATION:а.6112
 DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №21\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251111T113000
 DTEND;TZID=Europe/Moscow:20251111T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6112
 LOCATION:а.6112
 DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №22\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251111-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251111T180000
+DTEND;TZID=Europe/Moscow:20251111T184500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, лекц · гр. 639вф · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6376\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1855-639вф-финансы-деньги-кредит-банки-кр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251111T185500
+DTEND;TZID=Europe/Moscow:20251111T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки\, КР · гр. 639вф · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-2000-639вф-финансы-деньги-кредит-банки-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251111T200000
+DTEND;TZID=Europe/Moscow:20251111T204500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, практ · гр. 639вф · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6376\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251112-0930-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251112T093000
 DTEND;TZID=Europe/Moscow:20251112T111000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №17\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251112T113000
 DTEND;TZID=Europe/Moscow:20251112T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности прак
  тическое занятие · гр. 6491 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6491\nАудитория: а.6245\nПара №18\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251113-1800-639вф-финансы-деньги-кредит-банки-кр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251113T180000
+DTEND;TZID=Europe/Moscow:20251113T184500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, КР · гр. 639вф · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.638
+ 1
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №11\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251119-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251119T113000
 DTEND;TZID=Europe/Moscow:20251119T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №23\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1400-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251119T140000
 DTEND;TZID=Europe/Moscow:20251119T154000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти практическое занятие · гр. 6491 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №24\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251121-1130-6491-мдк-04-02-основы-анализа-бухга@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251121T113000
 DTEND;TZID=Europe/Moscow:20251121T131000
 SUMMARY:МДК.04.02 Основы анализа бухгалтерской (финансовой) отчетности КОНС
  УЛЬТАЦИЯ · гр. 6491 · а.6248
 LOCATION:а.6248
 DESCRIPTION:Группа: 6491\nАудитория: а.6248\nПара №1\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251124-0930-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251124T093000
 DTEND;TZID=Europe/Moscow:20251124T111000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти КОНСУЛЬТАЦИЯ · гр. 6491 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №1\nПреподаватель: Дудкин
- а П. В.
+ а П.В.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251124-1130-6491-мдк-04-01-технология-составлен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251124T113000
 DTEND;TZID=Europe/Moscow:20251124T131000
 SUMMARY:МДК.04.01 Технология составления бухгалтерской (финансовой) отчетно
  сти\, практическое занятие (дифзачет) · гр. 6491 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №25\nПреподаватель: Дудки
- на П. В.
+ на П.В.
 CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1400-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.624
+ 8
+LOCATION:а.6248
+DESCRIPTION:Группа: 6591\nАудитория: а.6248\nПара №9\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.624
+ 8
+LOCATION:а.6248
+DESCRIPTION:Группа: 6591\nАудитория: а.6248\nПара №10\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1800-639вф-финансы-деньги-кредит-банки-ла@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251125T180000
+DTEND;TZID=Europe/Moscow:20251125T184500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, лаб · гр. 639вф · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-2000-639вф-финансы-деньги-кредит-банки-кр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251125T200000
+DTEND;TZID=Europe/Moscow:20251125T204500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, КР · гр. 639вф · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6591-налоги-и-налогообложение-лабор@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6591\nАудитория: а.6382\nПара №7\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1600-6591-налоги-и-налогообложение-лабор@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Налоги и налогообложение Лабораторное занятие · гр. 6591 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6591\nАудитория: а.6382\nПара №8\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6591-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.624
+ 9
+LOCATION:а.6249
+DESCRIPTION:Группа: 6591\nАудитория: а.6249\nПара №12\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2173,12 +2692,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-0930-6591-основы-бухгалтерского-учета-пр@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251203T093000
 DTEND;TZID=Europe/Moscow:20251203T111000
 SUMMARY:Основы бухгалтерского учета Практическое занятие · гр. 6591 · а.624
-LOCATION:а.624
-DESCRIPTION:Группа: 6591\nАудитория: а.624\nПреподаватель: Дудкина П. В.
+ 2
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №13\nПреподаватель: Дудки
+ на П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -2195,12 +2716,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1130-6591-основы-бухгалтерского-учета-ко@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251203T113000
 DTEND;TZID=Europe/Moscow:20251203T131000
 SUMMARY:Основы бухгалтерского учета Консультация · гр. 6591 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПреподаватель: Дудкина П. В.
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПреподаватель: Дудкина П.В.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -2348,6 +2869,100 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251210-1130-6591-налоги-и-налогообложение-лекци@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Налоги и налогообложение Лекция · гр. 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №8\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6591-налоги-и-налогообложение-практ@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Налоги и налогообложение Практическое занятие · гр. 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №8\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6591-налоги-и-налогообложение-консу@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Налоги и налогообложение Консультация · гр. 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, лекц · гр. 639вф · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6240\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Финансы\, деньги\, кредит\, банки\, лекц · гр. 639вф · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6240\nПара №-\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-6591-основы-бухгалтерского-учета-эк@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Основы бухгалтерского учета Экзамен · гр. 6591 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6591\nАудитория: а.6117\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6591-налоги-и-налогообложение-экзам@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Налоги и налогообложение Экзамен · гр. 6591 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6591\nАудитория: а.6117\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260112-1400-65-бухгалтерский-учет-с-применени@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260112T140000
@@ -2358,6 +2973,19 @@ CATEGORIES:Преподавание,65
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260112-1600-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лек) · гр. 65
+ 91 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6591\nАудитория: а.6115\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260112-1600-65-бухгалтерский-учет-с-применени@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260112T160000
@@ -2365,6 +2993,30 @@ DTEND;TZID=Europe/Moscow:20260112T174000
 SUMMARY:Бухгалтерский учет с применением цифровых технологий (лек) · гр. 65
 DESCRIPTION:Группа: 65\nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,65
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260112T180000
+DTEND;TZID=Europe/Moscow:20260112T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №1\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260112T200000
+DTEND;TZID=Europe/Moscow:20260112T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №2\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2421,6 +3073,19 @@ CATEGORIES:Преподавание,65
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260115-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6591\nАудитория: а.6382\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260115-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
@@ -2442,13 +3107,16 @@ CATEGORIES:Преподавание,65
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260115-1130-65-бухгалтерский-учет-с-применени@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260115T113000
-DTEND;TZID=Europe/Moscow:20260115T131000
-SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
-DESCRIPTION:Группа: 65\nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,65
+UID:teacher-20260115-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2474,34 +3142,12 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260116-0930--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260116T093000
-DTEND;TZID=Europe/Moscow:20260116T111000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260116-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260116T113000
 DTEND;TZID=Europe/Moscow:20260116T131000
 SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
   
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260116-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260116T113000
-DTEND;TZID=Europe/Moscow:20260116T131000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
- . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
 STATUS:CONFIRMED
@@ -2528,6 +3174,199 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260121-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6591\nАудитория: а.6382\nПара №1\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260121T180000
+DTEND;TZID=Europe/Moscow:20260121T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №3\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260121T200000
+DTEND;TZID=Europe/Moscow:20260121T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №4\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лек) · гр. 65
+ 91 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6591\nАудитория: а.6115\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6591\nАудитория: а.101\nПара №1\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6591\nАудитория: а.403\nПара №2\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №2\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1130-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260128T113000
+DTEND;TZID=Europe/Moscow:20260128T131000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лек) · гр. 65
+ 91 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6591\nАудитория: а.6248\nПара №3\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №3\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-0930-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260129T093000
+DTEND;TZID=Europe/Moscow:20260129T111000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6591\nАудитория: а.6249\nПара №3\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1130-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260129T113000
+DTEND;TZID=Europe/Moscow:20260129T131000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №4\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6591\nАудитория: а.411\nПара №3\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6591\nАудитория: а.411\nПара №4\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №3\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260202-0930--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T093000
@@ -2550,17 +3389,6 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260202-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260202T113000
-DTEND;TZID=Europe/Moscow:20260202T131000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260202-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T140000
@@ -2572,6 +3400,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260202-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6591\nАудитория: а.6245\nПара №4\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260202-1600--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
@@ -2580,6 +3421,30 @@ SUMMARY:МДК.03.01 Выполнение работ по должности с�
  . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260202T180000
+DTEND;TZID=Europe/Moscow:20260202T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №5\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260202T200000
+DTEND;TZID=Europe/Moscow:20260202T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №6\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2647,17 +3512,6 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260204-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260204T140000
-DTEND;TZID=Europe/Moscow:20260204T154000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260204-1600-65-бухгалтерский-учет-с-применени@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
@@ -2665,6 +3519,19 @@ DTEND;TZID=Europe/Moscow:20260204T174000
 SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
 DESCRIPTION:Группа: 65\nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,65
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №5\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2676,6 +3543,19 @@ SUMMARY:МДК.03.01 Выполнение работ по должности с�
  . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №5\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2723,6 +3603,304 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260211-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260211T140000
+DTEND;TZID=Europe/Moscow:20260211T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №4\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1600-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №5\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260211T180000
+DTEND;TZID=Europe/Moscow:20260211T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №7\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260211T200000
+DTEND;TZID=Europe/Moscow:20260211T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №8\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6591\nАудитория: а.6248\nПара №6\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6591\nАудитория: а.6117\nПара №6\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №7\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №7\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №8\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №8\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №9\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1130-659збу-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:Основы бухгалтерского учета (пр) · гр. 659збу · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659збу\nАудитория: а.6115\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260218T140000
+DTEND;TZID=Europe/Moscow:20260218T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №10\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-659збу-основы-бухгалтерского-учета-пр@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Основы бухгалтерского учета (пр) · гр. 659збу · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 659збу\nАудитория: а.405\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1600-659збу-основы-бухгалтерского-учета-ко@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Основы бухгалтерского учета (Консультация) · гр. 659збу · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 659збу\nАудитория: а.405\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №11\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №12\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1600-659збу-основы-бухгалтерского-учета-эк@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260224T160000
+DTEND;TZID=Europe/Moscow:20260224T174000
+SUMMARY:Основы бухгалтерского учета (экз) · гр. 659збу · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 659збу\nАудитория: а.6235\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-0930-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260225T093000
+DTEND;TZID=Europe/Moscow:20260225T111000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №6\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №7\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №5\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №6\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1400-659збу-налоги-и-налогообложение-лек-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:Налоги и налогообложение (лек) · гр. 659збу · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659збу\nАудитория: а.6115\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1600-659збу-налоги-и-налогообложение-лек-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260227T160000
+DTEND;TZID=Europe/Moscow:20260227T174000
+SUMMARY:Налоги и налогообложение (лек) · гр. 659збу · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659збу\nАудитория: а.6115\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260302-0930--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260302T093000
@@ -2755,6 +3933,30 @@ CATEGORIES:Преподавание,65
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260302-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260302T180000
+DTEND;TZID=Europe/Moscow:20260302T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №9\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260302T200000
+DTEND;TZID=Europe/Moscow:20260302T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №10\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260303-1130-65-бухгалтерский-учет-с-применени@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260303T113000
@@ -2775,6 +3977,19 @@ CATEGORIES:Преподавание,65
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260304-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6591\nАудитория: а.6240\nПара №9\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260304-0930--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260304T093000
@@ -2786,14 +4001,16 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260304-0930--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260304T093000
-DTEND;TZID=Europe/Moscow:20260304T111000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
+UID:teacher-20260304-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6591\nАудитория: а.6240\nПара №10\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2808,14 +4025,16 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260304-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260304T113000
-DTEND;TZID=Europe/Moscow:20260304T131000
+UID:teacher-20260304-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
 SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
+ . 6591 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6591\nАудитория: а.6249\nПара №13\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2830,14 +4049,16 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260304-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260304T140000
-DTEND;TZID=Europe/Moscow:20260304T154000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
-  
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
+UID:teacher-20260304-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №14\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2884,17 +4105,6 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260305-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260305T113000
-DTEND;TZID=Europe/Moscow:20260305T131000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260305-1130-65-бухгалтерский-учет-с-применени@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T113000
@@ -2916,17 +4126,6 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260305-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260305T140000
-DTEND;TZID=Europe/Moscow:20260305T154000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260305-1600--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T160000
@@ -2938,14 +4137,16 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260305-1600--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260305T160000
-DTEND;TZID=Europe/Moscow:20260305T174000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
-  
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
+UID:teacher-20260306-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №15\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2960,6 +4161,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260306-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №16\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260306-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260306T113000
@@ -2968,6 +4182,251 @@ SUMMARY:МДК.03.01 Выполнение работ по должности с�
  . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6591\nАудитория: а.6245\nПара №8\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6591\nАудитория: а.6249\nПара №9\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260312T093000
+DTEND;TZID=Europe/Moscow:20260312T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №7\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260312T113000
+DTEND;TZID=Europe/Moscow:20260312T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №8\nПреподаватель: Дудкина
+  П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №17\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №18\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260318T180000
+DTEND;TZID=Europe/Moscow:20260318T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №11\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260318T200000
+DTEND;TZID=Europe/Moscow:20260318T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №12\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №19\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260319T140000
+DTEND;TZID=Europe/Moscow:20260319T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6591\nАудитория: а.6382\nПара №11\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260319T160000
+DTEND;TZID=Europe/Moscow:20260319T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №9\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260325T093000
+DTEND;TZID=Europe/Moscow:20260325T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №20\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №21\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260325T140000
+DTEND;TZID=Europe/Moscow:20260325T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (пр) · гр.
+  6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №10\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-0930-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260326T093000
+DTEND;TZID=Europe/Moscow:20260326T111000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №10\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1130-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №11\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260330T093000
+DTEND;TZID=Europe/Moscow:20260330T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №12\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260330T113000
+DTEND;TZID=Europe/Moscow:20260330T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №22\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260330T140000
+DTEND;TZID=Europe/Moscow:20260330T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лек) · гр. 65
+ 91 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6591\nАудитория: а.6248\nПара №4\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2993,6 +4452,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260401-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №23\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260401-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260401T140000
@@ -3014,6 +4486,19 @@ CATEGORIES:Преподавание,65
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260401-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260401T160000
+DTEND;TZID=Europe/Moscow:20260401T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №24\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260401-1600--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260401T160000
@@ -3032,6 +4517,30 @@ DTEND;TZID=Europe/Moscow:20260401T174000
 SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
 DESCRIPTION:Группа: 65\nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,65
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260401T180000
+DTEND;TZID=Europe/Moscow:20260401T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №13\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260401T200000
+DTEND;TZID=Europe/Moscow:20260401T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №14\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3057,33 +4566,11 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260402-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260402T113000
-DTEND;TZID=Europe/Moscow:20260402T131000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260402-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260402T140000
 DTEND;TZID=Europe/Moscow:20260402T154000
 SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260402-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260402T140000
-DTEND;TZID=Europe/Moscow:20260402T154000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
  . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
@@ -3154,33 +4641,11 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260406-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260406T113000
-DTEND;TZID=Europe/Moscow:20260406T131000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260406-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260406T140000
 DTEND;TZID=Europe/Moscow:20260406T154000
 SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
- . 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260406-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260406T140000
-DTEND;TZID=Europe/Moscow:20260406T154000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
  . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
@@ -3209,6 +4674,366 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260408-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260408T093000
+DTEND;TZID=Europe/Moscow:20260408T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №25\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260408T113000
+DTEND;TZID=Europe/Moscow:20260408T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №26\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260408T140000
+DTEND;TZID=Europe/Moscow:20260408T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №12\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №13\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №14\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-0930-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260413T093000
+DTEND;TZID=Europe/Moscow:20260413T111000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лек) · гр. 65
+ 91 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6591\nАудитория: а.6248\nПара №5\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260413T113000
+DTEND;TZID=Europe/Moscow:20260413T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №27\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №28\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260415T140000
+DTEND;TZID=Europe/Moscow:20260415T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №29\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260415T160000
+DTEND;TZID=Europe/Moscow:20260415T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №30\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260415T180000
+DTEND;TZID=Europe/Moscow:20260415T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №15\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260415T200000
+DTEND;TZID=Europe/Moscow:20260415T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\nАудитория: а.6382\nПара №16\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №31\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260423T113000
+DTEND;TZID=Europe/Moscow:20260423T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №32\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260424T093000
+DTEND;TZID=Europe/Moscow:20260424T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №15\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №16\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6591\nАудитория: а.6245\nПара №13\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6591\nАудитория: а.6373\nПара №17\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260427T140000
+DTEND;TZID=Europe/Moscow:20260427T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6591\nАудитория: а.6373\nПара №18\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378\nПара №33\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260428T140000
+DTEND;TZID=Europe/Moscow:20260428T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378\nПара №34\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378\nПара №14\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №15\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260429T180000
+DTEND;TZID=Europe/Moscow:20260429T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639вф\nАудитория: а.6236\nПара №17\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260429T200000
+DTEND;TZID=Europe/Moscow:20260429T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639вф\nАудитория: а.6236\nПара №18\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №35\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260430T160000
+DTEND;TZID=Europe/Moscow:20260430T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №36\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №37\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260504-1130--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260504T113000
@@ -3217,6 +5042,19 @@ SUMMARY:МДК.03.01 Выполнение работ по должности с�
  . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №38\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3338,14 +5176,16 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260506-1600--мдк-03-01-выполнение-работ-по-@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260506T160000
-DTEND;TZID=Europe/Moscow:20260506T174000
-SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (зачет) · 
- гр. 
-DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
-CATEGORIES:Преподавание,
+UID:teacher-20260508-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №19\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3360,6 +5200,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260508-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лек) · гр
+ . 6591 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6591\nАудитория: а.6381\nПара №20\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260508-1400--мдк-03-01-выполнение-работ-по-@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260508T140000
@@ -3368,6 +5221,255 @@ SUMMARY:МДК.03.01 Выполнение работ по должности с�
  . 
 DESCRIPTION:Группа: \nПреподаватель: Дудкина П. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1400-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260512T140000
+DTEND;TZID=Europe/Moscow:20260512T154000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №18\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1600-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260512T160000
+DTEND;TZID=Europe/Moscow:20260512T174000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) · гр. 65
+ 91 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №19\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-0930-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260513T093000
+DTEND;TZID=Europe/Moscow:20260513T111000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6591\nАудитория: а.6249\nПара №39\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1130-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6591\nАудитория: а.6249\nПара №40\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260513T140000
+DTEND;TZID=Europe/Moscow:20260513T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6591\nАудитория: а.6378\nПара №41\nПреподаватель: Дудки
+ на П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-0930-629зм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260514T093000
+DTEND;TZID=Europe/Moscow:20260514T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ зм · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 629зм\nАудитория: а.6248\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,629зм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1130-629зм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ зм · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 629зм\nАудитория: а.6248\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,629зм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1400-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260514T140000
+DTEND;TZID=Europe/Moscow:20260514T154000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (лаб) · гр
+ . 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №42\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260514T160000
+DTEND;TZID=Europe/Moscow:20260514T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (Консульта
+ ция) · гр. 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-0930-629зм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260518T093000
+DTEND;TZID=Europe/Moscow:20260518T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ зм · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 629зм\nАудитория: а.6376\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,629зм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1130-629зм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260518T113000
+DTEND;TZID=Europe/Moscow:20260518T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 629
+ зм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 629зм\nАудитория: а.6382\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,629зм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-0930-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) (перенос
+  с 06.05.2026) · гр. 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №16\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (лаб) (перенос
+  с 06.05.2026) · гр. 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №17\nПреподаватель: Дудкин
+ а П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-629зм-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (экз) · гр. 629
+ зм · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 629зм\nАудитория: а.6112\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,629зм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6591-бухгалтерский-учет-с-применени@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Бухгалтерский учет с применением цифровых технологий (зачет) · гр. 
+ 6591 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПреподаватель: Дудкина П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260520T180000
+DTEND;TZID=Europe/Moscow:20260520T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639вф\nАудитория: а.6242\nПара №19\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260520T200000
+DTEND;TZID=Europe/Moscow:20260520T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639вф\nАудитория: а.6242\nПара №20\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1600-6591-мдк-03-01-выполнение-работ-по-@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260521T160000
+DTEND;TZID=Europe/Moscow:20260521T174000
+SUMMARY:МДК.03.01 Выполнение работ по должности служащего Кассир (зачет) · 
+ гр. 6591 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6591\nАудитория: а.6116\nПара №лаб.зан.29\nПреподавател
+ ь: Дудкина П.В.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1800-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260527T180000
+DTEND;TZID=Europe/Moscow:20260527T194000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 639вф\nАудитория: а.6117\nПара №21\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-2000-639вф-финансы-деньги-кредит-банки-ле@gtifem.ru
+DTSTAMP:20260602T102635Z
+DTSTART;TZID=Europe/Moscow:20260527T200000
+DTEND;TZID=Europe/Moscow:20260527T214000
+SUMMARY:Финансы\, деньги\, кредит\, банки (лек) · гр. 639вф · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 639вф\nАудитория: а.6117\nПара №22\nПреподаватель: Дудк
+ ина П.В.
+CATEGORIES:Преподавание,639вф
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

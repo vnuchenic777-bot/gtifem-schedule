@@ -72,7 +72,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-0930-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250902T093000
 DTEND;TZID=Europe/Moscow:20250902T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а.406
@@ -85,7 +85,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1130-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250902T113000
 DTEND;TZID=Europe/Moscow:20250902T131000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а.406
@@ -98,7 +98,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.403
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250904T160000
 DTEND;TZID=Europe/Moscow:20250904T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.403
@@ -220,7 +220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.405
@@ -233,7 +233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.405
@@ -246,7 +246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1400-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -260,7 +260,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1600-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250911T160000
 DTEND;TZID=Europe/Moscow:20250911T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -274,7 +274,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1400-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -288,7 +288,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1600-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250915T160000
 DTEND;TZID=Europe/Moscow:20250915T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -302,7 +302,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1400-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250918T140000
 DTEND;TZID=Europe/Moscow:20250918T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -316,7 +316,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1600-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250918T160000
 DTEND;TZID=Europe/Moscow:20250918T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -330,7 +330,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-0930-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T093000
 DTEND;TZID=Europe/Moscow:20250922T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.106
@@ -343,7 +343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1130-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T113000
 DTEND;TZID=Europe/Moscow:20250922T131000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.106
@@ -356,7 +356,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1400-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а.106
@@ -369,7 +369,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1600-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T160000
 DTEND;TZID=Europe/Moscow:20250922T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а.106
@@ -382,7 +382,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250923-1400-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250923T140000
 DTEND;TZID=Europe/Moscow:20250923T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -396,7 +396,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250923-1600-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250923T160000
 DTEND;TZID=Europe/Moscow:20250923T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -410,7 +410,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а. 6248
@@ -423,7 +423,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250925T160000
 DTEND;TZID=Europe/Moscow:20250925T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а. 6248
@@ -436,7 +436,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1400-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250926T140000
 DTEND;TZID=Europe/Moscow:20250926T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -450,7 +450,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1600-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250926T160000
 DTEND;TZID=Europe/Moscow:20250926T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -464,7 +464,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-0930-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250929T093000
 DTEND;TZID=Europe/Moscow:20250929T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -478,7 +478,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1130-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250929T113000
 DTEND;TZID=Europe/Moscow:20250929T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -492,7 +492,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.6107
@@ -529,7 +529,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.6107
@@ -590,7 +590,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-0930-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6561\, 6581 · а.6381
@@ -603,7 +603,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1130-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Теория анализа и статистика лекция · гр. 6561\, 6581 · а.6381
@@ -616,7 +616,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251003T140000
 DTEND;TZID=Europe/Moscow:20251003T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.403
@@ -677,7 +677,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251003T160000
 DTEND;TZID=Europe/Moscow:20251003T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.403
@@ -738,7 +738,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1400-6561-6581-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251006T140000
 DTEND;TZID=Europe/Moscow:20251006T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6561\, 6581 
@@ -752,7 +752,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1600-6561-6581-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251006T160000
 DTEND;TZID=Europe/Moscow:20251006T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6561\, 6581 
@@ -814,7 +814,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251007-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-пр
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251007T200000
 DTEND;TZID=Europe/Moscow:20251007T204500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ1-8\,646вэ9-16 · а. 
@@ -828,7 +828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251008-1400-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251008T140000
 DTEND;TZID=Europe/Moscow:20251008T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -842,7 +842,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251008-1600-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251008T160000
 DTEND;TZID=Europe/Moscow:20251008T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -856,7 +856,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1400-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251009T140000
 DTEND;TZID=Europe/Moscow:20251009T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -870,7 +870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1600-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251009T160000
 DTEND;TZID=Europe/Moscow:20251009T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -884,7 +884,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251009T180000
 DTEND;TZID=Europe/Moscow:20251009T184500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ17-24\,646вэ25-31 · 
@@ -898,7 +898,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-0930-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251013T093000
 DTEND;TZID=Europe/Moscow:20251013T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6561\, 6581 · а.6240
@@ -911,7 +911,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-1130-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251013T113000
 DTEND;TZID=Europe/Moscow:20251013T131000
 SUMMARY:Теория анализа и статистика лекция · гр. 6561\, 6581 · а.6240
@@ -924,7 +924,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251014T140000
 DTEND;TZID=Europe/Moscow:20251014T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.411
@@ -937,7 +937,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251014T160000
 DTEND;TZID=Europe/Moscow:20251014T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.411
@@ -950,7 +950,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251014T180000
 DTEND;TZID=Europe/Moscow:20251014T184500
 SUMMARY:Теория анализа и статистика\, практ · гр. 649вл\,649вф\,648вк\,649в
@@ -964,7 +964,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-пр
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251014T200000
 DTEND;TZID=Europe/Moscow:20251014T204500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ1-8\,646вэ9-16 · а. 
@@ -978,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251015-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251015T140000
 DTEND;TZID=Europe/Moscow:20251015T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а. 6373
@@ -991,7 +991,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251015-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251015T160000
 DTEND;TZID=Europe/Moscow:20251015T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а. 6373
@@ -1004,7 +1004,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-0930-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251016T093000
 DTEND;TZID=Europe/Moscow:20251016T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1018,7 +1018,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1130-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251016T113000
 DTEND;TZID=Europe/Moscow:20251016T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1032,7 +1032,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1400-6561-6581-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251016T140000
 DTEND;TZID=Europe/Moscow:20251016T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6561\, 6581 
@@ -1046,7 +1046,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1600-6561-6581-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251016T160000
 DTEND;TZID=Europe/Moscow:20251016T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6561\, 6581 
@@ -1060,7 +1060,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251016T180000
 DTEND;TZID=Europe/Moscow:20251016T184500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ17-24\,646вэ25-31 · 
@@ -1074,7 +1074,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1400-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251017T140000
 DTEND;TZID=Europe/Moscow:20251017T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1088,7 +1088,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1600-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251017T160000
 DTEND;TZID=Europe/Moscow:20251017T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1102,7 +1102,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1400-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251023T140000
 DTEND;TZID=Europe/Moscow:20251023T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1116,7 +1116,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251023T160000
 DTEND;TZID=Europe/Moscow:20251023T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.406
@@ -1129,7 +1129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-0930-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251024T093000
 DTEND;TZID=Europe/Moscow:20251024T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1143,7 +1143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1130-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251024T113000
 DTEND;TZID=Europe/Moscow:20251024T131000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.106
@@ -1156,7 +1156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1400-6561-6581-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251024T140000
 DTEND;TZID=Europe/Moscow:20251024T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6561\, 6581 
@@ -1170,7 +1170,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1600-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251024T160000
 DTEND;TZID=Europe/Moscow:20251024T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6561\, 6581 · а.106
@@ -1183,7 +1183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251101-0930-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251101T093000
 DTEND;TZID=Europe/Moscow:20251101T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а. 6373
@@ -1220,7 +1220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251101-1130-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251101T113000
 DTEND;TZID=Europe/Moscow:20251101T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1336,7 +1336,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-0930-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251105T093000
 DTEND;TZID=Europe/Moscow:20251105T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.406
@@ -1349,7 +1349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-1130-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251105T113000
 DTEND;TZID=Europe/Moscow:20251105T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1363,7 +1363,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-1400-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251105T140000
 DTEND;TZID=Europe/Moscow:20251105T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1401,7 +1401,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-1600-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251105T160000
 DTEND;TZID=Europe/Moscow:20251105T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1439,7 +1439,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-0930-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251106T093000
 DTEND;TZID=Europe/Moscow:20251106T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1453,7 +1453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1130-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251106T113000
 DTEND;TZID=Europe/Moscow:20251106T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1467,7 +1467,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1400-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а.6381
@@ -1480,7 +1480,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1600-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251106T160000
 DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1494,7 +1494,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251106T180000
 DTEND;TZID=Europe/Moscow:20251106T184500
 SUMMARY:Теория анализа и статистика\, практ · гр. 649вл\,649вф\,648вк\,649в
@@ -1508,7 +1508,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-пр
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251106T200000
 DTEND;TZID=Europe/Moscow:20251106T204500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ1-8\,646вэ9-16 · а. 
@@ -1522,7 +1522,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1400-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251107T140000
 DTEND;TZID=Europe/Moscow:20251107T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1536,7 +1536,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1600-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251107T160000
 DTEND;TZID=Europe/Moscow:20251107T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1550,7 +1550,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-0930-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251111T093000
 DTEND;TZID=Europe/Moscow:20251111T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а.6373
@@ -1563,7 +1563,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1130-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251111T113000
 DTEND;TZID=Europe/Moscow:20251111T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1577,7 +1577,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1400-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251111T140000
 DTEND;TZID=Europe/Moscow:20251111T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а.101
@@ -1590,7 +1590,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251111T180000
 DTEND;TZID=Europe/Moscow:20251111T184500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ17-24\,646вэ25-31 · 
@@ -1604,7 +1604,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251111T200000
 DTEND;TZID=Europe/Moscow:20251111T204500
 SUMMARY:Теория анализа и статистика\, практ · гр. 649вл\,649вф\,648вк\,649в
@@ -1618,7 +1618,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1130-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251112T113000
 DTEND;TZID=Europe/Moscow:20251112T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1632,7 +1632,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251112T140000
 DTEND;TZID=Europe/Moscow:20251112T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а.6107
@@ -1645,7 +1645,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1600-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251112T160000
 DTEND;TZID=Europe/Moscow:20251112T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1659,7 +1659,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251118-0930-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251118T093000
 DTEND;TZID=Europe/Moscow:20251118T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1673,7 +1673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251118-1130-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251118T113000
 DTEND;TZID=Europe/Moscow:20251118T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1687,7 +1687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-0930-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251120T093000
 DTEND;TZID=Europe/Moscow:20251120T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1701,7 +1701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-1130-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251120T113000
 DTEND;TZID=Europe/Moscow:20251120T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1715,7 +1715,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-1400-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251120T140000
 DTEND;TZID=Europe/Moscow:20251120T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1729,7 +1729,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-1600-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251120T160000
 DTEND;TZID=Europe/Moscow:20251120T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1743,7 +1743,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251120T180000
 DTEND;TZID=Europe/Moscow:20251120T184500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ17-24\,646вэ25-31 · 
@@ -1757,7 +1757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-пр
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251120T200000
 DTEND;TZID=Europe/Moscow:20251120T204500
 SUMMARY:Теория анализа и статистика\, практ · гр. 646вэ1-8\,646вэ9-16 · а. 
@@ -1771,7 +1771,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-0930-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251126T093000
 DTEND;TZID=Europe/Moscow:20251126T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1785,7 +1785,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-1130-6581-6561-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251126T113000
 DTEND;TZID=Europe/Moscow:20251126T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6581\, 6561 
@@ -1799,7 +1799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-1400-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251126T140000
 DTEND;TZID=Europe/Moscow:20251126T154000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1813,7 +1813,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-1600-6511-6512-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251126T160000
 DTEND;TZID=Europe/Moscow:20251126T174000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6511\,6512 ·
@@ -1827,7 +1827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-0930-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251127T093000
 DTEND;TZID=Europe/Moscow:20251127T111000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1841,7 +1841,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1130-6541-6542-теория-анализа-и-статистика-пр@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251127T113000
 DTEND;TZID=Europe/Moscow:20251127T131000
 SUMMARY:Теория анализа и статистика практическое занятие · гр. 6541\,6542 ·
@@ -1907,7 +1907,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251202T140000
 DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а. 6248
@@ -1946,7 +1946,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251202T160000
 DTEND;TZID=Europe/Moscow:20251202T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а. 6248
@@ -1985,7 +1985,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251202T180000
 DTEND;TZID=Europe/Moscow:20251202T184500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 649вл\,649вф\,648вк\,649вм
@@ -1999,7 +1999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251202T200000
 DTEND;TZID=Europe/Moscow:20251202T204500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 646вэ1-8\,646вэ9-16 · а. 6
@@ -2013,7 +2013,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251203T140000
 DTEND;TZID=Europe/Moscow:20251203T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а. 409
@@ -2050,7 +2050,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251203T160000
 DTEND;TZID=Europe/Moscow:20251203T174000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а. 409
@@ -2087,7 +2087,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-0930-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251204T093000
 DTEND;TZID=Europe/Moscow:20251204T111000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а. 6248
@@ -2100,7 +2100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1130-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251204T113000
 DTEND;TZID=Europe/Moscow:20251204T131000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а. 6248
@@ -2189,7 +2189,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251209T140000
 DTEND;TZID=Europe/Moscow:20251209T154000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6511\,6512 · 
@@ -2203,7 +2203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251209T160000
 DTEND;TZID=Europe/Moscow:20251209T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6511\,6512 · 
@@ -2217,7 +2217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251209T180000
 DTEND;TZID=Europe/Moscow:20251209T184500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 646вэ17-24\,646вэ25-31 · а
@@ -2231,7 +2231,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251210-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251210T140000
 DTEND;TZID=Europe/Moscow:20251210T154000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6541\,6542 · 
@@ -2245,7 +2245,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251210-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251210T160000
 DTEND;TZID=Europe/Moscow:20251210T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6541\,6542 · 
@@ -2259,7 +2259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251211-0930-6581-6561-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251211T093000
 DTEND;TZID=Europe/Moscow:20251211T111000
 SUMMARY:Теория анализа и статистика Лабораторная работа (перенос с 30.12.20
@@ -2273,7 +2273,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251211-1130-6581-6561-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251211T113000
 DTEND;TZID=Europe/Moscow:20251211T131000
 SUMMARY:Теория анализа и статистика Лабораторная работа (перенос с 30.12.20
@@ -2287,7 +2287,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-1400-6581-6561-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251212T140000
 DTEND;TZID=Europe/Moscow:20251212T154000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6581\, 6561 ·
@@ -2301,7 +2301,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-1600-6581-6561-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251212T160000
 DTEND;TZID=Europe/Moscow:20251212T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6581\, 6561 ·
@@ -2315,7 +2315,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251216T140000
 DTEND;TZID=Europe/Moscow:20251216T154000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6541\,6542 · 
@@ -2329,7 +2329,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251216T160000
 DTEND;TZID=Europe/Moscow:20251216T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6541\,6542 · 
@@ -2343,7 +2343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251216T180000
 DTEND;TZID=Europe/Moscow:20251216T184500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 649вл\,649вф\,648вк\,649вм
@@ -2357,7 +2357,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1855-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251216T185500
 DTEND;TZID=Europe/Moscow:20251216T194000
 SUMMARY:Теория анализа и статистика\, лекц · гр. 646вэ17-24\,646вэ25-31 · а
@@ -2371,7 +2371,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251216T200000
 DTEND;TZID=Europe/Moscow:20251216T204500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 646вэ1-8\,646вэ9-16 · а. 6
@@ -2385,7 +2385,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-2055-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251216T205500
 DTEND;TZID=Europe/Moscow:20251216T214000
 SUMMARY:Теория анализа и статистика\, лекц · гр. 649вл\,649вф\,648вк\,649вм
@@ -2399,7 +2399,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251217-1400-6581-6561-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251217T140000
 DTEND;TZID=Europe/Moscow:20251217T154000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6581\, 6561 ·
@@ -2413,7 +2413,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251217-1600-6581-6561-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251217T160000
 DTEND;TZID=Europe/Moscow:20251217T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6581\, 6561 ·
@@ -2427,7 +2427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251218T140000
 DTEND;TZID=Europe/Moscow:20251218T154000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6511\,6512 · 
@@ -2441,7 +2441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251218T160000
 DTEND;TZID=Europe/Moscow:20251218T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6511\,6512 · 
@@ -2455,7 +2455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251218T180000
 DTEND;TZID=Europe/Moscow:20251218T184500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 646вэ17-24\,646вэ25-31 · а
@@ -2469,7 +2469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251218T200000
 DTEND;TZID=Europe/Moscow:20251218T204500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 649вл\,649вф\,648вк\,649вм
@@ -2483,7 +2483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251223-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251223T140000
 DTEND;TZID=Europe/Moscow:20251223T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6541\,6542 · а. 6248
@@ -2496,7 +2496,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251223-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251223T160000
 DTEND;TZID=Europe/Moscow:20251223T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6541\,6542 · 
@@ -2510,7 +2510,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251223-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-пр@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251223T180000
 DTEND;TZID=Europe/Moscow:20251223T184500
 SUMMARY:Теория анализа и статистика\, практ · гр. 649вл\,649вф\,648вк\,649в
@@ -2524,7 +2524,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251223-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251223T200000
 DTEND;TZID=Europe/Moscow:20251223T204500
 SUMMARY:Теория анализа и статистика\, лекц · гр. 646вэ1-8\,646вэ9-16 · а. 6
@@ -2538,7 +2538,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251224-1400-6581-6561-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251224T140000
 DTEND;TZID=Europe/Moscow:20251224T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6581\, 6561 · а. 6373
@@ -2551,7 +2551,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251224-1600-6581-6561-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251224T160000
 DTEND;TZID=Europe/Moscow:20251224T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6581\, 6561 ·
@@ -2565,7 +2565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251225-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251225T140000
 DTEND;TZID=Europe/Moscow:20251225T154000
 SUMMARY:Теория анализа и статистика лекция · гр. 6511\,6512 · а. 6248
@@ -2578,7 +2578,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251225-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251225T160000
 DTEND;TZID=Europe/Moscow:20251225T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6511\,6512 · 
@@ -2592,7 +2592,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251229-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251229T093000
 DTEND;TZID=Europe/Moscow:20251229T111000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6511\,6512 · 
@@ -2606,7 +2606,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251229-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251229T113000
 DTEND;TZID=Europe/Moscow:20251229T131000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6511\,6512 · 
@@ -2620,7 +2620,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251229-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251229T140000
 DTEND;TZID=Europe/Moscow:20251229T154000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6541\,6542 · 
@@ -2634,7 +2634,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251229-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251229T160000
 DTEND;TZID=Europe/Moscow:20251229T174000
 SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6541\,6542 · 
@@ -2696,7 +2696,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260112-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260112T113000
 DTEND;TZID=Europe/Moscow:20260112T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -2757,7 +2757,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260112-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260112T140000
 DTEND;TZID=Europe/Moscow:20260112T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -2769,7 +2769,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260113-1600-6591-статистика-пр-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260113T160000
 DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:Статистика (пр) · гр. 6591 · а.6115
@@ -2793,7 +2793,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260113-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260113T200000
 DTEND;TZID=Europe/Moscow:20260113T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -2807,7 +2807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
 DTEND;TZID=Europe/Moscow:20260115T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6236
@@ -2844,7 +2844,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260115T140000
 DTEND;TZID=Europe/Moscow:20260115T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6236
@@ -2880,7 +2880,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-1600-6591-статистика-лек-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260115T160000
 DTEND;TZID=Europe/Moscow:20260115T174000
 SUMMARY:Статистика (лек) · гр. 6591 · а.6248
@@ -2904,7 +2904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260115T180000
 DTEND;TZID=Europe/Moscow:20260115T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -2918,7 +2918,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260115T200000
 DTEND;TZID=Europe/Moscow:20260115T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -2932,7 +2932,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260116T113000
 DTEND;TZID=Europe/Moscow:20260116T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -2945,7 +2945,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -2958,7 +2958,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-0930-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260119T093000
 DTEND;TZID=Europe/Moscow:20260119T111000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.411
@@ -2971,7 +2971,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-1130-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260119T113000
 DTEND;TZID=Europe/Moscow:20260119T131000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.411
@@ -2984,7 +2984,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260120T140000
 DTEND;TZID=Europe/Moscow:20260120T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6381
@@ -2997,7 +2997,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260120T160000
 DTEND;TZID=Europe/Moscow:20260120T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6248
@@ -3010,7 +3010,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260120T180000
 DTEND;TZID=Europe/Moscow:20260120T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -3024,7 +3024,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260120T200000
 DTEND;TZID=Europe/Moscow:20260120T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -3038,7 +3038,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260122-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260122T180000
 DTEND;TZID=Europe/Moscow:20260122T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -3052,7 +3052,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1400-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6248
@@ -3065,7 +3065,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1600-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260123T160000
 DTEND;TZID=Europe/Moscow:20260123T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6248
@@ -3078,7 +3078,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260126T093000
 DTEND;TZID=Europe/Moscow:20260126T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6236
@@ -3091,7 +3091,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260126T113000
 DTEND;TZID=Europe/Moscow:20260126T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6236
@@ -3103,7 +3103,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-1400-649збу-статистика-лек-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260126T140000
 DTEND;TZID=Europe/Moscow:20260126T154000
 SUMMARY:Статистика (лек) · гр. 649збу · а.106
@@ -3115,7 +3115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260127-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260127T180000
 DTEND;TZID=Europe/Moscow:20260127T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -3129,7 +3129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260127-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260127T200000
 DTEND;TZID=Europe/Moscow:20260127T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -3143,7 +3143,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260128T113000
 DTEND;TZID=Europe/Moscow:20260128T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -3156,7 +3156,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260128T140000
 DTEND;TZID=Europe/Moscow:20260128T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -3169,7 +3169,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260129T180000
 DTEND;TZID=Europe/Moscow:20260129T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -3183,7 +3183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260129T200000
 DTEND;TZID=Europe/Moscow:20260129T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -3197,7 +3197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260130T113000
 DTEND;TZID=Europe/Moscow:20260130T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -3210,7 +3210,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260130T140000
 DTEND;TZID=Europe/Moscow:20260130T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6378
@@ -3223,7 +3223,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260202T093000
 DTEND;TZID=Europe/Moscow:20260202T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6116
@@ -3235,7 +3235,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1130-649збу-статистика@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260202T113000
 DTEND;TZID=Europe/Moscow:20260202T131000
 SUMMARY:Статистика · гр. 649збу · а.401
@@ -3329,7 +3329,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1130-6591-статистика-лек-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260204T113000
 DTEND;TZID=Europe/Moscow:20260204T131000
 SUMMARY:Статистика (лек) · гр. 6591 · а.6240
@@ -3352,7 +3352,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1400-6591-статистика-пр-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260204T140000
 DTEND;TZID=Europe/Moscow:20260204T154000
 SUMMARY:Статистика (пр) · гр. 6591 · а.6240
@@ -3376,7 +3376,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260205-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260205T113000
 DTEND;TZID=Europe/Moscow:20260205T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6378
@@ -3389,7 +3389,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260205-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -3461,7 +3461,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260206-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260206T093000
 DTEND;TZID=Europe/Moscow:20260206T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6249
@@ -3474,7 +3474,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260206-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260206T113000
 DTEND;TZID=Europe/Moscow:20260206T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6236
@@ -3511,7 +3511,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260206-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6236
@@ -3548,7 +3548,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260210T140000
 DTEND;TZID=Europe/Moscow:20260210T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6117
@@ -3561,7 +3561,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260210T160000
 DTEND;TZID=Europe/Moscow:20260210T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6242
@@ -3574,7 +3574,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
 DTEND;TZID=Europe/Moscow:20260212T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6381
@@ -3587,7 +3587,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260212T160000
 DTEND;TZID=Europe/Moscow:20260212T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6248
@@ -3600,7 +3600,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260212T180000
 DTEND;TZID=Europe/Moscow:20260212T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -3614,7 +3614,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1400-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260213T140000
 DTEND;TZID=Europe/Moscow:20260213T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.414
@@ -3627,7 +3627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260213T160000
 DTEND;TZID=Europe/Moscow:20260213T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -3640,7 +3640,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260216T093000
 DTEND;TZID=Europe/Moscow:20260216T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -3653,7 +3653,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-1130-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260216T113000
 DTEND;TZID=Europe/Moscow:20260216T131000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.409
@@ -3666,7 +3666,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260216T140000
 DTEND;TZID=Europe/Moscow:20260216T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6117
@@ -3679,7 +3679,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260217T140000
 DTEND;TZID=Europe/Moscow:20260217T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6115
@@ -3691,7 +3691,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1600-6591-статистика-лек-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260217T160000
 DTEND;TZID=Europe/Moscow:20260217T174000
 SUMMARY:Статистика (лек) · гр. 6591 · а.6115
@@ -3704,7 +3704,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1600-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260219T160000
 DTEND;TZID=Europe/Moscow:20260219T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.401
@@ -3717,7 +3717,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260219T180000
 DTEND;TZID=Europe/Moscow:20260219T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -3731,7 +3731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260224T160000
 DTEND;TZID=Europe/Moscow:20260224T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -3744,7 +3744,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1800-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260224T180000
 DTEND;TZID=Europe/Moscow:20260224T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -3758,7 +3758,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260224T200000
 DTEND;TZID=Europe/Moscow:20260224T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -3772,7 +3772,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260227-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260227T113000
 DTEND;TZID=Europe/Moscow:20260227T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6378
@@ -3785,7 +3785,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260227-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260227T140000
 DTEND;TZID=Europe/Moscow:20260227T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6236
@@ -3797,7 +3797,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260227-1600-6591-статистика-пр-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260227T160000
 DTEND;TZID=Europe/Moscow:20260227T174000
 SUMMARY:Статистика (пр) · гр. 6591 · а.408
@@ -4010,7 +4010,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260310-1600-6591-статистика-лек-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260310T160000
 DTEND;TZID=Europe/Moscow:20260310T174000
 SUMMARY:Статистика (лек) · гр. 6591 · а.6381
@@ -4023,7 +4023,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260310-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260310T180000
 DTEND;TZID=Europe/Moscow:20260310T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -4037,7 +4037,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260312T140000
 DTEND;TZID=Europe/Moscow:20260312T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6249
@@ -4050,7 +4050,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1800-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260312T180000
 DTEND;TZID=Europe/Moscow:20260312T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -4064,7 +4064,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260312T200000
 DTEND;TZID=Europe/Moscow:20260312T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -4078,7 +4078,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260316T140000
 DTEND;TZID=Europe/Moscow:20260316T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -4091,7 +4091,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260316T160000
 DTEND;TZID=Europe/Moscow:20260316T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -4104,7 +4104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260317-0930-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260317T093000
 DTEND;TZID=Europe/Moscow:20260317T111000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6381
@@ -4116,7 +4116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260317-1130-6591-статистика-пр-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260317T113000
 DTEND;TZID=Europe/Moscow:20260317T131000
 SUMMARY:Статистика (пр) · гр. 6591 · а.6245
@@ -4129,7 +4129,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260317-1400-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260317T140000
 DTEND;TZID=Europe/Moscow:20260317T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6240
@@ -4142,7 +4142,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260317-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260317T160000
 DTEND;TZID=Europe/Moscow:20260317T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6240
@@ -4155,7 +4155,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260319-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260319T093000
 DTEND;TZID=Europe/Moscow:20260319T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6242
@@ -4168,7 +4168,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260319-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260319T113000
 DTEND;TZID=Europe/Moscow:20260319T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6242
@@ -4181,7 +4181,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260323-0930-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260323T093000
 DTEND;TZID=Europe/Moscow:20260323T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -4194,7 +4194,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260323-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260323T113000
 DTEND;TZID=Europe/Moscow:20260323T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -4207,7 +4207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260324T093000
 DTEND;TZID=Europe/Moscow:20260324T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4220,7 +4220,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260324T113000
 DTEND;TZID=Europe/Moscow:20260324T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4233,7 +4233,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260325T093000
 DTEND;TZID=Europe/Moscow:20260325T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -4246,7 +4246,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260325T113000
 DTEND;TZID=Europe/Moscow:20260325T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -4259,7 +4259,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260325T140000
 DTEND;TZID=Europe/Moscow:20260325T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6382
@@ -4272,7 +4272,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1600-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260325T160000
 DTEND;TZID=Europe/Moscow:20260325T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6381
@@ -4285,7 +4285,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260326-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260326T140000
 DTEND;TZID=Europe/Moscow:20260326T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6116
@@ -4298,7 +4298,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260326-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260326T160000
 DTEND;TZID=Europe/Moscow:20260326T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6116
@@ -4311,7 +4311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260326-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260326T180000
 DTEND;TZID=Europe/Moscow:20260326T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -4325,7 +4325,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260326-2000-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260326T200000
 DTEND;TZID=Europe/Moscow:20260326T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -4339,7 +4339,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-0930-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260330T093000
 DTEND;TZID=Europe/Moscow:20260330T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -4352,7 +4352,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260330T113000
 DTEND;TZID=Europe/Moscow:20260330T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -4365,7 +4365,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260330T140000
 DTEND;TZID=Europe/Moscow:20260330T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6242
@@ -4378,7 +4378,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260330T160000
 DTEND;TZID=Europe/Moscow:20260330T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -4391,7 +4391,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-0930-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260331T093000
 DTEND;TZID=Europe/Moscow:20260331T111000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6107
@@ -4403,7 +4403,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1130-6591-статистика-лаб-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260331T113000
 DTEND;TZID=Europe/Moscow:20260331T131000
 SUMMARY:Статистика (лаб) · гр. 6591 · а.6236
@@ -4416,7 +4416,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260331T140000
 DTEND;TZID=Europe/Moscow:20260331T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6117
@@ -4429,7 +4429,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260331T160000
 DTEND;TZID=Europe/Moscow:20260331T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6242
@@ -4442,7 +4442,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260331T180000
 DTEND;TZID=Europe/Moscow:20260331T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -4456,7 +4456,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260331T200000
 DTEND;TZID=Europe/Moscow:20260331T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -4470,7 +4470,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260401T140000
 DTEND;TZID=Europe/Moscow:20260401T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -4483,7 +4483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260401T160000
 DTEND;TZID=Europe/Moscow:20260401T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -4520,7 +4520,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260402T140000
 DTEND;TZID=Europe/Moscow:20260402T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4568,7 +4568,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260402T160000
 DTEND;TZID=Europe/Moscow:20260402T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4592,7 +4592,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260402T180000
 DTEND;TZID=Europe/Moscow:20260402T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -4606,7 +4606,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-2000-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260402T200000
 DTEND;TZID=Europe/Moscow:20260402T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -4620,7 +4620,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260403T113000
 DTEND;TZID=Europe/Moscow:20260403T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6245
@@ -4633,7 +4633,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260403T140000
 DTEND;TZID=Europe/Moscow:20260403T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6245
@@ -4718,7 +4718,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-0930-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260406T093000
 DTEND;TZID=Europe/Moscow:20260406T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -4731,7 +4731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260406T113000
 DTEND;TZID=Europe/Moscow:20260406T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -4768,7 +4768,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260406T140000
 DTEND;TZID=Europe/Moscow:20260406T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6382
@@ -4805,7 +4805,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260406T160000
 DTEND;TZID=Europe/Moscow:20260406T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6382
@@ -4818,7 +4818,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260407T093000
 DTEND;TZID=Europe/Moscow:20260407T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4831,7 +4831,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260407T113000
 DTEND;TZID=Europe/Moscow:20260407T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4844,7 +4844,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260408T093000
 DTEND;TZID=Europe/Moscow:20260408T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -4857,7 +4857,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260408T113000
 DTEND;TZID=Europe/Moscow:20260408T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -4870,7 +4870,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260408T140000
 DTEND;TZID=Europe/Moscow:20260408T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4883,7 +4883,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260408T160000
 DTEND;TZID=Europe/Moscow:20260408T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -4895,7 +4895,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1600-6591-статистика-лаб-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260409T160000
 DTEND;TZID=Europe/Moscow:20260409T174000
 SUMMARY:Статистика (лаб) · гр. 6591 · а.6235
@@ -4908,7 +4908,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1800-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260409T180000
 DTEND;TZID=Europe/Moscow:20260409T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -4922,7 +4922,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260409T200000
 DTEND;TZID=Europe/Moscow:20260409T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -4936,7 +4936,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260413-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260413T140000
 DTEND;TZID=Europe/Moscow:20260413T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -4949,7 +4949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260413-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260413T160000
 DTEND;TZID=Europe/Moscow:20260413T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -4962,7 +4962,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260414-1600-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260414T160000
 DTEND;TZID=Europe/Moscow:20260414T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6382
@@ -4975,7 +4975,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260414-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260414T180000
 DTEND;TZID=Europe/Moscow:20260414T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -4989,7 +4989,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260414-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260414T200000
 DTEND;TZID=Europe/Moscow:20260414T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -5003,7 +5003,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260417T093000
 DTEND;TZID=Europe/Moscow:20260417T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -5016,7 +5016,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260417T113000
 DTEND;TZID=Europe/Moscow:20260417T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -5029,7 +5029,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260417T140000
 DTEND;TZID=Europe/Moscow:20260417T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6245
@@ -5042,7 +5042,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260417T160000
 DTEND;TZID=Europe/Moscow:20260417T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6245
@@ -5055,7 +5055,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260420-0930-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260420T093000
 DTEND;TZID=Europe/Moscow:20260420T111000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6382
@@ -5068,7 +5068,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260420-1130-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260420T113000
 DTEND;TZID=Europe/Moscow:20260420T131000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6382
@@ -5081,7 +5081,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260420-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260420T140000
 DTEND;TZID=Europe/Moscow:20260420T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6382
@@ -5094,7 +5094,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260421T093000
 DTEND;TZID=Europe/Moscow:20260421T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6117
@@ -5107,7 +5107,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260421T113000
 DTEND;TZID=Europe/Moscow:20260421T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6117
@@ -5120,7 +5120,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260422T093000
 DTEND;TZID=Europe/Moscow:20260422T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -5133,7 +5133,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260422T113000
 DTEND;TZID=Europe/Moscow:20260422T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -5146,7 +5146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260422T140000
 DTEND;TZID=Europe/Moscow:20260422T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6248
@@ -5159,7 +5159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1600-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260422T160000
 DTEND;TZID=Europe/Moscow:20260422T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6248
@@ -5171,7 +5171,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-1400-6591-статистика-лек-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260423T140000
 DTEND;TZID=Europe/Moscow:20260423T154000
 SUMMARY:Статистика (лек) · гр. 6591 · а.6373
@@ -5184,7 +5184,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-1600-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260423T160000
 DTEND;TZID=Europe/Moscow:20260423T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6115
@@ -5197,7 +5197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260423T180000
 DTEND;TZID=Europe/Moscow:20260423T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -5211,7 +5211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-2000-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260423T200000
 DTEND;TZID=Europe/Moscow:20260423T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -5225,7 +5225,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260424T140000
 DTEND;TZID=Europe/Moscow:20260424T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6242
@@ -5238,7 +5238,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260424T160000
 DTEND;TZID=Europe/Moscow:20260424T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6242
@@ -5251,7 +5251,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260427-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260427T093000
 DTEND;TZID=Europe/Moscow:20260427T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -5264,7 +5264,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260427-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260427T113000
 DTEND;TZID=Europe/Moscow:20260427T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -5277,7 +5277,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260428T140000
 DTEND;TZID=Europe/Moscow:20260428T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6117
@@ -5290,7 +5290,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260428T160000
 DTEND;TZID=Europe/Moscow:20260428T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6117
@@ -5303,7 +5303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-1800-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260428T180000
 DTEND;TZID=Europe/Moscow:20260428T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -5317,7 +5317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260428T200000
 DTEND;TZID=Europe/Moscow:20260428T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.611
@@ -5331,7 +5331,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260430T180000
 DTEND;TZID=Europe/Moscow:20260430T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -5345,7 +5345,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260430T200000
 DTEND;TZID=Europe/Moscow:20260430T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -5359,7 +5359,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-0930-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260504T093000
 DTEND;TZID=Europe/Moscow:20260504T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -5372,7 +5372,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260504T113000
 DTEND;TZID=Europe/Moscow:20260504T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -5409,7 +5409,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260504T140000
 DTEND;TZID=Europe/Moscow:20260504T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -5446,7 +5446,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260504T160000
 DTEND;TZID=Europe/Moscow:20260504T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6112
@@ -5469,7 +5469,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260505-1130-6591-статистика-пр-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260505T113000
 DTEND;TZID=Europe/Moscow:20260505T131000
 SUMMARY:Статистика (пр) · гр. 6591 · а.6240
@@ -5493,7 +5493,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260505-1400-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260505T140000
 DTEND;TZID=Europe/Moscow:20260505T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6117
@@ -5554,7 +5554,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260505-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260505T160000
 DTEND;TZID=Europe/Moscow:20260505T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6117
@@ -5591,7 +5591,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260507T093000
 DTEND;TZID=Europe/Moscow:20260507T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6378
@@ -5628,7 +5628,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260507T113000
 DTEND;TZID=Europe/Moscow:20260507T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6378
@@ -5665,7 +5665,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260508-0930-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260508T093000
 DTEND;TZID=Europe/Moscow:20260508T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -5702,7 +5702,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260508-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260508T113000
 DTEND;TZID=Europe/Moscow:20260508T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6236
@@ -5739,7 +5739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260512-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260512T140000
 DTEND;TZID=Europe/Moscow:20260512T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -5752,7 +5752,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260512-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260512T160000
 DTEND;TZID=Europe/Moscow:20260512T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -5765,7 +5765,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260513T140000
 DTEND;TZID=Europe/Moscow:20260513T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6117
@@ -5778,7 +5778,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260513T160000
 DTEND;TZID=Europe/Moscow:20260513T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6117
@@ -5791,7 +5791,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260514T140000
 DTEND;TZID=Europe/Moscow:20260514T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6248
@@ -5804,7 +5804,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260514T160000
 DTEND;TZID=Europe/Moscow:20260514T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6248
@@ -5817,7 +5817,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1800-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260514T180000
 DTEND;TZID=Europe/Moscow:20260514T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -5831,7 +5831,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-2000-649вл-649вф-648вк-649вм-теория-анализа-и-статисти
  ка-ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260514T200000
 DTEND;TZID=Europe/Moscow:20260514T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 649вл\,649вф\,648вк\,649вм 
@@ -5845,7 +5845,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260515T140000
 DTEND;TZID=Europe/Moscow:20260515T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6112
@@ -5858,7 +5858,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260515T160000
 DTEND;TZID=Europe/Moscow:20260515T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6112
@@ -5871,7 +5871,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260518-0930-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260518T093000
 DTEND;TZID=Europe/Moscow:20260518T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6378
@@ -5884,7 +5884,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260518-1130-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260518T113000
 DTEND;TZID=Europe/Moscow:20260518T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6378
@@ -5897,7 +5897,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260518-1400-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260518T140000
 DTEND;TZID=Europe/Moscow:20260518T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6378
@@ -5910,7 +5910,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260518-1600-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260518T160000
 DTEND;TZID=Europe/Moscow:20260518T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6378
@@ -5923,7 +5923,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260519-1130-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260519T113000
 DTEND;TZID=Europe/Moscow:20260519T131000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6240
@@ -5936,7 +5936,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260519-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260519T140000
 DTEND;TZID=Europe/Moscow:20260519T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6240
@@ -5948,7 +5948,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260519-1600-6591-статистика-зачет-@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260519T160000
 DTEND;TZID=Europe/Moscow:20260519T174000
 SUMMARY:Статистика (зачет) · гр. 6591 · а.6116
@@ -5960,7 +5960,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1130-6541-6542-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260520T113000
 DTEND;TZID=Europe/Moscow:20260520T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6541\,6542 · а.6242
@@ -5973,7 +5973,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1400-6511-6512-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260520T140000
 DTEND;TZID=Europe/Moscow:20260520T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6511\,6512 · а.6381
@@ -5986,7 +5986,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1600-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260520T160000
 DTEND;TZID=Europe/Moscow:20260520T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6378
@@ -5999,7 +5999,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260521T140000
 DTEND;TZID=Europe/Moscow:20260521T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -6012,7 +6012,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260521T160000
 DTEND;TZID=Europe/Moscow:20260521T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -6025,7 +6025,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1800-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260521T180000
 DTEND;TZID=Europe/Moscow:20260521T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.623
@@ -6039,7 +6039,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-2000-646вэ1-8-646вэ9-16-теория-анализа-и-статистика-ле
  @gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260521T200000
 DTEND;TZID=Europe/Moscow:20260521T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ1-8\,646вэ9-16 · а.623
@@ -6053,7 +6053,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-0930-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260525T093000
 DTEND;TZID=Europe/Moscow:20260525T111000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -6066,7 +6066,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-1130-6511-6512-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260525T113000
 DTEND;TZID=Europe/Moscow:20260525T131000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6511\,6512 · а.6249
@@ -6079,7 +6079,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-1400-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260525T140000
 DTEND;TZID=Europe/Moscow:20260525T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6248
@@ -6092,7 +6092,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-1600-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260525T160000
 DTEND;TZID=Europe/Moscow:20260525T174000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6248
@@ -6105,7 +6105,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260526-1400-6561-6581-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260526T140000
 DTEND;TZID=Europe/Moscow:20260526T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6561\, 6581 · а.6248
@@ -6118,7 +6118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260526-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260526T160000
 DTEND;TZID=Europe/Moscow:20260526T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6236
@@ -6131,7 +6131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260526-1800-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260526T180000
 DTEND;TZID=Europe/Moscow:20260526T194000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -6145,7 +6145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260526-2000-646вэ17-24-646вэ25-31-теория-анализа-и-статистика
  -ле@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260526T200000
 DTEND;TZID=Europe/Moscow:20260526T214000
 SUMMARY:Теория анализа и статистика (лек) · гр. 646вэ17-24\,646вэ25-31 · а.
@@ -6159,7 +6159,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1130-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260527T113000
 DTEND;TZID=Europe/Moscow:20260527T131000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6382
@@ -6172,7 +6172,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1400-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260527T140000
 DTEND;TZID=Europe/Moscow:20260527T154000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -6185,7 +6185,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1600-6561-6581-теория-анализа-и-статистика-ла@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260527T160000
 DTEND;TZID=Europe/Moscow:20260527T174000
 SUMMARY:Теория анализа и статистика (лаб) · гр. 6561\, 6581 · а.6116
@@ -6198,7 +6198,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1130-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260529T113000
 DTEND;TZID=Europe/Moscow:20260529T131000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6382
@@ -6211,7 +6211,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1400-6541-6542-теория-анализа-и-статистика-ле@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260529T140000
 DTEND;TZID=Europe/Moscow:20260529T154000
 SUMMARY:Теория анализа и статистика (лек) · гр. 6541\,6542 · а.6382

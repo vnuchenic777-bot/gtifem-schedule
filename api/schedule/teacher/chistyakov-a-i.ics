@@ -1,0 +1,573 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Чистяков А.И. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Чистяков А.И., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6571-организационное-управление-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Организационное управление Лабораторная работа · гр. 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6571\nАудитория: а.6235\nПара №11\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6571-организационное-управление-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Организационное управление Лабораторная работа · гр. 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6571\nАудитория: а.6235\nПара №12\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Организационное управление Лекция · гр. 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №10\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6571-организационное-управление-пра@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Организационное управление Практическое занятие · гр. 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №9\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-0930-6571-организационное-управление-пра@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T093000
+DTEND;TZID=Europe/Moscow:20251111T111000
+SUMMARY:Организационное управление Практическое занятие · гр. 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6571\nАудитория: а.6235\nПара №12\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-0930-6571-организационное-управление-пра@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:Организационное управление Практическое занятие (перенос с 10.11.20
+ 25) · гр. 6571 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6571\nАудитория: а.6381\nПара №10\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-6571-организационное-управление-пра@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:Организационное управление Практическое занятие (перенос с 10.11.20
+ 25) · гр. 6571 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6571\nАудитория: а.6381\nПара №11\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1400-6571-организационное-управление-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Организационное управление Лабораторная работа · гр. 6571 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6571\nАудитория: а.6376\nПара №14\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1600-6571-организационное-управление-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Организационное управление Лабораторная работа · гр. 6571 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6571\nАудитория: а.6376\nПара №15\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №18\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №19\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №23\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1130-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №20\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №24\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №25\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №21\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6571\nАудитория: а.408\nПара №22\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПара №23\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПара №24\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №25\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1400-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6571\nАудитория: а.6117\nПара №28\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6571\nАудитория: а.6112\nПара №26\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6571\nАудитория: а.6112\nПара №27\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №26\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №29\nПреподаватель: Чистяк
+ ов А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-0930-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260318T093000
+DTEND;TZID=Europe/Moscow:20260318T111000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6571\nАудитория: а.6382\nПара №27\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6571\nАудитория: а.6376\nПара №30\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1400-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПара №28\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6571\nАудитория: а.6236\nПара №31\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6571\nАудитория: а.6236\nПара №32\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6571\nАудитория: а.6378\nПара №33\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПара №34\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПара №35\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260422T093000
+DTEND;TZID=Europe/Moscow:20260422T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6571\nАудитория: а.6117\nПара №36\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260422T113000
+DTEND;TZID=Europe/Moscow:20260422T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6571\nАудитория: а.6117\nПара №37\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260429T113000
+DTEND;TZID=Europe/Moscow:20260429T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6571\nАудитория: а.6381\nПара №38\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T093000
+DTEND;TZID=Europe/Moscow:20260505T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6571\nАудитория: а.6235\nПара №39\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1130-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПара №29\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-0930-6571-организационное-управление-лек@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260519T093000
+DTEND;TZID=Europe/Moscow:20260519T111000
+SUMMARY:Организационное управление (лек) · гр. 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПара №30\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1130-6571-организационное-управление-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260519T113000
+DTEND;TZID=Europe/Moscow:20260519T131000
+SUMMARY:Организационное управление (лаб) · гр. 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6571\nАудитория: а.6116\nПара №34\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1400-6571-организационное-управление-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260519T140000
+DTEND;TZID=Europe/Moscow:20260519T154000
+SUMMARY:Организационное управление (лаб) · гр. 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6571\nАудитория: а.6116\nПара №35\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-0930-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6571\nАудитория: а.6249\nПара №40\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6571\nАудитория: а.6249\nПара №41\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1130-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260601T113000
+DTEND;TZID=Europe/Moscow:20260601T131000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6571\nАудитория: а.6112\nПара №42\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1400-6571-организационное-управление-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260601T140000
+DTEND;TZID=Europe/Moscow:20260601T154000
+SUMMARY:Организационное управление (пр) · гр. 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №43\nПреподаватель: Чистя
+ ков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-1130-6571-организационное-управление-экз@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260709T113000
+DTEND;TZID=Europe/Moscow:20260709T131000
+SUMMARY:Организационное управление (экз) · гр. 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПреподаватель: Чистяков А.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

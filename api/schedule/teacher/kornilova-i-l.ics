@@ -3,9 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Корнилова И. Л. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Корнилова И. Л., ФЭМ СПбГТИ (ТУ
- )
+X-WR-CALNAME:Расписание Корнилова И.Л. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Корнилова И.Л., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -127,24 +126,50 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1400-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №1\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1600-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №2\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250904-0930-6591-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102636Z
 DTSTART;TZID=Europe/Moscow:20250904T093000
 DTEND;TZID=Europe/Moscow:20250904T111000
 SUMMARY:Введение в информационные технологии Лекция · гр. 6591 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПреподаватель: Корнилова И. Л.
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №1\nПреподаватель: Корнил
+ ова И.Л.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1130-6591-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260602T102636Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
 DTEND;TZID=Europe/Moscow:20250904T131000
 SUMMARY:Введение в информационные технологии Лекция · гр. 6591 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПреподаватель: Корнилова И. Л.
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №2\nПреподаватель: Корнил
+ ова И.Л.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -168,6 +193,20 @@ SUMMARY:Экономико-математические методы и моде
  р. 
 DESCRIPTION:Группа: \nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №1\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -201,6 +240,20 @@ SUMMARY:Экономико-математические методы и моде
  р. 
 DESCRIPTION:Группа: \nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №2\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -257,6 +310,20 @@ CATEGORIES:Преподавание,659
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250908-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Экономико-математические методы и модели практическое занятие · гр.
+  6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №1\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250908-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250908T093000
@@ -280,6 +347,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №1\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Экономико-математические методы и модели практическое занятие · гр.
+  6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №2\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -309,6 +390,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250909-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Экономико-математические методы и модели практическое занятие · гр.
+  6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №3\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250909-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250909T093000
@@ -332,6 +427,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №3\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Экономико-математические методы и модели практическое занятие · гр.
+  6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №4\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -361,6 +470,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250912-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №1\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250912-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250912T093000
@@ -384,6 +507,20 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №1\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №2\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -413,6 +550,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250915-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №3\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250915-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
@@ -436,6 +587,20 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6412\nАудитория: а.6378\nПара №3\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №4\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -465,6 +630,72 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250917-1400-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.623
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\nАудитория: а.6236\nПара №1\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1600-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250917T160000
+DTEND;TZID=Europe/Moscow:20250917T174000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.623
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\nАудитория: а.6236\nПара №2\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6591\nАудитория: а. 6378\nПара №1\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6591\nАудитория: а. 6378\nПара №2\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №5\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250923-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250923T140000
@@ -488,6 +719,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №5\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №6\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -517,6 +762,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250924-1400-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №3\nПреподаватель: Корнило
+ ва И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1600-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №4\nПреподаватель: Корнило
+ ва И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №7\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
@@ -543,6 +826,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250925-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №8\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250925T160000
@@ -566,6 +863,58 @@ LOCATION:а.6117
 DESCRIPTION:Группа: 6412\nАудитория: а.6117\nПара №8\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.624
+ 8
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\nАудитория: а.6248\nПара №3\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.624
+ 8
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\nАудитория: а.6248\nПара №4\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №3\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №4\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -655,6 +1004,20 @@ CATEGORIES:Преподавание,659
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251002-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №9\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251002-0930--экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251002T093000
@@ -698,29 +1061,17 @@ CATEGORIES:Преподавание,659
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251002-0930-6411-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251002T093000
-DTEND;TZID=Europe/Moscow:20251002T111000
+UID:teacher-20251002-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
- р. 6411 · а.6378
+ р. 6411\,6412 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6411\nАудитория: а.6378\nПара №9\nПреподаватель: Корнил
- ова И. Л.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20251002-0930-6412-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251002T093000
-DTEND;TZID=Europe/Moscow:20251002T111000
-SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
- р. 6412 · а.6378
-LOCATION:а.6378
-DESCRIPTION:Группа: 6412\nАудитория: а.6378\nПара №9\nПреподаватель: Корнил
- ова И. Л.
-CATEGORIES:Преподавание,6412
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №10\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -767,29 +1118,15 @@ CATEGORIES:Преподавание,659
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251002-1130-6411-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251002T113000
-DTEND;TZID=Europe/Moscow:20251002T131000
-SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
- р. 6411 · а.6378
-LOCATION:а.6378
-DESCRIPTION:Группа: 6411\nАудитория: а.6378\nПара №10\nПреподаватель: Корни
- лова И. Л.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20251002-1130-6412-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251002T113000
-DTEND;TZID=Europe/Moscow:20251002T131000
-SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
- р. 6412 · а.6378
-LOCATION:а.6378
-DESCRIPTION:Группа: 6412\nАудитория: а.6378\nПара №10\nПреподаватель: Корни
- лова И. Л.
-CATEGORIES:Преподавание,6412
+UID:teacher-20251003-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\nАудитория: а.6248\nПара №5\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -812,6 +1149,18 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\nАудитория: а.6248\nПара №6\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -870,6 +1219,72 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251007-0930-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.611
+ 5
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\nАудитория: а.6115\nПара №5\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1130-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.611
+ 5
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\nАудитория: а.6115\nПара №6\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1400-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №5\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1600-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6591\nАудитория: а.6236\nПара №6\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №3\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251009-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251009T093000
@@ -894,6 +1309,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251009-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №4\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251009-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251009T113000
@@ -915,6 +1344,44 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №4\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\nАудитория: а.6115\nПара №7\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\nАудитория: а.6115\nПара №8\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №13\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -944,6 +1411,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251015-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №14\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251015-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251015T160000
@@ -970,6 +1451,46 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251016-0930-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T093000
+DTEND;TZID=Europe/Moscow:20251016T111000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №7\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1130-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №8\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №5\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251017-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251017T093000
@@ -991,6 +1512,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №5\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №15\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1020,6 +1555,74 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251020-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T180000
+DTEND;TZID=Europe/Moscow:20251020T184500
+SUMMARY:Экономико-математические методы и модели\, лаб · гр. 636вэ1-9\,636в
+ э10-18 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T200000
+DTEND;TZID=Europe/Moscow:20251020T204500
+SUMMARY:Экономико-математические методы и модели\, лаб · гр. 636вэ1-9\,636в
+ э10-18 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-0930-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.611
+ 5
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\nАудитория: а.6115\nПара №7\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.611
+ 5
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\nАудитория: а.6115\nПара №8\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №16\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251023-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251023T093000
@@ -1043,6 +1646,20 @@ LOCATION:а.6236
 DESCRIPTION:Группа: 6412\nАудитория: а.6236\nПара №16\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №17\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1072,6 +1689,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251027-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №18\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251027-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251027T140000
@@ -1095,6 +1726,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №18\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №19\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,6 +1769,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251029-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6381\nПара №6\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251029-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251029T140000
@@ -1145,6 +1804,20 @@ LOCATION:а.6381
 DESCRIPTION:Группа: 6412\nАудитория: а.6381\nПара №6\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6381\nПара №7\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1172,6 +1845,48 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251029-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T180000
+DTEND;TZID=Europe/Moscow:20251029T184500
+SUMMARY:Экономико-математические методы и модели\, лаб · гр. 636вэ1-9\,636в
+ э10-18 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T200000
+DTEND;TZID=Europe/Moscow:20251029T204500
+SUMMARY:Экономико-математические методы и модели\, лаб · гр. 636вэ1-9\,636в
+ э10-18 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №20\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251031-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251031T140000
@@ -1195,6 +1910,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №20\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №21\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,6 +1986,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251105-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №22\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251105-1400--экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251105T140000
@@ -1301,6 +2044,20 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №22\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №23\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1373,6 +2130,20 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251112-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №26\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251112-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251112T140000
@@ -1396,6 +2167,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №26\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №27\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1425,6 +2210,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251113-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум (пе
+ ренос с 10.11.2025) · гр. 6411\,6412 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПара №24\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251113-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251113T093000
@@ -1448,6 +2247,20 @@ LOCATION:а.6382
 DESCRIPTION:Группа: 6412\nАудитория: а.6382\nПара №24\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум (пе
+ ренос с 10.11.2025) · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №25\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1477,6 +2290,216 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251114-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251114T093000
+DTEND;TZID=Europe/Moscow:20251114T111000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\nАудитория: а.6248\nПара №10\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.623
+ 5
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №10\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\nАудитория: а.6245\nПара №11\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\nАудитория: а.6245\nПара №12\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T180000
+DTEND;TZID=Europe/Moscow:20251118T184500
+SUMMARY:Экономико-математические методы и модели\, лаб · гр. 636вэ1-9\,636в
+ э10-18 · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6382\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T200000
+DTEND;TZID=Europe/Moscow:20251118T204500
+SUMMARY:Экономико-математические методы и модели\, лаб · гр. 636вэ1-9\,636в
+ э10-18 · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6382\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №9\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №10\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\nАудитория: а.6248\nПара №11\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.623
+ 5
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №13\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.624
+ 2
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\nАудитория: а.6242\nПара №14\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.624
+ 2
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\nАудитория: а.6242\nПара №15\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T180000
+DTEND;TZID=Europe/Moscow:20251125T184500
+SUMMARY:Экономико-математические методы и модели\, лаб · гр. 636вэ1-9\,636в
+ э10-18 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6378\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-0930-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T093000
+DTEND;TZID=Europe/Moscow:20251126T111000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.623
+ 5
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №16\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1130-6521-теория-анализа-и-статистика-пр@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Теория анализа и статистика практическое занятие · гр. 6521 · а.623
+ 5
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №17\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №28\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251128-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251128T093000
@@ -1500,6 +2523,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №28\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №8\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1549,6 +2586,20 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251201-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6381\nПара №9\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251201-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251201T140000
@@ -1579,6 +2630,20 @@ SUMMARY:Экономико-математические методы и моде
  р. 
 DESCRIPTION:Группа: \nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №29\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1615,29 +2680,31 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251201-1600-6411-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251201T160000
-DTEND;TZID=Europe/Moscow:20251201T174000
-SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
- р. 6411 · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6411\nАудитория: а.6245\nПара №29\nПреподаватель: Корни
- лова И. Л.
-CATEGORIES:Преподавание,6411
+UID:teacher-20251201-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T180000
+DTEND;TZID=Europe/Moscow:20251201T184500
+SUMMARY:Экономико-математические методы и модели\, лекц · гр. 636вэ1-9\,636
+ вэ10-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251201-1600-6412-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251201T160000
-DTEND;TZID=Europe/Moscow:20251201T174000
-SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
- р. 6412 · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №29\nПреподаватель: Корни
- лова И. Л.
-CATEGORIES:Преподавание,6412
+UID:teacher-20251201-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T200000
+DTEND;TZID=Europe/Moscow:20251201T204500
+SUMMARY:Экономико-математические методы и модели\, лекц · гр. 636вэ1-9\,636
+ вэ10-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1706,6 +2773,18 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251203-1400-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\nАудитория: а.6381\nПара №12\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251203-1400--экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251203T140000
@@ -1717,6 +2796,18 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251203-1600-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\nАудитория: а.6381\nПара №13\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251203-1600--экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251203T160000
@@ -1725,6 +2816,20 @@ SUMMARY:Экономико-математические методы и моде
  р. 
 DESCRIPTION:Группа: \nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №30\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1762,6 +2867,20 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №30\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №31\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1835,6 +2954,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251208-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №32\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251208-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251208T093000
@@ -1858,6 +2991,20 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №32\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №33\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1887,6 +3034,46 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251209-0930-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Введение в информационные технологии Лабораторное занятие · гр. 659
+ 1 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №11\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6591-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Введение в информационные технологии Лабораторное занятие Промежуто
+ чная аттестация (Комплексый зачет с оценкой) · гр. 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №12\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T140000
+DTEND;TZID=Europe/Moscow:20251210T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №34\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251210-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251210T140000
@@ -1910,6 +3097,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №34\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T160000
+DTEND;TZID=Europe/Moscow:20251210T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №35\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1939,6 +3140,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251212-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6521 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\nАудитория: а.6245\nПара №1\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6521 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\nАудитория: а.6245\nПара №2\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №36\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251215-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251215T140000
@@ -1965,6 +3204,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251215-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №10\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251215-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251215T160000
@@ -1986,6 +3239,48 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №10\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T180000
+DTEND;TZID=Europe/Moscow:20251215T184500
+SUMMARY:Экономико-математические методы и модели\, лекц · гр. 636вэ1-9\,636
+ вэ10-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T200000
+DTEND;TZID=Europe/Moscow:20251215T204500
+SUMMARY:Экономико-математические методы и модели\, лекц · гр. 636вэ1-9\,636
+ вэ10-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №37\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2015,6 +3310,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251216-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №38\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251216-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251216T160000
@@ -2038,6 +3347,44 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6412\nАудитория: а.6378\nПара №38\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251218T093000
+DTEND;TZID=Europe/Moscow:20251218T111000
+SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №3\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №4\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №39\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2067,6 +3414,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251222-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №40\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251222-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251222T113000
@@ -2090,6 +3451,20 @@ LOCATION:а.6236
 DESCRIPTION:Группа: 6412\nАудитория: а.6236\nПара №40\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум (пе
+ ренос с 29.12.2025) · гр. 6411\,6412 · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а. 6249\nПара №42\nПреподаватель
+ : Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2119,6 +3494,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251223-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум (пе
+ ренос с 30.12.2025) · гр. 6411\,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №43\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251223-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251223T113000
@@ -2142,6 +3531,98 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №43\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Теория анализа и статистика Лабораторная работа (перенос с 30.12.20
+ 25) · гр. 6521 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\nАудитория: а.6249\nПара №6\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Теория анализа и статистика Лабораторная работа (перенос с 30.12.20
+ 25) · гр. 6521 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\nАудитория: а.6249\nПара №7\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Теория анализа и статистика лекция · гр. 6521 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\nАудитория: а.6240\nПара №14\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Теория анализа и статистика Лабораторная работа · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №5\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Экономико-математические методы и модели\, лекц · гр. 636вэ1-9\,636
+ вэ10-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Экономико-математические методы и модели\, практ · гр. 636вэ1-9\,63
+ 6вэ10-18 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а. 6107\nПара №-\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Экономико-математические методы и модели лабораторный практикум · г
+ р. 6411\,6412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6376\nПара №41\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2171,6 +3652,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251226-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:Экономико-математические методы и модели лекция · гр. 6411\,6412 · 
+ а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6240\nПара №11\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251226-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251226T160000
@@ -2192,6 +3687,20 @@ LOCATION:а.6240
 DESCRIPTION:Группа: 6412\nАудитория: а.6240\nПара №11\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №44\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2217,6 +3726,34 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260112-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T180000
+DTEND;TZID=Europe/Moscow:20260112T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №1\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T200000
+DTEND;TZID=Europe/Moscow:20260112T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №2\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260114-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260114T140000
@@ -2235,28 +3772,6 @@ DTEND;TZID=Europe/Moscow:20260114T154000
 SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6412 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6412
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260114-1400-6411-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260114T140000
-DTEND;TZID=Europe/Moscow:20260114T154000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6411\nАудитория: а.403\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260114-1400-6412-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260114T140000
-DTEND;TZID=Europe/Moscow:20260114T154000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6412 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6412\nАудитория: а.403\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
@@ -2283,25 +3798,41 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260114-1600-6411-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260114T160000
-DTEND;TZID=Europe/Moscow:20260114T174000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6411\nАудитория: а.403\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6411
+UID:teacher-20260115-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6521\nАудитория: а.408\nПара №8\nПреподаватель: Корнило
+ ва И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260114-1600-6412-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260114T160000
-DTEND;TZID=Europe/Moscow:20260114T174000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6412 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6412\nАудитория: а.403\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6412
+UID:teacher-20260115-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №9\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №45\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2324,6 +3855,20 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №46\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2371,6 +3916,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260121-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №47\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260121-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260121T140000
@@ -2392,6 +3951,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №47\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №48\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2419,6 +3992,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260123-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\nАудитория: а.6240\nПара №15\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6521\nАудитория: а.405\nПара №16\nПреподаватель: Корнил
+ ова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №49\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
@@ -2440,6 +4051,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №49\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .403
+LOCATION:а.403
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.403\nПара №12\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2467,6 +4092,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260128-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .403
+LOCATION:а.403
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.403\nПара №13\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260128-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260128T160000
@@ -2491,6 +4130,72 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260128-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T180000
+DTEND;TZID=Europe/Moscow:20260128T194000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 636вэ1-9\,636вэ
+ 10-18 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6116\nПара №1\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T200000
+DTEND;TZID=Europe/Moscow:20260128T214000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 636вэ1-9\,636вэ
+ 10-18 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6116\nПара №2\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260129T113000
+DTEND;TZID=Europe/Moscow:20260129T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №10\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260129T140000
+DTEND;TZID=Europe/Moscow:20260129T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №11\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №50\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260130-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260130T093000
@@ -2512,6 +4217,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №50\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №51\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2561,6 +4280,18 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260203-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №12\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260203-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260203T113000
@@ -2580,6 +4311,18 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.101
 DESCRIPTION:Группа: 6412\nАудитория: а.101\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №13\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2627,6 +4370,34 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260204-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T180000
+DTEND;TZID=Europe/Moscow:20260204T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №3\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T200000
+DTEND;TZID=Europe/Moscow:20260204T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №4\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260205-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T093000
@@ -2649,6 +4420,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260205-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №52\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260205-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T113000
@@ -2668,6 +4453,20 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №53\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2715,6 +4514,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260206-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №54\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260206-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260206T093000
@@ -2734,6 +4547,20 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6117
 DESCRIPTION:Группа: 6412\nАудитория: а.6117\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №55\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2781,6 +4608,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260210-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №56\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260210-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260210T093000
@@ -2802,6 +4643,20 @@ LOCATION:а.6112
 DESCRIPTION:Группа: 6412\nАудитория: а.6112\nПара №56\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .101
+LOCATION:а.101
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.101\nПара №14\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2829,6 +4684,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260211-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T140000
+DTEND;TZID=Europe/Moscow:20260211T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №57\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260211-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260211T140000
@@ -2850,6 +4719,32 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №57\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №14\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №58\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2877,6 +4772,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260212-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №59\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260212-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
@@ -2898,6 +4807,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №59\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260212T160000
+DTEND;TZID=Europe/Moscow:20260212T174000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №15\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2925,6 +4848,32 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260213-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\nАудитория: а.6240\nПара №17\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №60\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260213T113000
@@ -2946,6 +4895,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №60\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №61\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2973,6 +4936,56 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260224-0930-659збу-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T093000
+DTEND;TZID=Europe/Moscow:20260224T111000
+SUMMARY:Введение в информационные технологии (лаб) · гр. 659збу · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 659збу\nАудитория: а.6235\nПреподаватель: Корнилова И.Л
+ .
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-659збу-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Введение в информационные технологии (лаб) · гр. 659збу · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 659збу\nАудитория: а.6235\nПреподаватель: Корнилова И.Л
+ .
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1400-659збу-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Введение в информационные технологии · гр. 659збу · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 659збу\nАудитория: а.6235\nПреподаватель: Корнилова И.Л
+ .
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №62\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260226-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260226T113000
@@ -2994,6 +5007,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №62\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №63\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3021,6 +5048,60 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260226-1600-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T160000
+DTEND;TZID=Europe/Moscow:20260226T174000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6521\nАудитория: а.6382\nПара №18\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T180000
+DTEND;TZID=Europe/Moscow:20260226T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6376\nПара №5\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T200000
+DTEND;TZID=Europe/Moscow:20260226T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6376\nПара №6\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №64\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260227-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260227T093000
@@ -3042,6 +5123,20 @@ LOCATION:а.6236
 DESCRIPTION:Группа: 6412\nАудитория: а.6236\nПара №64\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №65\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3069,6 +5164,32 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260227-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №15\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПара №16\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260302-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260302T093000
@@ -3091,6 +5212,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260302-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПара №17\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260302-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260302T113000
@@ -3110,6 +5245,18 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6382
 DESCRIPTION:Группа: 6412\nАудитория: а.6382\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\nАудитория: а.6236\nПара №16\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3245,6 +5392,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260305-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №66\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260305-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T140000
@@ -3267,6 +5428,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260305-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №67\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260305-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260305T160000
@@ -3286,6 +5461,48 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T180000
+DTEND;TZID=Europe/Moscow:20260305T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №7\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T200000
+DTEND;TZID=Europe/Moscow:20260305T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №8\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №68\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3313,6 +5530,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260310-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T160000
+DTEND;TZID=Europe/Moscow:20260310T174000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №69\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260310-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260310T160000
@@ -3334,6 +5565,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №69\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T093000
+DTEND;TZID=Europe/Moscow:20260312T111000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №70\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3361,6 +5606,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260312-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T113000
+DTEND;TZID=Europe/Moscow:20260312T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №71\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260312-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260312T113000
@@ -3382,6 +5641,56 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №71\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1130-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T113000
+DTEND;TZID=Europe/Moscow:20260317T131000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\nАудитория: а.6240\nПара №19\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T140000
+DTEND;TZID=Europe/Moscow:20260317T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\nАудитория: а.6112\nПара №17\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T160000
+DTEND;TZID=Europe/Moscow:20260317T174000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\nАудитория: а.6249\nПара №18\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T093000
+DTEND;TZID=Europe/Moscow:20260318T111000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №18\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3409,6 +5718,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260318-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T113000
+DTEND;TZID=Europe/Moscow:20260318T131000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №72\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260318-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260318T113000
@@ -3430,6 +5753,20 @@ LOCATION:а.6112
 DESCRIPTION:Группа: 6412\nАудитория: а.6112\nПара №72\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260319T140000
+DTEND;TZID=Europe/Moscow:20260319T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №73\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3457,6 +5794,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260319-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260319T160000
+DTEND;TZID=Europe/Moscow:20260319T174000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №74\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260319-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260319T160000
@@ -3478,6 +5829,122 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №74\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260319T180000
+DTEND;TZID=Europe/Moscow:20260319T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №9\nПрепо
+ даватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260319T200000
+DTEND;TZID=Europe/Moscow:20260319T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №10\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1130-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\nАудитория: а.6115\nПара №20\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260326T180000
+DTEND;TZID=Europe/Moscow:20260326T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №11\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260326T200000
+DTEND;TZID=Europe/Moscow:20260326T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №12\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №19\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T160000
+DTEND;TZID=Europe/Moscow:20260327T174000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №20\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260401T093000
+DTEND;TZID=Europe/Moscow:20260401T111000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\nАудитория: а.6376\nПара №21\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260401T113000
+DTEND;TZID=Europe/Moscow:20260401T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\nАудитория: а.6376\nПара №22\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3591,28 +6058,6 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260402-1400-6411-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260402T140000
-DTEND;TZID=Europe/Moscow:20260402T154000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6411\nАудитория: а.6115\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260402-1400-6412-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260402T140000
-DTEND;TZID=Europe/Moscow:20260402T154000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6412 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6412
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260402-1600-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260402T160000
@@ -3635,25 +6080,15 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260402-1600-6411-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260402T160000
-DTEND;TZID=Europe/Moscow:20260402T174000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6411\nАудитория: а.6115\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260402-1600-6412-экономико-математические-метод@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260402T160000
-DTEND;TZID=Europe/Moscow:20260402T174000
-SUMMARY:Экономико-математические методы и модели (лек) · гр. 6412 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПреподаватель: Корнилова И. Л.
-CATEGORIES:Преподавание,6412
+UID:teacher-20260406-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260406T093000
+DTEND;TZID=Europe/Moscow:20260406T111000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №23\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3676,6 +6111,18 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №24\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3723,6 +6170,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260408-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260408T140000
+DTEND;TZID=Europe/Moscow:20260408T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №75\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260408-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260408T140000
@@ -3744,6 +6205,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №75\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260408T160000
+DTEND;TZID=Europe/Moscow:20260408T174000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №76\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3771,6 +6246,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260409-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №77\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260409-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
@@ -3792,6 +6281,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №77\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T160000
+DTEND;TZID=Europe/Moscow:20260409T174000
+SUMMARY:Экономико-математические методы и модели (лаб) · гр. 6411\,6412 · а
+ .6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №78\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3819,6 +6322,48 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260409-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T180000
+DTEND;TZID=Europe/Moscow:20260409T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №13\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T200000
+DTEND;TZID=Europe/Moscow:20260409T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №14\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №19\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260416-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260416T140000
@@ -3840,6 +6385,20 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №19\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T160000
+DTEND;TZID=Europe/Moscow:20260416T174000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №20\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3867,6 +6426,120 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260416-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T180000
+DTEND;TZID=Europe/Moscow:20260416T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №15\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T200000
+DTEND;TZID=Europe/Moscow:20260416T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №16\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\nАудитория: а.6376\nПара №25\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\nАудитория: а.6376\nПара №26\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260420T093000
+DTEND;TZID=Europe/Moscow:20260420T111000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\nАудитория: а.6381\nПара №21\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\nАудитория: а.6381\nПара №22\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260421T093000
+DTEND;TZID=Europe/Moscow:20260421T111000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №27\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №28\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260421T140000
+DTEND;TZID=Europe/Moscow:20260421T154000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №21\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260421-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260421T140000
@@ -3888,6 +6561,20 @@ LOCATION:а.6373
 DESCRIPTION:Группа: 6412\nАудитория: а.6373\nПара №21\nПреподаватель: Корни
  лова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №5\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3915,6 +6602,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260423-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T113000
+DTEND;TZID=Europe/Moscow:20260423T131000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6376\nПара №6\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260423-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260423T113000
@@ -3936,6 +6637,32 @@ LOCATION:а.6376
 DESCRIPTION:Группа: 6412\nАудитория: а.6376\nПара №6\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1400-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T140000
+DTEND;TZID=Europe/Moscow:20260423T154000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\nАудитория: а.6240\nПара №23\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №7\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3963,6 +6690,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260427-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №8\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260427-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260427T113000
@@ -3984,6 +6725,82 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №8\nПреподаватель: Корнил
  ова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T140000
+DTEND;TZID=Europe/Moscow:20260428T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №29\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T160000
+DTEND;TZID=Europe/Moscow:20260428T174000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №30\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T180000
+DTEND;TZID=Europe/Moscow:20260428T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №17\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T200000
+DTEND;TZID=Europe/Moscow:20260428T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6242\nПара №18\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T093000
+DTEND;TZID=Europe/Moscow:20260430T111000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №31\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T113000
+DTEND;TZID=Europe/Moscow:20260430T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\nАудитория: а.6117\nПара №32\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4031,6 +6848,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260506-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №9\nПреподаватель: 
+ Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260506-1130-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260506T113000
@@ -4053,6 +6884,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260506-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №10\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260506-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260506T140000
@@ -4072,6 +6917,20 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №11\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4119,6 +6978,18 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260507-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №33\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260507-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260507T140000
@@ -4138,6 +7009,18 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260507T160000
+DTEND;TZID=Europe/Moscow:20260507T174000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №34\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4163,6 +7046,30 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260508-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\nАудитория: а.6112\nПара №35\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\nАудитория: а.6112\nПара №36\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260508-1400-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260508T140000
@@ -4185,6 +7092,294 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260513-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\nАудитория: а.6236\nПара №37\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T140000
+DTEND;TZID=Europe/Moscow:20260513T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\nАудитория: а.6236\nПара №38\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1400-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260514T140000
+DTEND;TZID=Europe/Moscow:20260514T154000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\nАудитория: а.6117\nПара №39\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1600-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260514T160000
+DTEND;TZID=Europe/Moscow:20260514T174000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\nАудитория: а.6117\nПара №40\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1800-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260514T180000
+DTEND;TZID=Europe/Moscow:20260514T194000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6376\nПара №19\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-2000-636вэ1-9-636вэ10-18-экономико-математические-мето
+ д@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260514T200000
+DTEND;TZID=Europe/Moscow:20260514T214000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 636вэ1-9\,636в
+ э10-18 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6376\nПара №20\nПреп
+ одаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260515T113000
+DTEND;TZID=Europe/Moscow:20260515T131000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №22\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260515T140000
+DTEND;TZID=Europe/Moscow:20260515T154000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №12\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1600-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260515T160000
+DTEND;TZID=Europe/Moscow:20260515T174000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №13\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260518T093000
+DTEND;TZID=Europe/Moscow:20260518T111000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\nАудитория: а.6248\nПара №24\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260518T113000
+DTEND;TZID=Europe/Moscow:20260518T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\nАудитория: а.6242\nПара №41\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1400-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260518T140000
+DTEND;TZID=Europe/Moscow:20260518T154000
+SUMMARY:Экономико-математические методы и модели (лек) · гр. 6411\,6412 · а
+ .6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №23\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №14\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 6411\,6412 · а.
+ 6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №15\nПреподаватель:
+  Корнилова И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-0930-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260522T093000
+DTEND;TZID=Europe/Moscow:20260522T111000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6521\nАудитория: а.6382\nПара №25\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-1130-6521-теория-анализа-и-статистика-ле@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260522T113000
+DTEND;TZID=Europe/Moscow:20260522T131000
+SUMMARY:Теория анализа и статистика (лек) · гр. 6521 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6521\nАудитория: а.6382\nПара №26\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-0930-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260527T093000
+DTEND;TZID=Europe/Moscow:20260527T111000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\nАудитория: а.6235\nПара №42\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1130-6521-теория-анализа-и-статистика-ла@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260527T113000
+DTEND;TZID=Europe/Moscow:20260527T131000
+SUMMARY:Теория анализа и статистика (лаб) · гр. 6521 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\nАудитория: а.6249\nПара №43\nПреподаватель: Корни
+ лова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-0930-646зэ-649зм-649зф-теория-анализа-и-статистика-пр@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260702T093000
+DTEND;TZID=Europe/Moscow:20260702T111000
+SUMMARY:Теория анализа и статистика (пр) · гр. 646зэ\, 649зм\, 649зф · а.61
+ 12
+LOCATION:а.6112
+DESCRIPTION:Группа: 646зэ\, 649зм\, 649зф\nАудитория: а.6112\nПреподаватель
+ : Корнилова И.Л.
+CATEGORIES:Преподавание,646зэ\, 649зм\, 649зф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1130-646зэ-649зм-649зф-теория-анализа-и-статистика-пр@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260702T113000
+DTEND;TZID=Europe/Moscow:20260702T131000
+SUMMARY:Теория анализа и статистика (пр) · гр. 646зэ\, 649зм\, 649зф · а.61
+ 12
+LOCATION:а.6112
+DESCRIPTION:Группа: 646зэ\, 649зм\, 649зф\nАудитория: а.6112\nПреподаватель
+ : Корнилова И.Л.
+CATEGORIES:Преподавание,646зэ\, 649зм\, 649зф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1400-646зэ-649зм-649зф-теория-анализа-и-статистика-эк@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260702T140000
+DTEND;TZID=Europe/Moscow:20260702T154000
+SUMMARY:Теория анализа и статистика (экз) · гр. 646зэ\, 649зм\, 649зф · а.6
+ 112
+LOCATION:а.6112
+DESCRIPTION:Группа: 646зэ\, 649зм\, 649зф\nАудитория: а.6112\nПреподаватель
+ : Корнилова И.Л.
+CATEGORIES:Преподавание,646зэ\, 649зм\, 649зф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-0930-6411-6412-экономико-математические-метод@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260709T093000
+DTEND;TZID=Europe/Moscow:20260709T111000
+SUMMARY:Экономико-математические методы и модели (экз) · гр. 6411\,6412 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПреподаватель: Корнилова
+  И.Л.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260709-0930-6411-экономико-математические-метод@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260709T093000
@@ -4204,6 +7399,39 @@ SUMMARY:Экономико-математические методы и моде
 LOCATION:а.6112
 DESCRIPTION:Группа: 6412\nАудитория: а.6112\nПреподаватель: Корнилова И. Л.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-1130-6521-теория-анализа-и-статистика-эк@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260709T113000
+DTEND;TZID=Europe/Moscow:20260709T131000
+SUMMARY:Теория анализа и статистика (экз) · гр. 6521 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\nАудитория: а.6112\nПреподаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-1400-636зэ-экономико-математические-метод@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260709T140000
+DTEND;TZID=Europe/Moscow:20260709T154000
+SUMMARY:Экономико-математические методы и модели (пр) · гр. 636зэ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6112\nПреподаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636зэ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-1600-636зэ-экономико-математические-метод@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260709T160000
+DTEND;TZID=Europe/Moscow:20260709T174000
+SUMMARY:Экономико-математические методы и модели (экз) · гр. 636зэ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 636зэ\nАудитория: а.6112\nПреподаватель: Корнилова И.Л.
+CATEGORIES:Преподавание,636зэ
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

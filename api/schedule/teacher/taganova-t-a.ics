@@ -1,0 +1,56 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Таганова Т.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Таганова Т.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20260113-1400-650змм-3-иностранный-язык-лек-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Иностранный язык (лек) · гр. 650змм-3 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 650змм-3\nАудитория: а.6235\nПара №1\nПреподаватель: Та
+ ганова Т.А.
+CATEGORIES:Преподавание,650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1600-650змм-3-иностранный-язык-лек-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Иностранный язык (лек) · гр. 650змм-3 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 650змм-3\nАудитория: а.6235\nПара №2\nПреподаватель: Та
+ ганова Т.А.
+CATEGORIES:Преподавание,650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1600-650змм-3-иностранный-язык-лек-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Иностранный язык (лек) · гр. 650змм-3 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 650змм-3\nАудитория: а.6235\nПара №3\nПреподаватель: Та
+ ганова Т.А.
+CATEGORIES:Преподавание,650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Сарамаха С.И (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Сарамаха С.И, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Сарамаха С.И. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Сарамаха С.И., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -66,6 +66,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250901-1400-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №32\nПреподавател
+ ь: Сарамаха С.И.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-saramaha-s-i-20250901-1400-иностранный-язык-в-профeссиона-6491@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -75,6 +88,19 @@ SUMMARY:Иностранный язык в профессиональной де
  ие · гр. 6491 · ауд.каф.ин.яз.
 LOCATION:ауд.каф.ин.яз.
 DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1600-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T160000
+DTEND;TZID=Europe/Moscow:20250901T174000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №33\nПреподавател
+ ь: Сарамаха С.И.
 CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
@@ -89,6 +115,44 @@ SUMMARY:Иностранный язык в профессиональной де
 LOCATION:ауд.каф.ин.яз.
 DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.
 CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-0930-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №1\nПреподаватель
+ : Сарамаха С.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1130-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №2\nПреподаватель
+ : Сарамаха С.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1400-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №1\n
+ Преподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -129,6 +193,20 @@ CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250902-1600-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №2\n
+ Преподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-saramaha-s-i-20250902-1600-иностранный-язык-практичeскоe--6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -166,6 +244,20 @@ CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250904-0930-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №1\nПрепода
+ ватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-saramaha-s-i-20250904-0930-иностранный-язык-практичeскоe--6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -187,6 +279,20 @@ SUMMARY:Иностранный язык практическое занятие 
 LOCATION:ауд.каф.ин.яз.
 DESCRIPTION:Группа: 6512\nАудитория: ауд.каф.ин.яз.
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №2\nПрепода
+ ватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -263,6 +369,672 @@ SUMMARY:Иностранный язык в профессиональной де
 LOCATION:ауд.каф.ин.яз.
 DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.
 CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №3\nПрепода
+ ватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №4\nПрепода
+ ватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1400-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T140000
+DTEND;TZID=Europe/Moscow:20250908T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №3\n
+ Преподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1600-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T160000
+DTEND;TZID=Europe/Moscow:20250908T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №4\n
+ Преподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №3\nПрепод
+ аватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №4\nПрепод
+ аватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1400-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №34\nПреподавател
+ ь: Сарамаха С.И.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1600-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T160000
+DTEND;TZID=Europe/Moscow:20250909T174000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №35\nПреподавател
+ ь: Сарамаха С.И.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №3\nПреподаватель
+ : Сарамаха С.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №4\nПреподаватель
+ : Сарамаха С.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №36\nПреподавател
+ ь: Сарамаха С.И.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1600-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №37\nПреподавател
+ ь: Сарамаха С.И.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №5\nПреподаватель
+ : Сарамаха С.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №6\nПреподаватель
+ : Сарамаха С.И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №5\nПрепод
+ аватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №6\nПрепод
+ аватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №5\nПрепода
+ ватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №6\nПрепода
+ ватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1400-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №5\n
+ Преподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1600-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №6\n
+ Преподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №38\nПреподавател
+ ь: Сарамаха С.И.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6491-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
+ ие · гр. 6491 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №39\nПреподавател
+ ь: Сарамаха С.И.
+CATEGORIES:Преподавание,6491
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1800-659вл-659вф-658вк-659вм-иностранный-язык-практ@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T180000
+DTEND;TZID=Europe/Moscow:20251125T184500
+SUMMARY:Иностранный язык\, практ · гр. 659вл\,659вф\,658вк\,659вм · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6240\nПара №-
+ \nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-2000-656вэ1-8-656вэ25-31-иностранный-язык-практ@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T200000
+DTEND;TZID=Europe/Moscow:20251125T204500
+SUMMARY:Иностранный язык\, практ · гр. 656вэ1-8\,656вэ25-31 · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6240\nПара №-\nПреп
+ одаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1800-659вл-659вф-658вк-659вм-иностранный-язык-практ@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T180000
+DTEND;TZID=Europe/Moscow:20251204T184500
+SUMMARY:Иностранный язык\, практ · гр. 659вл\,659вф\,658вк\,659вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6112\nПара №-
+ \nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-2000-656вэ1-8-656вэ25-31-иностранный-язык-практ@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T200000
+DTEND;TZID=Europe/Moscow:20251204T204500
+SUMMARY:Иностранный язык\, практ · гр. 656вэ1-8\,656вэ25-31 · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6112\nПара №-\nПреп
+ одаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1800-659вл-659вф-658вк-659вм-иностранный-язык-практ@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T180000
+DTEND;TZID=Europe/Moscow:20251216T184500
+SUMMARY:Иностранный язык\, практ · гр. 659вл\,659вф\,658вк\,659вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6112\nПара №-
+ \nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-2000-656вэ1-8-656вэ25-31-иностранный-язык-практ@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T200000
+DTEND;TZID=Europe/Moscow:20251216T204500
+SUMMARY:Иностранный язык\, практ · гр. 656вэ1-8\,656вэ25-31 · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6112\nПара №-\nПреп
+ одаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1800-659вл-659вф-658вк-659вм-иностранный-язык-практ@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T180000
+DTEND;TZID=Europe/Moscow:20251225T184500
+SUMMARY:Иностранный язык\, практ · гр. 659вл\,659вф\,658вк\,659вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6112\nПара №-
+ \nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-2000-656вэ1-8-656вэ25-31-иностранный-язык-практ@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T200000
+DTEND;TZID=Europe/Moscow:20251225T204500
+SUMMARY:Иностранный язык\, практ · гр. 656вэ1-8\,656вэ25-31 · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6112\nПара №-\nПреп
+ одаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1800-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T180000
+DTEND;TZID=Europe/Moscow:20260122T194000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6236\nПара №1\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-2000-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T200000
+DTEND;TZID=Europe/Moscow:20260122T214000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6236\nПара №1\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1800-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T180000
+DTEND;TZID=Europe/Moscow:20260205T194000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6236\nПара №2\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-2000-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T200000
+DTEND;TZID=Europe/Moscow:20260205T214000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6236\nПара №2\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1800-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T180000
+DTEND;TZID=Europe/Moscow:20260304T194000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6236\nПара №3\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-2000-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T200000
+DTEND;TZID=Europe/Moscow:20260304T214000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6236\nПара №3\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1800-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260323T180000
+DTEND;TZID=Europe/Moscow:20260323T194000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6236\nПара №4\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-2000-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260323T200000
+DTEND;TZID=Europe/Moscow:20260323T214000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6236\nПара №4\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1800-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260406T180000
+DTEND;TZID=Europe/Moscow:20260406T194000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6248\nПара №5\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-2000-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260406T200000
+DTEND;TZID=Europe/Moscow:20260406T214000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6248\nПара №5\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1800-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T180000
+DTEND;TZID=Europe/Moscow:20260413T194000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6116\nПара №6\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-2000-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T200000
+DTEND;TZID=Europe/Moscow:20260413T214000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №6\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1800-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260518T180000
+DTEND;TZID=Europe/Moscow:20260518T194000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №7\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-2000-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260518T200000
+DTEND;TZID=Europe/Moscow:20260518T214000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6116\nПара №7\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1800-659вл-659вф-658вк-659вм-иностранный-язык-лек-@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260525T180000
+DTEND;TZID=Europe/Moscow:20260525T194000
+SUMMARY:Иностранный язык (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6116\nПара №8\
+ nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-2000-656вэ1-8-656вэ25-31-иностранный-язык-лек-@gtifem.
+ ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260525T200000
+DTEND;TZID=Europe/Moscow:20260525T214000
+SUMMARY:Иностранный язык (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №8\nПрепо
+ даватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1400-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-иностра
+ нный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260622T140000
+DTEND;TZID=Europe/Moscow:20260622T154000
+SUMMARY:Иностранный язык (пр) · гр. 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\,
+  659зм\, 659зу · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6248\nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1600-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-иностра
+ нный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260622T160000
+DTEND;TZID=Europe/Moscow:20260622T174000
+SUMMARY:Иностранный язык (пр) · гр. 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\,
+  659зм\, 659зу · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6248\nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260630-0930-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-иностра
+ нный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260630T093000
+DTEND;TZID=Europe/Moscow:20260630T111000
+SUMMARY:Иностранный язык (пр) · гр. 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\,
+  659зм\, 659зу · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6242\nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260630-1130-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-иностра
+ нный-язык-экз-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260630T113000
+DTEND;TZID=Europe/Moscow:20260630T131000
+SUMMARY:Иностранный язык (экз) · гр. 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\
+ , 659зм\, 659зу · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6242\nПреподаватель: Сарамаха С.И.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

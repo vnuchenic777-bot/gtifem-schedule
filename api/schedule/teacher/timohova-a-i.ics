@@ -1,0 +1,4176 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Тимохова А.И. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Тимохова А.И., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250901-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6221\nАудитория: а.6240\nПара №1\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T160000
+DTEND;TZID=Europe/Moscow:20250901T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6221\nАудитория: а.6240\nПара №2\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6261\nАудитория: а.411\nПара №1\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6261\nАудитория: а.411\nПара №2\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №1\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №2\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №3\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №1\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6261\nАудитория: а.6249\nПара №1\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6261\nАудитория: а.6249\nПара №2\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6221\nАудитория: а.6248\nПара №3\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6221\nАудитория: а.6248\nПара №4\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6221\nАудитория: а.6235\nПара №2\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6221\nАудитория: а.6235\nПара №3\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6221\nАудитория: а.6378\nПара №5\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6221\nАудитория: а.6378\nПара №6\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6261\nАудитория: а.6248\nПара №3\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6261\nАудитория: а.6248\nПара №4\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T093000
+DTEND;TZID=Europe/Moscow:20250917T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6221\nАудитория: а.414\nПара №4\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T113000
+DTEND;TZID=Europe/Moscow:20250917T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6221\nАудитория: а.414\nПара №5\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.414\nПара №1\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T160000
+DTEND;TZID=Europe/Moscow:20250917T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.414\nПара №2\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6235\nПара №1\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6235\nПара №2\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №6\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №4\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6221\nАудитория: а.6235\nПара №5\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6221\nАудитория: а.6235\nПара №7\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6221\nАудитория: а.6235\nПара №7\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6221\nАудитория: а.6235\nПара №6\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.409\nПара №3\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.409\nПара №4\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6261\nАудитория: а.6116\nПара №1\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6261\nАудитория: а.6116\nПара №5\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6221\nАудитория: а.6249\nПара №7\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6221\nАудитория: а.6249\nПара №8\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.406\nПара №3\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.406\nПара №4\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T093000
+DTEND;TZID=Europe/Moscow:20250930T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6221\nАудитория: а.409\nПара №8\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6221\nАудитория: а.409\nПара №9\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6261\nАудитория: а.409\nПара №4\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6261\nАудитория: а.409\nПара №5\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №8\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №9\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6321\, 6341 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6381\nПара №5\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6321\, 6341 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.101\nПара №1\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №10\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6221\nАудитория: а.6116\nПара №11\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6321\, 6341 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6116\nПара №2\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6321\, 6341 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6116\nПара №3\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6261\nАудитория: а.409\nПара №6\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6261\nАудитория: а.409\nПара №3\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6221\nАудитория: а.409\nПара №9\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6221\nАудитория: а.409\nПара №10\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6221\nАудитория: а. 6373\nПара №11\nПреподаватель: Тимо
+ хова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6221\nАудитория: а. 6373\nПара №10\nПреподаватель: Тимо
+ хова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T180000
+DTEND;TZID=Europe/Moscow:20251008T184500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, лекц · гр. 639
+ вф\, 638вк\, 639вл\, 639вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6235\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T200000
+DTEND;TZID=Europe/Moscow:20251008T204500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, практ · гр. 63
+ 9вф\, 638вк\, 639вл\, 639вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6235\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6261\nАудитория: а.401\nПара №7\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6261\nАудитория: а.401\nПара №6\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6321\, 6341 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6117\nПара №6\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 632
+ 1\, 6341 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.101\nПара №5\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6221\nАудитория: а. 6373\nПара №11\nПреподаватель: Тимо
+ хова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6221\nАудитория: а. 6373\nПара №12\nПреподаватель: Тимо
+ хова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6261\nАудитория: а.6117\nПара №2\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6261\nАудитория: а.6117\nПара №3\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6321\, 6341 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.401\nПара №6\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6321\, 6341 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.401\nПара №7\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №13\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №14\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6221\nАудитория: а.406\nПара №15\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6221\nАудитория: а.406\nПара №12\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6261\nАудитория: а.101\nПара №8\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T160000
+DTEND;TZID=Europe/Moscow:20251020T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6261\nАудитория: а.101\nПара №9\nПреподаватель: Тимохов
+ а А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T180000
+DTEND;TZID=Europe/Moscow:20251020T184500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, лаб · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6249\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T200000
+DTEND;TZID=Europe/Moscow:20251020T204500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, лаб · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6249\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 632
+ 1\, 6341 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.401\nПара №6\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 632
+ 1\, 6341 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.401\nПара №7\nПреподаватель: 
+ Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №13\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №12\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6261\nАудитория: а.6378\nПара №4\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6261\nАудитория: а.6378\nПара №5\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 632
+ 1\, 6341 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6236\nПара №8\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6321\, 6341 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6236\nПара №8\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6261\nАудитория: а.6115\nПара №10\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6261\nАудитория: а.6115\nПара №6\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6321\, 6341 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6381\nПара №9\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 632
+ 1\, 6341 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6381\nПара №9\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6221\nАудитория: а.6115\nПара №16\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6221\nАудитория: а.6115\nПара №17\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6221\nАудитория: а.6240\nПара №13\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6221\nАудитория: а.6240\nПара №14\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6261\nАудитория: а.6240\nПара №7\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6261\nАудитория: а.6240\nПара №8\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №14\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №15\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6221\nАудитория: а.6236\nПара №18\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6221\nАудитория: а.6236\nПара №19\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №20\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №21\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6107\nПара №10\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6378\nПара №7\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №7\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №8\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6242\nПара №8\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6242\nПара №9\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T093000
+DTEND;TZID=Europe/Moscow:20251111T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6249\nПара №10\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6249\nПара №11\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6261\nАудитория: а.6117\nПара №9\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6261\nАудитория: а.6117\nПара №9\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6117\nПара №12\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6117\nПара №13\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6221\nАудитория: а.6382\nПара №22\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6221\nАудитория: а.6382\nПара №23\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №10\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T160000
+DTEND;TZID=Europe/Moscow:20251114T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №11\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T093000
+DTEND;TZID=Europe/Moscow:20251118T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6261\nАудитория: 10\nПара №Онлайн занятие\nПреподавател
+ ь: Тимохова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6261\nАудитория: 11\nПара №Онлайн занятие\nПреподавател
+ ь: Тимохова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · 16
+LOCATION:16
+DESCRIPTION:Группа: 6221\nАудитория: 16\nПара №Онлайн занятие\nПреподавател
+ ь: Тимохова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · 17
+LOCATION:17
+DESCRIPTION:Группа: 6221\nАудитория: 17\nПара №Онлайн занятие\nПреподавател
+ ь: Тимохова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T093000
+DTEND;TZID=Europe/Moscow:20251119T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6261\nАудитория: 12\nПара №Онлайн занятие\nПреподавател
+ ь: Тимохова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6261\nАудитория: 12\nПара №Онлайн занятие\nПреподавател
+ ь: Тимохова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота (перенос с 17.11.2025) · гр. 6341\, 6321 · 14
+LOCATION:14
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: 14\nПара №Онлайн занятие\nПрепо
+ даватель: Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота (перенос с 17.11.2025) · гр. 6341\, 6321 · 15
+LOCATION:15
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: 15\nПара №Онлайн занятие\nПрепо
+ даватель: Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6117\nПара №16\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6117\nПара №17\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) практическое за
+ нятие (перенос с 17.11.2025) · гр. 6221 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6221\nАудитория: а.414\nПара №24\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) практическое за
+ нятие (перенос с 17.11.2025) · гр. 6221 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6221\nАудитория: а.414\nПара №25\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №18\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №19\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №13\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №13\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6378\nПара №18\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T093000
+DTEND;TZID=Europe/Moscow:20251126T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №20\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №21\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6261\nАудитория: а.6116\nПара №14\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6261\nАудитория: а.6116\nПара №15\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6107\nПара №11\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6116\nПара №12\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №22\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №23\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6221\nАудитория: а.6117\nПара №24\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6221\nАудитория: а.6117\nПара №25\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6261\nАудитория: а.6378\nПара №14\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6261\nАудитория: а.6378\nПара №16\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6378\nПара №19\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6115\nПара №10\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6117\nПара №13\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6117\nПара №14\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №15\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №16\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6261\nАудитория: а.6107\nПара №11\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6261\nАудитория: а.6107\nПара №12\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №26\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6221\nАудитория: а.6236\nПара №27\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6221\nАудитория: а.6236\nПара №28\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6221\nАудитория: а.6236\nПара №29\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6240\nПара №11\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Практическое зан
+ ятие · гр. 6341\, 6321 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6249\nПара №15\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6249\nПара №20\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6249\nПара №21\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T140000
+DTEND;TZID=Europe/Moscow:20251210T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6261\nАудитория: а.6381\nПара №13\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T160000
+DTEND;TZID=Europe/Moscow:20251210T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6261\nАудитория: а.6381\nПара №14\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T180000
+DTEND;TZID=Europe/Moscow:20251210T184500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, лекц · гр. 639
+ вф\, 638вк\, 639вл\, 639вм · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6116\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T200000
+DTEND;TZID=Europe/Moscow:20251210T204500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, лекц · гр. 639
+ вф\, 638вк\, 639вл\, 639вм · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6116\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №30\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · гр. 62
+ 21 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №17\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №26\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6221\nАудитория: а.6112\nПара №27\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6261\nАудитория: а.6235\nПара №16\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Лекция · гр. 626
+ 1 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6261\nАудитория: а.6107\nПара №18\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.406\nПара №15\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция · гр. 634
+ 1\, 6321 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.406\nПара №16\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6221\nАудитория: а.6378\nПара №28\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
+ бота · гр. 6221 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6221\nАудитория: а.6378\nПара №29\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, лекц · гр. 639
+ вф\, 638вк\, 639вл\, 639вм · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6115\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Управление проектами и формирование бизнес-моделей\, практ · гр. 63
+ 9вф\, 638вк\, 639вл\, 639вм · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а. 6115\nПара
+  №-\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-0930-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T093000
+DTEND;TZID=Europe/Moscow:20251225T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6378\nПара №23\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1130-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6378\nПара №24\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6261\nАудитория: а.6381\nПара №19\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Управление логистическими рисками в цепях поставок Лабораторное зан
+ ятие · гр. 6261 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №20\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №33\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
+ нятие · гр. 6221 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №34\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6261\nАудитория: а.403\nПара №17\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Управление логистическими рисками в цепях поставок Практическое зан
+ ятие · гр. 6261 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6261\nАудитория: а.403\nПара №18\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6341\, 6321 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6107\nПара №25\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6341-6321-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лекция (ауд) · г
+ р. 6341\, 6321 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а.6376\nПара №17\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T093000
+DTEND;TZID=Europe/Moscow:20260113T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6245\nПара №18\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №21\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №22\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T180000
+DTEND;TZID=Europe/Moscow:20260114T194000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №1\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T200000
+DTEND;TZID=Europe/Moscow:20260114T214000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №2\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 622
+ 1 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6221\nАудитория: а.6381\nПара №18\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 622
+ 1 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6221\nАудитория: а.6381\nПара №19\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №31\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260116T160000
+DTEND;TZID=Europe/Moscow:20260116T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №32\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T093000
+DTEND;TZID=Europe/Moscow:20260119T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №23\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №24\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №18\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 6321
+ \, 6341 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.403\nПара №19\nПреподаватель:
+  Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6115\nПара №19\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №26\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №27\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T140000
+DTEND;TZID=Europe/Moscow:20260122T154000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6261\nАудитория: а.408\nПара №19\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №28\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №29\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T140000
+DTEND;TZID=Europe/Moscow:20260126T154000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6261\nАудитория: а.409\nПара №20\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T160000
+DTEND;TZID=Europe/Moscow:20260126T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6242\nПара №20\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T180000
+DTEND;TZID=Europe/Moscow:20260126T194000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №3\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T200000
+DTEND;TZID=Europe/Moscow:20260126T214000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №4\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T093000
+DTEND;TZID=Europe/Moscow:20260128T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 6261
+  · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6261\nАудитория: а.6382\nПара №19\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T113000
+DTEND;TZID=Europe/Moscow:20260128T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (лек) · гр. 6261
+  · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6261\nАудитория: а.6382\nПара №20\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №30\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №31\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260129T140000
+DTEND;TZID=Europe/Moscow:20260129T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6378\nПара №26\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260129T160000
+DTEND;TZID=Europe/Moscow:20260129T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6116\nПара №27\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6221\nАудитория: а.101\nПара №33\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260130T160000
+DTEND;TZID=Europe/Moscow:20260130T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №34\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №32\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №33\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6236\nПара №28\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 622
+ 1 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6221\nАудитория: а.6381\nПара №20\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6221\nАудитория: а.403\nПара №35\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №36\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6261\nАудитория: а.408\nПара №25\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №29\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6261\nАудитория: а.406\nПара №21\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6261\nАудитория: а.6378\nПара №26\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 622
+ 1 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6221\nАудитория: а.403\nПара №21\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №34\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6248\nПара №21\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6236\nПара №30\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №35\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №36\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №37\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №38\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №27\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №28\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T140000
+DTEND;TZID=Europe/Moscow:20260211T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6242\nПара №31\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №37\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6261\nАудитория: а.6248\nПара №22\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6221\nАудитория: а.101\nПара №38\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T160000
+DTEND;TZID=Europe/Moscow:20260212T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №39\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №39\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6261\nАудитория: а.6242\nПара №29\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №32\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №40\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6221\nАудитория: а.6245\nПара №41\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №42\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6221\nАудитория: а.408\nПара №40\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6221\nАудитория: а.6115\nПара №43\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 622
+ 1 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №22\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T093000
+DTEND;TZID=Europe/Moscow:20260219T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6261\nАудитория: а.6235\nПара №30\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №31\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №33\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №41\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6236\nПара №34\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T093000
+DTEND;TZID=Europe/Moscow:20260225T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6261\nАудитория: а.406\nПара №23\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6261\nАудитория: а.406\nПара №24\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1400-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T140000
+DTEND;TZID=Europe/Moscow:20260225T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 622
+ 1 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6221\nАудитория: а.6235\nПара №23\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1600-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T160000
+DTEND;TZID=Europe/Moscow:20260225T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №24\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №44\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6221\nАудитория: а.405\nПара №45\nПреподаватель: Тимохо
+ ва А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №32\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №42\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · гр. 622
+ 1 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6221\nАудитория: а.6376\nПара №43\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6382\nПара №35\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260227T160000
+DTEND;TZID=Europe/Moscow:20260227T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6249\nПара №36\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6261\nАудитория: а.6235\nПара №25\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6261\nАудитория: а.6249\nПара №33\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1400-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6261\nАудитория: а.6236\nПара №26\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · гр. 6221
+  · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6221\nАудитория: а.6242\nПара №46\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 6321
+ \, 6341 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6381\nПара №20\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 6321
+ \, 6341 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6373\nПара №21\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-0930-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260316T093000
+DTEND;TZID=Europe/Moscow:20260316T111000
+SUMMARY:Управление логистическими рисками в цепях поставок (лаб) · гр. 6261
+  · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №34\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1130-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Управление логистическими рисками в цепях поставок (пр) · гр. 6261 
+ · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6261\nАудитория: а.6112\nПара №27\nПреподаватель: Тимох
+ ова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6249\nПара №22\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6249\nПара №23\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1600-6261-управление-логистическими-риск@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260330T160000
+DTEND;TZID=Europe/Moscow:20260330T174000
+SUMMARY:Управление логистическими рисками в цепях поставок (экз) · гр. 6261
+  · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6261\nАудитория: а.6378\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,6261
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260330T180000
+DTEND;TZID=Europe/Moscow:20260330T194000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №5\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260330T200000
+DTEND;TZID=Europe/Moscow:20260330T214000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №6\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6242\nПара №24\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260401T160000
+DTEND;TZID=Europe/Moscow:20260401T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 6321
+ \, 6341 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6115\nПара №22\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-0930-6221-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (экз) · гр. 622
+ 1 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6221\nАудитория: а.6115\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,6221
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6248\nПара №25\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6248\nПара №26\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T093000
+DTEND;TZID=Europe/Moscow:20260407T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №37\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T113000
+DTEND;TZID=Europe/Moscow:20260407T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №38\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №39\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6112\nПара №40\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T180000
+DTEND;TZID=Europe/Moscow:20260413T194000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №7\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T200000
+DTEND;TZID=Europe/Moscow:20260413T214000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №8\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T093000
+DTEND;TZID=Europe/Moscow:20260415T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 6321
+ \, 6341 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6248\nПара №23\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T113000
+DTEND;TZID=Europe/Moscow:20260415T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 6321
+ \, 6341 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6248\nПара №24\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6242\nПара №41\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T113000
+DTEND;TZID=Europe/Moscow:20260423T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6242\nПара №42\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260424T093000
+DTEND;TZID=Europe/Moscow:20260424T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6116\nПара №27\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6116\nПара №28\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-0930-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260429T093000
+DTEND;TZID=Europe/Moscow:20260429T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 6321\
+ , 6341 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6242\nПара №29\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1130-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260429T113000
+DTEND;TZID=Europe/Moscow:20260429T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6242\nПара №43\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T180000
+DTEND;TZID=Europe/Moscow:20260504T194000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №9\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-2000-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T200000
+DTEND;TZID=Europe/Moscow:20260504T214000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лек) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6382\nПара 
+ №10\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6236\nПара №44\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6321-6341-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (лаб) · гр. 6321
+ \, 6341 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6341\nАудитория: а.6236\nПара №45\nПреподаватель
+ : Тимохова А.И.
+CATEGORIES:Преподавание,6321\, 6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-1130-6321-управление-проектами-и-формиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260522T113000
+DTEND;TZID=Europe/Moscow:20260522T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (экз) · гр. 6321
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\nАудитория: а.6236\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-6341-управление-проектами-и-формиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (экз) · гр. 6341
+  · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6341\nАудитория: а.6248\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,6341
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1400-639зл-управление-проектами-и-формиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260624T140000
+DTEND;TZID=Europe/Moscow:20260624T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 639зл
+  · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639зл\nАудитория: а.6112\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639зл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1600-639зл-управление-проектами-и-формиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260624T160000
+DTEND;TZID=Europe/Moscow:20260624T174000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 639зл
+  · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639зл\nАудитория: а.6112\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639зл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1800-639вф-638вк-639вл-639вм-управление-проектами-и-фо
+ рмиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260624T180000
+DTEND;TZID=Europe/Moscow:20260624T194000
+SUMMARY:Управление проектами и формирование бизнес-моделей (экз) · гр. 639в
+ ф\, 638вк\, 639вл\, 639вм · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639вф\, 638вк\, 639вл\, 639вм\nАудитория: а.6112\nПрепо
+ даватель: Тимохова А.И.
+CATEGORIES:Преподавание,639вф\, 638вк\, 639вл\, 639вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-0930-639зл-управление-проектами-и-формиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260709T093000
+DTEND;TZID=Europe/Moscow:20260709T111000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 639зл
+  · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зл\nАудитория: а.6242\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639зл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-1130-639зл-управление-проектами-и-формиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260709T113000
+DTEND;TZID=Europe/Moscow:20260709T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей (пр) · гр. 639зл
+  · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зл\nАудитория: а.6242\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639зл
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-1400-639зл-управление-проектами-и-формиро@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260709T140000
+DTEND;TZID=Europe/Moscow:20260709T154000
+SUMMARY:Управление проектами и формирование бизнес-моделей (экз) · гр. 639з
+ л · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зл\nАудитория: а.6242\nПреподаватель: Тимохова А.И.
+CATEGORIES:Преподавание,639зл
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

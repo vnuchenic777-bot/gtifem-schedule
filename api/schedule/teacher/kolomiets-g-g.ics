@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Коломиец Г.Г (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Коломиец Г.Г, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Коломиец Г.Г. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Коломиец Г.Г., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -110,6 +110,31 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-0930-6561-6521-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:Философия лекция · гр. 6561\, 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.401\nПара №1\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1130-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.401\nПара №1\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-kolomiets-g-g-20250904-1400-философия-практичeскоe-занятиe-6511
  @gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -158,6 +183,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250905-0930-6531-6532-6533-6534-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Философия лекция · гр. 6531\,6532\, 6533\,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №1\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-kolomiets-g-g-20250905-0930-философия-лeкция-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20250905T093000
@@ -177,6 +214,19 @@ SUMMARY:Философия лекция · гр. 6512 · а.101
 LOCATION:а.101
 DESCRIPTION:Группа: 6512\nАудитория: а.101
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6531-6532-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №1\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -204,6 +254,398 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250909-1400-6511-6512-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Философия лекция · гр. 6511\,6512 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.106\nПара №1\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1600-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T160000
+DTEND;TZID=Europe/Moscow:20250909T174000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.106\nПара №1\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-0930-6551-6552-6553-6554-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:Философия лекция · гр. 6551\,6552\, 6553\,6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №1\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №1\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-0930-6561-6521-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Философия лекция · гр. 6561\, 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.409\nПара №2\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.409\nПара №2\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-0930-6511-6512-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Философия лекция · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №2\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №2\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6531-6532-6533-6534-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Философия лекция · гр. 6531\,6532\, 6533\,6534 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6240\nПара №2\nПр
+ еподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6531-6532-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6240\nПара №2\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6551-6552-6553-6554-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Философия лекция · гр. 6551\,6552\, 6553\,6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПара №2\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №2\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-0930-6531-6532-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250917T093000
+DTEND;TZID=Europe/Moscow:20250917T111000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.401\nПара №3\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1130-6531-6532-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250917T113000
+DTEND;TZID=Europe/Moscow:20250917T131000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.401\nПара №4\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №3\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1600-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №4\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.401\nПара №3\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.401\nПара №4\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №3\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №4\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-0930-6531-6532-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.403\nПара №5\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6531-6532-6533-6534-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Философия лекция · гр. 6531\,6532\, 6533\,6534 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.403\nПара №3\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-0930-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T093000
+DTEND;TZID=Europe/Moscow:20250930T111000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №5\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6561-6521-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Философия лекция · гр. 6561\, 6521 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №3\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №5\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6511-6512-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Философия лекция · гр. 6511\,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №3\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №6\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1130-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №7\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №6\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №6\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-0930-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №6\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-kolomiets-g-g-20251003-0930-философия-практичeскоe-занятиe-6511
  @gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -225,6 +667,19 @@ SUMMARY:Философия практическое занятие · гр. 6512
 LOCATION:а.401
 DESCRIPTION:Группа: 6512\nАудитория: а.401
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №7\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -298,6 +753,573 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251006-0930-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №7\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №7\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-0930-6541-6542-6581-философия-практическое-занятие@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Философия практическое занятие · гр. 6541\,6542\, 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №6\nПреподава
+ тель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1130-6541-6542-6581-философия-практическое-занятие@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Философия практическое занятие · гр. 6541\,6542\, 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №7\nПреподава
+ тель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6551-6552-6553-6554-философия-практическое-заняти
+ е@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552\, 6553\,6554 · а.40
+ 1
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПара №5\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1600-6551-6552-6553-6554-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Философия лекция · гр. 6551\,6552\, 6553\,6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПара №3\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-0930-6521-6561-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251008T093000
+DTEND;TZID=Europe/Moscow:20251008T111000
+SUMMARY:Философия практическое занятие · гр. 6521\, 6561 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.401\nПара №6\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1130-6521-6561-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T131000
+SUMMARY:Философия практическое занятие · гр. 6521\, 6561 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.401\nПара №7\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №8\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №8\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-6531-6532-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №6\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6531-6532-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №7\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПара №6\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПара №7\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6501\nАудитория: а.403\nПара №9\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6501\nАудитория: а.403\nПара №9\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.403\nПара №6\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.403\nПара №7\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №6\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №7\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-0930-6571-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T093000
+DTEND;TZID=Europe/Moscow:20251016T111000
+SUMMARY:Философия лекция · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №4\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1130-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №8\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-0930-6541-6542-6581-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:Философия лекция · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №4\nПреподава
+ тель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-6541-6542-6581-философия-практическое-занятие@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Философия практическое занятие · гр. 6541\,6542\, 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №8\nПреподава
+ тель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6501\nАудитория: а.406\nПара №10\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6501\nАудитория: а.406\nПара №10\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6531-6532-6533-6534-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Философия лекция · гр. 6531\,6532\, 6533\,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №4\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6531-6532-6533-6534-философия-практическое-заняти
+ е@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532\, 6533\,6534 · а.10
+ 1
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №8\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6551-6552-6553-6554-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Философия лекция · гр. 6551\,6552\, 6553\,6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №4\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6551-6552-6553-6554-философия-практическое-заняти
+ е@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552\, 6553\,6554 · а.10
+ 1
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №8\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6521-6561-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Философия лекция · гр. 6521\, 6561 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.401\nПара №4\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6521-6561-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Философия практическое занятие · гр. 6521\, 6561 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.401\nПара №8\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6511-6512-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Философия лекция · гр. 6511\,6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №4\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №8\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.408\nПара №9\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.408\nПара №10\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №9\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №10\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №9\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №10\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6501\nАудитория: а.403\nПара №11\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6501\nАудитория: а.403\nПара №11\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №12\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №12\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-kolomiets-g-g-20251106-0930-философия-практичeскоe-занятиe-6511
  @gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -343,6 +1365,1579 @@ SUMMARY:Философия практическое занятие · гр. 6512
 LOCATION:а.403
 DESCRIPTION:Группа: 6512\nАудитория: а.403
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-6531-6532-6533-6534-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Философия лекция · гр. 6531\,6532\, 6533\,6534 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПара №5\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-6531-6532-6533-6534-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Философия лекция · гр. 6531\,6532\, 6533\,6534 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПара №6\nПре
+ подаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №11\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва зачет · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6571-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Философия лекция · гр. 6571 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6571\nАудитория: а.411\nПара №5\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6571-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Философия лекция · гр. 6571 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6571\nАудитория: а.411\nПара №6\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1800-659вл-659вф-658вк-659вм-философия-лекци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T180000
+DTEND;TZID=Europe/Moscow:20251113T184500
+SUMMARY:Философия\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6248\nПара №-
+ \nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-2000-656вэ1-8-656вэ25-31-философия-лекци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T200000
+DTEND;TZID=Europe/Moscow:20251113T204500
+SUMMARY:Философия\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1800-659вл-659вф-658вк-659вм-философия-лекци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T180000
+DTEND;TZID=Europe/Moscow:20251118T184500
+SUMMARY:Философия\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6240\nПара №-
+ \nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-2000-656вэ1-8-656вэ25-31-философия-лекци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T200000
+DTEND;TZID=Europe/Moscow:20251118T204500
+SUMMARY:Философия\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6240\nПара №-\nПреп
+ одаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1130-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №12\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6541-6542-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Философия практическое занятие · гр. 6541\,6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.401\nПара №11\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6541-6542-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Философия практическое занятие · гр. 6541\,6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.401\nПара №12\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.101\nПара №11\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.101\nПара №12\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №13\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №14\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1400-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T140000
+DTEND;TZID=Europe/Moscow:20251125T154000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.403\nПара №13\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1600-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T160000
+DTEND;TZID=Europe/Moscow:20251125T174000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.403\nПара №14\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6531-6532-6581-философия-практическое-занятие@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6531\,6532\, 6581\nАудитория: а.403\nПара №13\nПреподав
+ атель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1600-6531-6532-6581-философия-практическое-занятие@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Философия практическое занятие · гр. 6531\,6532\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6531\,6532\, 6581\nАудитория: а.403\nПара №14\nПреподав
+ атель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6531\,6532\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №13\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-6511-6512-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Философия практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №14\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1800-659вл-659вф-658вк-659вм-философия-лекци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T180000
+DTEND;TZID=Europe/Moscow:20251202T184500
+SUMMARY:Философия\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6245\nПара №-
+ \nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-2000-656вэ1-8-656вэ25-31-философия-лекци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T200000
+DTEND;TZID=Europe/Moscow:20251202T204500
+SUMMARY:Философия\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6245\nПара №-\nПреп
+ одаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6551-6552-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Философия практическое занятие · гр. 6551\,6552 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.406\nПара №15\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6551-6552-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Философия Лекция · гр. 6551\,6552 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.406\nПара №7\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-0930-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.411\nПара №15\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6561-6521-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Философия Лекция · гр. 6561\, 6521 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.411\nПара №7\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1400-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T140000
+DTEND;TZID=Europe/Moscow:20251210T154000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №15\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6541-6542-6581-философия-практическое-занятие@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Философия практическое занятие · гр. 6541\,6542\, 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №15\nПреподав
+ атель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6541-6542-6581-философия-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Философия Лекция · гр. 6541\,6542\, 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №7\nПреподава
+ тель: Коломиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1800-659вл-659вф-658вк-659вм-философия-п@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T180000
+DTEND;TZID=Europe/Moscow:20251223T184500
+SUMMARY:Философия\, п · гр. 659вл\,659вф\,658вк\,659вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6245\nПара №-
+ \nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-2000-656вэ1-8-656вэ25-31-философия-п@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T200000
+DTEND;TZID=Europe/Moscow:20251223T204500
+SUMMARY:Философия\, п · гр. 656вэ1-8\,656вэ25-31 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6245\nПара №-\nПреп
+ одаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №16\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №17\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.401\nПара №16\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6533-6534-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Философия практическое занятие · гр. 6533\,6534 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.401\nПара №17\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.401\nПара №16\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1600-6561-6521-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:Философия практическое занятие · гр. 6561\, 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.401\nПара №17\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №16\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6553-6554-философия-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Философия практическое занятие · гр. 6553\,6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №17\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-650змм-1-650змм-2-650змм-3-философия-и-антрополог
+ ия-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва (лек) · гр. 650змм-1\, 650змм-2\, 650змм-3 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6373\nПара
+  №1\nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1600-650змм-1-650змм-2-650змм-3-философия-и-антрополог
+ ия-челов@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва (лек) · гр. 650змм-1\, 650змм-2\, 650змм-3 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6373\nПара
+  №2\nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-0930-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №16\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №17\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1800-659вл-659вф-658вк-659вм-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260120T180000
+DTEND;TZID=Europe/Moscow:20260120T194000
+SUMMARY:Философия (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6378\nПара №1\
+ nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-2000-656вэ1-8-656вэ25-31-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260120T200000
+DTEND;TZID=Europe/Moscow:20260120T214000
+SUMMARY:Философия (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6378\nПара №1\nПрепо
+ даватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-0930-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260129T093000
+DTEND;TZID=Europe/Moscow:20260129T111000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №18\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1130-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260129T113000
+DTEND;TZID=Europe/Moscow:20260129T131000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №19\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6240\nПара №18\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6240\nПара №19\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-6521-6561-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Философия (лек) · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №8\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №18\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6551-6552-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Философия (лек) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №8\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.406\nПара №20\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.401\nПара №20\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1800-656вэ1-8-656вэ25-31-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T180000
+DTEND;TZID=Europe/Moscow:20260210T194000
+SUMMARY:Философия (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6378\nПара №2\nПрепо
+ даватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-2000-656вэ1-8-656вэ25-31-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T200000
+DTEND;TZID=Europe/Moscow:20260210T214000
+SUMMARY:Философия (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6378\nПара №3\nПрепо
+ даватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-0930-6571-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:Философия (лек) · гр. 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №8\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1130-6553-6554-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:Философия (лек) · гр. 6553\,6554 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.409\nПара №8\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1400-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T140000
+DTEND;TZID=Europe/Moscow:20260211T154000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №21\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1800-659вл-659вф-658вк-659вм-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T180000
+DTEND;TZID=Europe/Moscow:20260217T194000
+SUMMARY:Философия (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6378\nПара №2\
+ nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-2000-659вл-659вф-658вк-659вм-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T200000
+DTEND;TZID=Europe/Moscow:20260217T214000
+SUMMARY:Философия (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6378\nПара №3\
+ nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1130-6551-6552-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Философия (лек) · гр. 6551\,6552 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6107\nПара №9\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №19\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №20\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1400-6521-6561-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Философия (лек) · гр. 6521\, 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №9\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6531-6532-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Философия (пр) · гр. 6531\,6532 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПреподаватель: Коломиец Г
+ .Г.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6571-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Философия (лек) · гр. 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №9\nПреподаватель: Коломие
+ ц Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1600-6541-6542-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T160000
+DTEND;TZID=Europe/Moscow:20260226T174000
+SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПреподаватель: Кол
+ омиец Г.Г.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-0930-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №22\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №23\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1600-6551-6552-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T160000
+DTEND;TZID=Europe/Moscow:20260310T174000
+SUMMARY:Философия (лек) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №10\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1800-659вл-659вф-658вк-659вм-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T180000
+DTEND;TZID=Europe/Moscow:20260310T194000
+SUMMARY:Философия (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6378\nПара №4\
+ nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-2000-656вэ1-8-656вэ25-31-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T200000
+DTEND;TZID=Europe/Moscow:20260310T214000
+SUMMARY:Философия (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6378\nПара №4\nПрепо
+ даватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №21\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №21\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-0930-6553-6554-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260313T093000
+DTEND;TZID=Europe/Moscow:20260313T111000
+SUMMARY:Философия (лек) · гр. 6553\,6554 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №9\nПреподаватель: К
+ оломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1130-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №22\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-0930-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260323T093000
+DTEND;TZID=Europe/Moscow:20260323T111000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №24\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №25\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1400-6521-6561-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:Философия (лек) · гр. 6521\, 6561 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.411\nПара №10\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1400-6571-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Философия (лек) · гр. 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №10\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1400-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.106\nПара №22\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1600-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T160000
+DTEND;TZID=Europe/Moscow:20260327T174000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.106\nПара №23\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1600-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260330T160000
+DTEND;TZID=Europe/Moscow:20260330T174000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.106\nПара №24\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1130-6553-6554-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260401T113000
+DTEND;TZID=Europe/Moscow:20260401T131000
+SUMMARY:Философия (лек) · гр. 6553\,6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №10\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1400-6551-6552-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:Философия (лек) · гр. 6551\,6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №11\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1130-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №23\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1400-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №25\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1600-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №24\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1800-656вэ1-8-656вэ25-31-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T180000
+DTEND;TZID=Europe/Moscow:20260407T194000
+SUMMARY:Философия (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6236\nПара №5\nПрепо
+ даватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-2000-656вэ1-8-656вэ25-31-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T200000
+DTEND;TZID=Europe/Moscow:20260407T214000
+SUMMARY:Философия (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6236\nПара №6\nПрепо
+ даватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.414\nПара №26\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.414\nПара №27\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-0930-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260410T093000
+DTEND;TZID=Europe/Moscow:20260410T111000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.106\nПара №26\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-0930-6521-6561-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260413T093000
+DTEND;TZID=Europe/Moscow:20260413T111000
+SUMMARY:Философия (лек) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №11\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1130-6571-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260413T113000
+DTEND;TZID=Europe/Moscow:20260413T131000
+SUMMARY:Философия (лек) · гр. 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №11\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1400-6551-6552-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260414T140000
+DTEND;TZID=Europe/Moscow:20260414T154000
+SUMMARY:Философия (лек) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №12\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1600-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260414T160000
+DTEND;TZID=Europe/Moscow:20260414T174000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №28\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1130-6553-6554-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260415T113000
+DTEND;TZID=Europe/Moscow:20260415T131000
+SUMMARY:Философия (лек) · гр. 6553\,6554 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.414\nПара №11\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-0930-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260422T093000
+DTEND;TZID=Europe/Moscow:20260422T111000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №25\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1130-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260422T113000
+DTEND;TZID=Europe/Moscow:20260422T131000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.6381\nПара №27\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №28\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1400-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T140000
+DTEND;TZID=Europe/Moscow:20260427T154000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №29\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-0930-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T093000
+DTEND;TZID=Europe/Moscow:20260430T111000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №29\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1130-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T113000
+DTEND;TZID=Europe/Moscow:20260430T131000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №30\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.411\nПара №26\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1600-6551-6552-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260505T160000
+DTEND;TZID=Europe/Moscow:20260505T174000
+SUMMARY:Философия (лек) · гр. 6551\,6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №13\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1800-659вл-659вф-658вк-659вм-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260505T180000
+DTEND;TZID=Europe/Moscow:20260505T194000
+SUMMARY:Философия (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6378\nПара №5\
+ nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-2000-659вл-659вф-658вк-659вм-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260505T200000
+DTEND;TZID=Europe/Moscow:20260505T214000
+SUMMARY:Философия (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6378\nПара №6\
+ nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №27\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №28\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1130-6553-6554-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Философия (лек) · гр. 6553\,6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №12\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1400-6571-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Философия (лек) · гр. 6571 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №12\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1400-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T140000
+DTEND;TZID=Europe/Moscow:20260513T154000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №31\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1600-6551-6552-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T160000
+DTEND;TZID=Europe/Moscow:20260513T174000
+SUMMARY:Философия (пр) · гр. 6551\,6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №32\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6521-6561-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Философия (лек) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №12\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №29\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-0930-6521-6561-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260521T093000
+DTEND;TZID=Europe/Moscow:20260521T111000
+SUMMARY:Философия (пр) · гр. 6521\, 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №30\nПреподаватель:
+  Коломиец Г.Г.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1130-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260521T113000
+DTEND;TZID=Europe/Moscow:20260521T131000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №30\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1400-6533-6534-философия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260521T140000
+DTEND;TZID=Europe/Moscow:20260521T154000
+SUMMARY:Философия (пр) · гр. 6533\,6534 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №31\nПреподаватель: 
+ Коломиец Г.Г.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1600-6571-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260526T160000
+DTEND;TZID=Europe/Moscow:20260526T174000
+SUMMARY:Философия (лек) · гр. 6571 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №13\nПреподаватель: Коломи
+ ец Г.Г.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1800-656вэ1-8-656вэ25-31-философия-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260526T180000
+DTEND;TZID=Europe/Moscow:20260526T194000
+SUMMARY:Философия (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №7\nПрепо
+ даватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260703-0930-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-философ
+ ия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260703T093000
+DTEND;TZID=Europe/Moscow:20260703T111000
+SUMMARY:Философия (пр) · гр. 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\
+ , 659зу · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6248\nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260703-1130-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-философ
+ ия-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260703T113000
+DTEND;TZID=Europe/Moscow:20260703T131000
+SUMMARY:Философия (пр) · гр. 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\
+ , 659зу · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6248\nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260703-1400-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-философ
+ ия-экз-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260703T140000
+DTEND;TZID=Europe/Moscow:20260703T154000
+SUMMARY:Философия (экз) · гр. 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм
+ \, 659зу · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6248\nПреподаватель: Коломиец Г.Г.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

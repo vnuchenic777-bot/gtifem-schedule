@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Попов З.В (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Попов З.В, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Попов З.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Попов З.В., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -17,6 +17,187 @@ TZNAME:MSK
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250901-1600-6553-6554-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250901T160000
+DTEND;TZID=Europe/Moscow:20250901T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6553
+ \,6554 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.106\nПара №1\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-0930-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581 
+ · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6107\nПара №1\nПреподав
+ атель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-0930-6531-6532-6533-6534-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Основы российской государственности лекция · гр. 6531\,6532\, 6533\
+ ,6534 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.401\nПара №1\nПре
+ подаватель: Попов З.В.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6531-6532-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6531
+ \,6532 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.401\nПара №1\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Основы российской государственности лекция · гр. 6561\, 6521 · а.41
+ 4
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №1\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+ \, 6521 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №3\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-0930-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6571
+  · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №2\nПреподаватель: Попов З
+ .В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581 
+ · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №2\nПреподава
+ тель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Основы российской государственности лекция · гр. 6561\, 6521 · а.40
+ 6
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.406\nПара №2\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Основы российской государственности лекция · гр. 6561\, 6521 · а.41
+ 4
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №3\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6551-6552-6553-6554-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
+ ,6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №4\nПре
+ подаватель: Попов З.В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №6\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-0930-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6541
+ \,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №6\nПреподава
+ тель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:teacher-popov-z-v-20251001-0930-основы-российской-государствeн-6511@gti
  fem.ru
@@ -44,27 +225,17 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-popov-z-v-20251001-0930-основы-российской-государствeн-6511@gti
- fem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251001T093000
-DTEND;TZID=Europe/Moscow:20251001T111000
-SUMMARY:Основы российской государственности лекция · гр. 6511 · а.406
+UID:teacher-20251002-0930-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6511\nАудитория: а.406
-CATEGORIES:Преподавание,6511
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-popov-z-v-20251001-0930-основы-российской-государствeн-6512@gti
- fem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251001T093000
-DTEND;TZID=Europe/Moscow:20251001T111000
-SUMMARY:Основы российской государственности лекция · гр. 6512 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №6\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -91,6 +262,295 @@ SUMMARY:Основы российской государственности п�
 LOCATION:а.406
 DESCRIPTION:Группа: 6512\nАудитория: а.406
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПара №7\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПара №8\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-0930-6553-6554-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6553
+ \,6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №9\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-6553-6554-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6553
+ \,6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №10\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6541
+ \,6542\, 6581 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6373\nПара №9\nПреподав
+ атель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6541
+ \,6542\, 6581 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6373\nПара №10\nПрепода
+ ватель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-0930-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251008T093000
+DTEND;TZID=Europe/Moscow:20251008T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №9\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-6521-6561-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6521
+ \, 6561 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.411\nПара №10\nПреподаватель:
+  Попов З.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6521-6561-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Основы российской государственности лекция · гр. 6521\, 6561 · а.41
+ 1
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.411\nПара №6\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №11\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Основы российской государственности лекция · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №7\nПреподаватель: П
+ опов З.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1400-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Основы российской государственности лекция · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №7\nПреподаватель: Попов З
+ .В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1600-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6571
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №11\nПреподаватель: Попов 
+ З.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6571
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6571\nАудитория: а.403\nПара №13\nПреподаватель: Попов 
+ З.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6531-6532-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6531
+ \,6532 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №12\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-0930-6521-6561-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6521
+ \, 6561 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.401\nПара №13\nПреподаватель:
+  Попов З.В.
+CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6553-6554-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6553
+ \,6554 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.409\nПара №14\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6553-6554-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6553
+ \,6554 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.409\nПара №15\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Основы российской государственности лекция · гр. 6561\, 6521 · а.10
+ 6
+LOCATION:а.106
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.106\nПара №9\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1600-6533-6534-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6533
+ \,6534 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.405\nПара №14\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6561-6521-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+ \, 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.106\nПара №15\nПреподаватель:
+  Попов З.В.
+CATEGORIES:Преподавание,6561\, 6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -143,6 +603,326 @@ SUMMARY:Основы российской государственности п�
 LOCATION:а.403
 DESCRIPTION:Группа: 6512\nАудитория: а.403
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-0930-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T093000
+DTEND;TZID=Europe/Moscow:20251111T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.403\nПара №16\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-0930-6533-6534-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6533
+ \,6534 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.403\nПара №15\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6541
+ \,6542\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №16\nПреподав
+ атель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-1855-656вэ1-8-656вэ25-31-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251116T185500
+DTEND;TZID=Europe/Moscow:20251116T194000
+SUMMARY:Основы российской государственности · гр. 656вэ1-8\,656вэ25-31 · ле
+ кц. а.6249
+LOCATION:лекц. а.6249
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: лекц. а.6249\nПара №-\
+ nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-2055-659вл-659вф-658вк-659вм-основы-российской-государ
+ ствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251116T205500
+DTEND;TZID=Europe/Moscow:20251116T214000
+SUMMARY:Основы российской государственности · гр. 659вл\,659вф\,658вк\,659в
+ м · лекц. а.6249
+LOCATION:лекц. а.6249
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: лекц. а.6249\nПа
+ ра №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-0930-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251118T093000
+DTEND;TZID=Europe/Moscow:20251118T111000
+SUMMARY:Основы российской государственности практическое занятие (перенос с
+  31.10.2025) · гр. 6541\,6542\, 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №13\nПреподав
+ атель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581 
+ · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №8\nПреподава
+ тель: Попов З.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1800-656вэ1-8-656вэ25-31-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251118T180000
+DTEND;TZID=Europe/Moscow:20251118T184500
+SUMMARY:Основы российской государственности · гр. 656вэ1-8\,656вэ25-31 · ле
+ кц. а.6112
+LOCATION:лекц. а.6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: лекц. а.6112\nПара №-\
+ nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-2000-659вл-659вф-658вк-659вм-основы-российской-государ
+ ствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251118T200000
+DTEND;TZID=Europe/Moscow:20251118T204500
+SUMMARY:Основы российской государственности · гр. 659вл\,659вф\,658вк\,659в
+ м · лекц. а.6112
+LOCATION:лекц. а.6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: лекц. а.6112\nПа
+ ра №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6571
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №17\nПреподаватель: Попов 
+ З.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6571
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №18\nПреподаватель: Попов 
+ З.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №17\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №18\nПреподаватель: 
+ Попов З.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1800-656вэ1-8-656вэ25-31-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T180000
+DTEND;TZID=Europe/Moscow:20251120T184500
+SUMMARY:Основы российской государственности · гр. 656вэ1-8\,656вэ25-31 · ле
+ кц. а.6249
+LOCATION:лекц. а.6249
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: лекц. а.6249\nПара №-\
+ nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-2000-659вл-659вф-658вк-659вм-основы-российской-государ
+ ствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T200000
+DTEND;TZID=Europe/Moscow:20251120T204500
+SUMMARY:Основы российской государственности · гр. 659вл\,659вф\,658вк\,659в
+ м · лекц. а.6249
+LOCATION:лекц. а.6249
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: лекц. а.6249\nПа
+ ра №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1800-656вэ1-8-656вэ25-31-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251125T180000
+DTEND;TZID=Europe/Moscow:20251125T184500
+SUMMARY:Основы российской государственности · гр. 656вэ1-8\,656вэ25-31 · пр
+ акт. а.6245
+LOCATION:практ. а.6245
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: практ. а.6245\nПара №-
+ \nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-2000-659вл-659вф-658вк-659вм-основы-российской-государ
+ ствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251125T200000
+DTEND;TZID=Europe/Moscow:20251125T204500
+SUMMARY:Основы российской государственности · гр. 659вл\,659вф\,658вк\,659в
+ м · практ. а.6245
+LOCATION:практ. а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: практ. а.6245\nП
+ ара №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1800-656вэ1-8-656вэ25-31-656вэ9-16-656вэ17-24-основы-р
+ оссийской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251209T180000
+DTEND;TZID=Europe/Moscow:20251209T184500
+SUMMARY:Основы российской государственности\, лекц · гр. 656вэ1-8\,656вэ25-
+ 31\, 656вэ9-16\,656вэ17-24 · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24\nАудитория
+ : а. 6240\nПара №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-2000-659вл-659вф-658вк-659вм-659ву-659вб-659вр-основы-
+ российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251209T200000
+DTEND;TZID=Europe/Moscow:20251209T204500
+SUMMARY:Основы российской государственности\, лекц · гр. 659вл\,659вф\,658в
+ к\,659вм\, 659ву\,659вб\, 659вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр\nАуди
+ тория: а. 6240\nПара №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1800-656вэ1-8-656вэ25-31-656вэ9-16-656вэ17-24-основы-р
+ оссийской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T180000
+DTEND;TZID=Europe/Moscow:20251216T184500
+SUMMARY:Основы российской государственности\, практ · гр. 656вэ1-8\,656вэ25
+ -31\, 656вэ9-16\,656вэ17-24 · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24\nАудитория
+ : а. 6240\nПара №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-2000-659вл-659вф-658вк-659вм-659ву-659вб-659вр-основы-
+ российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T200000
+DTEND;TZID=Europe/Moscow:20251216T204500
+SUMMARY:Основы российской государственности\, практ · гр. 659вл\,659вф\,658
+ вк\,659вм\, 659ву\,659вб\, 659вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр\nАуди
+ тория: а. 6240\nПара №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1800-656вэ1-8-656вэ25-31-656вэ9-16-656вэ17-24-основы-р
+ оссийской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T180000
+DTEND;TZID=Europe/Moscow:20251223T184500
+SUMMARY:Основы российской государственности\, практ · гр. 656вэ1-8\,656вэ25
+ -31\, 656вэ9-16\,656вэ17-24 · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24\nАудитория
+ : а. 6240\nПара №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-2000-659вл-659вф-658вк-659вм-659ву-659вб-659вр-основы-
+ российской-государствен@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T200000
+DTEND;TZID=Europe/Moscow:20251223T204500
+SUMMARY:Основы российской государственности\, практ · гр. 659вл\,659вф\,658
+ вк\,659вм\, 659ву\,659вб\, 659вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр\nАуди
+ тория: а. 6240\nПара №-\nПреподаватель: Попов З.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

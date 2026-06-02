@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Сарычева О. В. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Сарычева О. В., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Сарычева О.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Сарычева О.В., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -71,17 +71,6 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250902-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250902T093000
-DTEND;TZID=Europe/Moscow:20250902T111000
-SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
-  · гр. 
-DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20250902-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250902T113000
@@ -110,6 +99,20 @@ SUMMARY:Основы управления в профессиональной д
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №1\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -144,6 +147,20 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250902-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №2\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250902-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250902T160000
@@ -175,14 +192,29 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250902-1600--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20250902T160000
-DTEND;TZID=Europe/Moscow:20250902T174000
+UID:teacher-20250903-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №1\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
-  · гр. 
-DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,
+ тие · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №1\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -223,6 +255,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №1\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250903-1600--основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250903T160000
@@ -257,6 +303,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №1\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №2\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -297,6 +357,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250904-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №2\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250904-1130--основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
@@ -334,6 +408,56 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250904-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6453\nАудитория: а. 6373\nПара №2\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №3\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №4\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №3\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250909-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250909T140000
@@ -357,6 +481,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №3\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T160000
+DTEND;TZID=Europe/Moscow:20250909T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №3\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -386,6 +524,68 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250911-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №5\nПреподаватель: Сарычев
+ а О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №6\nПреподаватель: Сарычев
+ а О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №7\nПреподаватель: Сарычев
+ а О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №8\nПреподаватель: Сарычев
+ а О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №4\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250915-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250915T093000
@@ -409,6 +609,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №4\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №3\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -438,6 +652,32 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250916-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6453\nАудитория: а.6373\nПара №9\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №4\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250916-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250916T140000
@@ -461,6 +701,20 @@ LOCATION:а.6373
 DESCRIPTION:Группа: 6412\nАудитория: а.6373\nПара №4\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №5\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -490,6 +744,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250918-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПара №10\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПара №11\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №6\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250922-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250922T093000
@@ -513,6 +805,20 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №6\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №7\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -542,6 +848,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250923-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6240\nПара №8\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250923-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250923T093000
@@ -565,6 +885,20 @@ LOCATION:а.6240
 DESCRIPTION:Группа: 6412\nАудитория: а.6240\nПара №8\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6240\nПара №5\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -594,6 +928,92 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250924-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6453\nАудитория: а.6240\nПара №12\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6453\nАудитория: а.6240\nПара №13\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6453\nАудитория: а. 6373\nПара №14\nПреподаватель: Сары
+ чева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6453\nАудитория: а. 6373\nПара №15\nПреподаватель: Сары
+ чева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6453\nАудитория: а.414\nПара №16\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6453\nАудитория: а.414\nПара №17\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6240\nПара №9\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250929-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250929T093000
@@ -617,6 +1037,20 @@ LOCATION:а.6240
 DESCRIPTION:Группа: 6412\nАудитория: а.6240\nПара №9\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6240\nПара №10\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -646,6 +1080,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250930-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T093000
+DTEND;TZID=Europe/Moscow:20250930T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №4\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250930-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20250930T093000
@@ -669,6 +1117,20 @@ LOCATION:а.6236
 DESCRIPTION:Группа: 6412\nАудитория: а.6236\nПара №4\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №5\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -698,14 +1160,51 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251003-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251003T093000
-DTEND;TZID=Europe/Moscow:20251003T111000
-SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
-  · гр. 
-DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,
+UID:teacher-20250930-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6453\nАудитория: а.6373\nПара №18\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6453\nАудитория: а.6373\nПара №19\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №20\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №21\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -713,7 +1212,7 @@ UID:teacher-20251003-0930--основы-управления-в-професси
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
-SUMMARY:Основы управления в профессиональной деятельности практическое заня
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,
@@ -731,14 +1230,17 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251006-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251006-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
 DTSTART;TZID=Europe/Moscow:20251006T093000
 DTEND;TZID=Europe/Moscow:20251006T111000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
-  · гр. 
-DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,
+ тикум · гр. 6411\,6412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6376\nПара №6\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -746,7 +1248,7 @@ UID:teacher-20251006-0930--основы-управления-в-професси
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251006T093000
 DTEND;TZID=Europe/Moscow:20251006T111000
-SUMMARY:Основы управления в профессиональной деятельности практическое заня
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,
@@ -779,14 +1281,17 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251006-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251006-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
-  · гр. 
-DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,
+ тикум · гр. 6411\,6412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6376\nПара №7\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -794,7 +1299,7 @@ UID:teacher-20251006-1130--основы-управления-в-професси
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
-SUMMARY:Основы управления в профессиональной деятельности практическое заня
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,
@@ -824,6 +1329,18 @@ LOCATION:а.6376
 DESCRIPTION:Группа: 6412\nАудитория: а.6376\nПара №7\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6453\nАудитория: а.401\nПара №22\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -891,6 +1408,74 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251007-1800-649вл-649вф-648вк-649вм-649вл-649вф-648вк-649вм-о
+ сновы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T180000
+DTEND;TZID=Europe/Moscow:20251007T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 649вл
+ \,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,6
+ 49вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-2000-646вэ17-24-646вэ25-31-649вр-646вэ17-24-646вэ25-31
+ -основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T200000
+DTEND;TZID=Europe/Moscow:20251007T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ2
+ 5-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №23\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №24\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №8\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251010-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251010T093000
@@ -914,6 +1499,20 @@ LOCATION:а.6117
 DESCRIPTION:Группа: 6412\nАудитория: а.6117\nПара №8\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №11\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -943,6 +1542,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251013-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.401\nПара №12\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251013-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251013T093000
@@ -966,6 +1579,20 @@ LOCATION:а.401
 DESCRIPTION:Группа: 6412\nАудитория: а.401\nПара №12\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.401\nПара №13\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -995,6 +1622,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251013-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6453\nАудитория: а.401\nПара №25\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6453\nАудитория: а.401\nПара №26\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №9\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251014-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251014T093000
@@ -1018,6 +1683,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №9\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №10\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1047,6 +1726,72 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251015-0930-6361-6381-разработка-и-реализация-бизнес@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
+ 61\, 6381 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6361\, 6381\nАудитория: 11\nПара №Онлайн занятие\nПрепо
+ даватель: Сарычева О.В.
+CATEGORIES:Преподавание,6361\, 6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6361-6381-разработка-и-реализация-бизнес@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
+ 61\, 6381 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6361\, 6381\nАудитория: 12\nПара №Онлайн занятие\nПрепо
+ даватель: Сарычева О.В.
+CATEGORIES:Преподавание,6361\, 6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6453\nАудитория: а.401\nПара №27\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6453\nАудитория: а.401\nПара №28\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №11\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251020-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251020T093000
@@ -1070,6 +1815,20 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №11\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №12\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1099,6 +1858,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251021-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6453\nАудитория: а.6240\nПара №29\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6453\nАудитория: а.6240\nПара №30\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №13\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251021-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251021T140000
@@ -1122,6 +1919,20 @@ LOCATION:а.6245
 DESCRIPTION:Группа: 6412\nАудитория: а.6245\nПара №13\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №6\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1151,6 +1962,122 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251021-1800-649вл-649вф-648вк-649вм-649вл-649вф-648вк-649вм-о
+ сновы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T180000
+DTEND;TZID=Europe/Moscow:20251021T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 649в
+ л\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,6
+ 49вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1855-649вл-649вф-648вк-649вм-649вл-649вф-648вк-649вм-о
+ сновы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T185500
+DTEND;TZID=Europe/Moscow:20251021T194000
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 649
+ вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,6
+ 49вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-2000-646вэ17-24-646вэ25-31-649вр-646вэ17-24-646вэ25-31
+ -основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T200000
+DTEND;TZID=Europe/Moscow:20251021T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 646в
+ э17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ2
+ 5-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-2055-646вэ17-24-646вэ25-31-649вр-646вэ17-24-646вэ25-31
+ -основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T205500
+DTEND;TZID=Europe/Moscow:20251021T214000
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 646
+ вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ2
+ 5-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6453\nАудитория: а.408\nПара №31\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1800-649вл-649вф-648вк-649вм-649вл-649вф-648вк-649вм-о
+ сновы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T180000
+DTEND;TZID=Europe/Moscow:20251023T184500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 649
+ вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,6
+ 49вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-2000-646вэ17-24-646вэ25-31-649вр-646вэ17-24-646вэ25-31
+ -основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T200000
+DTEND;TZID=Europe/Moscow:20251023T204500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 646
+ вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31
+ \nАудитория: а. 6248\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ2
+ 5-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №14\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251027-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251027T093000
@@ -1174,6 +2101,20 @@ LOCATION:а.6236
 DESCRIPTION:Группа: 6412\nАудитория: а.6236\nПара №14\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №15\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1203,6 +2144,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251028-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6453\nАудитория: а.6115\nПара №32\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6453\nАудитория: а.6115\nПара №33\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №14\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251028-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251028T140000
@@ -1226,6 +2205,20 @@ LOCATION:а.6117
 DESCRIPTION:Группа: 6412\nАудитория: а.6117\nПара №14\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №15\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,6 +2248,74 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251028-1800-649вл-649вф-648вк-649вм-649вл-649вф-648вк-649вм-о
+ сновы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T180000
+DTEND;TZID=Europe/Moscow:20251028T184500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 649
+ вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,649вм
+ \nАудитория: а. 6245\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм\, 649вл\,649вф\,648вк\,6
+ 49вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-2000-646вэ17-24-646вэ25-31-649вр-646вэ17-24-646вэ25-31
+ -основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T200000
+DTEND;TZID=Europe/Moscow:20251028T204500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 646
+ вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ25-31
+ \nАудитория: а. 6245\nПара №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр\, 646вэ17-24\,646вэ2
+ 5-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №34\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №35\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · 16
+LOCATION:16
+DESCRIPTION:Группа: 6411\,6412\nАудитория: 16\nПара №Онлайн занятие\nПрепод
+ аватель: Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251031-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251031T093000
@@ -1277,6 +2338,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251031-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · 17
+LOCATION:17
+DESCRIPTION:Группа: 6411\,6412\nАудитория: 17\nПара №Онлайн занятие\nПрепод
+ аватель: Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251031-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251031T113000
@@ -1296,6 +2371,30 @@ SUMMARY:Основы управления в профессиональной д
  тие · гр. 6412
 DESCRIPTION:Группа: 6412\nПара №17\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №36\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №37\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1440,6 +2539,48 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251106-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T180000
+DTEND;TZID=Europe/Moscow:20251106T184500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 646
+ вэ17-24\,646вэ25-31\, 649вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6117\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T200000
+DTEND;TZID=Europe/Moscow:20251106T204500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 649
+ вл\,649вф\,648вк\,649вм · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6117\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №7\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251107-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251107T140000
@@ -1463,6 +2604,20 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №7\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №18\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1492,6 +2647,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251110-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №19\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251110-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251110T093000
@@ -1515,6 +2684,20 @@ LOCATION:а.6249
 DESCRIPTION:Группа: 6412\nАудитория: а.6249\nПара №19\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №20\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1544,6 +2727,68 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251110-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №38\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6453-копирайтинг-лабораторный-практ@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Копирайтинг лабораторный практикум · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №1\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-0930-6453-копирайтинг-лабораторный-практ@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Копирайтинг лабораторный практикум · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №2\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6453-копирайтинг-лабораторный-практ@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Копирайтинг лабораторный практикум · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №3\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №21\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251113-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251113T140000
@@ -1567,6 +2812,20 @@ LOCATION:а.6248
 DESCRIPTION:Группа: 6412\nАудитория: а.6248\nПара №21\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №22\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1596,6 +2855,76 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251113-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T180000
+DTEND;TZID=Europe/Moscow:20251113T184500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 649
+ вл\,649вф\,648вк\,649вм · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6117\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T200000
+DTEND;TZID=Europe/Moscow:20251113T204500
+SUMMARY:Основы управления в профессиональной деятельности\, практ · гр. 646
+ вэ17-24\,646вэ25-31\, 649вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6117\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-1855-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T185500
+DTEND;TZID=Europe/Moscow:20251116T194000
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 649вл
+ \,649вф\,648вк\,649вм · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6117\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-2055-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T205500
+DTEND;TZID=Europe/Moscow:20251116T214000
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6117\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №23\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251118-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251118T140000
@@ -1619,6 +2948,20 @@ LOCATION:а.6112
 DESCRIPTION:Группа: 6412\nАудитория: а.6112\nПара №23\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №24\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1648,6 +2991,48 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251118-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T180000
+DTEND;TZID=Europe/Moscow:20251118T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6117\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T200000
+DTEND;TZID=Europe/Moscow:20251118T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 649вл
+ \,649вф\,648вк\,649вм · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6117\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №25\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251119-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251119T140000
@@ -1671,6 +3056,20 @@ LOCATION:а.6248
 DESCRIPTION:Группа: 6412\nАудитория: а.6248\nПара №25\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №26\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1700,6 +3099,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251120-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.106\nПара №27\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251120-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251120T140000
@@ -1723,6 +3136,20 @@ LOCATION:а.106
 DESCRIPTION:Группа: 6412\nАудитория: а.106\nПара №27\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.106\nПара №28\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1752,6 +3179,76 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251120-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T180000
+DTEND;TZID=Europe/Moscow:20251120T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 649вл
+ \,649вф\,648вк\,649вм · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6117\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T200000
+DTEND;TZID=Europe/Moscow:20251120T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6117\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T180000
+DTEND;TZID=Europe/Moscow:20251125T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 649вл
+ \,649вф\,648вк\,649вм · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6117\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T200000
+DTEND;TZID=Europe/Moscow:20251125T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лаб · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6117\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T093000
+DTEND;TZID=Europe/Moscow:20251126T111000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №16\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251126-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251126T093000
@@ -1778,6 +3275,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251126-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
+ тикум · гр. 6411\,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №17\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251126-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251126T113000
@@ -1801,6 +3312,76 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6412\nАудитория: а.6378\nПара №17\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T180000
+DTEND;TZID=Europe/Moscow:20251201T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 649в
+ л\,649вф\,648вк\,649вм · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6373\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1855-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T185500
+DTEND;TZID=Europe/Moscow:20251201T194000
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 646в
+ э17-24\,646вэ25-31\, 649вр · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6115\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T200000
+DTEND;TZID=Europe/Moscow:20251201T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 646в
+ э17-24\,646вэ25-31\, 649вр · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6373\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-2055-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T205500
+DTEND;TZID=Europe/Moscow:20251201T214000
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 649в
+ л\,649вф\,648вк\,649вм · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6115\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.409\nПара №8\nПреподаватель: С
+ арычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1832,6 +3413,20 @@ SUMMARY:Основы управления в профессиональной д
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.409\nПара №29\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1869,6 +3464,58 @@ LOCATION:а.409
 DESCRIPTION:Группа: 6412\nАудитория: а.409\nПара №29\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6453\nАудитория: а.6248\nПара №39\, 40\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6453\nАудитория: а.6248\nПара №41\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T180000
+DTEND;TZID=Europe/Moscow:20251203T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 646в
+ э17-24\,646вэ25-31\, 649вр · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6115\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T200000
+DTEND;TZID=Europe/Moscow:20251203T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 649в
+ л\,649вф\,648вк\,649вм · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6115\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1934,6 +3581,44 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251208-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №42\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №43\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПара №9\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251211-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251211T140000
@@ -1957,6 +3642,20 @@ LOCATION:а.6382
 DESCRIPTION:Группа: 6412\nАудитория: а.6382\nПара №9\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПара №30\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1986,6 +3685,124 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251211-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T180000
+DTEND;TZID=Europe/Moscow:20251211T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 646в
+ э17-24\,646вэ25-31\, 649вр · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6373\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T200000
+DTEND;TZID=Europe/Moscow:20251211T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 649в
+ л\,649вф\,648вк\,649вм · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6373\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6453\nАудитория: а.6240\nПара №44\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №45\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T180000
+DTEND;TZID=Europe/Moscow:20251216T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 646в
+ э17-24\,646вэ25-31\, 649вр · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6373\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T200000
+DTEND;TZID=Europe/Moscow:20251216T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 649в
+ л\,649вф\,648вк\,649вм · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6373\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПара №47\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПара №48\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Основы управления в профессиональной деятельности лекция · гр. 6411
+ \,6412 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6240\nПара №10\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251219-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251219T140000
@@ -2009,6 +3826,20 @@ LOCATION:а.6240
 DESCRIPTION:Группа: 6412\nАудитория: а.6240\nПара №10\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №31\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2038,6 +3869,45 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251223-0930-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:Копирайтинг практическое занятие (перенос с 17.12.2025) · гр. 6453 
+ · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6453\nАудитория: а.6378\nПара №46\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №49\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.106\nПара №32\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251223-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251223T140000
@@ -2064,6 +3934,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251223-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Основы управления в профессиональной деятельности практическое заня
+ тие · гр. 6411\,6412 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.106\nПара №33\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251223-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20251223T160000
@@ -2087,6 +3971,86 @@ LOCATION:а.106
 DESCRIPTION:Группа: 6412\nАудитория: а.106\nПара №33\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Копирайтинг практическое занятие (перенос с 30.12.2025) · гр. 6453 
+ · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6453\nАудитория: а.409\nПара №51\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Копирайтинг практическое занятие (перенос с 30.12.2025) · гр. 6453 
+ · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6453\nАудитория: а.6248\nПара №52\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T180000
+DTEND;TZID=Europe/Moscow:20251225T184500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 649в
+ л\,649вф\,648вк\,649вм · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а. 6373\nПара №-
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T200000
+DTEND;TZID=Europe/Moscow:20251225T204500
+SUMMARY:Основы управления в профессиональной деятельности\, лекц · гр. 646в
+ э17-24\,646вэ25-31\, 649вр · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а. 6373\nПар
+ а №-\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6453-копирайтинг-практическое-занят@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6453 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6453\nАудитория: а. 6373\nПара №50\nПреподаватель: Сары
+ чева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6240\nПара №11\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2130,23 +4094,15 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260112-0930-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260112T093000
-DTEND;TZID=Europe/Moscow:20260112T111000
-SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411
-DESCRIPTION:Группа: 6411\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260112-0930-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260112T093000
-DTEND;TZID=Europe/Moscow:20260112T111000
-SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
-DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6412
+UID:teacher-20260112-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6453\nАудитория: а.6248\nПара №53\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2167,6 +4123,20 @@ DTEND;TZID=Europe/Moscow:20260112T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
 DESCRIPTION:Группа: 6412 ·\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412 ·
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №34\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2210,29 +4180,27 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260112-1400-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260112T140000
-DTEND;TZID=Europe/Moscow:20260112T154000
-SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
-  а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6411\nАудитория: а.6115\nПара №34\nПреподаватель: Сарыч
- ева О. В.
-CATEGORIES:Преподавание,6411
+UID:teacher-20260113-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №54\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260112-1400-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260112T140000
-DTEND;TZID=Europe/Moscow:20260112T154000
-SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
-  а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №34\nПреподаватель: Сарыч
- ева О. В.
-CATEGORIES:Преподавание,6412
+UID:teacher-20260113-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6453\nАудитория: а.6248\nПара №55\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2253,6 +4221,34 @@ DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T180000
+DTEND;TZID=Europe/Moscow:20260113T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6249\nПара №1\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T200000
+DTEND;TZID=Europe/Moscow:20260113T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №1\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2296,6 +4292,20 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260115-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №18\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260115-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260115T140000
@@ -2313,6 +4323,18 @@ DTEND;TZID=Europe/Moscow:20260115T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №56\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2376,6 +4398,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260119-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T093000
+DTEND;TZID=Europe/Moscow:20260119T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №35\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260119-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260119T093000
@@ -2399,6 +4435,20 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №35\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.406\nПара №36\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2428,6 +4478,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260119-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №12\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260119-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260119T140000
@@ -2451,6 +4515,44 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6412\nАудитория: а.6378\nПара №12\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T160000
+DTEND;TZID=Europe/Moscow:20260119T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №57\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6453\nАудитория: а.405\nПара №58\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6381\nПара №13\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2480,6 +4582,48 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260120-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T180000
+DTEND;TZID=Europe/Moscow:20260120T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6249\nПара №2\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T200000
+DTEND;TZID=Europe/Moscow:20260120T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №2\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №37\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260122-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260122T093000
@@ -2503,6 +4647,20 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №37\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПара №38\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2532,6 +4690,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260122-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T140000
+DTEND;TZID=Europe/Moscow:20260122T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №59\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260122T160000
+DTEND;TZID=Europe/Moscow:20260122T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6453\nАудитория: а.101\nПара №60\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №14\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260123T093000
@@ -2555,6 +4751,20 @@ LOCATION:а.6373
 DESCRIPTION:Группа: 6412\nАудитория: а.6373\nПара №14\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №39\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2584,6 +4794,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260126-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №19\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260126-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260126T093000
@@ -2607,6 +4831,96 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №19\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПара №61\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260129T140000
+DTEND;TZID=Europe/Moscow:20260129T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №62\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260129T160000
+DTEND;TZID=Europe/Moscow:20260129T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6453\nАудитория: а.408\nПара №63\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260129T180000
+DTEND;TZID=Europe/Moscow:20260129T194000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 649вл\
+ ,649вф\,648вк\,649вм · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6236\nПара №1\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260129T200000
+DTEND;TZID=Europe/Moscow:20260129T214000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 646вэ1
+ 7-24\,646вэ25-31\, 649вр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6236\nПара
+  №1\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6453\nАудитория: а.408\nПара №64\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №20\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2736,23 +5050,17 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260202-1600-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260202T160000
-DTEND;TZID=Europe/Moscow:20260202T174000
-SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411
-DESCRIPTION:Группа: 6411\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260202-1600-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260202T160000
-DTEND;TZID=Europe/Moscow:20260202T174000
-SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412
-DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6412
+UID:teacher-20260203-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.409\nПара №40\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2796,29 +5104,17 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260203-1400-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260203T140000
-DTEND;TZID=Europe/Moscow:20260203T154000
-SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411 ·
-  а.409
-LOCATION:а.409
-DESCRIPTION:Группа: 6411\nАудитория: а.409\nПара №40\nПреподаватель: Сарыче
- ва О. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260203-1400-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260203T140000
-DTEND;TZID=Europe/Moscow:20260203T154000
-SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
-  а.409
-LOCATION:а.409
-DESCRIPTION:Группа: 6412\nАудитория: а.409\nПара №40\nПреподаватель: Сарыче
- ва О. В.
-CATEGORIES:Преподавание,6412
+UID:teacher-20260203-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №15\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2862,23 +5158,31 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260203-1600-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260203T160000
-DTEND;TZID=Europe/Moscow:20260203T174000
-SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411
-DESCRIPTION:Группа: 6411\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6411
+UID:teacher-20260203-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T180000
+DTEND;TZID=Europe/Moscow:20260203T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №3\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260203-1600-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260203T160000
-DTEND;TZID=Europe/Moscow:20260203T174000
-SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
-DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6412
+UID:teacher-20260203-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T200000
+DTEND;TZID=Europe/Moscow:20260203T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №4\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2922,6 +5226,30 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260205-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПара №65\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6453\nАудитория: а.6107\nПара №66\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260205-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
@@ -2939,6 +5267,34 @@ DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T180000
+DTEND;TZID=Europe/Moscow:20260205T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №3\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T200000
+DTEND;TZID=Europe/Moscow:20260205T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №4\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2979,6 +5335,20 @@ DTEND;TZID=Europe/Moscow:20260206T131000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.101\nПара №41\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3028,6 +5398,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260206-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6376\nПара №21\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260206-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260206T160000
@@ -3068,6 +5452,32 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260209-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6453\nАудитория: а.101\nПара №67\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №42\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260209-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260209T140000
@@ -3091,6 +5501,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №42\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T160000
+DTEND;TZID=Europe/Moscow:20260209T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №22\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3120,6 +5544,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260210-0930-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6453\nАудитория: а.6115\nПара №68\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6453\nАудитория: а.403\nПара №69\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.403\nПара №43\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260210-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260210T140000
@@ -3143,6 +5605,20 @@ LOCATION:а.403
 DESCRIPTION:Группа: 6412\nАудитория: а.403\nПара №43\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T160000
+DTEND;TZID=Europe/Moscow:20260210T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.403\nПара №44\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3172,6 +5648,48 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260210-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T180000
+DTEND;TZID=Europe/Moscow:20260210T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6249\nПара №5\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T200000
+DTEND;TZID=Europe/Moscow:20260210T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6249\nПара №6\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №45\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260213T093000
@@ -3195,6 +5713,44 @@ LOCATION:а.6115
 DESCRIPTION:Группа: 6412\nАудитория: а.6115\nПара №45\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6453\nАудитория: а.6107\nПара №70\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6453\nАудитория: а.6378\nПара №71\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T160000
+DTEND;TZID=Europe/Moscow:20260213T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6107\nПара №46\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3224,6 +5780,32 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260217-1130-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №4\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.411\nПара №16\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260217-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260217T140000
@@ -3247,6 +5829,20 @@ LOCATION:а.411
 DESCRIPTION:Группа: 6412\nАудитория: а.411\nПара №16\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №23\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3276,6 +5872,60 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260217-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T180000
+DTEND;TZID=Europe/Moscow:20260217T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №5\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T200000
+DTEND;TZID=Europe/Moscow:20260217T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №6\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПара №72\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №17\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260219-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260219T160000
@@ -3299,6 +5949,48 @@ LOCATION:а.6373
 DESCRIPTION:Группа: 6412\nАудитория: а.6373\nПара №17\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T180000
+DTEND;TZID=Europe/Moscow:20260219T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6249\nПара №7\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T200000
+DTEND;TZID=Europe/Moscow:20260219T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6249\nПара №8\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №18\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3328,6 +6020,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260220-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №5\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6453\nАудитория: а.6373\nПара №73\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T093000
+DTEND;TZID=Europe/Moscow:20260224T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · 24
+LOCATION:24
+DESCRIPTION:Группа: 6411\,6412\nАудитория: 24\nПара №Онлайн занятие\nПрепод
+ аватель: Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260224-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260224T093000
@@ -3345,6 +6075,20 @@ DTEND;TZID=Europe/Moscow:20260224T111000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПара №24\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · 47
+LOCATION:47
+DESCRIPTION:Группа: 6411\,6412\nАудитория: 47\nПара №Онлайн занятие\nПрепод
+ аватель: Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3368,6 +6112,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260224-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · 19
+LOCATION:19
+DESCRIPTION:Группа: 6411\,6412\nАудитория: 19\nПара №Онлайн занятие\nПрепод
+ аватель: Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260224-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260224T140000
@@ -3388,6 +6146,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260224-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T160000
+DTEND;TZID=Europe/Moscow:20260224T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · 48
+LOCATION:48
+DESCRIPTION:Группа: 6411\,6412\nАудитория: 48\nПара №Онлайн занятие\nПрепод
+ аватель: Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260224-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260224T160000
@@ -3405,6 +6177,48 @@ DTEND;TZID=Europe/Moscow:20260224T174000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412
 DESCRIPTION:Группа: 6412\nПара №48\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T180000
+DTEND;TZID=Europe/Moscow:20260224T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №7\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T200000
+DTEND;TZID=Europe/Moscow:20260224T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №8\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №20\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3434,6 +6248,44 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260226-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6453\nАудитория: а.414\nПара №74\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №6\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T160000
+DTEND;TZID=Europe/Moscow:20260226T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №25\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260226-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260226T160000
@@ -3457,6 +6309,20 @@ LOCATION:а.6242
 DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №25\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T180000
+DTEND;TZID=Europe/Moscow:20260226T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6373\nПара №9\
+ nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3500,6 +6366,34 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260302-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260302T180000
+DTEND;TZID=Europe/Moscow:20260302T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №9\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260302T200000
+DTEND;TZID=Europe/Moscow:20260302T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №10\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260303-0930-6-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260303T093000
@@ -3527,6 +6421,20 @@ DTEND;TZID=Europe/Moscow:20260303T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №49\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3576,6 +6484,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260303-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №26\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260303-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260303T160000
@@ -3593,6 +6515,34 @@ DTEND;TZID=Europe/Moscow:20260303T174000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T180000
+DTEND;TZID=Europe/Moscow:20260303T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №10
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T200000
+DTEND;TZID=Europe/Moscow:20260303T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №11
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3676,6 +6626,30 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260306-0930-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №75\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПара №76\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260306-1130-6411--основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260306T113000
@@ -3693,6 +6667,20 @@ DTEND;TZID=Europe/Moscow:20260306T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6412 ·
 DESCRIPTION:Группа: 6412 ·\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412 ·
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №50\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3742,6 +6730,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260306-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6117\nПара №51\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260306-1600-6411--основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260306T160000
@@ -3788,6 +6790,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260310-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) АУД · гр. 6
+ 411\,6412 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6376\nПара №21\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260310-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260310T093000
@@ -3811,6 +6827,20 @@ LOCATION:а.6376
 DESCRIPTION:Группа: 6412\nАудитория: а.6376\nПара №21\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №27\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3840,6 +6870,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260312-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №52\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260312-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260312T140000
@@ -3863,6 +6907,20 @@ LOCATION:а.6236
 DESCRIPTION:Группа: 6412\nАудитория: а.6236\nПара №52\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6236\nПара №53\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3892,6 +6950,48 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260312-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260312T180000
+DTEND;TZID=Europe/Moscow:20260312T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6117\nПара №12
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260312T200000
+DTEND;TZID=Europe/Moscow:20260312T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6117\nПара №13
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.106\nПара №54\nПреподаватель: 
+ Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260313-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260313T113000
@@ -3915,6 +7015,44 @@ LOCATION:а.106
 DESCRIPTION:Группа: 6412\nАудитория: а.106\nПара №54\nПреподаватель: Сарыче
  ва О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №77\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №78\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260316T093000
+DTEND;TZID=Europe/Moscow:20260316T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6381\nПара №22\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3944,6 +7082,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260316-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №55\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260316-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260316T113000
@@ -3967,6 +7119,20 @@ LOCATION:а.6248
 DESCRIPTION:Группа: 6412\nАудитория: а.6248\nПара №55\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №28\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3996,6 +7162,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260319-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №56\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260319-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260319T113000
@@ -4022,6 +7202,136 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260324-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №79\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1600-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T160000
+DTEND;TZID=Europe/Moscow:20260324T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №7\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T180000
+DTEND;TZID=Europe/Moscow:20260324T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №11\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T200000
+DTEND;TZID=Europe/Moscow:20260324T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №12\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T180000
+DTEND;TZID=Europe/Moscow:20260326T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №14
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T200000
+DTEND;TZID=Europe/Moscow:20260326T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №15
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1130-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260331T113000
+DTEND;TZID=Europe/Moscow:20260331T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №8\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260331T140000
+DTEND;TZID=Europe/Moscow:20260331T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №9\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260331T160000
+DTEND;TZID=Europe/Moscow:20260331T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №80\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №29\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260402-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260402T093000
@@ -4039,6 +7349,20 @@ DTEND;TZID=Europe/Moscow:20260402T111000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260402T113000
+DTEND;TZID=Europe/Moscow:20260402T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №30\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4122,6 +7446,20 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260403-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6381\nПара №23\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260403-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260403T093000
@@ -4142,6 +7480,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260403-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №31\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260403-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260403T113000
@@ -4159,6 +7511,20 @@ DTEND;TZID=Europe/Moscow:20260403T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №57\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4208,6 +7574,18 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260403-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T160000
+DTEND;TZID=Europe/Moscow:20260403T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №81\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260406-1130-6411--основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260406T113000
@@ -4243,26 +7621,6 @@ DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260406T140000
 DTEND;TZID=Europe/Moscow:20260406T154000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412
-DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6412
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260406-1400-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260406T140000
-DTEND;TZID=Europe/Moscow:20260406T154000
-SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411
-DESCRIPTION:Группа: 6411\nПреподаватель: Сарычева О. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260406-1400-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260406T140000
-DTEND;TZID=Europe/Moscow:20260406T154000
-SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
@@ -4308,6 +7666,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260407-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №24\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260407-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260407T140000
@@ -4325,6 +7697,20 @@ DTEND;TZID=Europe/Moscow:20260407T154000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №58\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4374,6 +7760,96 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260407-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T180000
+DTEND;TZID=Europe/Moscow:20260407T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №13\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T200000
+DTEND;TZID=Europe/Moscow:20260407T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №14\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №10\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №11\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-0930-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260410T093000
+DTEND;TZID=Europe/Moscow:20260410T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №12\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1130-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260410T113000
+DTEND;TZID=Europe/Moscow:20260410T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №13\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №59\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260410-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260410T140000
@@ -4397,6 +7873,20 @@ LOCATION:а.6116
 DESCRIPTION:Группа: 6412\nАудитория: а.6116\nПара №59\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 6411\
+ ,6412 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПара №25\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4426,6 +7916,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260413-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6378\nПара №60\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260413-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260413T160000
@@ -4449,6 +7953,44 @@ LOCATION:а.6378
 DESCRIPTION:Группа: 6412\nАудитория: а.6378\nПара №60\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №82\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6453\nАудитория: а.6240\nПара №83\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260416T113000
+DTEND;TZID=Europe/Moscow:20260416T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6373\nПара №61\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4478,6 +8020,96 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260416-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №14\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1600-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260416T160000
+DTEND;TZID=Europe/Moscow:20260416T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №15\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260416T180000
+DTEND;TZID=Europe/Moscow:20260416T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №16
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260416T200000
+DTEND;TZID=Europe/Moscow:20260416T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6240\nПара №17
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6453\nАудитория: а.6107\nПара №84\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №85\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6248\nПара №62\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260420-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260420T113000
@@ -4501,6 +8133,84 @@ LOCATION:а.6248
 DESCRIPTION:Группа: 6412\nАудитория: а.6248\nПара №62\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260420T140000
+DTEND;TZID=Europe/Moscow:20260420T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №16\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260421T140000
+DTEND;TZID=Europe/Moscow:20260421T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6453\nАудитория: а.6107\nПара №17\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1600-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260421T160000
+DTEND;TZID=Europe/Moscow:20260421T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПара №18\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260421T180000
+DTEND;TZID=Europe/Moscow:20260421T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №15\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260421T200000
+DTEND;TZID=Europe/Moscow:20260421T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №16\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T140000
+DTEND;TZID=Europe/Moscow:20260423T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №32\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4530,6 +8240,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260423-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T160000
+DTEND;TZID=Europe/Moscow:20260423T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №63\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260423-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260423T160000
@@ -4553,6 +8277,20 @@ LOCATION:а.6112
 DESCRIPTION:Группа: 6412\nАудитория: а.6112\nПара №63\nПреподаватель: Сарыч
  ева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260427T140000
+DTEND;TZID=Europe/Moscow:20260427T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №33\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4582,6 +8320,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260427-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260427T160000
+DTEND;TZID=Europe/Moscow:20260427T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №34\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260427-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260427T160000
@@ -4608,6 +8360,94 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260428-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T140000
+DTEND;TZID=Europe/Moscow:20260428T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №86\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T160000
+DTEND;TZID=Europe/Moscow:20260428T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6453\nАудитория: а.6378\nПара №87\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T180000
+DTEND;TZID=Europe/Moscow:20260428T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6376\nПара №18
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T200000
+DTEND;TZID=Europe/Moscow:20260428T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6376\nПара №19
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №88\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260430T160000
+DTEND;TZID=Europe/Moscow:20260430T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №89\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №19\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260504-1400-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260504T140000
@@ -4628,6 +8468,18 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260504-1600-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T160000
+DTEND;TZID=Europe/Moscow:20260504T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №20\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260504-1600-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260504T160000
@@ -4645,6 +8497,34 @@ DTEND;TZID=Europe/Moscow:20260504T174000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1800-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T180000
+DTEND;TZID=Europe/Moscow:20260504T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №17\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-2000-646вэ17-24-646вэ25-31-649вр-основы-управления-в-п
+ рофессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T200000
+DTEND;TZID=Europe/Moscow:20260504T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 646вэ
+ 17-24\,646вэ25-31\, 649вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 646вэ17-24\,646вэ25-31\, 649вр\nАудитория: а.6249\nПара
+  №18\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,646вэ17-24\,646вэ25-31\, 649вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -4708,6 +8588,20 @@ CATEGORIES:Преподавание,6412 ·
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260507-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №35\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260507-0930-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260507T093000
@@ -4728,6 +8622,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260507-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №36\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260507-1130-6411-основы-управления-в-профессион@gtifem.ru
 DTSTAMP:20260528T172937Z
 DTSTART;TZID=Europe/Moscow:20260507T113000
@@ -4745,6 +8653,380 @@ DTEND;TZID=Europe/Moscow:20260507T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6412
 DESCRIPTION:Группа: 6412\nПреподаватель: Сарычева О. В.
 CATEGORIES:Преподавание,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-0930-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №21\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-1130-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №22\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1130-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260518T113000
+DTEND;TZID=Europe/Moscow:20260518T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6453\nАудитория: а.6112\nПара №23\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1400-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260518T140000
+DTEND;TZID=Europe/Moscow:20260518T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6453\nАудитория: а.6112\nПара №24\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1600-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260518T160000
+DTEND;TZID=Europe/Moscow:20260518T174000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6453\nАудитория: а.6112\nПара №90\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T140000
+DTEND;TZID=Europe/Moscow:20260519T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №37\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T160000
+DTEND;TZID=Europe/Moscow:20260519T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №38\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260521T113000
+DTEND;TZID=Europe/Moscow:20260521T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №91\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260521T140000
+DTEND;TZID=Europe/Moscow:20260521T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №92\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1600-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260521T160000
+DTEND;TZID=Europe/Moscow:20260521T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6115\nПара №64\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1800-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260521T180000
+DTEND;TZID=Europe/Moscow:20260521T194000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6115\nПара №20
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-2000-649вл-649вф-648вк-649вм-основы-управления-в-профе
+ ссион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260521T200000
+DTEND;TZID=Europe/Moscow:20260521T214000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · гр. 649вл
+ \,649вф\,648вк\,649вм · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\nАудитория: а.6115\nПара №21
+ \nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №93\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1400-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T140000
+DTEND;TZID=Europe/Moscow:20260526T154000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №94\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-0930-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260528T093000
+DTEND;TZID=Europe/Moscow:20260528T111000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №95\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260528T113000
+DTEND;TZID=Europe/Moscow:20260528T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №39\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260528T140000
+DTEND;TZID=Europe/Moscow:20260528T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · гр. 6411\,
+ 6412 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №65\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260529T093000
+DTEND;TZID=Europe/Moscow:20260529T111000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №40\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1130-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260529T113000
+DTEND;TZID=Europe/Moscow:20260529T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6116\nПара №41\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-0930-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260602T093000
+DTEND;TZID=Europe/Moscow:20260602T111000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №96\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260602T113000
+DTEND;TZID=Europe/Moscow:20260602T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №97\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1400-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260602T140000
+DTEND;TZID=Europe/Moscow:20260602T154000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · гр. 6411\
+ ,6412 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6249\nПара №42\nПреподаватель:
+  Сарычева О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-0930-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260605T093000
+DTEND;TZID=Europe/Moscow:20260605T111000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №98\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1130-6453-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260605T113000
+DTEND;TZID=Europe/Moscow:20260605T131000
+SUMMARY:Копирайтинг (пр) · гр. 6453 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №99\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260611-0930-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260611T093000
+DTEND;TZID=Europe/Moscow:20260611T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №25\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260611-1130-6453-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260611T113000
+DTEND;TZID=Europe/Moscow:20260611T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6453 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6453\nАудитория: а.6249\nПара №26\nПреподаватель: Сарыч
+ ева О.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260626-0930-6411-6412-основы-управления-в-профессион@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260626T093000
+DTEND;TZID=Europe/Moscow:20260626T111000
+SUMMARY:Основы управления в профессиональной деятельности (экз) · гр. 6411\
+ ,6412 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6382\nПреподаватель: Сарычева 
+ О.В.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-1800-649вл-649вф-648вк-649вм-646вэ17-24-646вэ25-31-осн
+ овы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260707T180000
+DTEND;TZID=Europe/Moscow:20260707T194000
+SUMMARY:Основы управления в профессиональной деятельности (экз) · гр. 649вл
+ \,649вф\,648вк\,649вм\, 646вэ17-24\,646вэ25-31 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 649вл\,649вф\,648вк\,649вм\, 646вэ17-24\,646вэ25-31\nАу
+ дитория: а.6112\nПреподаватель: Сарычева О.В.
+CATEGORIES:Преподавание,649вл\,649вф\,648вк\,649вм\, 646вэ17-24\,646вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-2000-649вр-649ву-основы-управления-в-профессион@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260707T200000
+DTEND;TZID=Europe/Moscow:20260707T214000
+SUMMARY:Основы управления в профессиональной деятельности (экз) · гр. 649вр
+ \, 649ву · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 649вр\, 649ву\nАудитория: а.6112\nПреподаватель: Сарыче
+ ва О.В.
+CATEGORIES:Преподавание,649вр\, 649ву
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

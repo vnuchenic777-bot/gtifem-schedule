@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1400-6511-6512-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250902T140000
 DTEND;TZID=Europe/Moscow:20250902T154000
 SUMMARY:Основы российской государственности лекция · гр. 6511\,6512 · а.101
@@ -83,7 +83,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1600-6511-6512-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250902T160000
 DTEND;TZID=Europe/Moscow:20250902T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250903-1600-6551-6552-6553-6554-основы-российской-государстве
  н@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250903T160000
 DTEND;TZID=Europe/Moscow:20250903T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1600-6561-6521-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250904T160000
 DTEND;TZID=Europe/Moscow:20250904T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6561
@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250910-1400-6531-6532-6533-6534-основы-российской-государстве
  н@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250910T140000
 DTEND;TZID=Europe/Moscow:20250910T154000
 SUMMARY:Основы российской государственности лекция · гр. 6531\,6532\, 6533\
@@ -165,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1400-6551-6552-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1600-6551-6552-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250915T160000
 DTEND;TZID=Europe/Moscow:20250915T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
@@ -193,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-1130-6533-6534-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250916T113000
 DTEND;TZID=Europe/Moscow:20250916T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1600-6561-6521-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250918T160000
 DTEND;TZID=Europe/Moscow:20250918T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6561
@@ -221,7 +221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1130-6511-6512-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T113000
 DTEND;TZID=Europe/Moscow:20250922T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -235,7 +235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1400-6531-6532-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
@@ -249,7 +249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1600-6531-6532-6533-6534-основы-российской-государстве
  н@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T160000
 DTEND;TZID=Europe/Moscow:20250922T174000
 SUMMARY:Основы российской государственности лекция · гр. 6531\,6532\, 6533\
@@ -262,7 +262,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250924-1130-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250924T113000
 DTEND;TZID=Europe/Moscow:20250924T131000
 SUMMARY:Основы российской государственности лекция · гр. 6571 · а.6107
@@ -275,7 +275,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1600-6561-6521-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250925T160000
 DTEND;TZID=Europe/Moscow:20250925T174000
 SUMMARY:Основы российской государственности лекция · гр. 6561\, 6521 · а.40
@@ -289,7 +289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1130-6531-6532-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
@@ -303,7 +303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1400-6533-6534-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20251023T140000
 DTEND;TZID=Europe/Moscow:20251023T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
@@ -317,7 +317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260701-0930-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
  российской-государствен@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260701T093000
 DTEND;TZID=Europe/Moscow:20260701T111000
 SUMMARY:Основы российской государственности (пр) · гр. 656зэ\, 659зф\, 659з
@@ -332,7 +332,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260701-1130-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
  российской-государствен@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260701T113000
 DTEND;TZID=Europe/Moscow:20260701T131000
 SUMMARY:Основы российской государственности (пр) · гр. 656зэ\, 659зф\, 659з
@@ -347,7 +347,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260702-1130-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
  российской-государствен@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260702T113000
 DTEND;TZID=Europe/Moscow:20260702T131000
 SUMMARY:Основы российской государственности (пр) · гр. 656зэ\, 659зф\, 659з
@@ -362,7 +362,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260702-1400-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-основы-
  российской-государствен@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260702T140000
 DTEND;TZID=Europe/Moscow:20260702T154000
 SUMMARY:Основы российской государственности (зачет) · гр. 656зэ\, 659зф\, 6

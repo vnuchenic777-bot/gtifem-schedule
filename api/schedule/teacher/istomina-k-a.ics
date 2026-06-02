@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Истомина К.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Истомина К.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6421-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6421 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6421\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №1\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №2\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1400-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\nАудитория: а.6116\nПара №1\nПреподаватель: Истоми
+ на К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №3\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1400-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250908T140000
+DTEND;TZID=Europe/Moscow:20250908T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №4\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1400-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Элективные курсы по физической культуре и спорту · гр. 6521 · каф.ф
+ из.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6421-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6421 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6421\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\nАудитория: каф.физ.воспитания\nПара №4\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №5\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\nАудитория: каф.физ.воспитания\nПара №5\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6521-6253-6254-элективные-курсы-по-физической@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521\, 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\, 6253\,6254\nАудитория: каф.физ.воспитания\nПара 
+ №6\nПреподаватель: Истомина К.А.
+CATEGORIES:Преподавание,6521\, 6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6221-6371-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6221\, 6371 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6221\, 6371\nАудитория: каф.физ.воспитания\nПара №1\nПр
+ еподаватель: Истомина К.А.
+CATEGORIES:Преподавание,6221\, 6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6521-6321-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521\, 6321 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\, 6321\nАудитория: каф.физ.воспитания\nПара №7\nПр
+ еподаватель: Истомина К.А.
+CATEGORIES:Преподавание,6521\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1130-6421-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250917T113000
+DTEND;TZID=Europe/Moscow:20250917T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6421 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6421\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №7\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6421-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6421 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6421\nАудитория: каф.физ.воспитания\nПара №4\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\nАудитория: каф.физ.воспитания\nПара №8\nПреподава
+ тель: Истомина К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №8\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6321-6371-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6321\, 6371 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6321\, 6371\nАудитория: каф.физ.воспитания\nПара №2\nПр
+ еподаватель: Истомина К.А.
+CATEGORIES:Преподавание,6321\, 6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6521-6421-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521\, 6421 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\, 6421\nАудитория: каф.физ.воспитания\nПара №9\nПр
+ еподаватель: Истомина К.А.
+CATEGORIES:Преподавание,6521\, 6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №9\nПре
+ подаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\nАудитория: каф.физ.воспитания\nПара №10\nПреподав
+ атель: Истомина К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6253\,6254 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №10\nПр
+ еподаватель: Истомина К.А.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6521-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6521 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6521\nАудитория: каф.физ.воспитания\nПара №11\nПреподав
+ атель: Истомина К.А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6321-6371-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6321\, 6371 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6321\, 6371\nАудитория: каф.физ.воспитания\nПара №3\nПр
+ еподаватель: Истомина К.А.
+CATEGORIES:Преподавание,6321\, 6371
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

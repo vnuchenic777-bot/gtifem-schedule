@@ -1,0 +1,4595 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Фарберов П.Я. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Фарберов П.Я., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250901-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250901T160000
+DTEND;TZID=Europe/Moscow:20250901T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 243\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T140000
+DTEND;TZID=Europe/Moscow:20250908T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250908T160000
+DTEND;TZID=Europe/Moscow:20250908T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 243\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 243\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 243\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251010T140000
+DTEND;TZID=Europe/Moscow:20251010T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251016T093000
+DTEND;TZID=Europe/Moscow:20251016T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T160000
+DTEND;TZID=Europe/Moscow:20251020T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T180000
+DTEND;TZID=Europe/Moscow:20251106T184500
+SUMMARY:Безопасность жизнедеятельности\, лекц · гр. 656вэ1-8\,656вэ25-31 · 
+ а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6116\nПара №-\nПреп
+ одаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-2000-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T200000
+DTEND;TZID=Europe/Moscow:20251106T204500
+SUMMARY:Безопасность жизнедеятельности\, лекц · гр. 659вл\,659вф\,658вк\,65
+ 9вм · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6116\nПара №-
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T200000
+DTEND;TZID=Europe/Moscow:20251111T204500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лекц · гр. 6
+ 59вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6117\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-2055-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T205500
+DTEND;TZID=Europe/Moscow:20251111T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лекц · гр. 6
+ 59вр · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6376\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T180000
+DTEND;TZID=Europe/Moscow:20251113T184500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лекц · гр. 6
+ 59вр · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6376\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T200000
+DTEND;TZID=Europe/Moscow:20251113T204500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лекц · гр. 6
+ 59вр · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6376\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T160000
+DTEND;TZID=Europe/Moscow:20251114T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-1855-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T185500
+DTEND;TZID=Europe/Moscow:20251116T194000
+SUMMARY:Безопасность жизнедеятельности\, практ · гр. 659вл\,659вф\,658вк\,6
+ 59вм · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6240\nПара №-
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-2055-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T205500
+DTEND;TZID=Europe/Moscow:20251116T214000
+SUMMARY:Безопасность жизнедеятельности\, практ · гр. 656вэ1-8\,656вэ25-31 ·
+  а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6240\nПара №-\nПреп
+ одаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T093000
+DTEND;TZID=Europe/Moscow:20251117T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T160000
+DTEND;TZID=Europe/Moscow:20251117T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1800-659вр--теория-и-практика-рекламы-и-с@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T180000
+DTEND;TZID=Europe/Moscow:20251119T184500
+SUMMARY:"Теория и практика рекламы и связей с общественностью\, практ · гр.
+  659вр · а. 6112"
+LOCATION:а. 6112"
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6112"\nПара №-\nПреподаватель: Фар
+ беров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-2000-659вр--теория-и-практика-рекламы-и-с@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T200000
+DTEND;TZID=Europe/Moscow:20251119T204500
+SUMMARY:"Теория и практика рекламы и связей с общественностью\, лаб · гр. 6
+ 59вр · а. 6112"
+LOCATION:а. 6112"
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6112"\nПара №-\nПреподаватель: Фар
+ беров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1800-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T180000
+DTEND;TZID=Europe/Moscow:20251120T184500
+SUMMARY:Безопасность жизнедеятельности\, практ · гр. 659вл\,659вф\,658вк\,6
+ 59вм · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6240\nПара №-
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-2000-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T200000
+DTEND;TZID=Europe/Moscow:20251120T204500
+SUMMARY:Безопасность жизнедеятельности\, практ · гр. 656вэ1-8\,656вэ25-31 ·
+  а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6240\nПара №-\nПреп
+ одаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T140000
+DTEND;TZID=Europe/Moscow:20251125T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1800-659вр--теория-и-практика-рекламы-и-с@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T180000
+DTEND;TZID=Europe/Moscow:20251126T184500
+SUMMARY:"Теория и практика рекламы и связей с общественностью\, практ · гр.
+  659вр · а. 6112"
+LOCATION:а. 6112"
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6112"\nПара №-\nПреподаватель: Фар
+ беров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-2000-659вр--теория-и-практика-рекламы-и-с@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T200000
+DTEND;TZID=Europe/Moscow:20251126T204500
+SUMMARY:"Теория и практика рекламы и связей с общественностью\, практ · гр.
+  659вр · а. 6112"
+LOCATION:а. 6112"
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6112"\nПара №-\nПреподаватель: Фар
+ беров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-2055-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T205500
+DTEND;TZID=Europe/Moscow:20251126T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лекц · гр. 6
+ 59вр · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 659вр\nАудитория: а.6376\nПара №-\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T200000
+DTEND;TZID=Europe/Moscow:20251127T204500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лекц · гр. 6
+ 59вр · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6376\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1800-659вр--теория-и-практика-рекламы-и-с@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T180000
+DTEND;TZID=Europe/Moscow:20251203T184500
+SUMMARY:"Теория и практика рекламы и связей с общественностью\, лаб · гр. 6
+ 59вр · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6116\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T200000
+DTEND;TZID=Europe/Moscow:20251204T204500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лекц · гр. 6
+ 59вр · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6107\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T180000
+DTEND;TZID=Europe/Moscow:20251210T184500
+SUMMARY:Безопасность жизнедеятельности\, лекц · гр. 656вэ1-8\,656вэ25-31 · 
+ а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6115\nПара №-\nПреп
+ одаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-2000-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251210T200000
+DTEND;TZID=Europe/Moscow:20251210T204500
+SUMMARY:Безопасность жизнедеятельности\, лекц · гр. 659вл\,659вф\,658вк\,65
+ 9вм · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6115\nПара №-
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T200000
+DTEND;TZID=Europe/Moscow:20251211T204500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лаб · гр. 65
+ 9вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6240\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T160000
+DTEND;TZID=Europe/Moscow:20251212T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Безопасность жизнедеятельности\, лекц · гр. 656вэ1-8\,656вэ25-31 · 
+ а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6115\nПара №-\nПреп
+ одаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Безопасность жизнедеятельности\, лекц · гр. 659вл\,659вф\,658вк\,65
+ 9вм · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6115\nПара №-
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-0930-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251218T093000
+DTEND;TZID=Europe/Moscow:20251218T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М\,548М · а
+ уд. 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 7-325\nПара №Фарберов П.Я.\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, практ · гр. 
+ 659вр · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6373\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Теория и практика рекламы и связей с общественностью\, лаб · гр. 65
+ 9вр · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 659вр\nАудитория: а. 6373\nПара №-\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-0930-546М548М-экономика-в-техносферной-безоп@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T093000
+DTEND;TZID=Europe/Moscow:20251225T111000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ практика · гр. 546М548М · ауд
+ . 7-325
+LOCATION:ауд. 7-325
+DESCRIPTION:Группа: 546М548М\nАудитория: ауд. 7-325\nПара №Фарберов\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1130-446-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 446 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 446\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-243-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 243 · ауд. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 243\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,243
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-5468-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 5468 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 5468\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-548-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 548 · ауд. 7-318
+LOCATION:ауд. 7-318
+DESCRIPTION:Группа: 548\nАудитория: ауд. 7-318\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,548
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1600-333-334-экономика-и-управление-машинос@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:ЭКОНОМИКА И УПРАВЛЕНИЕ МАШИНОСТРОИТЕЛЬНЫМ ПРОИЗВОДСТВОМ практика · 
+ гр. 333\,334 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 333\,334\nАудитория: ауд. 7-322\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,333\,334
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-140-141-142-145-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 140\,141\,142\,145 · ау
+ д. 311
+LOCATION:ауд. 311
+DESCRIPTION:Группа: 140\,141\,142\,145\nАудитория: ауд. 311\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,140\,141\,142\,145
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-2043-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2043 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 2043\nАудитория: ауд. 260\nПара №Фарберов П.Я.\nПрепода
+ ватель: Фарберов П.Я.
+CATEGORIES:Преподавание,2043
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-546М-548М-экономика-в-техносферной-безоп@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:ЭКОНОМИКА В ТЕХНОСФЕРНОЙ БЕЗОПАСНОСТИ лекция · гр. 546М\,548М · ауд
+ . 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 546М\,548М\nАудитория: ауд. 357\nПара №Фарберов П.Я.\nП
+ реподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,546М\,548М
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-145-2042-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 145\,2042 · ауд. 206
+LOCATION:ауд. 206
+DESCRIPTION:Группа: 145\,2042\nАудитория: ауд. 206\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,145\,2042
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251230-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251230T113000
+DTEND;TZID=Europe/Moscow:20251230T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 140\nАудитория: ауд. 258\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251230-1400-243-244-246-343-основы-экономики-и-менеджмента@gt
+ ifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251230T140000
+DTEND;TZID=Europe/Moscow:20251230T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 243\,244\,246\,343 · ау
+ д. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 243\,244\,246\,343\nАудитория: ауд. 306\nПара №Фарберов
+  П.Я.\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,243\,244\,246\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T180000
+DTEND;TZID=Europe/Moscow:20260113T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №1\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T180000
+DTEND;TZID=Europe/Moscow:20260115T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №2\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T180000
+DTEND;TZID=Europe/Moscow:20260120T194000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6245\nПара №1\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-2000-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260120T200000
+DTEND;TZID=Europe/Moscow:20260120T214000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 659вл\,659вф\,658вк\,659
+ вм · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6245\nПара №1\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260127T180000
+DTEND;TZID=Europe/Moscow:20260127T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №3\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T180000
+DTEND;TZID=Europe/Moscow:20260128T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №4\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260128T200000
+DTEND;TZID=Europe/Moscow:20260128T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №5\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260129T180000
+DTEND;TZID=Europe/Moscow:20260129T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №6\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1800-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T180000
+DTEND;TZID=Europe/Moscow:20260203T194000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 659вл\,659вф\,658вк\,659
+ вм · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6245\nПара №2\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-2000-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T200000
+DTEND;TZID=Europe/Moscow:20260203T214000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 659вл\,659вф\,658вк\,659
+ вм · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6245\nПара №3\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T180000
+DTEND;TZID=Europe/Moscow:20260204T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №7\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T200000
+DTEND;TZID=Europe/Moscow:20260204T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №8\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T160000
+DTEND;TZID=Europe/Moscow:20260209T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T180000
+DTEND;TZID=Europe/Moscow:20260210T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №9\nПреподаватель: Фарбе
+ ров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260210T200000
+DTEND;TZID=Europe/Moscow:20260210T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №10\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T180000
+DTEND;TZID=Europe/Moscow:20260216T194000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6382\nПара №2\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-2000-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T200000
+DTEND;TZID=Europe/Moscow:20260216T214000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6382\nПара №3\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260218T180000
+DTEND;TZID=Europe/Moscow:20260218T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №11\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260218T200000
+DTEND;TZID=Europe/Moscow:20260218T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №12\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260223-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260223T160000
+DTEND;TZID=Europe/Moscow:20260223T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T093000
+DTEND;TZID=Europe/Moscow:20260224T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1800-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T180000
+DTEND;TZID=Europe/Moscow:20260224T194000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 659вл\,659вф\,658вк\,659
+ вм · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6245\nПара №4\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-2000-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260224T200000
+DTEND;TZID=Europe/Moscow:20260224T214000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 659вл\,659вф\,658вк\,659
+ вм · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6245\nПара №5\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T180000
+DTEND;TZID=Europe/Moscow:20260226T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №13\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T200000
+DTEND;TZID=Europe/Moscow:20260226T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вр\nАудитория: а.6245\nПара №14\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260302T160000
+DTEND;TZID=Europe/Moscow:20260302T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260302T180000
+DTEND;TZID=Europe/Moscow:20260302T194000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №4\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-2000-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260302T200000
+DTEND;TZID=Europe/Moscow:20260302T214000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №5\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260305T180000
+DTEND;TZID=Europe/Moscow:20260305T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №15\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260305T200000
+DTEND;TZID=Europe/Moscow:20260305T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №16\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260309-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260309T160000
+DTEND;TZID=Europe/Moscow:20260309T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260317T113000
+DTEND;TZID=Europe/Moscow:20260317T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260323T160000
+DTEND;TZID=Europe/Moscow:20260323T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T093000
+DTEND;TZID=Europe/Moscow:20260324T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T180000
+DTEND;TZID=Europe/Moscow:20260326T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 659вр\nАудитория: а.6249\nПара №17\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T200000
+DTEND;TZID=Europe/Moscow:20260326T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 659вр\nАудитория: а.6249\nПара №18\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260327T113000
+DTEND;TZID=Europe/Moscow:20260327T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260330T160000
+DTEND;TZID=Europe/Moscow:20260330T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260331T093000
+DTEND;TZID=Europe/Moscow:20260331T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260331T113000
+DTEND;TZID=Europe/Moscow:20260331T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T093000
+DTEND;TZID=Europe/Moscow:20260407T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260407T113000
+DTEND;TZID=Europe/Moscow:20260407T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T180000
+DTEND;TZID=Europe/Moscow:20260409T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 659вр\nАудитория: а.6249\nПара №19\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T200000
+DTEND;TZID=Europe/Moscow:20260409T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 659вр\nАудитория: а.6249\nПара №20\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260410T113000
+DTEND;TZID=Europe/Moscow:20260410T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T180000
+DTEND;TZID=Europe/Moscow:20260414T194000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6112\nПара №6\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-2000-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T200000
+DTEND;TZID=Europe/Moscow:20260414T214000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6112\nПара №7\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260420T160000
+DTEND;TZID=Europe/Moscow:20260420T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260421T093000
+DTEND;TZID=Europe/Moscow:20260421T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T180000
+DTEND;TZID=Europe/Moscow:20260423T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №21\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260423T200000
+DTEND;TZID=Europe/Moscow:20260423T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №22\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260427T160000
+DTEND;TZID=Europe/Moscow:20260427T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260427T180000
+DTEND;TZID=Europe/Moscow:20260427T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №23\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260427T200000
+DTEND;TZID=Europe/Moscow:20260427T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 659вр\nАудитория: а.6382\nПара №24\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T160000
+DTEND;TZID=Europe/Moscow:20260504T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1800-656вэ1-8-656вэ25-31-безопасность-жизнедеятельност
+ и@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T180000
+DTEND;TZID=Europe/Moscow:20260504T194000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 656вэ1-8\,656вэ25-31 · а
+ .6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6112\nПара №8\nПрепо
+ даватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-2000-659вл-659вф-658вк-659вм-безопасность-жизнедеятель
+ ности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T200000
+DTEND;TZID=Europe/Moscow:20260504T214000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 659вл\,659вф\,658вк\,659
+ вм · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6112\nПара №6\
+ nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260505T093000
+DTEND;TZID=Europe/Moscow:20260505T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260508T113000
+DTEND;TZID=Europe/Moscow:20260508T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260512T093000
+DTEND;TZID=Europe/Moscow:20260512T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260515T113000
+DTEND;TZID=Europe/Moscow:20260515T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260515T140000
+DTEND;TZID=Europe/Moscow:20260515T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260518T160000
+DTEND;TZID=Europe/Moscow:20260518T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T093000
+DTEND;TZID=Europe/Moscow:20260519T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T113000
+DTEND;TZID=Europe/Moscow:20260519T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T180000
+DTEND;TZID=Europe/Moscow:20260519T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659вр\nАудитория: а.6115\nПара №25\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T200000
+DTEND;TZID=Europe/Moscow:20260519T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659вр\nАудитория: а.6115\nПара №26\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260522T113000
+DTEND;TZID=Europe/Moscow:20260522T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260522T140000
+DTEND;TZID=Europe/Moscow:20260522T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260525T160000
+DTEND;TZID=Europe/Moscow:20260525T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T093000
+DTEND;TZID=Europe/Moscow:20260526T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T180000
+DTEND;TZID=Europe/Moscow:20260526T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659вр\nАудитория: а.6115\nПара №27\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-2000-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T200000
+DTEND;TZID=Europe/Moscow:20260526T214000
+SUMMARY:Теория и практика рекламы и связей с общественностью (лек) · гр. 65
+ 9вр · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659вр\nАудитория: а.6115\nПара №28\nПреподаватель: Фарб
+ еров П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260529T113000
+DTEND;TZID=Europe/Moscow:20260529T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260529T140000
+DTEND;TZID=Europe/Moscow:20260529T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1600-342-540-547-основы-экономики-и-менеджмента@gtifem
+ .ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260601T160000
+DTEND;TZID=Europe/Moscow:20260601T174000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 342\,540\,547 · ауд. 
+ 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 342\,540\,547\nАудитория: ауд. 392\nПара №Фарберов П.Я.
+ \nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,342\,540\,547
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260602T093000
+DTEND;TZID=Europe/Moscow:20260602T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260602T113000
+DTEND;TZID=Europe/Moscow:20260602T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1130-544-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260605T113000
+DTEND;TZID=Europe/Moscow:20260605T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 544 · ауд. 7-323
+LOCATION:ауд. 7-323
+DESCRIPTION:Группа: 544\nАудитория: ауд. 7-323\nПара №Фарберов П.Я.\nПрепод
+ аватель: Фарберов П.Я.
+CATEGORIES:Преподавание,544
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1400-545-131-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260605T140000
+DTEND;TZID=Europe/Moscow:20260605T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 545\,131 · ауд. 254
+LOCATION:ауд. 254
+DESCRIPTION:Группа: 545\,131\nАудитория: ауд. 254\nПара №Фарберов П.Я.\nПре
+ подаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,545\,131
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-0930-341-549а-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260609T093000
+DTEND;TZID=Europe/Moscow:20260609T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 341\,549а · ауд. 394
+LOCATION:ауд. 394
+DESCRIPTION:Группа: 341\,549а\nАудитория: ауд. 394\nПара №Фарберов П.Я.\nПр
+ еподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,341\,549а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1130-140-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260609T113000
+DTEND;TZID=Europe/Moscow:20260609T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 140 · ауд. 255
+LOCATION:ауд. 255
+DESCRIPTION:Группа: 140\nАудитория: ауд. 255\nПара №Фарберов П.Я.\nПреподав
+ атель: Фарберов П.Я.
+CATEGORIES:Преподавание,140
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260623-0930-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-безопас
+ ность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260623T093000
+DTEND;TZID=Europe/Moscow:20260623T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 656зэ\, 659зф\, 659зб\, 6
+ 59зр\, 658зк\, 659зм\, 659зу · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6240\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260623-1130-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-безопас
+ ность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260623T113000
+DTEND;TZID=Europe/Moscow:20260623T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 656зэ\, 659зф\, 659зб\, 6
+ 59зр\, 658зк\, 659зм\, 659зу · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6240\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1400-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-безопас
+ ность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260624T140000
+DTEND;TZID=Europe/Moscow:20260624T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 656зэ\, 659зф\, 659зб\, 6
+ 59зр\, 658зк\, 659зм\, 659зу · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6116\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1600-656зэ-659зф-659зб-659зр-658зк-659зм-659зу-безопас
+ ность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260624T160000
+DTEND;TZID=Europe/Moscow:20260624T174000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 656зэ\, 659зф\, 659зб\
+ , 659зр\, 658зк\, 659зм\, 659зу · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659зу\n
+ Аудитория: а.6116\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656зэ\, 659зф\, 659зб\, 659зр\, 658зк\, 659зм\, 659
+ зу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1800-656вэ1-8-656вэ25-31-656вэ9-16-656вэ17-24-безопасн
+ ость-жизнедеятельности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260624T180000
+DTEND;TZID=Europe/Moscow:20260624T194000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 656вэ1-8\,656вэ25-31\,
+  656вэ9-16\,656вэ17-24 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24\nАудитория
+ : а.6116\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260629-1800-659вр-теория-и-практика-рекламы-и-св@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260629T180000
+DTEND;TZID=Europe/Moscow:20260629T194000
+SUMMARY:Теория и практика рекламы и связей с общественностью (экз) · гр. 65
+ 9вр · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 659вр\nАудитория: а.6112\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-1800-659вл-659вф-658вк-659вм-659ву-659вб-безопасность-
+ жизнедеятельности@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260701T180000
+DTEND;TZID=Europe/Moscow:20260701T194000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 659вл\,659вф\,658вк\,6
+ 59вм\, 659ву\,659вб · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\nАудитория: а
+ .6107\nПреподаватель: Фарберов П.Я.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,2475 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Чигрин Н.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Чигрин Н.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250903-0930-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №1\nПреподав
+ атель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №1\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.101\nПара №2\nПреподаватель: Ч
+ игрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1600-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.101\nПара №2\nПреподава
+ тель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №3\nПреподаватель: Ч
+ игрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №4\nПреподаватель: Ч
+ игрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.401\nПара №5\nПреподаватель: Ч
+ игрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.401\nПара №6\nПреподаватель: Ч
+ игрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.401\nПара №7\nПреподаватель: Ч
+ игрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.401\nПара №8\nПреподаватель: Ч
+ игрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-0930-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №3\nПреподав
+ атель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №9\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №10\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №11\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №12\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №13\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.401\nПара №14\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.401\nПара №15\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №16\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №17\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №18\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №19\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №20\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №21\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №22\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6107\nПара №4\nПреподав
+ атель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №5\nПреподав
+ атель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №6\nПреподав
+ атель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6248\nПара №23\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6248\nПара №24\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №25\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №26\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1800-639вр-копирайтинг-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251013T180000
+DTEND;TZID=Europe/Moscow:20251013T184500
+SUMMARY:Копирайтинг\, лекц · гр. 639вр · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6381\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251013T200000
+DTEND;TZID=Europe/Moscow:20251013T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6381\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №27\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №28\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6248\nПара №29\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6248\nПара №30\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1800-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251017T180000
+DTEND;TZID=Europe/Moscow:20251017T184500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6236\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251017T200000
+DTEND;TZID=Europe/Moscow:20251017T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6236\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №31\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1600-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T160000
+DTEND;TZID=Europe/Moscow:20251022T174000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.409\nПара №7\nПреподава
+ тель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1800-639вр-копирайтинг-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T180000
+DTEND;TZID=Europe/Moscow:20251022T184500
+SUMMARY:Копирайтинг\, лаб · гр. 639вр · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6116\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T200000
+DTEND;TZID=Europe/Moscow:20251022T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6116\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.406\nПара №8\nПреподава
+ тель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.101\nПара №9\nПреподава
+ тель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6248\nПара №32\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6248\nПара №33\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.406\nПара №34\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.406\nПара №35\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1800-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251029T180000
+DTEND;TZID=Europe/Moscow:20251029T184500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6248\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251029T200000
+DTEND;TZID=Europe/Moscow:20251029T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6248\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6236\nПара №36\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6236\nПара №37\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6236\nПара №38\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1600-6451-6452-копирайтинг-лабораторный-практ@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Копирайтинг лабораторный практикум · гр. 6451\,6452 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6236\nПара №1\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1800-639вр-копирайтинг-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T180000
+DTEND;TZID=Europe/Moscow:20251111T184500
+SUMMARY:Копирайтинг\, лаб · гр. 639вр · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6242\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T200000
+DTEND;TZID=Europe/Moscow:20251111T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6242\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-0930-6451-6452-копирайтинг-лабораторный-практ@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Копирайтинг лабораторный практикум · гр. 6451\,6452 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6116\nПара №2\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6451-6452-копирайтинг-лабораторный-практ@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Копирайтинг лабораторный практикум · гр. 6451\,6452 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6116\nПара №3\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1800-639вр-копирайтинг-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251127T180000
+DTEND;TZID=Europe/Moscow:20251127T184500
+SUMMARY:Копирайтинг\, лаб · гр. 639вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6117\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251127T200000
+DTEND;TZID=Europe/Moscow:20251127T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6117\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T093000
+DTEND;TZID=Europe/Moscow:20251203T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПара №39\, 40\nПреподава
+ тель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №41\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПара №42\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПара №43\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Копирайтинг Лекция · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №10\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251210T140000
+DTEND;TZID=Europe/Moscow:20251210T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.414\nПара №44\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №45\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1600-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251212T160000
+DTEND;TZID=Europe/Moscow:20251212T174000
+SUMMARY:Копирайтинг Лекция · гр. 6451\,6452\, 6453 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.409\nПара №11\nПреподав
+ атель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1400-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251217T140000
+DTEND;TZID=Europe/Moscow:20251217T154000
+SUMMARY:Копирайтинг Лекция · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №12\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251217T160000
+DTEND;TZID=Europe/Moscow:20251217T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №46\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-639вр-копирайтинг-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Копирайтинг\, лекц · гр. 639вр · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6381\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6381\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.414\nПара №47\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.414\nПара №48\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №49\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Копирайтинг Лекция · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №13\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6381\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-639вр-копирайтинг-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Копирайтинг\, практ · гр. 639вр · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вр\nАудитория: а. 6381\nПара №-\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-0930-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251225T093000
+DTEND;TZID=Europe/Moscow:20251225T111000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6107\nПара №50\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1130-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6107\nПара №51\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-6451-6452-6453-копирайтинг-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Копирайтинг лекция · гр. 6451\,6452\, 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6107\nПара №14\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1600-6451-6452-копирайтинг-практическое-занят@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:Копирайтинг практическое занятие · гр. 6451\,6452 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6107\nПара №52\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №53\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №54\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №55\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №56\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260112T180000
+DTEND;TZID=Europe/Moscow:20260112T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вр\nАудитория: а.6248\nПара №1\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260112T200000
+DTEND;TZID=Europe/Moscow:20260112T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вр\nАудитория: а.6248\nПара №2\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №57\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.403\nПара №58\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.406\nПара №59\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №60\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1800-639вр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260121T180000
+DTEND;TZID=Europe/Moscow:20260121T194000
+SUMMARY:Копирайтинг (пр) · гр. 639вр · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 639вр\nАудитория: а.6116\nПара №1\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-2000-639вр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260121T200000
+DTEND;TZID=Europe/Moscow:20260121T214000
+SUMMARY:Копирайтинг (пр) · гр. 639вр · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 639вр\nАудитория: а.6116\nПара №2\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6107\nПара №61\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6107\nПара №62\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260128T180000
+DTEND;TZID=Europe/Moscow:20260128T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вр\nАудитория: а.6248\nПара №3\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260128T200000
+DTEND;TZID=Europe/Moscow:20260128T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вр\nАудитория: а.6248\nПара №4\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260129T140000
+DTEND;TZID=Europe/Moscow:20260129T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №63\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260129T160000
+DTEND;TZID=Europe/Moscow:20260129T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.414\nПара №64\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260202T180000
+DTEND;TZID=Europe/Moscow:20260202T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вр\nАудитория: а.6248\nПара №5\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260202T200000
+DTEND;TZID=Europe/Moscow:20260202T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вр\nАудитория: а.6248\nПара №6\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.101\nПара №65\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.101\nПара №66\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260205T093000
+DTEND;TZID=Europe/Moscow:20260205T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №67\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №68\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-0930-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6373\nПара №15\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6373\nПара №69\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.414\nПара №70\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.414\nПара №71\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №72\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПара №4\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260216T180000
+DTEND;TZID=Europe/Moscow:20260216T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 639вр\nАудитория: а.6373\nПара №7\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260216T200000
+DTEND;TZID=Europe/Moscow:20260216T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 639вр\nАудитория: а.6373\nПара №8\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПара №73\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1600-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №5\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №6\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №74\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260302T180000
+DTEND;TZID=Europe/Moscow:20260302T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 639вр\nАудитория: а.6376\nПара №9\nПреподаватель: Чигри
+ н Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260302T200000
+DTEND;TZID=Europe/Moscow:20260302T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 639вр\nАудитория: а.6376\nПара №10\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №75\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №76\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №77\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6245\nПара №78\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1130-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6107\nПара №16\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6236\nПара №79\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-0930-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260325T093000
+DTEND;TZID=Europe/Moscow:20260325T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №7\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1130-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №8\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1400-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260325T140000
+DTEND;TZID=Europe/Moscow:20260325T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №9\nПреподаватель: 
+ Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-0930-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260331T093000
+DTEND;TZID=Europe/Moscow:20260331T111000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №17\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260331T113000
+DTEND;TZID=Europe/Moscow:20260331T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №80\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260401T160000
+DTEND;TZID=Europe/Moscow:20260401T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №81\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260401T180000
+DTEND;TZID=Europe/Moscow:20260401T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639вр\nАудитория: а.6236\nПара №11\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260401T200000
+DTEND;TZID=Europe/Moscow:20260401T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639вр\nАудитория: а.6236\nПара №12\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-0930-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6451\,6452\nАудитория: 10\nПара №Онлайн занятие\nПрепод
+ аватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1130-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6451\,6452\nАудитория: 11\nПара №Онлайн занятие\nПрепод
+ аватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-0930-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260408T093000
+DTEND;TZID=Europe/Moscow:20260408T111000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №18\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1130-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260408T113000
+DTEND;TZID=Europe/Moscow:20260408T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №12\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1400-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260408T140000
+DTEND;TZID=Europe/Moscow:20260408T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №13\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6373\nПара №19\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6382\nПара №82\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6245\nПара №83\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1400-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260414T140000
+DTEND;TZID=Europe/Moscow:20260414T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6245\nПара №14\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1600-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260414T160000
+DTEND;TZID=Europe/Moscow:20260414T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6245\nПара №15\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1400-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260415T140000
+DTEND;TZID=Europe/Moscow:20260415T154000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6373\nПара №20\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260415T160000
+DTEND;TZID=Europe/Moscow:20260415T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №84\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260415T180000
+DTEND;TZID=Europe/Moscow:20260415T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639вр\nАудитория: а.6236\nПара №13\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260415T200000
+DTEND;TZID=Europe/Moscow:20260415T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639вр\nАудитория: а.6236\nПара №14\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260422T140000
+DTEND;TZID=Europe/Moscow:20260422T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №85\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1600-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260422T160000
+DTEND;TZID=Europe/Moscow:20260422T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №16\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260422T180000
+DTEND;TZID=Europe/Moscow:20260422T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вр\nАудитория: а.6382\nПара №15\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260422T200000
+DTEND;TZID=Europe/Moscow:20260422T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 639вр\nАудитория: а.6382\nПара №16\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1400-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №17\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1600-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260424T160000
+DTEND;TZID=Europe/Moscow:20260424T174000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №18\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6107\nПара №21\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6107\nПара №22\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №86\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №87\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260430T093000
+DTEND;TZID=Europe/Moscow:20260430T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №88\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260430T113000
+DTEND;TZID=Europe/Moscow:20260430T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6373\nПара №89\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1130-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №19\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1400-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №20\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-0930-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6373\nПара №23\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1130-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6373\nПара №24\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-0930-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260507T093000
+DTEND;TZID=Europe/Moscow:20260507T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №21\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1130-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №22\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-0930-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260513T093000
+DTEND;TZID=Europe/Moscow:20260513T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПара №23\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1130-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПара №24\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260514T180000
+DTEND;TZID=Europe/Moscow:20260514T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639вр\nАудитория: а.6112\nПара №17\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260514T200000
+DTEND;TZID=Europe/Moscow:20260514T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639вр\nАудитория: а.6112\nПара №18\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-0930-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260518T093000
+DTEND;TZID=Europe/Moscow:20260518T111000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №25\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260518T113000
+DTEND;TZID=Europe/Moscow:20260518T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №90\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260521T093000
+DTEND;TZID=Europe/Moscow:20260521T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №91\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260521T113000
+DTEND;TZID=Europe/Moscow:20260521T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПара №92\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-0930-6451-6452-6453-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260526T093000
+DTEND;TZID=Europe/Moscow:20260526T111000
+SUMMARY:Копирайтинг (лек) · гр. 6451\,6452\, 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6373\nПара №26\nПрепода
+ ватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №93\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260526T140000
+DTEND;TZID=Europe/Moscow:20260526T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПара №94\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260527T140000
+DTEND;TZID=Europe/Moscow:20260527T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №95\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1600-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260527T160000
+DTEND;TZID=Europe/Moscow:20260527T174000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №96\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1800-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260527T180000
+DTEND;TZID=Europe/Moscow:20260527T194000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 639вр\nАудитория: а.6249\nПара №19\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-2000-639вр-копирайтинг-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260527T200000
+DTEND;TZID=Europe/Moscow:20260527T214000
+SUMMARY:Копирайтинг (лек) · гр. 639вр · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 639вр\nАудитория: а.6249\nПара №20\nПреподаватель: Чигр
+ ин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260603-0930-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260603T093000
+DTEND;TZID=Europe/Moscow:20260603T111000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6245\nПара №97\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260603-1130-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260603T113000
+DTEND;TZID=Europe/Moscow:20260603T131000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6245\nПара №98\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260603-1400-6451-6452-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260603T140000
+DTEND;TZID=Europe/Moscow:20260603T154000
+SUMMARY:Копирайтинг (пр) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №99\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-0930-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260609T093000
+DTEND;TZID=Europe/Moscow:20260609T111000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №25\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1130-6451-6452-копирайтинг-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260609T113000
+DTEND;TZID=Europe/Moscow:20260609T131000
+SUMMARY:Копирайтинг (лаб) · гр. 6451\,6452 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6249\nПара №26\nПреподаватель:
+  Чигрин Н.А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-0930-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260624T093000
+DTEND;TZID=Europe/Moscow:20260624T111000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зр\nАудитория: а.6242\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1130-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260624T113000
+DTEND;TZID=Europe/Moscow:20260624T131000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зр\nАудитория: а.6242\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1400-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260624T140000
+DTEND;TZID=Europe/Moscow:20260624T154000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зр\nАудитория: а.6242\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1600-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260624T160000
+DTEND;TZID=Europe/Moscow:20260624T174000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зр\nАудитория: а.6242\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260624-1800-639вр-копирайтинг-экз-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260624T180000
+DTEND;TZID=Europe/Moscow:20260624T194000
+SUMMARY:Копирайтинг (экз) · гр. 639вр · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639вр\nАудитория: а.6242\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260630-0930-6451-6452-копирайтинг-экз-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260630T093000
+DTEND;TZID=Europe/Moscow:20260630T111000
+SUMMARY:Копирайтинг (экз) · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПреподаватель: Чигрин Н.
+ А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260630-1130-6451-6452-копирайтинг-экз-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260630T113000
+DTEND;TZID=Europe/Moscow:20260630T131000
+SUMMARY:Копирайтинг (экз) · гр. 6451\,6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПреподаватель: Чигрин Н.
+ А.
+CATEGORIES:Преподавание,6451\,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260630-1400-6453-копирайтинг-экз-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260630T140000
+DTEND;TZID=Europe/Moscow:20260630T154000
+SUMMARY:Копирайтинг (экз) · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-0930-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260701T093000
+DTEND;TZID=Europe/Moscow:20260701T111000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639зр\nАудитория: а.6236\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-1130-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260701T113000
+DTEND;TZID=Europe/Moscow:20260701T131000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639зр\nАудитория: а.6236\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260701-1400-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260701T140000
+DTEND;TZID=Europe/Moscow:20260701T154000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639зр\nАудитория: а.6236\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-0930-639зр-копирайтинг-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260702T093000
+DTEND;TZID=Europe/Moscow:20260702T111000
+SUMMARY:Копирайтинг (пр) · гр. 639зр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639зр\nАудитория: а.6236\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1130-639зр-копирайтинг-экз-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260702T113000
+DTEND;TZID=Europe/Moscow:20260702T131000
+SUMMARY:Копирайтинг (экз) · гр. 639зр · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639зр\nАудитория: а.6236\nПреподаватель: Чигрин Н.А.
+CATEGORIES:Преподавание,639зр
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

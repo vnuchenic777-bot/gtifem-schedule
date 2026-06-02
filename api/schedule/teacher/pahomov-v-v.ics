@@ -1,0 +1,332 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Пахомов В.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Пахомов В.В., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПара №1\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6453\nАудитория: а. 6373\nПара №2\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6453\nАудитория: а. 6373\nПара №3\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №4\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПара №5\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПара №6\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №7\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №8\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №9\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1130-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №10\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №11\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6453\nАудитория: а.6115\nПара №12\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6453\nАудитория: а.6248\nПара №13\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №14\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130-6453-теория-коммуникаций-лабораторн@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:Теория коммуникаций лабораторный практикум · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №6\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · 16
+LOCATION:16
+DESCRIPTION:Группа: 6453\nАудитория: 16\nПара №Онлайн занятие\nПреподавател
+ ь: Пахомов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · 17
+LOCATION:17
+DESCRIPTION:Группа: 6453\nАудитория: 17\nПара №Онлайн занятие\nПреподавател
+ ь: Пахомов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6453\nАудитория: а.6373\nПара №18\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6453\nАудитория: а.6240\nПара №19\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №20\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6453-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6453 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6453\nАудитория: а.6236\nПара №21\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6453-теория-коммуникаций-лабораторн@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Теория коммуникаций Лабораторное занятие · гр. 6453 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6453\nАудитория: а.408\nПара №8\nПреподаватель: Пахомов
+  В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6453-теория-коммуникаций-лабораторн@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Теория коммуникаций Лабораторное занятие · гр. 6453 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6453\nАудитория: а.408\nПара №9\nПреподаватель: Пахомов
+  В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6453-теория-коммуникаций-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №22\nПреподаватель: Пахом
+ ов В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-0930-6453-теория-коммуникаций-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260127T093000
+DTEND;TZID=Europe/Moscow:20260127T111000
+SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6453\nАудитория: а.414\nПара №23\nПреподаватель: Пахомо
+ в В.В.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1130-6451-6452-6453-теория-коммуникаций-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260127T113000
+DTEND;TZID=Europe/Moscow:20260127T131000
+SUMMARY:Теория коммуникаций (лек) · гр. 6451\,6452\, 6453 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.414\nПара №13\nПреподав
+ атель: Пахомов В.В.
+CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

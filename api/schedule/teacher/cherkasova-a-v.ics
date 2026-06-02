@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Черкасова А.В (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Черкасова А.В, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Черкасова А.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Черкасова А.В., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -30,18 +30,6 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-cherkasova-a-v-20250901-0930-иностранный-язык-практичeскоe--651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250901T093000
-DTEND;TZID=Europe/Moscow:20250901T111000
-SUMMARY:Иностранный язык практическое занятие · гр. 6512 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6512\nАудитория: ауд.каф.ин.яз.
-CATEGORIES:Преподавание,6512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-cherkasova-a-v-20250901-1130-иностранный-язык-практичeскоe--651
  1@gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -54,15 +42,17 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-cherkasova-a-v-20250901-1130-иностранный-язык-практичeскоe--651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250901T113000
-DTEND;TZID=Europe/Moscow:20250901T131000
-SUMMARY:Иностранный язык практическое занятие · гр. 6512 · ауд.каф.ин.яз.
+UID:teacher-20250902-1400-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
 LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6512\nАудитория: ауд.каф.ин.яз.
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №1\n
+ Преподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -78,15 +68,17 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-cherkasova-a-v-20250902-1400-иностранный-язык-практичeскоe--651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250902T140000
-DTEND;TZID=Europe/Moscow:20250902T154000
-SUMMARY:Иностранный язык практическое занятие · гр. 6512 · ауд.каф.ин.яз.
+UID:teacher-20250902-1600-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
 LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6512\nАудитория: ауд.каф.ин.яз.
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №2\n
+ Преподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -102,15 +94,17 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-cherkasova-a-v-20250902-1600-иностранный-язык-практичeскоe--651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250902T160000
-DTEND;TZID=Europe/Moscow:20250902T174000
-SUMMARY:Иностранный язык практическое занятие · гр. 6512 · ауд.каф.ин.яз.
+UID:teacher-20250904-0930-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
 LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6512\nАудитория: ауд.каф.ин.яз.
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №1\nПрепода
+ ватель: Черкасова А.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -126,15 +120,17 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-cherkasova-a-v-20250904-0930-иностранный-язык-практичeскоe--651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250904T093000
-DTEND;TZID=Europe/Moscow:20250904T111000
-SUMMARY:Иностранный язык практическое занятие · гр. 6512 · ауд.каф.ин.яз.
+UID:teacher-20250904-1130-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
 LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6512\nАудитория: ауд.каф.ин.яз.
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №2\nПрепода
+ ватель: Черкасова А.В.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -150,15 +146,526 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-cherkasova-a-v-20250904-1130-иностранный-язык-практичeскоe--651
- 2@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250904T113000
-DTEND;TZID=Europe/Moscow:20250904T131000
-SUMMARY:Иностранный язык практическое занятие · гр. 6512 · ауд.каф.ин.яз.
+UID:teacher-20250908-0930-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
 LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6512\nАудитория: ауд.каф.ин.яз.
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №3\nПрепода
+ ватель: Черкасова А.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №4\nПрепода
+ ватель: Черкасова А.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1400-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250908T140000
+DTEND;TZID=Europe/Moscow:20250908T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №3\n
+ Преподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1600-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250908T160000
+DTEND;TZID=Europe/Moscow:20250908T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №4\n
+ Преподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №3\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №4\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №5\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6561-6521-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561\, 6521 · ауд.каф.и
+ н.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: ауд.каф.ин.яз.\nПара №6\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №5\nПрепода
+ ватель: Черкасова А.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6511-6512-иностранный-язык-практическое-@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6511\,6512 · ауд.каф.ин
+ .яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: ауд.каф.ин.яз.\nПара №6\nПрепода
+ ватель: Черкасова А.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1400-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №5\n
+ Преподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1600-6541-6542-6581-иностранный-язык-практическое-@gti
+ fem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541\,6542\, 6581 · ауд
+ .каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: ауд.каф.ин.яз.\nПара №6\n
+ Преподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1400-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №23\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1600-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №24\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностр.языка\nПара №25\nПреподав
+ атель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1600-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260119T160000
+DTEND;TZID=Europe/Moscow:20260119T174000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №26\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-649збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Иностранный язык в профессиональной деятельности (лек) · гр. 649збу
+  · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 649збу\nАудитория: а.6115\nПреподаватель: Черкасова А.В
+ .
+CATEGORIES:Преподавание,649збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-639збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Иностранный язык в профессиональной деятельности (лек) · гр. 639збу
+  · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 639збу\nАудитория: а.6115\nПреподаватель: Черкасова А.В
+ .
+CATEGORIES:Преподавание,639збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-639збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Иностранный язык в профессиональной деятельности (лек) · гр. 639збу
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 639збу\nАудитория: а.411\nПреподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,639збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1600-639збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T160000
+DTEND;TZID=Europe/Moscow:20260209T174000
+SUMMARY:Иностранный язык в профессиональной деятельности (лек) · гр. 639збу
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 639збу\nАудитория: а.411\nПреподаватель: Черкасова А.В.
+CATEGORIES:Преподавание,639збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-659збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Иностранный язык в профессиональной деятельности (пр) · гр. 659збу 
+ · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659збу\nАудитория: а.6115\nПреподаватель: Черкасова А.В
+ .
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-659збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Иностранный язык в профессиональной деятельности (пр) · гр. 659збу 
+ · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 659збу\nАудитория: а.6115\nПреподаватель: Черкасова А.В
+ .
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностр.языка
+LOCATION:а.Каф.иностр.языка
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностр.языка\nПара №29\nПреподав
+ атель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №30\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1400-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №31\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1600-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260323T160000
+DTEND;TZID=Europe/Moscow:20260323T174000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №32\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-639збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Иностранный язык в профессиональной деятельности (пр) · гр. 639збу 
+ · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 639збу\nАудитория: а.6107\nПреподаватель: Черкасова А.В
+ .
+CATEGORIES:Преподавание,639збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1600-639збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:Иностранный язык в профессиональной деятельности · гр. 639збу · а.6
+ 107
+LOCATION:а.6107
+DESCRIPTION:Группа: 639збу\nАудитория: а.6107\nПара №зачет\nПреподаватель: 
+ Черкасова А.В.
+CATEGORIES:Преподавание,639збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №33\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №34\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-0930-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №35\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №36\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-0930-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260513T093000
+DTEND;TZID=Europe/Moscow:20260513T111000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №37\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1130-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №38\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №39\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №40\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-0930-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260602T093000
+DTEND;TZID=Europe/Moscow:20260602T111000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №41\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1130-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260602T113000
+DTEND;TZID=Europe/Moscow:20260602T131000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №42\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260608-0930-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260608T093000
+DTEND;TZID=Europe/Moscow:20260608T111000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №43\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260608-1130-6571-иностранный-язык-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260608T113000
+DTEND;TZID=Europe/Moscow:20260608T131000
+SUMMARY:Иностранный язык (пр) · гр. 6571 · а.Каф.иностранного я
+LOCATION:а.Каф.иностранного я
+DESCRIPTION:Группа: 6571\nАудитория: а.Каф.иностранного я\nПара №44\nПрепод
+ аватель: Черкасова А.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260619-1130-649збу-иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260619T113000
+DTEND;TZID=Europe/Moscow:20260619T131000
+SUMMARY:Иностранный язык в профессиональной деятельности (лек) · гр. 649збу
+  · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 649збу\nАудитория: а.6117\nПреподаватель: Черкасова А.В
+ .
+CATEGORIES:Преподавание,649збу
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

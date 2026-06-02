@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Кузьмина С.А (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Кузьмина С.А, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Кузьмина С.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Кузьмина С.А., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -200,6 +200,20 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250904-1400-6411-6412-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411\,6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\,6412\nАудитория: каф.физ.воспитания\nПара №1\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-kuzmina-s-a-20250904-1400-элeктивныe-курсы-по-физичeской-6411@g
  tifem.ru
 DTSTAMP:20260526T153747Z
@@ -278,6 +292,20 @@ CATEGORIES:Преподавание,6412
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250905-1400-6511-6512-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПара №2\nПреподаватель: 
+ Кузьмина С.А.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-kuzmina-s-a-20250905-1400-элeктивныe-курсы-по-физичeской-6511@g
  tifem.ru
 DTSTAMP:20260526T153747Z
@@ -301,6 +329,188 @@ SUMMARY:Элективные курсы по физической культур
 LOCATION:а.6116
 DESCRIPTION:Группа: 6512\nАудитория: а.6116
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6511-6512-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\,6512\nАудитория: каф.физ.воспитания\nПара №3\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6411-6412-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411\,6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\,6412\nАудитория: каф.физ.воспитания\nПара №2\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6511-6512-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\,6512\nАудитория: каф.физ.воспитания\nПара №4\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6511-6512-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\,6512\nАудитория: каф.физ.воспитания\nПара №5\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6411-6412-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411\,6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\,6412\nАудитория: каф.физ.воспитания\nПара №3\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6311-6312-6511-6512-элективные-курсы-по-физическо
+ й@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6311\,6312\, 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\,6312\, 6511\,6512\nАудитория: каф.физ.воспитания\
+ nПара №1\nПреподаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6311\,6312\, 6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6411-6412-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411\,6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\,6412\nАудитория: каф.физ.воспитания\nПара №4\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-6511-6512-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\,6512\nАудитория: каф.физ.воспитания\nПара №7\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6511-6512-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\,6512\nАудитория: каф.физ.воспитания\nПара №8\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6311-6312-6511-6512-элективные-курсы-по-физическо
+ й@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6311\,6312\, 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\,6312\, 6511\,6512\nАудитория: каф.физ.воспитания\
+ nПара №2\nПреподаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6311\,6312\, 6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6411-6412-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6411\,6412 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6411\,6412\nАудитория: каф.физ.воспитания\nПара №5\nПре
+ подаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6411\,6412
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6511-6512-элективные-курсы-по-физической@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6511\,6512\nАудитория: каф.физ.воспитания\nПара №10\nПр
+ еподаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6311-6312-6511-6512-элективные-курсы-по-физическо
+ й@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6311\,6312\, 6511\,6512 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6311\,6312\, 6511\,6512\nАудитория: каф.физ.воспитания\
+ nПара №3\nПреподаватель: Кузьмина С.А.
+CATEGORIES:Преподавание,6311\,6312\, 6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

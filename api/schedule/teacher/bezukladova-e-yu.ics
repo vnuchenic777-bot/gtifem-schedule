@@ -21,7 +21,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250902-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250902T140000
 DTEND;TZID=Europe/Moscow:20250902T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -35,7 +35,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250904T093000
 DTEND;TZID=Europe/Moscow:20250904T111000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -73,7 +73,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
 DTEND;TZID=Europe/Moscow:20250904T131000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -113,7 +113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -127,7 +127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -165,7 +165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -205,7 +205,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250908-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250908T093000
 DTEND;TZID=Europe/Moscow:20250908T111000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250908-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250908T113000
 DTEND;TZID=Europe/Moscow:20250908T131000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -283,7 +283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250909-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250909T140000
 DTEND;TZID=Europe/Moscow:20250909T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -297,7 +297,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -335,7 +335,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250911T160000
 DTEND;TZID=Europe/Moscow:20250911T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -375,7 +375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250912T140000
 DTEND;TZID=Europe/Moscow:20250912T154000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -415,7 +415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250912T160000
 DTEND;TZID=Europe/Moscow:20250912T174000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -455,7 +455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -495,7 +495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250915T160000
 DTEND;TZID=Europe/Moscow:20250915T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -533,7 +533,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250918T093000
 DTEND;TZID=Europe/Moscow:20250918T111000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -573,7 +573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250918T113000
 DTEND;TZID=Europe/Moscow:20250918T131000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -613,7 +613,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250918T140000
 DTEND;TZID=Europe/Moscow:20250918T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -627,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250922T093000
 DTEND;TZID=Europe/Moscow:20250922T111000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -667,7 +667,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250922T113000
 DTEND;TZID=Europe/Moscow:20250922T131000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -705,7 +705,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -719,7 +719,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250923-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250923T140000
 DTEND;TZID=Europe/Moscow:20250923T154000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -759,7 +759,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250923-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250923T160000
 DTEND;TZID=Europe/Moscow:20250923T174000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -799,7 +799,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1130-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -813,7 +813,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250929T093000
 DTEND;TZID=Europe/Moscow:20250929T111000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -853,7 +853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250929T113000
 DTEND;TZID=Europe/Moscow:20250929T131000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6249
@@ -890,7 +890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1600-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250929T160000
 DTEND;TZID=Europe/Moscow:20250929T174000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -904,7 +904,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250930-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250930T140000
 DTEND;TZID=Europe/Moscow:20250930T154000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6245
@@ -941,7 +941,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250930-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20250930T160000
 DTEND;TZID=Europe/Moscow:20250930T174000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6245
@@ -978,7 +978,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251001T180000
 DTEND;TZID=Europe/Moscow:20251001T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -992,7 +992,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251001T200000
 DTEND;TZID=Europe/Moscow:20251001T204500
 SUMMARY:Контроллинг и антикризисное управление\, практ · гр. 616вэ1-8\,616в
@@ -1006,7 +1006,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6236
@@ -1043,7 +1043,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -1083,7 +1083,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251006T093000
 DTEND;TZID=Europe/Moscow:20251006T111000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -1123,7 +1123,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6378
@@ -1160,7 +1160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251007-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251007T140000
 DTEND;TZID=Europe/Moscow:20251007T154000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6240
@@ -1197,7 +1197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251007-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251007T160000
 DTEND;TZID=Europe/Moscow:20251007T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -1235,7 +1235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251008-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251008T180000
 DTEND;TZID=Europe/Moscow:20251008T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -1249,7 +1249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251008-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251008T200000
 DTEND;TZID=Europe/Moscow:20251008T204500
 SUMMARY:Контроллинг и антикризисное управление\, практ · гр. 616вэ1-8\,616в
@@ -1263,7 +1263,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251009T140000
 DTEND;TZID=Europe/Moscow:20251009T154000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -1303,7 +1303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251009T160000
 DTEND;TZID=Europe/Moscow:20251009T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -1343,7 +1343,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251014T140000
 DTEND;TZID=Europe/Moscow:20251014T154000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -1383,7 +1383,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251014T160000
 DTEND;TZID=Europe/Moscow:20251014T174000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6378
@@ -1420,7 +1420,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251015-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251015T180000
 DTEND;TZID=Europe/Moscow:20251015T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -1434,7 +1434,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251015-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251015T200000
 DTEND;TZID=Europe/Moscow:20251015T204500
 SUMMARY:Контроллинг и антикризисное управление\, практ · гр. 616вэ1-8\,616в
@@ -1448,7 +1448,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251016T140000
 DTEND;TZID=Europe/Moscow:20251016T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -1486,7 +1486,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251016T160000
 DTEND;TZID=Europe/Moscow:20251016T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -1526,7 +1526,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251017T140000
 DTEND;TZID=Europe/Moscow:20251017T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -1564,7 +1564,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251017T160000
 DTEND;TZID=Europe/Moscow:20251017T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -1604,7 +1604,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251021-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251021T140000
 DTEND;TZID=Europe/Moscow:20251021T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -1642,7 +1642,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251021-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251021T160000
 DTEND;TZID=Europe/Moscow:20251021T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -1682,7 +1682,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251022T180000
 DTEND;TZID=Europe/Moscow:20251022T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -1696,7 +1696,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251022T200000
 DTEND;TZID=Europe/Moscow:20251022T204500
 SUMMARY:Контроллинг и антикризисное управление\, практ · гр. 616вэ1-8\,616в
@@ -1710,7 +1710,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251023T140000
 DTEND;TZID=Europe/Moscow:20251023T154000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -1750,7 +1750,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251023T160000
 DTEND;TZID=Europe/Moscow:20251023T174000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -1790,7 +1790,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251024T140000
 DTEND;TZID=Europe/Moscow:20251024T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -1828,7 +1828,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251024T160000
 DTEND;TZID=Europe/Moscow:20251024T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -1866,7 +1866,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251028-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251028T140000
 DTEND;TZID=Europe/Moscow:20251028T154000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -1906,7 +1906,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251028-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251028T160000
 DTEND;TZID=Europe/Moscow:20251028T174000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6378
@@ -1943,7 +1943,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251029-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251029T180000
 DTEND;TZID=Europe/Moscow:20251029T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -1957,7 +1957,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251029-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251029T200000
 DTEND;TZID=Europe/Moscow:20251029T204500
 SUMMARY:Контроллинг и антикризисное управление\, практ · гр. 616вэ1-8\,616в
@@ -1971,7 +1971,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251030-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251030T140000
 DTEND;TZID=Europe/Moscow:20251030T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2009,7 +2009,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251030-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251030T160000
 DTEND;TZID=Europe/Moscow:20251030T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2047,7 +2047,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251105T180000
 DTEND;TZID=Europe/Moscow:20251105T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -2061,7 +2061,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251105T200000
 DTEND;TZID=Europe/Moscow:20251105T204500
 SUMMARY:Контроллинг и антикризисное управление\, КР · гр. 616вэ1-8\,616вэ9-
@@ -2075,7 +2075,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -2115,7 +2115,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251106T160000
 DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2153,7 +2153,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251111T140000
 DTEND;TZID=Europe/Moscow:20251111T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2191,7 +2191,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251111T160000
 DTEND;TZID=Europe/Moscow:20251111T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2229,7 +2229,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251112T180000
 DTEND;TZID=Europe/Moscow:20251112T184500
 SUMMARY:Контроллинг и антикризисное управление\, лаб · гр. 616вэ1-8\,616вэ9
@@ -2243,7 +2243,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251112T200000
 DTEND;TZID=Europe/Moscow:20251112T204500
 SUMMARY:Контроллинг и антикризисное управление\, КР · гр. 616вэ1-8\,616вэ9-
@@ -2257,7 +2257,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251113-1130-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251113T113000
 DTEND;TZID=Europe/Moscow:20251113T131000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6221\, 6281
@@ -2271,7 +2271,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251113-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251113T140000
 DTEND;TZID=Europe/Moscow:20251113T154000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -2311,7 +2311,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251113-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251113T160000
 DTEND;TZID=Europe/Moscow:20251113T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2349,7 +2349,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251118-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251118T140000
 DTEND;TZID=Europe/Moscow:20251118T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2387,7 +2387,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251118-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251118T160000
 DTEND;TZID=Europe/Moscow:20251118T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -2427,7 +2427,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251119T180000
 DTEND;TZID=Europe/Moscow:20251119T184500
 SUMMARY:Контроллинг и антикризисное управление\, лаб · гр. 616вэ1-8\,616вэ9
@@ -2441,7 +2441,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251119T200000
 DTEND;TZID=Europe/Moscow:20251119T204500
 SUMMARY:Контроллинг и антикризисное управление\, КР · гр. 616вэ1-8\,616вэ9-
@@ -2455,7 +2455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251120T140000
 DTEND;TZID=Europe/Moscow:20251120T154000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -2495,7 +2495,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251120-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251120T160000
 DTEND;TZID=Europe/Moscow:20251120T174000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -2535,7 +2535,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251125-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251125T140000
 DTEND;TZID=Europe/Moscow:20251125T154000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -2575,7 +2575,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251125-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251125T160000
 DTEND;TZID=Europe/Moscow:20251125T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2613,7 +2613,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251126T180000
 DTEND;TZID=Europe/Moscow:20251126T184500
 SUMMARY:Контроллинг и антикризисное управление\, лаб · гр. 616вэ1-8\,616вэ9
@@ -2627,7 +2627,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251126T200000
 DTEND;TZID=Europe/Moscow:20251126T204500
 SUMMARY:Контроллинг и антикризисное управление\, КР · гр. 616вэ1-8\,616вэ9-
@@ -2641,7 +2641,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1130-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251127T113000
 DTEND;TZID=Europe/Moscow:20251127T131000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6221\, 6281
@@ -2655,7 +2655,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251127T140000
 DTEND;TZID=Europe/Moscow:20251127T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2693,7 +2693,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251127T160000
 DTEND;TZID=Europe/Moscow:20251127T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -2733,7 +2733,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251202T093000
 DTEND;TZID=Europe/Moscow:20251202T111000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -2771,7 +2771,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251202T113000
 DTEND;TZID=Europe/Moscow:20251202T131000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -2811,7 +2811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251202T140000
 DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -2825,7 +2825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251203T180000
 DTEND;TZID=Europe/Moscow:20251203T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -2839,7 +2839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251203T200000
 DTEND;TZID=Europe/Moscow:20251203T204500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -2853,7 +2853,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251204T113000
 DTEND;TZID=Europe/Moscow:20251204T131000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6242
@@ -2890,7 +2890,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -2930,7 +2930,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:Контроллинг и антикризисное управление лабораторный практикум · гр.
@@ -2970,7 +2970,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251208-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251208T140000
 DTEND;TZID=Europe/Moscow:20251208T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -2984,7 +2984,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251209T140000
 DTEND;TZID=Europe/Moscow:20251209T154000
 SUMMARY:Контроллинг и антикризисное управление КР · гр. 6211\,6212 · а.6378
@@ -3021,7 +3021,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251209T160000
 DTEND;TZID=Europe/Moscow:20251209T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3059,7 +3059,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251210-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251210T180000
 DTEND;TZID=Europe/Moscow:20251210T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -3073,7 +3073,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251210-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251210T200000
 DTEND;TZID=Europe/Moscow:20251210T204500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -3087,7 +3087,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251212T093000
 DTEND;TZID=Europe/Moscow:20251212T111000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3125,7 +3125,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251212T113000
 DTEND;TZID=Europe/Moscow:20251212T131000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -3165,7 +3165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251215-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251215T140000
 DTEND;TZID=Europe/Moscow:20251215T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -3179,7 +3179,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251216T140000
 DTEND;TZID=Europe/Moscow:20251216T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3217,7 +3217,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251216T160000
 DTEND;TZID=Europe/Moscow:20251216T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3255,7 +3255,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251217-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251217T180000
 DTEND;TZID=Europe/Moscow:20251217T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -3269,7 +3269,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251217-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251217T200000
 DTEND;TZID=Europe/Moscow:20251217T204500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -3283,7 +3283,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251219T093000
 DTEND;TZID=Europe/Moscow:20251219T111000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3321,7 +3321,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251219T113000
 DTEND;TZID=Europe/Moscow:20251219T131000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -3361,7 +3361,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251222-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251222T140000
 DTEND;TZID=Europe/Moscow:20251222T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3375,7 +3375,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251222-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251222T160000
 DTEND;TZID=Europe/Moscow:20251222T174000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -3415,7 +3415,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251223-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251223T140000
 DTEND;TZID=Europe/Moscow:20251223T154000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3453,7 +3453,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251223-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251223T160000
 DTEND;TZID=Europe/Moscow:20251223T174000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3491,7 +3491,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251224-1800-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251224T180000
 DTEND;TZID=Europe/Moscow:20251224T184500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -3505,7 +3505,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251224-2000-616вэ1-8-616вэ9-16-616вэ17-24-616вэ25-29-контролл
  инг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251224T200000
 DTEND;TZID=Europe/Moscow:20251224T204500
 SUMMARY:Контроллинг и антикризисное управление\, лек · гр. 616вэ1-8\,616вэ9
@@ -3519,7 +3519,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251225-1130-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251225T113000
 DTEND;TZID=Europe/Moscow:20251225T131000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -3533,7 +3533,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251226T093000
 DTEND;TZID=Europe/Moscow:20251226T111000
 SUMMARY:Контроллинг и антикризисное управление практическое занятие · гр. 6
@@ -3573,7 +3573,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251226T113000
 DTEND;TZID=Europe/Moscow:20251226T131000
 SUMMARY:Контроллинг и антикризисное управление лекция · гр. 6211\,6212 · а.
@@ -3611,7 +3611,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251229-1400-6281-6221-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20251229T140000
 DTEND;TZID=Europe/Moscow:20251229T154000
 SUMMARY:Управленческий учет и управление затратами Лекция · гр. 6281\, 6221
@@ -3625,7 +3625,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260112-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260112T093000
 DTEND;TZID=Europe/Moscow:20260112T111000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.62
@@ -3663,7 +3663,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260112-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260112T113000
 DTEND;TZID=Europe/Moscow:20260112T131000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -3701,7 +3701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260113-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -3739,7 +3739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260113-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260113T160000
 DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211\,62
@@ -3779,7 +3779,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1600-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260114T160000
 DTEND;TZID=Europe/Moscow:20260114T174000
 SUMMARY:Управленческий учет и управление затратами (лек) · гр. 6221\, 6281 
@@ -3793,7 +3793,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260114T180000
 DTEND;TZID=Europe/Moscow:20260114T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -3807,7 +3807,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260114T200000
 DTEND;TZID=Europe/Moscow:20260114T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -3821,7 +3821,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-0930-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260119T093000
 DTEND;TZID=Europe/Moscow:20260119T111000
 SUMMARY:Управленческий учет и управление затратами (лек) · гр. 6221\, 6281 
@@ -3835,7 +3835,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260119T113000
 DTEND;TZID=Europe/Moscow:20260119T131000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -3873,7 +3873,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260119T140000
 DTEND;TZID=Europe/Moscow:20260119T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.61
@@ -3911,7 +3911,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260120T140000
 DTEND;TZID=Europe/Moscow:20260120T154000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -3949,7 +3949,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260121T180000
 DTEND;TZID=Europe/Moscow:20260121T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -3963,7 +3963,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260121T200000
 DTEND;TZID=Europe/Moscow:20260121T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -3977,7 +3977,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260123T113000
 DTEND;TZID=Europe/Moscow:20260123T131000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -4015,7 +4015,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211\,62
@@ -4055,7 +4055,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260126T093000
 DTEND;TZID=Europe/Moscow:20260126T111000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4093,7 +4093,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260126T113000
 DTEND;TZID=Europe/Moscow:20260126T131000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -4131,7 +4131,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-1400-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260126T140000
 DTEND;TZID=Europe/Moscow:20260126T154000
 SUMMARY:Управленческий учет и управление затратами (лек) · гр. 6221\, 6281 
@@ -4145,7 +4145,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260127-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260127T140000
 DTEND;TZID=Europe/Moscow:20260127T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -4183,7 +4183,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260127-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260127T160000
 DTEND;TZID=Europe/Moscow:20260127T174000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -4221,7 +4221,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260128T180000
 DTEND;TZID=Europe/Moscow:20260128T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4235,7 +4235,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260128T200000
 DTEND;TZID=Europe/Moscow:20260128T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4249,7 +4249,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260130T093000
 DTEND;TZID=Europe/Moscow:20260130T111000
 SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211\,62
@@ -4289,7 +4289,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-1130-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260130T113000
 DTEND;TZID=Europe/Moscow:20260130T131000
 SUMMARY:Управленческий учет и управление затратами (лек) · гр. 6221\, 6281 
@@ -4303,7 +4303,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260202T093000
 DTEND;TZID=Europe/Moscow:20260202T111000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.62
@@ -4341,7 +4341,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260202T113000
 DTEND;TZID=Europe/Moscow:20260202T131000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.62
@@ -4379,7 +4379,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260203T113000
 DTEND;TZID=Europe/Moscow:20260203T131000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4417,7 +4417,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260203T140000
 DTEND;TZID=Europe/Moscow:20260203T154000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4455,7 +4455,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260204T180000
 DTEND;TZID=Europe/Moscow:20260204T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4469,7 +4469,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260204T200000
 DTEND;TZID=Europe/Moscow:20260204T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4483,7 +4483,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260206-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -4521,7 +4521,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260206-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260206T160000
 DTEND;TZID=Europe/Moscow:20260206T174000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -4559,7 +4559,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260209-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260209T093000
 DTEND;TZID=Europe/Moscow:20260209T111000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4597,7 +4597,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260209-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260209T113000
 DTEND;TZID=Europe/Moscow:20260209T131000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4635,7 +4635,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260209-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260209T140000
 DTEND;TZID=Europe/Moscow:20260209T154000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4673,7 +4673,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260211-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260211T180000
 DTEND;TZID=Europe/Moscow:20260211T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4687,7 +4687,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260211-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260211T200000
 DTEND;TZID=Europe/Moscow:20260211T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4701,7 +4701,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260213T093000
 DTEND;TZID=Europe/Moscow:20260213T111000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -4739,7 +4739,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260213T113000
 DTEND;TZID=Europe/Moscow:20260213T131000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -4777,7 +4777,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260216T093000
 DTEND;TZID=Europe/Moscow:20260216T111000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4815,7 +4815,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-1130-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260216T113000
 DTEND;TZID=Europe/Moscow:20260216T131000
 SUMMARY:Управленческий учет и управление затратами (лек) · гр. 6221\, 6281 
@@ -4829,7 +4829,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-1400-6221-6281-управленческий-учет-и-управлен@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260216T140000
 DTEND;TZID=Europe/Moscow:20260216T154000
 SUMMARY:Управленческий учет и управление затратами (лек) ТЕСТ · гр. 6221\, 
@@ -4843,7 +4843,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260217T140000
 DTEND;TZID=Europe/Moscow:20260217T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -4881,7 +4881,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260217T160000
 DTEND;TZID=Europe/Moscow:20260217T174000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -4919,7 +4919,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260218-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260218T180000
 DTEND;TZID=Europe/Moscow:20260218T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4933,7 +4933,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260218-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260218T200000
 DTEND;TZID=Europe/Moscow:20260218T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -4947,7 +4947,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260220T093000
 DTEND;TZID=Europe/Moscow:20260220T111000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -4985,7 +4985,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260220T113000
 DTEND;TZID=Europe/Moscow:20260220T131000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -5023,7 +5023,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260224T113000
 DTEND;TZID=Europe/Moscow:20260224T131000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -5061,7 +5061,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260224T140000
 DTEND;TZID=Europe/Moscow:20260224T154000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -5099,7 +5099,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260225T180000
 DTEND;TZID=Europe/Moscow:20260225T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -5113,7 +5113,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260225T200000
 DTEND;TZID=Europe/Moscow:20260225T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -5127,7 +5127,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260227-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260227T093000
 DTEND;TZID=Europe/Moscow:20260227T111000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -5165,7 +5165,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260227-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260227T113000
 DTEND;TZID=Europe/Moscow:20260227T131000
 SUMMARY:Контроллинг и антикризисное управление (лаб) · гр. 6211\,6212 · а.6
@@ -5203,7 +5203,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260227-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260227T140000
 DTEND;TZID=Europe/Moscow:20260227T154000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -5241,7 +5241,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260302-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260302T093000
 DTEND;TZID=Europe/Moscow:20260302T111000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.62
@@ -5279,7 +5279,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260302-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260302T113000
 DTEND;TZID=Europe/Moscow:20260302T131000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 6211\,6212 · а.6
@@ -5317,7 +5317,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260303-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260303T113000
 DTEND;TZID=Europe/Moscow:20260303T131000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -5355,7 +5355,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260303-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260303T140000
 DTEND;TZID=Europe/Moscow:20260303T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -5393,7 +5393,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260304-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260304T180000
 DTEND;TZID=Europe/Moscow:20260304T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -5407,7 +5407,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260304-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260304T200000
 DTEND;TZID=Europe/Moscow:20260304T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -5421,7 +5421,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260310-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260310T113000
 DTEND;TZID=Europe/Moscow:20260310T131000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.63
@@ -5459,7 +5459,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260310-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260310T140000
 DTEND;TZID=Europe/Moscow:20260310T154000
 SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211\,62
@@ -5499,7 +5499,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260311-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260311T180000
 DTEND;TZID=Europe/Moscow:20260311T194000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -5513,7 +5513,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260311-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260311T200000
 DTEND;TZID=Europe/Moscow:20260311T214000
 SUMMARY:Контроллинг и антикризисное управление (лек) · гр. 616вэ1-29 · а.63
@@ -5527,7 +5527,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1400-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260313T140000
 DTEND;TZID=Europe/Moscow:20260313T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.62
@@ -5565,7 +5565,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1600-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260313T160000
 DTEND;TZID=Europe/Moscow:20260313T174000
 SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211\,62
@@ -5605,7 +5605,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260316T093000
 DTEND;TZID=Europe/Moscow:20260316T111000
 SUMMARY:Контроллинг и антикризисное управление (Курс.работа) · гр. 6211\,62
@@ -5645,7 +5645,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1130-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260316T113000
 DTEND;TZID=Europe/Moscow:20260316T131000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 6211\,6212 · а.61
@@ -5682,7 +5682,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1400-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260316T140000
 DTEND;TZID=Europe/Moscow:20260316T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6248
@@ -5694,7 +5694,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1600-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260316T160000
 DTEND;TZID=Europe/Moscow:20260316T174000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6248
@@ -5706,7 +5706,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1400-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260318T140000
 DTEND;TZID=Europe/Moscow:20260318T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6373
@@ -5718,7 +5718,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1600-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260318T160000
 DTEND;TZID=Europe/Moscow:20260318T174000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6373
@@ -5731,7 +5731,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260318T180000
 DTEND;TZID=Europe/Moscow:20260318T194000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.61
@@ -5745,7 +5745,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260318T200000
 DTEND;TZID=Europe/Moscow:20260318T214000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.61
@@ -5759,7 +5759,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260323-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260323T180000
 DTEND;TZID=Europe/Moscow:20260323T194000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.63
@@ -5773,7 +5773,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260323-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260323T200000
 DTEND;TZID=Europe/Moscow:20260323T214000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.63
@@ -5786,7 +5786,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1400-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260325T140000
 DTEND;TZID=Europe/Moscow:20260325T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6378
@@ -5798,7 +5798,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1600-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260325T160000
 DTEND;TZID=Europe/Moscow:20260325T174000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6378
@@ -5811,7 +5811,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260325T180000
 DTEND;TZID=Europe/Moscow:20260325T194000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.63
@@ -5825,7 +5825,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260325T200000
 DTEND;TZID=Europe/Moscow:20260325T214000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.63
@@ -5839,7 +5839,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260327-0930-6211-6212-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260327T093000
 DTEND;TZID=Europe/Moscow:20260327T111000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 6211\,6212 · а.6
@@ -5876,7 +5876,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260327-1130-6281-управленческий-учет-и-управлен@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260327T113000
 DTEND;TZID=Europe/Moscow:20260327T131000
 SUMMARY:Управленческий учет и управление затратами (экз) · гр. 6281 · а.624
@@ -5889,7 +5889,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260327-1400-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260327T140000
 DTEND;TZID=Europe/Moscow:20260327T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6373
@@ -5901,7 +5901,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260327-1600-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260327T160000
 DTEND;TZID=Europe/Moscow:20260327T174000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6373
@@ -5913,7 +5913,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1130-6221-управленческий-учет-и-управлен@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260330T113000
 DTEND;TZID=Europe/Moscow:20260330T131000
 SUMMARY:Управленческий учет и управление затратами (экз) · гр. 6221 · а.637
@@ -5926,7 +5926,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1400-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260330T140000
 DTEND;TZID=Europe/Moscow:20260330T154000
 SUMMARY:Контроллинг и антикризисное управление (пр) · гр. 616зэ · а.6376
@@ -5938,7 +5938,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1600-616зэ-контроллинг-и-антикризисное-уп@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260330T160000
 DTEND;TZID=Europe/Moscow:20260330T174000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616зэ · а.6376
@@ -5951,7 +5951,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260401T180000
 DTEND;TZID=Europe/Moscow:20260401T194000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.63
@@ -5965,7 +5965,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102634Z
 DTSTART;TZID=Europe/Moscow:20260401T200000
 DTEND;TZID=Europe/Moscow:20260401T214000
 SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.63

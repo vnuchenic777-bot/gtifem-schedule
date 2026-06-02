@@ -1,10 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Спиридонов Я.В (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Спиридонов Я.В, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Спиридонов Я.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Спиридонов Я.В., ФЭМ СПбГТИ (ТУ
+ )
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -17,6 +18,20 @@ TZNAME:MSK
 DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250903-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6541
+ \,6542\, 6581 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6107\nПара №1\nПреподав
+ атель: Спиридонов Я.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
 BEGIN:VEVENT
 UID:teacher-spiridonov-ya-v-20250903-1600-основы-российской-государствeн-65
  11@gtifem.ru
@@ -31,16 +46,112 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-spiridonov-ya-v-20250903-1600-основы-российской-государствeн-65
- 12@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20250903T160000
-DTEND;TZID=Europe/Moscow:20250903T174000
-SUMMARY:Основы российской государственности практическое занятие · гр. 6512
-  · а.6107
+UID:teacher-20250909-1130-6551-6552-6553-6554-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
+ ,6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПара №3\nПре
+ подаватель: Спиридонов Я.В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6571
+  · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №3\nПреподаватель: Спиридо
+ нов Я.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6541
+ \,6542\, 6581 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.405\nПара №4\nПреподава
+ тель: Спиридонов Я.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6531-6532-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6531
+ \,6532 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПара №4\nПреподаватель: С
+ пиридонов Я.В.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1600-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T160000
+DTEND;TZID=Europe/Moscow:20250917T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6512\nАудитория: а.6107
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №4\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Основы российской государственности лекция · гр. 6571 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №4\nПреподаватель: Спиридо
+ нов Я.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581 
+ · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №5\nПреподава
+ тель: Спиридонов Я.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1130-6541-6542-6581-основы-российской-государствен@gti
+ fem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6541
+ \,6542\, 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №7\nПреподава
+ тель: Спиридонов Я.В.
+CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -57,19 +168,6 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-spiridonov-ya-v-20251001-1130-основы-российской-государствeн-65
- 12@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251001T113000
-DTEND;TZID=Europe/Moscow:20251001T131000
-SUMMARY:Основы российской государственности практическое занятие · гр. 6512
-  · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6512\nАудитория: а.414
-CATEGORIES:Преподавание,6512
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-spiridonov-ya-v-20251007-1130-основы-российской-государствeн-65
  11@gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -82,15 +180,167 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-spiridonov-ya-v-20251007-1130-основы-российской-государствeн-65
- 12@gtifem.ru
-DTSTAMP:20260526T153747Z
-DTSTART;TZID=Europe/Moscow:20251007T113000
-DTEND;TZID=Europe/Moscow:20251007T131000
-SUMMARY:Основы российской государственности лекция · гр. 6512 · а.409
+UID:teacher-20251008-1130-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №10\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1400-6551-6552-6553-6554-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
+ ,6554 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.414\nПара №6\nПре
+ подаватель: Спиридонов Я.В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1600-6551-6552-6553-6554-основы-российской-государстве
+ н@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
+ ,6554 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.414\nПара №7\nПре
+ подаватель: Спиридонов Я.В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №12\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6511
+ \,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №11\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6571-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Основы российской государственности лекция · гр. 6571 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6571\nАудитория: а.403\nПара №8\nПреподаватель: Спиридо
+ нов Я.В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6511-6512-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Основы российской государственности лекция · гр. 6511\,6512 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6512\nАудитория: а.409
-CATEGORIES:Преподавание,6512
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.409\nПара №8\nПреподаватель: С
+ пиридонов Я.В.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6531-6532-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6531
+ \,6532 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №13\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6531-6532-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Основы российской государственности лекция · гр. 6531\,6532 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №8\nПреподаватель: С
+ пиридонов Я.В.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1130-6551-6552-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6551
+ \,6552 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.403\nПара №17\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6533-6534-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6533
+ \,6534 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.403\nПара №16\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6533-6534-основы-российской-государствен@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6533
+ \,6534 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.406\nПара №18\nПреподаватель: 
+ Спиридонов Я.В.
+CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

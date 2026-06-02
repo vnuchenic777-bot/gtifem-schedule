@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Крылова И.Ю (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Крылова И.Ю, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Крылова И.Ю. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Крылова И.Ю., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -112,6 +112,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250902-0930-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №2\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20250902-0930-экономика-лeкция-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20250902T093000
@@ -179,6 +191,19 @@ SUMMARY:Экономическая теория Лекция · гр. 6591 · а
 LOCATION:а.6376
 DESCRIPTION:Группа: 6591\nАудитория: а.6376
 CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1130-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №2\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -278,6 +303,18 @@ CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-0930-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №1\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20250903-0930-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -310,6 +347,18 @@ DTEND;TZID=Europe/Moscow:20250903T111000
 SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6591\nАудитория: а.6242
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1130-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6591\nАудитория: а.6242\nПара №2\nПреподаватель: Крылов
+ а И.Ю.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -514,6 +563,281 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250909-0930-6591-экономическая-теория-практичес@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Экономическая теория Практическое занятие · гр. 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №1\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6591-экономическая-теория-лаборатор@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Экономическая теория Лабораторное занятие · гр. 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №1\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-0930-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №3\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №3\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №4\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №5\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-0930-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №1\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №2\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №4\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.414\nПара №6\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6591-экономическая-теория-практичес@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Экономическая теория Практическое занятие · гр. 6591 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6591\nАудитория: а.6107\nПара №2\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №4\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6591-экономическая-теория-практичес@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Экономическая теория Практическое занятие · гр. 6591 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6591\nАудитория: а.6376\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-0930-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №7\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №3\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6376\nПара №4\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6376\nПара №8\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 6245\nПара №9\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 6245\nПара №5\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6591\nАудитория: а.101\nПара №5\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6591-экономическая-теория-лаборатор@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Экономическая теория Лабораторное занятие · гр. 6591 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6591\nАудитория: а.101\nПара №2\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251001-0930-экономичeская-тeория-лeкция-6591@gti
  fem.ru
 DTSTAMP:20260526T153747Z
@@ -652,6 +976,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251002-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №10\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251002-1400-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -685,6 +1022,18 @@ SUMMARY:Экономическая теория Лабораторное зан�
 LOCATION:а.408
 DESCRIPTION:Группа: 6591\nАудитория: а.408
 CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №6\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -818,6 +1167,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251006-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №11\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251006-1400-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -876,6 +1238,19 @@ CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251006-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №12\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251006-1600-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -912,6 +1287,20 @@ CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251006-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T180000
+DTEND;TZID=Europe/Moscow:20251006T184500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6235\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251007-1130-экономичeская-тeория-лeкция-6591@gti
  fem.ru
 DTSTAMP:20260526T153747Z
@@ -921,6 +1310,19 @@ SUMMARY:Экономическая теория Лекция · гр. 6591 · а
 LOCATION:а. 6373
 DESCRIPTION:Группа: 6591\nАудитория: а. 6373
 CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №13\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -960,6 +1362,18 @@ CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251007-1600-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №7\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251007-1600-экономика-лeкция-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20251007T160000
@@ -982,6 +1396,555 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251009-0930-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №8\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №14\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №15\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №16\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1400-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №6\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1600-6591-экономическая-теория-практичес@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Экономическая теория Практическое занятие · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №4\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T180000
+DTEND;TZID=Europe/Moscow:20251013T184500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6235\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T200000
+DTEND;TZID=Europe/Moscow:20251013T204500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6235\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №5\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №6\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1400-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №9\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T160000
+DTEND;TZID=Europe/Moscow:20251020T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №17\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T180000
+DTEND;TZID=Europe/Moscow:20251020T184500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6235\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T200000
+DTEND;TZID=Europe/Moscow:20251020T204500
+SUMMARY:Управленческий учет и управление затратами\, практ · гр. 619вф\, 61
+ 9вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6235\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6591\nАудитория: а. 6373\nПара №7\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6591-экономическая-теория-практичес@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Экономическая теория Практическое занятие · гр. 6591 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6591\nАудитория: а. 6373\nПара №5\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №10\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №1\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251022T160000
+DTEND;TZID=Europe/Moscow:20251022T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №1\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Управление инновационными рисками лекция · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №1\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Управление инновационными рисками лекция · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №2\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6591-экономическая-теория-лаборатор@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Экономическая теория Лабораторное занятие · гр. 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №3\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6591\nАудитория: а.408\nПара №8\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПара №2\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Управление инновационными рисками лекция · гр. 6401 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6401\nАудитория: а.6381\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6401\nАудитория: а.6245\nПара №1\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №18\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №19\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T180000
+DTEND;TZID=Europe/Moscow:20251027T184500
+SUMMARY:Управленческий учет и управление затратами\, лаб · гр. 619вф\, 619в
+ м · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6235\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T200000
+DTEND;TZID=Europe/Moscow:20251027T204500
+SUMMARY:Управленческий учет и управление затратами\, практ · гр. 619вф\, 61
+ 9вм · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6235\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №2\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №4\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №9\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6591-экономическая-теория-практичес@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Экономическая теория Практическое занятие · гр. 6591 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6591\nАудитория: а.405\nПара №6\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №11\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №20\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 408
+LOCATION:а. 408
+DESCRIPTION:Группа: 6401\nАудитория: а. 408\nПара №5\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 406
+LOCATION:а. 406
+DESCRIPTION:Группа: 6401\nАудитория: а. 406\nПара №6\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №21\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Управление инновационными рисками лекция · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №4\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 6401\nАудитория: а. 6242\nПара №2\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251101-0930-экономика-лeкция-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20251101T093000
@@ -1001,6 +1964,19 @@ SUMMARY:Экономика лекция · гр. 6512 · а.6373
 LOCATION:а.6373
 DESCRIPTION:Группа: 6512\nАудитория: а.6373
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Управление инновационными рисками практическое занятие ИНДИГО · гр.
+  6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №4\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1028,6 +2004,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251101-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №7\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251101-1400-экономика-курсовая-работа-6511@gtife
  m.ru
 DTSTAMP:20260526T153747Z
@@ -1049,6 +2038,19 @@ SUMMARY:Экономика Курсовая работа · гр. 6512 · а.624
 LOCATION:а.6245
 DESCRIPTION:Группа: 6512\nАудитория: а.6245
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №1\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1286,6 +2288,71 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251105-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №2\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие ИНДИГО · гр. 6401 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №8\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T180000
+DTEND;TZID=Europe/Moscow:20251105T184500
+SUMMARY:Управленческий учет и управление затратами\, лаб · гр. 619вф\, 619в
+ м · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T200000
+DTEND;TZID=Europe/Moscow:20251105T204500
+SUMMARY:Управленческий учет и управление затратами\, практ · гр. 619вф\, 61
+ 9вм · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-630змм-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Управление инновационными рисками · гр. 630змм · 6112
+LOCATION:6112
+DESCRIPTION:Группа: 630змм\nАудитория: 6112\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,630змм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251106-1400-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -1307,6 +2374,17 @@ SUMMARY:Экономика практическое занятие · гр. 6512
 LOCATION:а.6115
 DESCRIPTION:Группа: 6512\nАудитория: а.6115
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-630змм-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Управление инновационными рисками · гр. 630змм · 6112
+LOCATION:6112
+DESCRIPTION:Группа: 630змм\nАудитория: 6112\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,630змм
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1334,6 +2412,714 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251107-1400-630змм-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Управление инновационными рисками · гр. 630змм · 6112
+LOCATION:6112
+DESCRIPTION:Группа: 630змм\nАудитория: 6112\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,630змм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-630змм-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Управление инновационными рисками · гр. 630змм · 6112
+LOCATION:6112
+DESCRIPTION:Группа: 630змм\nАудитория: 6112\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,630змм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №4\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №22\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №12\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T093000
+DTEND;TZID=Europe/Moscow:20251111T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №9\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №10\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6248\nПара №23\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1600-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПара №7\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 6401\nАудитория: а. 6249\nПара №11\nПреподаватель: Крыл
+ ова И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 6401\nАудитория: а. 6249\nПара №12\nПреподаватель: Крыл
+ ова И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T180000
+DTEND;TZID=Europe/Moscow:20251112T184500
+SUMMARY:Управленческий учет и управление затратами\, лаб · гр. 619вф\, 619в
+ м · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T200000
+DTEND;TZID=Europe/Moscow:20251112T204500
+SUMMARY:Управленческий учет и управление затратами\, практ · гр. 619вф\, 61
+ 9вм · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Управление инновационными рисками лекция · гр. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №5\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №5\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251114T093000
+DTEND;TZID=Europe/Moscow:20251114T111000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 6401\nАудитория: а. 6242\nПара №6\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 6401\nАудитория: а. 6248\nПара №7\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T093000
+DTEND;TZID=Europe/Moscow:20251117T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №13\nПреподаватель: Крыл
+ ова И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №14\nПреподаватель: Крыл
+ ова И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1400-6511-6512-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:Экономика лабораторный практикум · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПара №8\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T160000
+DTEND;TZID=Europe/Moscow:20251117T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПара №24\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-0930-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T093000
+DTEND;TZID=Europe/Moscow:20251118T111000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6591\nАудитория: а. 6373\nПара №10\nПреподаватель: Крыл
+ ова И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6591-экономическая-теория-практичес@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Экономическая теория Практическое занятие · гр. 6591 · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 6591\nАудитория: а. 6376\nПара №7\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6401\nАудитория: а.6378\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №4\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №8\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 6401\nАудитория: а. 6236\nПара №9\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T180000
+DTEND;TZID=Europe/Moscow:20251119T184500
+SUMMARY:Управленческий учет и управление затратами\, лаб · гр. 619вф\, 619в
+ м · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T200000
+DTEND;TZID=Europe/Moscow:20251119T204500
+SUMMARY:Управленческий учет и управление затратами\, практ · гр. 619вф\, 61
+ 9вм · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Управление инновационными рисками лекция · гр. 6401 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6401\nАудитория: а.6381\nПара №6\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №10\nПреподаватель: Крыл
+ ова И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-0930-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №13\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1130-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №25\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6401\nАудитория: а.6381\nПара №11\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6401\nАудитория: а.6381\nПара №12\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №5\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №6\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №13\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №1\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №26\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6248\nПара №14\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T140000
+DTEND;TZID=Europe/Moscow:20251125T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №5\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T160000
+DTEND;TZID=Europe/Moscow:20251125T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6401\nАудитория: а. 6373\nПара №15\nПреподаватель: Крыл
+ ова И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6401\nАудитория: а.6245\nПара №16\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №7\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T180000
+DTEND;TZID=Europe/Moscow:20251126T184500
+SUMMARY:Управленческий учет и управление затратами\, лаб · гр. 619вф\, 619в
+ м · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T200000
+DTEND;TZID=Europe/Moscow:20251126T204500
+SUMMARY:Управленческий учет и управление затратами\, практ · гр. 619вф\, 61
+ 9вм · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6378\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6115\nПара №27\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №28\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №2\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №3\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6511-6512-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Экономика Курсовая работа · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №1\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №15\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №29\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251201-0930-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -1355,6 +3141,18 @@ SUMMARY:Экономика практическое занятие · гр. 6512
 LOCATION:а.6245
 DESCRIPTION:Группа: 6512\nАудитория: а.6245
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1130-6511-6512-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Экономика Курсовая работа · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №2\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1382,6 +3180,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251201-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6401\nАудитория: а.6378\nПара №8\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251201-1400-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -1403,6 +3214,19 @@ SUMMARY:Экономика практическое занятие · гр. 6512
 LOCATION:а.403
 DESCRIPTION:Группа: 6512\nАудитория: а.403
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6401\nАудитория: а.6378\nПара №9\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1430,6 +3254,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251202-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Управление инновационными рисками лекция · гр. 6401 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6401\nАудитория: а.6240\nПара №7\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251202-0930-экономика-практичeскоe-занятиe-6511@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -1451,6 +3287,19 @@ SUMMARY:Экономика практическое занятие · гр. 6512
 LOCATION:а.101
 DESCRIPTION:Группа: 6512\nАудитория: а.101
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №14\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1476,6 +3325,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251202-1400-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6591\nАудитория: а.6115\nПара №11\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251202-1400-экономичeская-тeория-лeкция-6591@gti
  fem.ru
 DTSTAMP:20260526T153747Z
@@ -1484,6 +3345,18 @@ DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6115
 LOCATION:а.6115
 DESCRIPTION:Группа: 6591\nАудитория: а.6115
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6591-экономическая-теория-лаборатор@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Экономическая теория Лабораторное занятие · гр. 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПара №4\nПреподаватель: Крылов
+ а И.Ю.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1512,6 +3385,19 @@ CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251203-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса Курсовая р
+ абота · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №1\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251203-1400-экономика-курсовая-работа-6511@gtife
  m.ru
 DTSTAMP:20260526T153747Z
@@ -1533,6 +3419,19 @@ SUMMARY:Экономика Курсовая работа · гр. 6512 · а.624
 LOCATION:а.6245
 DESCRIPTION:Группа: 6512\nАудитория: а.6245
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса Курсовая р
+ абота · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №2\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1582,6 +3481,46 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251203-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T180000
+DTEND;TZID=Europe/Moscow:20251203T184500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T200000
+DTEND;TZID=Europe/Moscow:20251203T204500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-0930-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6591\nАудитория: а.6240\nПара №12\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251204-0930-экономичeская-тeория-лeкция-6591@gti
  fem.ru
 DTSTAMP:20260526T153747Z
@@ -1590,6 +3529,18 @@ DTEND;TZID=Europe/Moscow:20251204T111000
 SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6591\nАудитория: а.6240
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-6591-экономическая-теория-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Экономическая теория Лекция · гр. 6591 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6591\nАудитория: а.6240\nПара №13\nПреподаватель: Крыло
+ ва И.Ю.
 CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
@@ -1606,6 +3557,19 @@ CATEGORIES:Преподавание,6591
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251204-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6401\nАудитория: а.403\nПара №4\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20251204-1400-экономичeская-тeория-лаборатор-6591@
  gtifem.ru
 DTSTAMP:20260526T153747Z
@@ -1615,6 +3579,19 @@ SUMMARY:Экономическая теория Лабораторное зан�
 LOCATION:а.6235
 DESCRIPTION:Группа: 6591\nАудитория: а.6235
 CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №5\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1722,6 +3699,700 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251205-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №17\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №6\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №6\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №15\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №7\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №8\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №7\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №8\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1400-6511-6512-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T140000
+DTEND;TZID=Europe/Moscow:20251210T154000
+SUMMARY:Экономика Курсовая работа · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №3\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T160000
+DTEND;TZID=Europe/Moscow:20251210T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №30\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T180000
+DTEND;TZID=Europe/Moscow:20251210T184500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T200000
+DTEND;TZID=Europe/Moscow:20251210T204500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6591-экономическая-теория-лаборатор@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Экономическая теория Лабораторное занятие · гр. 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПара №5\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6591-экономическая-теория-консульта@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Экономическая теория Консультация · гр. 6591 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6591\nАудитория: а.6235\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6511-6512-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Экономика Курсовая работа · гр. 6511\,6512 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.405\nПара №4\nПреподаватель: К
+ рылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.405\nПара №16\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №9\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T160000
+DTEND;TZID=Europe/Moscow:20251212T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лекция · г
+ р. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №10\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №18\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №19\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-0930-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T093000
+DTEND;TZID=Europe/Moscow:20251216T111000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №31\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1130-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №17\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6401\nАудитория: а.405\nПара №20\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6401\nАудитория: а.405\nПара №21\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T140000
+DTEND;TZID=Europe/Moscow:20251217T154000
+SUMMARY:Управление инновационными рисками лабораторный практикум · гр. 6401
+  · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6401\nАудитория: а.6117\nПара №9\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T160000
+DTEND;TZID=Europe/Moscow:20251217T174000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6401\nАудитория: а.6117\nПара №16\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие (перенос с 24.12.2025) · гр. 6401 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6401\nАудитория: а.403\nПара №22\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса Лекция (пе
+ ренос с 24.12.2025) · гр. 6401 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6401\nАудитория: а.403\nПара №11\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №18\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №32\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №10\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №11\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса лабораторн
+ ый практикум · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №12\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса Курсовая р
+ абота · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №3\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №17\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №18\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6591-экономическая-теория-экзамен@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Экономическая теория Экзамен · гр. 6591 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6591\nАудитория: а.6112\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,6591
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6511-6512-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Экономика Курсовая работа · гр. 6511\,6512 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 6248\nПара №5\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6511-6512-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Экономика лекция · гр. 6511\,6512 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 6248\nПара №19\nПреподаватель
+ : Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Управленческий учет и управление затратами\, лекц · гр. 619вф\, 619
+ вм · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Управленческий учет и управление затратами\, лаб · гр. 619вф\, 619в
+ м · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а. 6249\nПара №-\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:Управление инновационными рисками практическое занятие · гр. 6401 ·
+  а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6401\nАудитория: а.403\nПара №19\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6401\nАудитория: а.403\nПара №23\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6401\nАудитория: а.403\nПара №24\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6401\nАудитория: а.403\nПара №25\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6401\nАудитория: а.6378\nПара №26\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса практическ
+ ое занятие · гр. 6401 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6401\nАудитория: а.6373\nПара №27\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №33\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6511-6512-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Экономика практическое занятие · гр. 6511\,6512 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.403\nПара №34\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Управление инновационными рисками (лаб) · гр. 6401 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №10\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Управление инновационными рисками (лаб) · гр. 6401 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №11\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6401\nАудитория: а.6107\nПара №28\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260112-1400-экономика-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260112T140000
@@ -1766,6 +4437,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260113-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260113T093000
+DTEND;TZID=Europe/Moscow:20260113T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №13\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260113-0930-экономика-пр-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260113T093000
@@ -1785,6 +4469,31 @@ SUMMARY:Экономика (пр) · гр. 6512 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6512\nАудитория: а.6245
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №14\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1600-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №6\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1810,6 +4519,47 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260114-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260114T180000
+DTEND;TZID=Europe/Moscow:20260114T194000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №1\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260114T200000
+DTEND;TZID=Europe/Moscow:20260114T214000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №2\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лек) · гр
+ . 6401 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6401\nАудитория: а.405\nПара №12\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260115-1130-экономика-лeк-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
@@ -1832,6 +4582,55 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260115-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Управление инновационными рисками (лаб) · гр. 6401 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6401\nАудитория: а.6378\nПара №12\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Управление инновационными рисками (лаб) · гр. 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПара №13\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №15\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №20\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260116-1130-экономика-лeк-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260116T113000
@@ -1851,6 +4650,18 @@ SUMMARY:Экономика (лек) · гр. 6512 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6512\nАудитория: а.401
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1400-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №7\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1898,6 +4709,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260116-1600-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T160000
+DTEND;TZID=Europe/Moscow:20260116T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №8\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260116-1600-экономика-курс-работа-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260116T160000
@@ -1942,6 +4765,372 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260119-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260119T093000
+DTEND;TZID=Europe/Moscow:20260119T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (Курс.рабо
+ та) · гр. 6401 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6401\nАудитория: а.405\nПара №4\nПреподаватель: Крылова
+  И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6401\nАудитория: а.405\nПара №29\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260120T093000
+DTEND;TZID=Europe/Moscow:20260120T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №35\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №20\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №30\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Управление инновационными рисками (лаб) · гр. 6401 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №14\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Управление инновационными рисками (лаб) · гр. 6401 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №15\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T180000
+DTEND;TZID=Europe/Moscow:20260121T194000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №3\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T200000
+DTEND;TZID=Europe/Moscow:20260121T214000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №4\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №21\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260122T140000
+DTEND;TZID=Europe/Moscow:20260122T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лек) · гр
+ . 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №13\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260122T160000
+DTEND;TZID=Europe/Moscow:20260122T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №31\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Управление инновационными рисками (лек) · гр. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №8\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6401\nАудитория: а.409\nПара №32\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260126T140000
+DTEND;TZID=Europe/Moscow:20260126T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №36\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1600-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260126T160000
+DTEND;TZID=Europe/Moscow:20260126T174000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №22\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260127T113000
+DTEND;TZID=Europe/Moscow:20260127T131000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6401\nАудитория: а.6117\nПара №21\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260127T140000
+DTEND;TZID=Europe/Moscow:20260127T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №33\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6401\nАудитория: а.106\nПара №34\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6401\nАудитория: а.6373\nПара №35\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T180000
+DTEND;TZID=Europe/Moscow:20260128T194000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №5\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T200000
+DTEND;TZID=Europe/Moscow:20260128T214000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №6\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6401\nАудитория: а.6382\nПара №22\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПара №16\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №37\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1600-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260130T160000
+DTEND;TZID=Europe/Moscow:20260130T174000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №38\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Управление инновационными рисками (лек) · гр. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №9\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Управление инновационными рисками (лек) · гр. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №10\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №23\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260203-0930-экономика-лeк-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260203T093000
@@ -1961,6 +5150,19 @@ SUMMARY:Экономика (лек) · гр. 6512 · а.6373
 LOCATION:а.6373
 DESCRIPTION:Группа: 6512\nАудитория: а.6373
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лек) · гр
+ . 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №14\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -1986,6 +5188,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260203-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №17\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260203-1600-экономика-курс-работа-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260203T160000
@@ -2008,6 +5223,18 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260204-1130-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №9\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260204-1130-экономика-курс-работа-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260204T113000
@@ -2027,6 +5254,18 @@ SUMMARY:Экономика (Курс.работа) · гр. 6512 · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 6512\nАудитория: а.6378
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №10\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2206,6 +5445,19 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260205-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лек) · гр
+ . 6401 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6401\nАудитория: а.409\nПара №15\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260205-1400-экономика-лаб-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
@@ -2228,6 +5480,31 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260205-1600-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №18\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-0930-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПара №11\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260206-0930-экономика-курс-работа-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260206T093000
@@ -2247,6 +5524,486 @@ SUMMARY:Экономика (Курс.работа) · гр. 6512 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6512\nАудитория: а.6116
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №19\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6401\nАудитория: а.6381\nПара №23\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (лаб) · гр
+ . 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №20\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6401\nАудитория: а.406\nПара №24\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6401\nАудитория: а.406\nПара №25\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №24\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №25\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T140000
+DTEND;TZID=Europe/Moscow:20260211T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №39\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1600-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №40\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T180000
+DTEND;TZID=Europe/Moscow:20260211T194000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №7\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T200000
+DTEND;TZID=Europe/Moscow:20260211T214000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №8\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №26\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6401\nАудитория: а.6116\nПара №27\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №36\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №37\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №38\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (Курс.рабо
+ та) · гр. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №5\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (Курс.рабо
+ та) · гр. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №6\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6401\nАудитория: а.106\nПара №28\nПреподаватель: Крылов
+ а И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №29\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №39\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  6401 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6401\nАудитория: а.6107\nПара №40\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-659збу-экономическая-теория-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Экономическая теория (пр) · гр. 659збу · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 659збу\nАудитория: а.6235\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-659збу-экономическая-теория-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Экономическая теория (пр) · гр. 659збу · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 659збу\nАудитория: а.6235\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1400-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T140000
+DTEND;TZID=Europe/Moscow:20260218T154000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №26\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1600-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T160000
+DTEND;TZID=Europe/Moscow:20260218T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПара №12\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1130-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Управление инновационными рисками (пр) · гр. 6401 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6401\nАудитория: а.6378\nПара №30\nПреподаватель: Крыло
+ ва И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №9\nПреподаватель: 
+ Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-659збу-экономическая-теория-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Экономическая теория (лаб) · гр. 659збу · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 659збу\nАудитория: а.6235\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-659збу-экономическая-теория-консульта@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Экономическая теория (Консультация) · гр. 659збу · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 659збу\nАудитория: а.403\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1400-659збу-экономическая-теория-экз-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T140000
+DTEND;TZID=Europe/Moscow:20260225T154000
+SUMMARY:Экономическая теория (экз) · гр. 659збу · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 659збу\nАудитория: а.6381\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,659збу
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1600-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T160000
+DTEND;TZID=Europe/Moscow:20260225T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПара №13\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T180000
+DTEND;TZID=Europe/Moscow:20260225T194000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №9\nПреподавател
+ ь: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-2000-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T200000
+DTEND;TZID=Europe/Moscow:20260225T214000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6235\nПара №10\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6112\nПара №14\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1600-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260226T160000
+DTEND;TZID=Europe/Moscow:20260226T174000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №27\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №15\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №16\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-0930-6401-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (экз) · гр
+ . 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,6401
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2470,6 +6227,17 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260305-0930-6401-управление-инновационными-риск@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T093000
+DTEND;TZID=Europe/Moscow:20260305T111000
+SUMMARY:Управление инновационными рисками (экз) · гр. 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-krylova-i-yu-20260305-0930-экономика-курс-работа-6511@gtifem.ru
 DTSTAMP:20260526T153747Z
 DTSTART;TZID=Europe/Moscow:20260305T093000
@@ -2555,6 +6323,336 @@ SUMMARY:Экономика (Курс.работа) · гр. 6512 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6512\nАудитория: а.6116
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1800-619вф-619вм-управленческий-учет-и-управлен@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T180000
+DTEND;TZID=Europe/Moscow:20260310T194000
+SUMMARY:Управленческий учет и управление затратами (лек) · гр. 619вф\, 619в
+ м · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 619вф\, 619вм\nАудитория: а.6381\nПара №11\nПреподавате
+ ль: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф\, 619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T093000
+DTEND;TZID=Europe/Moscow:20260312T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №41\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T113000
+DTEND;TZID=Europe/Moscow:20260312T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №42\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260316T180000
+DTEND;TZID=Europe/Moscow:20260316T194000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6116\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260316T200000
+DTEND;TZID=Europe/Moscow:20260316T214000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6116\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T180000
+DTEND;TZID=Europe/Moscow:20260317T194000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6116\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T200000
+DTEND;TZID=Europe/Moscow:20260317T214000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6116\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1600-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T160000
+DTEND;TZID=Europe/Moscow:20260318T174000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №43\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1800-619вф-управленческий-учет-и-управлен@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T180000
+DTEND;TZID=Europe/Moscow:20260318T194000
+SUMMARY:Управленческий учет и управление затратами (экз) · гр. 619вф · а.62
+ 35
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\nАудитория: а.6235\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-2000-619вф-управленческий-учет-и-управлен@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T200000
+DTEND;TZID=Europe/Moscow:20260318T214000
+SUMMARY:Управленческий учет и управление затратами (экз) · гр. 619вф · а.62
+ 35
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вф\nАудитория: а.6235\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,619вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260320T093000
+DTEND;TZID=Europe/Moscow:20260320T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №44\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №45\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1400-6511-6512-экономика-лек-индиго@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:Экономика (лек) ИНДИГО · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №28\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260324T180000
+DTEND;TZID=Europe/Moscow:20260324T194000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.62
+ 36
+LOCATION:а.6236
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6236\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260324T200000
+DTEND;TZID=Europe/Moscow:20260324T214000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.62
+ 36
+LOCATION:а.6236
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6236\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260326T093000
+DTEND;TZID=Europe/Moscow:20260326T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №46\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №47\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1130-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T113000
+DTEND;TZID=Europe/Moscow:20260327T131000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №29\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1400-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №17\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1600-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T160000
+DTEND;TZID=Europe/Moscow:20260327T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №18\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1400-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260331T140000
+DTEND;TZID=Europe/Moscow:20260331T154000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №10\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1600-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260331T160000
+DTEND;TZID=Europe/Moscow:20260331T174000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №11\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1800-619вм-управленческий-учет-и-управлен@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260331T180000
+DTEND;TZID=Europe/Moscow:20260331T194000
+SUMMARY:Управленческий учет и управление затратами (экз) · гр. 619вм · а.63
+ 78
+LOCATION:а.6378
+DESCRIPTION:Группа: 619вм\nАудитория: а.6378\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-2000-619вм-управленческий-учет-и-управлен@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260331T200000
+DTEND;TZID=Europe/Moscow:20260331T214000
+SUMMARY:Управленческий учет и управление затратами (экз) · гр. 619вм · а.63
+ 78
+LOCATION:а.6378
+DESCRIPTION:Группа: 619вм\nАудитория: а.6378\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,619вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1800-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260402T180000
+DTEND;TZID=Europe/Moscow:20260402T194000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.62
+ 42
+LOCATION:а.6242
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6242\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-2000-616вэ1-29-контроллинг-и-антикризисное-уп@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260402T200000
+DTEND;TZID=Europe/Moscow:20260402T214000
+SUMMARY:Контроллинг и антикризисное управление (экз) · гр. 616вэ1-29 · а.62
+ 42
+LOCATION:а.6242
+DESCRIPTION:Группа: 616вэ1-29\nАудитория: а.6242\nПреподаватель: Крылова И.
+ Ю.
+CATEGORIES:Преподавание,616вэ1-29
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -2863,6 +6961,433 @@ SUMMARY:Экономика (Курс.работа) · гр. 6512 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6512\nАудитория: а.6116
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1400-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №12\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1600-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №30\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №48\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №49\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-0930-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260410T093000
+DTEND;TZID=Europe/Moscow:20260410T111000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №31\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1130-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260410T113000
+DTEND;TZID=Europe/Moscow:20260410T131000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №32\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №50\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №33\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №51\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260414T140000
+DTEND;TZID=Europe/Moscow:20260414T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №52\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T113000
+DTEND;TZID=Europe/Moscow:20260416T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №53\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1400-6511-6512-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №19\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-0930-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260420T093000
+DTEND;TZID=Europe/Moscow:20260420T111000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №34\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №54\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260420T140000
+DTEND;TZID=Europe/Moscow:20260420T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №55\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1400-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260422T140000
+DTEND;TZID=Europe/Moscow:20260422T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6235\nПара
+  №1\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1600-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260422T160000
+DTEND;TZID=Europe/Moscow:20260422T174000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6235\nПара
+  №2\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6112\nПара
+  №3\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1130-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T113000
+DTEND;TZID=Europe/Moscow:20260423T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6112\nПара
+  №4\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1400-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T140000
+DTEND;TZID=Europe/Moscow:20260423T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6107\nПара
+  №5\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260424T093000
+DTEND;TZID=Europe/Moscow:20260424T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №56\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №57\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6378\nПара
+  №6\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6378\nПара
+  №7\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1400-640змм-1-640змм-2-640змм-3-методы-финансирования-
+ инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T140000
+DTEND;TZID=Europe/Moscow:20260427T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (пр) · гр.
+  640змм-1\, 640змм-2\, 640змм-3 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6235\nПара
+  №8\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1600-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T160000
+DTEND;TZID=Europe/Moscow:20260427T174000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №58\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-0930-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №35\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №59\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1400-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T140000
+DTEND;TZID=Europe/Moscow:20260428T154000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №13\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6249\nПара №14\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №36\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-0930-640змм-3-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T093000
+DTEND;TZID=Europe/Moscow:20260430T111000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (экз) · гр
+ . 640змм-3 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 640змм-3\nАудитория: а.6242\nПреподаватель: Крылова И.Ю
+ .
+CATEGORIES:Преподавание,640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1130-640змм-2-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T113000
+DTEND;TZID=Europe/Moscow:20260430T131000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (экз) · гр
+ . 640змм-2 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 640змм-2\nАудитория: а.6115\nПреподаватель: Крылова И.Ю
+ .
+CATEGORIES:Преподавание,640змм-2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-640змм-1-методы-финансирования-инноваци@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Методы финансирования инноваций и инновационного бизнеса (экз) · гр
+ . 640змм-1 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 640змм-1\nАудитория: а.6242\nПреподаватель: Крылова И.Ю
+ .
+CATEGORIES:Преподавание,640змм-1
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -3215,6 +7740,271 @@ SUMMARY:Экономика (лаб) · гр. 6512 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6512\nАудитория: а.6245
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №60\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260512T140000
+DTEND;TZID=Europe/Moscow:20260512T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №61\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T093000
+DTEND;TZID=Europe/Moscow:20260513T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №62\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1130-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №37\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260514T140000
+DTEND;TZID=Europe/Moscow:20260514T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №63\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1600-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260514T160000
+DTEND;TZID=Europe/Moscow:20260514T174000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №64\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260515T140000
+DTEND;TZID=Europe/Moscow:20260515T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №65\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1600-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260515T160000
+DTEND;TZID=Europe/Moscow:20260515T174000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6378\nПара №66\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1130-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260518T113000
+DTEND;TZID=Europe/Moscow:20260518T131000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №15\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1400-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260518T140000
+DTEND;TZID=Europe/Moscow:20260518T154000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №16\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №67\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №38\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-0930-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260522T093000
+DTEND;TZID=Europe/Moscow:20260522T111000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №68\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260522T113000
+DTEND;TZID=Europe/Moscow:20260522T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6245\nПара №69\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-0930-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260526T093000
+DTEND;TZID=Europe/Moscow:20260526T111000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №17\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-6511-6512-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:Экономика (лаб) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №18\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1400-6511-6512-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260526T140000
+DTEND;TZID=Europe/Moscow:20260526T154000
+SUMMARY:Экономика (лек) · гр. 6511\,6512 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №39\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1130-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260528T113000
+DTEND;TZID=Europe/Moscow:20260528T131000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №70\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1400-6511-6512-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260528T140000
+DTEND;TZID=Europe/Moscow:20260528T154000
+SUMMARY:Экономика (пр) · гр. 6511\,6512 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6117\nПара №71\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260708-1600-6511-6512-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260708T160000
+DTEND;TZID=Europe/Moscow:20260708T174000
+SUMMARY:Экономика (экз) · гр. 6511\,6512 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6116\nПреподаватель: Крылова И
+ .Ю.
+CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260708-1800-656вэ1-8-656вэ25-31-экономика-курс-работа-@gtifem
+ .ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260708T180000
+DTEND;TZID=Europe/Moscow:20260708T194000
+SUMMARY:Экономика (Курс.работа) · гр. 656вэ1-8\,656вэ25-31 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №гр.656вэ
+ 1-8\nПреподаватель: Крылова И.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260708-2000-656вэ1-8-656вэ25-31-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260708T200000
+DTEND;TZID=Europe/Moscow:20260708T214000
+SUMMARY:Экономика (экз) · гр. 656вэ1-8\,656вэ25-31 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПреподаватель:
+  Крылова И.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

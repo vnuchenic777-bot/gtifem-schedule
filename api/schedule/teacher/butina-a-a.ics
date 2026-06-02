@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20260209-1400-619зр-управление-маркетинговыми-комм@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260209T140000
 DTEND;TZID=Europe/Moscow:20260209T154000
 SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260209-1600-619зр-управление-маркетинговыми-комм@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260209T160000
 DTEND;TZID=Europe/Moscow:20260209T174000
 SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
@@ -43,7 +43,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1400-619зр-управление-маркетинговыми-комм@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
 DTEND;TZID=Europe/Moscow:20260212T154000
 SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
@@ -55,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1400-619зр-управление-маркетинговыми-комм@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260213T140000
 DTEND;TZID=Europe/Moscow:20260213T154000
 SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
@@ -67,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1600-619зр-управление-маркетинговыми-комм@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260213T160000
 DTEND;TZID=Europe/Moscow:20260213T174000
 SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
@@ -79,7 +79,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260319-1400-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260319T140000
 DTEND;TZID=Europe/Moscow:20260319T154000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -92,7 +92,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260319-1600-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260319T160000
 DTEND;TZID=Europe/Moscow:20260319T174000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -105,7 +105,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260323-1130-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260323T113000
 DTEND;TZID=Europe/Moscow:20260323T131000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -118,7 +118,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260323-1400-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260323T140000
 DTEND;TZID=Europe/Moscow:20260323T154000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -131,7 +131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260323-1600-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260323T160000
 DTEND;TZID=Europe/Moscow:20260323T174000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -144,7 +144,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-1130-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260324T113000
 DTEND;TZID=Europe/Moscow:20260324T131000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -157,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-1400-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260324T140000
 DTEND;TZID=Europe/Moscow:20260324T154000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -170,7 +170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-1600-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260324T160000
 DTEND;TZID=Europe/Moscow:20260324T174000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -183,7 +183,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1130-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260325T113000
 DTEND;TZID=Europe/Moscow:20260325T131000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -196,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1400-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260325T140000
 DTEND;TZID=Europe/Moscow:20260325T154000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -209,7 +209,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1600-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260325T160000
 DTEND;TZID=Europe/Moscow:20260325T174000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 618зк ·
@@ -222,7 +222,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1130-618зк-управление-маркетингом-и-марке@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20260330T113000
 DTEND;TZID=Europe/Moscow:20260330T131000
 SUMMARY:Управление маркетингом и маркетинговая аналитика (экз) · гр. 618зк 

@@ -1,0 +1,4119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Ходос Д.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Ходос Д.В., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250901-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6501\nАудитория: а.6240\nПара №1\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6501\nАудитория: а.6240\nПара №1\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1400-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6501\nАудитория: а.6382\nПара №2\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1600-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6501\nАудитория: а.6382\nПара №2\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-0930-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №2\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №2\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №3\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №3\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6501\nАудитория: а.6115\nПара №3\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6501\nАудитория: а.6115\nПара №3\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6501\nАудитория: а.6115\nПара №4\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6501\nАудитория: а.6115\nПара №5\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6501\nАудитория: а.6235\nПара №4\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6501\nАудитория: а.6235\nПара №5\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №4\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №5\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-0930-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250917T093000
+DTEND;TZID=Europe/Moscow:20250917T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №1\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1130-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250917T113000
+DTEND;TZID=Europe/Moscow:20250917T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №2\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.401\nПара №4\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.401\nПара №6\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6501\nАудитория: а.6373\nПара №6\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6501\nАудитория: а.6373\nПара №7\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6373\nПара №7\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6373\nПара №3\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-0930-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.408\nПара №4\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.408\nПара №8\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6501\nАудитория: а.6235\nПара №8\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6501\nАудитория: а.6235\nПара №9\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №9\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №5\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №10\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №6\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.106\nПара №11\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1600-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Экономика Практическое занятие · гр. 6541\,6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.106\nПара №12\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251008T093000
+DTEND;TZID=Europe/Moscow:20251008T111000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №10\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1130-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T131000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №6\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Экономика Практическое занятие · гр. 6541\,6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.106\nПара №13\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Экономика Лекция · гр. 6541\,6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.106\nПара №7\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №7\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №11\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №8\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №14\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №15\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №16\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6376\nПара №5\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6376\nПара №6\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1400-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6501\nАудитория: а.6240\nПара №12\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1600-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6501\nАудитория: а.6240\nПара №8\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №13\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №14\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1400-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.414\nПара №9\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лекция
+  · гр. 6401 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6401\nАудитория: а.106\nПара №1\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6401\nАудитория: а.106\nПара №1\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.414\nПара №17\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1600-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251022T160000
+DTEND;TZID=Europe/Moscow:20251022T174000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.414\nПара №10\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №18\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №19\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лекция
+  · гр. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №2\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №2\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №9\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №10\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №11\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №20\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лекция
+  · гр. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №3\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6401\nАудитория: а.6115\nПара №3\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №15\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №11\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.411\nПара №21\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1800-630змм-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251105T180000
+DTEND;TZID=Europe/Moscow:20251105T184500
+SUMMARY:Экономическое обоснование инновационных решений в управлении · гр. 
+ 630змм · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 630змм\nАудитория: а.6112\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,630змм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6501\nАудитория: а.6115\nПара №12\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6501\nАудитория: а.6235\nПара №16\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лекция
+  · гр. 6401 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6401\nАудитория: а.6240\nПара №4\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6401\nАудитория: а.6240\nПара №4\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1800-656вэ9-16-656вэ17-24-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T180000
+DTEND;TZID=Europe/Moscow:20251106T184500
+SUMMARY:Экономика\, лекц · гр. 656вэ9-16\,656вэ17-24 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6107\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-2000-659ву-659вб-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251106T200000
+DTEND;TZID=Europe/Moscow:20251106T204500
+SUMMARY:Экономика\, лекц · гр. 659ву\,659вб · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6107\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Организация научно-исследовательской деятельности лекция · гр. 6501
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6501\nАудитория: а.411\nПара №13\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Организация научно-исследовательской деятельности практическое заня
+ тие · гр. 6501 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6501\nАудитория: а.411\nПара №17\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6401\nАудитория: а.411\nПара №5\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6401\nАудитория: а.411\nПара №6\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-630змм-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении · гр. 
+ 630змм · 6112
+LOCATION:6112
+DESCRIPTION:Группа: 630змм\nАудитория: 6112\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,630змм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-630змм-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении · гр. 
+ 630змм · 6112
+LOCATION:6112
+DESCRIPTION:Группа: 630змм\nАудитория: 6112\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,630змм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1130-6501-организация-научно-исследовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:Организация научно-исследовательской деятельности экзамен · гр. 650
+ 1 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №22\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1600-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6107\nПара №12\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лекция
+  · гр. 6401 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6401\nАудитория: а.6240\nПара №5\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №7\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №23\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №7\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1800-656вэ9-16-656вэ17-24-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251113T180000
+DTEND;TZID=Europe/Moscow:20251113T184500
+SUMMARY:Экономика\, лекц · гр. 656вэ9-16\,656вэ17-24 · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6240\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-2000-659ву-659вб-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251113T200000
+DTEND;TZID=Europe/Moscow:20251113T204500
+SUMMARY:Экономика\, лекц · гр. 659ву\,659вб · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6240\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-6381-6361-управление-проектами-и-формиро@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:Управление проектами и формирование бизнес-моделей Лабораторная раб
+ ота · гр. 6381\, 6361 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6381\, 6361\nАудитория: а.6378\nПара №10\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,6381\, 6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-0930-6541-6542-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251117T093000
+DTEND;TZID=Europe/Moscow:20251117T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №8\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №24\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №8\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251117T160000
+DTEND;TZID=Europe/Moscow:20251117T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6401\nАудитория: а.408\nПара №9\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251118T093000
+DTEND;TZID=Europe/Moscow:20251118T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лабора
+ торный практикум · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №1\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лабора
+ торный практикум · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №2\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №13\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №25\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251119T093000
+DTEND;TZID=Europe/Moscow:20251119T111000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №26\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1130-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6107\nПара №14\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лабора
+ торный практикум · гр. 6401 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6401\nАудитория: а.6245\nПара №3\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №27\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №28\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1800-656вэ9-16-656вэ17-24-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251120T180000
+DTEND;TZID=Europe/Moscow:20251120T184500
+SUMMARY:Экономика\, лекц · гр. 656вэ9-16\,656вэ17-24 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6107\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-2000-659ву-659вб-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251120T200000
+DTEND;TZID=Europe/Moscow:20251120T204500
+SUMMARY:Экономика\, лекц · гр. 659ву\,659вб · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6107\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении Курсов
+ ая работа · гр. 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПара №1\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лабора
+ торный практикум · гр. 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПара №4\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-0930-6541-6542-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251126T093000
+DTEND;TZID=Europe/Moscow:20251126T111000
+SUMMARY:Экономика Курсовая работа · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №1\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1130-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6382\nПара №15\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №10\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении Курсов
+ ая работа · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №2\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1800-656вэ9-16-656вэ17-24-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251127T180000
+DTEND;TZID=Europe/Moscow:20251127T184500
+SUMMARY:Экономика\, лекц · гр. 656вэ9-16\,656вэ17-24 · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6107\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-2000-659ву-659вб-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251127T200000
+DTEND;TZID=Europe/Moscow:20251127T204500
+SUMMARY:Экономика\, лекц · гр. 659ву\,659вб · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6107\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1855-656вэ9-16-656вэ17-24-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251201T185500
+DTEND;TZID=Europe/Moscow:20251201T194000
+SUMMARY:Экономика\, лекц · гр. 656вэ9-16\,656вэ17-24 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6245\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-2055-659ву-659вб-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251201T205500
+DTEND;TZID=Europe/Moscow:20251201T214000
+SUMMARY:Экономика\, лекц · гр. 659ву\,659вб · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6245\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1400-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №29\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1600-6541-6542-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Экономика Курсовая работа · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №2\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1800-659ву-659вб-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T180000
+DTEND;TZID=Europe/Moscow:20251203T184500
+SUMMARY:Экономика\, практ · гр. 659ву\,659вб · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6240\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-2000-656вэ9-16-656вэ17-24-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251203T200000
+DTEND;TZID=Europe/Moscow:20251203T204500
+SUMMARY:Экономика\, практ · гр. 656вэ9-16\,656вэ17-24 · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6240\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении Лекция
+  · гр. 6401 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6401\nАудитория: а.6381\nПара №6\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6401\nАудитория: а.6245\nПара №11\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400-6541-6542-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Экономика Курсовая работа · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №3\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №30\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1800-656вэ9-16-656вэ17-24-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251204T180000
+DTEND;TZID=Europe/Moscow:20251204T184500
+SUMMARY:Экономика\, лекц · гр. 656вэ9-16\,656вэ17-24 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6245\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-2000-659ву-659вб-экономика-лекц@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251204T200000
+DTEND;TZID=Europe/Moscow:20251204T204500
+SUMMARY:Экономика\, лекц · гр. 659ву\,659вб · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6245\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении Лекция
+  · гр. 6401 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6401\nАудитория: а.6240\nПара №8\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №13\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6541-6542-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Экономика Курсовая работа · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №4\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №16\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1800-656вэ9-16-656вэ17-24-экономика@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251211T180000
+DTEND;TZID=Europe/Moscow:20251211T184500
+SUMMARY:Экономика · гр. 656вэ9-16\,656вэ17-24 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6245\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-2000-659ву-659вб-экономика@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251211T200000
+DTEND;TZID=Europe/Moscow:20251211T204500
+SUMMARY:Экономика · гр. 659ву\,659вб · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6245\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6341-6321-разработка-и-реализация-бизнес@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Разработка и реализация бизнес-планов Лабораторная работа · гр. 634
+ 1\, 6321 · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а. 6116\nПара №5\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6341-6321-разработка-и-реализация-бизнес@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Разработка и реализация бизнес-планов Курсовая работа · гр. 6341\, 
+ 6321 · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 6341\, 6321\nАудитория: а. 6116\nПара №10\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,6341\, 6321
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251216T093000
+DTEND;TZID=Europe/Moscow:20251216T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №14\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПара №15\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251217T093000
+DTEND;TZID=Europe/Moscow:20251217T111000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №31\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1130-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №17\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251218T093000
+DTEND;TZID=Europe/Moscow:20251218T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6401\nАудитория: а.106\nПара №16\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении Лекция
+  · гр. 6401 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6401\nАудитория: а.106\nПара №9\nПреподаватель: Ходос Д
+ .В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1400-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №18\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1600-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:Экономика практическое занятие · гр. 6541\,6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.405\nПара №32\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251221-1855-656вэ9-16-656вэ17-24-экономика-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251221T185500
+DTEND;TZID=Europe/Moscow:20251221T194000
+SUMMARY:Экономика\, лаб · гр. 656вэ9-16\,656вэ17-24 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6245\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251221-2055-659ву-659вб-экономика-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251221T205500
+DTEND;TZID=Europe/Moscow:20251221T214000
+SUMMARY:Экономика\, лаб · гр. 659ву\,659вб · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6245\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-0930-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:Экономика практическое занятие (перенос с 30.12.2025) · гр. 6541\,6
+ 542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №33\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-6541-6542-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Экономика практическое занятие (перенос с 30.12.2025) · гр. 6541\,6
+ 542 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а. 6381\nПара №34\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6401\nАудитория: а.405\nПара №17\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие · гр. 6401 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6401\nАудитория: а.405\nПара №18\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении Лекция
+  (перенос с 29.12.2025) · гр. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №10\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении практи
+ ческое занятие (перенос с 29.12.2025) · гр. 6401 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6401\nАудитория: а.6245\nПара №19\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6541-6542-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Экономика Курсовая работа · гр. 6541\,6542 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6249\nПара №5\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6541-6542-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Экономика лекция · гр. 6541\,6542 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а. 6373\nПара №19\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-656вэ9-16-656вэ17-24-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Экономика\, практ · гр. 656вэ9-16\,656вэ17-24 · а .6245
+LOCATION:а .6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а .6245\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-659ву-659вб-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Экономика\, практ · гр. 659ву\,659вб · а .6245
+LOCATION:а .6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а .6245\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лабора
+ торный практикум · гр. 6401 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6401\nАудитория: а.6117\nПара №5\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении лабора
+ торный практикум · гр. 6401 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6401\nАудитория: а.6117\nПара №6\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1800-656вэ9-16-656вэ17-24-экономика-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251225T180000
+DTEND;TZID=Europe/Moscow:20251225T184500
+SUMMARY:Экономика\, лаб · гр. 656вэ9-16\,656вэ17-24 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а. 6245\nПара №-\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-2000-659ву-659вб-экономика-лаб@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20251225T200000
+DTEND;TZID=Europe/Moscow:20251225T204500
+SUMMARY:Экономика\, лаб · гр. 659ву\,659вб · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а. 6245\nПара №-\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1400-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.403\nПара №6\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.106\nПара №7\nПреподаватель: Х
+ одос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260113T180000
+DTEND;TZID=Europe/Moscow:20260113T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №1\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260113T200000
+DTEND;TZID=Europe/Moscow:20260113T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6248\nПара №1\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №8\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6373\nПара №20\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1400-650змм-1-650змм-2-650змм-3-организация-научно-исс
+ ледовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Организация научно-исследовательской деятельности (лек) · гр. 650зм
+ м-1\, 650змм-2\, 650змм-3 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6373\nПара
+  №1\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1600-650змм-1-650змм-2-650змм-3-организация-научно-исс
+ ледовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Организация научно-исследовательской деятельности (лек) · гр. 650зм
+ м-1\, 650змм-2\, 650змм-3 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6373\nПара
+  №2\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260115T180000
+DTEND;TZID=Europe/Moscow:20260115T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №2\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260115T200000
+DTEND;TZID=Europe/Moscow:20260115T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6248\nПара №2\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (Курс.
+ работа) · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №3\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1400-650змм-1-650змм-2-650змм-3-организация-научно-исс
+ ледовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Организация научно-исследовательской деятельности (лек) · гр. 650зм
+ м-1\, 650змм-2\, 650змм-3 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6373\nПара
+  №3\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1600-650змм-1-650змм-2-650змм-3-организация-научно-исс
+ ледовате@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260116T160000
+DTEND;TZID=Europe/Moscow:20260116T174000
+SUMMARY:Организация научно-исследовательской деятельности (лек) · гр. 650зм
+ м-1\, 650змм-2\, 650змм-3 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6373\nПара
+  №4\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6107\nПара №35\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1600-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260119T160000
+DTEND;TZID=Europe/Moscow:20260119T174000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №21\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (пр) ·
+  гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №20\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (лаб) 
+ · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №5\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №36\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6382\nПара №37\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260126T140000
+DTEND;TZID=Europe/Moscow:20260126T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.403\nПара №22\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1130-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260127T113000
+DTEND;TZID=Europe/Moscow:20260127T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №9\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260127T140000
+DTEND;TZID=Europe/Moscow:20260127T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №38\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260127T160000
+DTEND;TZID=Europe/Moscow:20260127T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (лаб) 
+ · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №6\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260127T180000
+DTEND;TZID=Europe/Moscow:20260127T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №3\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260127T200000
+DTEND;TZID=Europe/Moscow:20260127T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6248\nПара №3\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260129T140000
+DTEND;TZID=Europe/Moscow:20260129T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (лаб) 
+ · гр. 6401 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6401\nАудитория: а.6245\nПара №7\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260129T160000
+DTEND;TZID=Europe/Moscow:20260129T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (лаб) 
+ · гр. 6401 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6401\nАудитория: а.6376\nПара №8\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260129T180000
+DTEND;TZID=Europe/Moscow:20260129T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №4\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260129T200000
+DTEND;TZID=Europe/Moscow:20260129T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6248\nПара №4\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1400-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6378\nПара №10\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6378\nПара №11\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6382\nПара №23\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6249\nПара №12\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.406\nПара №24\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №9\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.106\nПара №39\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.106\nПара №40\nПреподаватель: 
+ Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (Курс.
+ работа) · гр. 6401 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6401\nАудитория: а.6248\nПара №4\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260210T160000
+DTEND;TZID=Europe/Moscow:20260210T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (Курс.
+ работа) · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №5\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПреподаватель: Ходос Д.В
+ .
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6242\nПара №13\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (лаб) 
+ · гр. 6401 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6401\nАудитория: а.6112\nПара №9\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (лаб) 
+ · гр. 6401 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6401\nАудитория: а.6236\nПара №10\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260217T180000
+DTEND;TZID=Europe/Moscow:20260217T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6245\nПара №5\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260217T200000
+DTEND;TZID=Europe/Moscow:20260217T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6245\nПара №6\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260218T140000
+DTEND;TZID=Europe/Moscow:20260218T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №25\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260218T160000
+DTEND;TZID=Europe/Moscow:20260218T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6242\nПара №14\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (Курс.
+ работа) · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №6\nПреподаватель: Ходос 
+ Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1600-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (лаб) 
+ · гр. 6401 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6401\nАудитория: а.6235\nПара №11\nПреподаватель: Ходос
+  Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260219T180000
+DTEND;TZID=Europe/Moscow:20260219T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №7\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260219T200000
+DTEND;TZID=Europe/Moscow:20260219T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №8\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-0930-6401-экономическое-обоснование-инно@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260224T093000
+DTEND;TZID=Europe/Moscow:20260224T111000
+SUMMARY:Экономическое обоснование инновационных решений в управлении (экз) 
+ · гр. 6401 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6401\nАудитория: а.6242\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,6401
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-0930-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260225T093000
+DTEND;TZID=Europe/Moscow:20260225T111000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №15\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №16\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260226T180000
+DTEND;TZID=Europe/Moscow:20260226T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №9\nПреподаватель
+ : Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260226T200000
+DTEND;TZID=Europe/Moscow:20260226T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №10\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1600-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6381\nПара №26\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260303T180000
+DTEND;TZID=Europe/Moscow:20260303T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №11\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260303T200000
+DTEND;TZID=Europe/Moscow:20260303T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №12\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260305T180000
+DTEND;TZID=Europe/Moscow:20260305T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6116\nПара №7\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260305T200000
+DTEND;TZID=Europe/Moscow:20260305T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6116\nПара №8\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-650змм-1-650змм-2-650змм-3-методы-исследований-в-
+ менеджме@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Методы исследований в менеджменте (пр) · гр. 650змм-1\, 650змм-2\, 
+ 650змм-3 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6107\nПара
+  №1\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-650змм-1-650змм-2-650змм-3-методы-исследований-в-
+ менеджме@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Методы исследований в менеджменте (пр) · гр. 650змм-1\, 650змм-2\, 
+ 650змм-3 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6107\nПара
+  №2\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1600-650змм-1-650змм-2-650змм-3-методы-исследований-в-
+ менеджме@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260310T160000
+DTEND;TZID=Europe/Moscow:20260310T174000
+SUMMARY:Методы исследований в менеджменте (пр) · гр. 650змм-1\, 650змм-2\, 
+ 650змм-3 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6107\nПара
+  №3\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-650змм-1-методы-исследований-в-менеджме@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Методы исследований в менеджменте (экз) · гр. 650змм-1 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 650змм-1\nАудитория: а.6115\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-650змм-2-методы-исследований-в-менеджме@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Методы исследований в менеджменте (экз) · гр. 650змм-2 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 650змм-2\nАудитория: а.6115\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-2
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1600-650змм-3-методы-исследований-в-менеджме@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260311T160000
+DTEND;TZID=Europe/Moscow:20260311T174000
+SUMMARY:Методы исследований в менеджменте (экз) · гр. 650змм-3 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 650змм-3\nАудитория: а.6115\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6373\nПара №27\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6373\nПара №41\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260312T180000
+DTEND;TZID=Europe/Moscow:20260312T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №13\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260312T200000
+DTEND;TZID=Europe/Moscow:20260312T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №14\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6107\nПара №42\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260317T140000
+DTEND;TZID=Europe/Moscow:20260317T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6249\nПара №43\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260317T180000
+DTEND;TZID=Europe/Moscow:20260317T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6373\nПара №9\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260317T200000
+DTEND;TZID=Europe/Moscow:20260317T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6373\nПара №10\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1400-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260319T140000
+DTEND;TZID=Europe/Moscow:20260319T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №17\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260319T160000
+DTEND;TZID=Europe/Moscow:20260319T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №18\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-0930-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260320T093000
+DTEND;TZID=Europe/Moscow:20260320T111000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6378\nПара №28\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6378\nПара №44\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №45\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-0930-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260323T093000
+DTEND;TZID=Europe/Moscow:20260323T111000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №29\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №46\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №47\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1600-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260324T160000
+DTEND;TZID=Europe/Moscow:20260324T174000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №10\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260324T180000
+DTEND;TZID=Europe/Moscow:20260324T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6382\nПара №11\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260324T200000
+DTEND;TZID=Europe/Moscow:20260324T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6382\nПара №12\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1130-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №11\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1400-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260326T140000
+DTEND;TZID=Europe/Moscow:20260326T154000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №12\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-0930-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260330T093000
+DTEND;TZID=Europe/Moscow:20260330T111000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №30\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260330T113000
+DTEND;TZID=Europe/Moscow:20260330T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №48\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260331T140000
+DTEND;TZID=Europe/Moscow:20260331T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6107\nПара №31\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260331T160000
+DTEND;TZID=Europe/Moscow:20260331T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №49\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-0930-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260401T093000
+DTEND;TZID=Europe/Moscow:20260401T111000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6381\nПара №33\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260401T113000
+DTEND;TZID=Europe/Moscow:20260401T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6381\nПара №50\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260402T180000
+DTEND;TZID=Europe/Moscow:20260402T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6373\nПара №13\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260402T200000
+DTEND;TZID=Europe/Moscow:20260402T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6373\nПара №14\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6242\nПара №51\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №52\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №34\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №53\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260409T160000
+DTEND;TZID=Europe/Moscow:20260409T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6249\nПара №19\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260409T180000
+DTEND;TZID=Europe/Moscow:20260409T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №15\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260409T200000
+DTEND;TZID=Europe/Moscow:20260409T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №16\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6249\nПара №54\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6249\nПара №55\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260414T140000
+DTEND;TZID=Europe/Moscow:20260414T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №56\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260414T160000
+DTEND;TZID=Europe/Moscow:20260414T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №57\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-0930-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260415T093000
+DTEND;TZID=Europe/Moscow:20260415T111000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №58\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1130-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260415T113000
+DTEND;TZID=Europe/Moscow:20260415T131000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №35\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260416T160000
+DTEND;TZID=Europe/Moscow:20260416T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №59\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260416T180000
+DTEND;TZID=Europe/Moscow:20260416T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6378\nПара №15\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260416T200000
+DTEND;TZID=Europe/Moscow:20260416T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6378\nПара №16\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-0930-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260420T093000
+DTEND;TZID=Europe/Moscow:20260420T111000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №13\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №14\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260421T140000
+DTEND;TZID=Europe/Moscow:20260421T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №36\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260421T160000
+DTEND;TZID=Europe/Moscow:20260421T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №60\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260421T180000
+DTEND;TZID=Europe/Moscow:20260421T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6373\nПара №17\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260421T200000
+DTEND;TZID=Europe/Moscow:20260421T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6373\nПара №18\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260423T140000
+DTEND;TZID=Europe/Moscow:20260423T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6382\nПара №61\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260423T160000
+DTEND;TZID=Europe/Moscow:20260423T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6382\nПара №62\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260423T180000
+DTEND;TZID=Europe/Moscow:20260423T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №17\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260423T200000
+DTEND;TZID=Europe/Moscow:20260423T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №18\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №37\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260427T140000
+DTEND;TZID=Europe/Moscow:20260427T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6242\nПара №63\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1600-640змм-1-640змм-2-640змм-3-научно-исследовательск
+ ая-работ@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260427T160000
+DTEND;TZID=Europe/Moscow:20260427T174000
+SUMMARY:Научно-исследовательская работа (учебная) (зачет) · гр. 640змм-1\, 
+ 640змм-2\, 640змм-3 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 640змм-1\, 640змм-2\, 640змм-3\nАудитория: а.6381\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,640змм-1\, 640змм-2\, 640змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T140000
+DTEND;TZID=Europe/Moscow:20260428T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6248\nПара №64\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T160000
+DTEND;TZID=Europe/Moscow:20260428T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №65\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T180000
+DTEND;TZID=Europe/Moscow:20260428T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6240\nПара №19\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260428T200000
+DTEND;TZID=Europe/Moscow:20260428T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6240\nПара №20\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-0930-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260504T093000
+DTEND;TZID=Europe/Moscow:20260504T111000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №15\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1130-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6116\nПара №16\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1130-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6381\nПара №38\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6242\nПара №68\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T160000
+DTEND;TZID=Europe/Moscow:20260505T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6242\nПара №69\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T180000
+DTEND;TZID=Europe/Moscow:20260505T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №19\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260505T200000
+DTEND;TZID=Europe/Moscow:20260505T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6248\nПара №20\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1400-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №17\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1600-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260507T160000
+DTEND;TZID=Europe/Moscow:20260507T174000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №18\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260507T180000
+DTEND;TZID=Europe/Moscow:20260507T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6117\nПара №21\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1130-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260521T113000
+DTEND;TZID=Europe/Moscow:20260521T131000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6107\nПара №39\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260521T140000
+DTEND;TZID=Europe/Moscow:20260521T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №70\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260521T160000
+DTEND;TZID=Europe/Moscow:20260521T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №71\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260521T180000
+DTEND;TZID=Europe/Moscow:20260521T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6117\nПара №22\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-2000-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260521T200000
+DTEND;TZID=Europe/Moscow:20260521T214000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6117\nПара №23\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-0930-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260525T093000
+DTEND;TZID=Europe/Moscow:20260525T111000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПара №40\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260525T113000
+DTEND;TZID=Europe/Moscow:20260525T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №72\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1400-6541-6542-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260526T140000
+DTEND;TZID=Europe/Moscow:20260526T154000
+SUMMARY:Экономика (лек) · гр. 6541\,6542 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6373\nПара №41\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260526T160000
+DTEND;TZID=Europe/Moscow:20260526T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПара №73\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1800-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260526T180000
+DTEND;TZID=Europe/Moscow:20260526T194000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6245\nПара №21\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-2000-659ву-659вб-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260526T200000
+DTEND;TZID=Europe/Moscow:20260526T214000
+SUMMARY:Экономика (лек) · гр. 659ву\,659вб · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659ву\,659вб\nАудитория: а.6245\nПара №22\nПреподавател
+ ь: Ходос Д.В.
+CATEGORIES:Преподавание,659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260528T140000
+DTEND;TZID=Europe/Moscow:20260528T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №74\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260528T160000
+DTEND;TZID=Europe/Moscow:20260528T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6115\nПара №75\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1800-656вэ9-16-656вэ17-24-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260528T180000
+DTEND;TZID=Europe/Moscow:20260528T194000
+SUMMARY:Экономика (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6115\nПара №24\nПре
+ подаватель: Ходос Д.В.
+CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1400-6541-6542-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260601T140000
+DTEND;TZID=Europe/Moscow:20260601T154000
+SUMMARY:Экономика (лаб) · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №19\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1600-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260601T160000
+DTEND;TZID=Europe/Moscow:20260601T174000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6112\nПара №76\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1400-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260602T140000
+DTEND;TZID=Europe/Moscow:20260602T154000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №77\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1600-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260602T160000
+DTEND;TZID=Europe/Moscow:20260602T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №20\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-0930-6541-6542-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260609T093000
+DTEND;TZID=Europe/Moscow:20260609T111000
+SUMMARY:Экономика (Курс.работа) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №21\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1130-6541-6542-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260609T113000
+DTEND;TZID=Europe/Moscow:20260609T131000
+SUMMARY:Экономика (пр) · гр. 6541\,6542 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6236\nПара №78\nПреподаватель:
+  Ходос Д.В.
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-0930-650змм-1-650змм-2-650змм-3-маркетинг-инноваций-ле
+ к-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260610T093000
+DTEND;TZID=Europe/Moscow:20260610T111000
+SUMMARY:Маркетинг инноваций (лек) · гр. 650змм-1\, 650змм-2\, 650змм-3 · а.
+ 6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6117\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1130-650змм-1-650змм-2-650змм-3-маркетинг-инноваций-ле
+ к-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260610T113000
+DTEND;TZID=Europe/Moscow:20260610T131000
+SUMMARY:Маркетинг инноваций (лек) · гр. 650змм-1\, 650змм-2\, 650змм-3 · а.
+ 6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6117\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260611-0930-6541-6542-экономика-прием-курсовых-работ@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260611T093000
+DTEND;TZID=Europe/Moscow:20260611T111000
+SUMMARY:Экономика (прием курсовых работ) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПреподаватель: Ходос Д.В
+ .
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260611-1130-6541-6542-экономика-прием-курсовых-работ@gtifem.r
+ u
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260611T113000
+DTEND;TZID=Europe/Moscow:20260611T131000
+SUMMARY:Экономика (прием курсовых работ) · гр. 6541\,6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6240\nПреподаватель: Ходос Д.В
+ .
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-0930-650змм-1-650змм-2-650змм-3-маркетинг-инноваций-ле
+ к-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260615T093000
+DTEND;TZID=Europe/Moscow:20260615T111000
+SUMMARY:Маркетинг инноваций (лек) · гр. 650змм-1\, 650змм-2\, 650змм-3 · а.
+ 6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6117\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-1130-650змм-1-650змм-2-650змм-3-маркетинг-инноваций-ле
+ к-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260615T113000
+DTEND;TZID=Europe/Moscow:20260615T131000
+SUMMARY:Маркетинг инноваций (лек) · гр. 650змм-1\, 650змм-2\, 650змм-3 · а.
+ 6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6117\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-1400-650змм-1-650змм-2-650змм-3-маркетинг-инноваций-эк
+ з-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260615T140000
+DTEND;TZID=Europe/Moscow:20260615T154000
+SUMMARY:Маркетинг инноваций (экз) · гр. 650змм-1\, 650змм-2\, 650змм-3 · а.
+ 6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 650змм-1\, 650змм-2\, 650змм-3\nАудитория: а.6117\nПреп
+ одаватель: Ходос Д.В.
+CATEGORIES:Преподавание,650змм-1\, 650змм-2\, 650змм-3
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260629-1400-6501-нир@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260629T140000
+DTEND;TZID=Europe/Moscow:20260629T154000
+SUMMARY:НИР · гр. 6501 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6501\nАудитория: а.6245\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260629-1600-6501-нир@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260629T160000
+DTEND;TZID=Europe/Moscow:20260629T174000
+SUMMARY:НИР · гр. 6501 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6501\nАудитория: а.6245\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-1600-6541-6542-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260707T160000
+DTEND;TZID=Europe/Moscow:20260707T174000
+SUMMARY:Экономика (экз) · гр. 6541\,6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6245\nПреподаватель: Ходос Д.В
+ .
+CATEGORIES:Преподавание,6541\,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-1800-659вл-659вф-658вк-659вм-656вэ9-16-656вэ17-24-экон
+ омика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260707T180000
+DTEND;TZID=Europe/Moscow:20260707T194000
+SUMMARY:Экономика (Курс.работа) · гр. 659вл\,659вф\,658вк\,659вм\, 656вэ9-1
+ 6\,656вэ17-24 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 656вэ9-16\,656вэ17-24\nАуд
+ итория: а.6245\nПреподаватель: Ходос Д.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-2000-659вл-659вф-658вк-659вм-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102639Z
+DTSTART;TZID=Europe/Moscow:20260707T200000
+DTEND;TZID=Europe/Moscow:20260707T214000
+SUMMARY:Экономика (экз) · гр. 659вл\,659вф\,658вк\,659вм · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6245\nПреподав
+ атель: Ходос Д.В.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

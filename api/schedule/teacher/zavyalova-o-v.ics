@@ -1,0 +1,3916 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Завьялова О.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Завьялова О.В., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250902-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №1\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №2\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №1\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №2\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №3\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №4\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №3\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T160000
+DTEND;TZID=Europe/Moscow:20250909T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №5\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №6\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №4\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №5\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №7\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Финансовое планирование и бюджетирование Лекция · гр. 6381 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6381\nАудитория: а.6240\nПара №1\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6381\nАудитория: а.6240\nПара №1\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №8\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №9\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6376\nПара №10\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6376\nПара №1\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6376\nПара №2\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6376\nПара №3\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6381\nАудитория: а.403\nПара №2\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Финансовое планирование и бюджетирование Лекция · гр. 6381 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6381\nАудитория: а.403\nПара №2\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №1\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6373\nПара №6\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №11\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №3\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №1\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №12\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №7\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.406\nПара №8\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.406\nПара №13\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.406\nПара №14\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.406\nПара №15\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6382\nПара №16\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №2\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.408\nПара №3\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.408\nПара №4\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6117\nПара №5\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6117\nПара №9\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Финансовое планирование и бюджетирование Лекция · гр. 6381 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6381\nАудитория: а.101\nПара №3\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа · гр. 6381
+  · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6381\nАудитория: а.101\nПара №1\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №10\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №17\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №18\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №19\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6240\nПара №20\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6240\nПара №21\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6381\nАудитория: а. 6373\nПара №4\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6381\nАудитория: а. 6373\nПара №5\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6381\nАудитория: а.6242\nПара №2\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6381\nАудитория: а.6242\nПара №3\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T093000
+DTEND;TZID=Europe/Moscow:20251016T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №22\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №6\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6376\nПара №7\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6376\nПара №4\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.408\nПара №5\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.408\nПара №11\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Финансовое планирование и бюджетирование Лекция · гр. 6381 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6381\nАудитория: а.6115\nПара №4\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Финансовое планирование и бюджетирование Лекция · гр. 6381 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6381\nАудитория: а.6115\nПара №5\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №12\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №23\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6240\nПара №24\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6240\nПара №25\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T180000
+DTEND;TZID=Europe/Moscow:20251024T184500
+SUMMARY:Финансовое планирование и бюджетирование\, лекц · гр. 639вф · а. 62
+ 48
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T200000
+DTEND;TZID=Europe/Moscow:20251024T204500
+SUMMARY:Финансовое планирование и бюджетирование\, практ · гр. 639вф · а. 6
+ 248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6381\nАудитория: а.6116\nПара №6\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6381\nАудитория: а.6116\nПара №4\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6381\nАудитория: а.414\nПара №7\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6381\nАудитория: а.414\nПара №8\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №26\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №8\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6381\nПара №9\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6381\nПара №13\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T180000
+DTEND;TZID=Europe/Moscow:20251031T184500
+SUMMARY:Финансовое планирование и бюджетирование\, лекц · гр. 639вф · а. 62
+ 35
+LOCATION:а. 6235
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6235\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T200000
+DTEND;TZID=Europe/Moscow:20251031T204500
+SUMMARY:Финансовое планирование и бюджетирование\, практ · гр. 639вф · а. 6
+ 235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6235\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №5\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №6\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6107\nПара №27\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6245\nПара №28\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6378\nПара №6\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6382\nПара №14\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №29\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №30\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №31\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6107\nПара №15\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа · гр. 6381
+  · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 6381\nАудитория: а. 6236\nПара №3\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа · гр. 6381
+  · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 6381\nАудитория: а. 6236\nПара №4\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.401\nПара №16\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.401\nПара №32\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа (перен
+ ос с 05.11.2025) · гр. 6381 · 6236
+LOCATION:6236
+DESCRIPTION:Группа: 6381\nАудитория: 6236\nПара №7\nПреподаватель: Завьялов
+ а О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа (перенос с
+  05.11.2025) · гр. 6381 · 6376
+LOCATION:6376
+DESCRIPTION:Группа: 6381\nАудитория: 6376\nПара №2\nПреподаватель: Завьялов
+ а О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №33\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №34\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T180000
+DTEND;TZID=Europe/Moscow:20251112T184500
+SUMMARY:Финансовое планирование и бюджетирование\, практ · гр. 639вф · а. 6
+ 381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6381\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T200000
+DTEND;TZID=Europe/Moscow:20251112T204500
+SUMMARY:Финансовое планирование и бюджетирование\, практ · гр. 639вф · а. 6
+ 381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6381\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.401\nПара №17\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.401\nПара №35\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-1855-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251116T185500
+DTEND;TZID=Europe/Moscow:20251116T194000
+SUMMARY:Финансовое планирование и бюджетирование\, лаб · гр. 639вф · а. 638
+ 1
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6381\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6378\nПара №36\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T160000
+DTEND;TZID=Europe/Moscow:20251117T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6242\nПара №10\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа · гр. 6381
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6381\nАудитория: а.414\nПара №5\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T160000
+DTEND;TZID=Europe/Moscow:20251118T174000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6381\nАудитория: а.414\nПара №9\nПреподаватель: Завьяло
+ ва О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T180000
+DTEND;TZID=Europe/Moscow:20251118T184500
+SUMMARY:Финансовое планирование и бюджетирование\, КР · гр. 639вф · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6381\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №11\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6381\nПара №18\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T180000
+DTEND;TZID=Europe/Moscow:20251119T184500
+SUMMARY:Финансовое планирование и бюджетирование\, лаб · гр. 639вф · а. 638
+ 1
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6381\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T200000
+DTEND;TZID=Europe/Moscow:20251119T204500
+SUMMARY:Финансовое планирование и бюджетирование\, лаб · гр. 639вф · а. 638
+ 1
+LOCATION:а. 6381
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6381\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №19\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №37\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6381\nАудитория: а.6245\nПара №14\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа · гр. 6381
+  · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6381\nАудитория: а.6245\nПара №8\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №38\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6117\nПара №39\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №12\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №13\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №7\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №40\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T180000
+DTEND;TZID=Europe/Moscow:20251126T184500
+SUMMARY:Финансовое планирование и бюджетирование\, КР · гр. 639вф · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6236\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T200000
+DTEND;TZID=Europe/Moscow:20251126T204500
+SUMMARY:Финансовое планирование и бюджетирование\, КР · гр. 639вф · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6236\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а. 6248\nПара №41\nПреподаватель
+ : Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а. 6248\nПара №42\nПреподаватель
+ : Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а. 6382\nПара №20\nПреподаватель
+ : Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а. 6382\nПара №21\nПреподаватель
+ : Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T093000
+DTEND;TZID=Europe/Moscow:20251203T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6249\nПара №43\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №44\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа · гр. 6381
+  · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6381\nАудитория: а.6376\nПара №9\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Финансовое планирование и бюджетирование Курсовая работа · гр. 6381
+  · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6381\nАудитория: а.6376\nПара №10\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №14\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лабораторная работ
+ а · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №15\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Финансовое планирование и бюджетирование Лекция · гр. 6381 · а. 637
+ 3
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6381\nАудитория: а. 6373\nПара №9\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Финансовое планирование и бюджетирование Лекция · гр. 6381 · а. 637
+ 3
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6381\nАудитория: а. 6373\nПара №10\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6378\nПара №8\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №22\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №15\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №14\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №45\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №46\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T180000
+DTEND;TZID=Europe/Moscow:20251215T184500
+SUMMARY:Финансовое планирование и бюджетирование\, лекц · гр. 639вф · а. 62
+ 48
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T200000
+DTEND;TZID=Europe/Moscow:20251215T204500
+SUMMARY:Финансовое планирование и бюджетирование\, лекц · гр. 639вф · а. 62
+ 48
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T093000
+DTEND;TZID=Europe/Moscow:20251217T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №23\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.403\nПара №47\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T140000
+DTEND;TZID=Europe/Moscow:20251217T154000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6381\nАудитория: а.6248\nПара №10\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T160000
+DTEND;TZID=Europe/Moscow:20251217T174000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6381\nАудитория: а.6248\nПара №17\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №48\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Лекция · гр. 6241\
+ ,6242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №24\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T180000
+DTEND;TZID=Europe/Moscow:20251222T184500
+SUMMARY:Финансовое планирование и бюджетирование\, лекц · гр. 639вф · а. 62
+ 48
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T200000
+DTEND;TZID=Europe/Moscow:20251222T204500
+SUMMARY:Финансовое планирование и бюджетирование\, практ · гр. 639вф · а. 6
+ 248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 639вф\nАудитория: а. 6248\nПара №-\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Финансовое планирование и бюджетирование Практическое занятие · гр.
+  6381 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6381\nАудитория: а.6382\nПара №18\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6381\nАудитория: а.6378\nПара №11\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T093000
+DTEND;TZID=Europe/Moscow:20251225T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6381\nПара №49\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Практическое занят
+ ие · гр. 6241\,6242 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6381\nПара №50\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6381\nАудитория: а.405\nПара №12\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Финансовое планирование и бюджетирование Лабораторная работа · гр. 
+ 6381 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6381\nАудитория: а.405\nПара №13\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №9\nПреподаватель: З
+ авьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика Курсовая работа · 
+ гр. 6241\,6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №10\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260113T093000
+DTEND;TZID=Europe/Moscow:20260113T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6373\nПара №25\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260113T113000
+DTEND;TZID=Europe/Moscow:20260113T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №51\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6117\nПара №16\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6381\nАудитория: а.6382\nПара №11\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6381\nАудитория: а.6382\nПара №12\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №52\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6242\nПара №17\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6381\nАудитория: а.409\nПара №19\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6381\nАудитория: а.409\nПара №20\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260119T093000
+DTEND;TZID=Europe/Moscow:20260119T111000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6381\nАудитория: а.6249\nПара №14\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №15\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.414\nПара №26\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №16\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №17\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260122T140000
+DTEND;TZID=Europe/Moscow:20260122T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №53\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260122T160000
+DTEND;TZID=Europe/Moscow:20260122T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6382\nПара №54\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №55\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №56\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6381\nАудитория: а.6242\nПара №11\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260127T093000
+DTEND;TZID=Europe/Moscow:20260127T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (Курс.работа) · гр
+ . 6241\,6242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №11\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260127T113000
+DTEND;TZID=Europe/Moscow:20260127T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №57\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260127T140000
+DTEND;TZID=Europe/Moscow:20260127T154000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №12\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260127T160000
+DTEND;TZID=Europe/Moscow:20260127T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №58\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T113000
+DTEND;TZID=Europe/Moscow:20260128T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.411\nПара №27\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.411\nПара №59\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №13\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260129T093000
+DTEND;TZID=Europe/Moscow:20260129T111000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №14\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260129T113000
+DTEND;TZID=Europe/Moscow:20260129T131000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №15\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6373\nПара №28\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №60\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №18\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №29\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №19\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6381\nАудитория: а.6381\nПара №13\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T180000
+DTEND;TZID=Europe/Moscow:20260204T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №1\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T200000
+DTEND;TZID=Europe/Moscow:20260204T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №2\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260205T093000
+DTEND;TZID=Europe/Moscow:20260205T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №61\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №62\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6381\nАудитория: а.6381\nПара №14\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6381\nПара №30\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (Курс.работа) · гр
+ . 6241\,6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №12\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (Курс.работа) · гр
+ . 6241\,6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №13\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6381\nАудитория: а.6376\nПара №21\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №20\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6117\nПара №21\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6240\nПара №31\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПара №63\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6381\nАудитория: а.101\nПара №15\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6381\nПара №32\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6381\nАудитория: а.414\nПара №22\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6381\nАудитория: а.405\nПара №16\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6381\nАудитория: а.403\nПара №23\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6381\nАудитория: а.403\nПара №17\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №65\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T180000
+DTEND;TZID=Europe/Moscow:20260216T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №3\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T200000
+DTEND;TZID=Europe/Moscow:20260216T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №4\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6381\nАудитория: а.6116\nПара №18\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T140000
+DTEND;TZID=Europe/Moscow:20260218T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №66\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T160000
+DTEND;TZID=Europe/Moscow:20260218T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПара №22\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №67\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6381\nАудитория: а.101\nПара №24\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6248\nПара №33\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.101\nПара №68\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №34\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T160000
+DTEND;TZID=Europe/Moscow:20260224T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6373\nПара №35\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T093000
+DTEND;TZID=Europe/Moscow:20260225T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №69\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №70\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №71\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T160000
+DTEND;TZID=Europe/Moscow:20260227T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.106\nПара №72\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T093000
+DTEND;TZID=Europe/Moscow:20260302T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6373\nПара №36\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №73\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6107\nПара №37\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №74\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6116\nПара №75\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T180000
+DTEND;TZID=Europe/Moscow:20260304T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №5\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T200000
+DTEND;TZID=Europe/Moscow:20260304T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №6\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6378\nПара №23\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6378\nПара №24\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6382\nПара №38\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.414\nПара №76\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.414\nПара №77\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6381\nАудитория: а.6236\nПара №28\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6381\nАудитория: а.6236\nПара №20\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лек) · гр. 6241\,
+ 6242 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.401\nПара №39\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260311T093000
+DTEND;TZID=Europe/Moscow:20260311T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6378\nПара №78\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.406\nПара №79\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6242\nПара №25\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (лаб) · гр. 6241\,
+ 6242 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6242\nПара №26\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T180000
+DTEND;TZID=Europe/Moscow:20260312T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 639вф\nАудитория: а.6245\nПара №7\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260312T200000
+DTEND;TZID=Europe/Moscow:20260312T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 639вф\nАудитория: а.6245\nПара №8\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.414\nПара №80\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.414\nПара №81\nПреподаватель: 
+ Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6373\nПара №82\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6373\nПара №83\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1130-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T113000
+DTEND;TZID=Europe/Moscow:20260317T131000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (пр) · гр. 6241\,6
+ 242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №84\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1400-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T140000
+DTEND;TZID=Europe/Moscow:20260317T154000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (Курс.работа) · гр
+ . 6241\,6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №14\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1600-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T160000
+DTEND;TZID=Europe/Moscow:20260317T174000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (Курс.работа) · гр
+ . 6241\,6242 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6236\nПара №15\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6381\nАудитория: а.6381\nПара №18\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6381\nАудитория: а.6381\nПара №19\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260326T093000
+DTEND;TZID=Europe/Moscow:20260326T111000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №29\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №30\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-0930-6241-6242-консультация-по-умма@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260330T093000
+DTEND;TZID=Europe/Moscow:20260330T111000
+SUMMARY:Консультация по УММА · гр. 6241\,6242 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6115\nПреподаватель: Завьялова
+  О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260330T140000
+DTEND;TZID=Europe/Moscow:20260330T154000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6381\nАудитория: а.6112\nПара №21\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260330T160000
+DTEND;TZID=Europe/Moscow:20260330T174000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6381\nАудитория: а.6117\nПара №22\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-0930-6241-6242-управление-маркетингом-и-марке@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Управление маркетингом и маркетинговая аналитика (экз) · гр. 6241\,
+ 6242 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6241\,6242\nАудитория: а.6112\nПреподаватель: Завьялова
+  О.В.
+CATEGORIES:Преподавание,6241\,6242
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260406T093000
+DTEND;TZID=Europe/Moscow:20260406T111000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6381\nАудитория: а.6116\nПара №16\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6381\nАудитория: а.6116\nПара №17\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260408T093000
+DTEND;TZID=Europe/Moscow:20260408T111000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6381\nАудитория: а.6236\nПара №31\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260408T113000
+DTEND;TZID=Europe/Moscow:20260408T131000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6381\nАудитория: а.6378\nПара №32\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6381\nАудитория: а.6115\nПара №20\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 6381 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6381\nАудитория: а.6115\nПара №21\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T160000
+DTEND;TZID=Europe/Moscow:20260409T174000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6381\nАудитория: а.6115\nПара №33\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T180000
+DTEND;TZID=Europe/Moscow:20260409T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 639вф\nАудитория: а.6117\nПара №9\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260409T200000
+DTEND;TZID=Europe/Moscow:20260409T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 639вф\nАудитория: а.6117\nПара №10\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-0930-6321-6361-маркетинговая-деятельность-и-м@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260413T093000
+DTEND;TZID=Europe/Moscow:20260413T111000
+SUMMARY:Маркетинговая деятельность и маркетинг B2C и B2B (лаб) · гр. 6321\,
+  6361 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6361\nАудитория: а.6236\nПара №19\nПреподаватель
+ : Завьялова О.В.
+CATEGORIES:Преподавание,6321\, 6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1130-6321-6361-маркетинговая-деятельность-и-м@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260413T113000
+DTEND;TZID=Europe/Moscow:20260413T131000
+SUMMARY:Маркетинговая деятельность и маркетинг B2C и B2B (лаб) · гр. 6321\,
+  6361 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6321\, 6361\nАудитория: а.6236\nПара №20\nПреподаватель
+ : Завьялова О.В.
+CATEGORIES:Преподавание,6321\, 6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T093000
+DTEND;TZID=Europe/Moscow:20260416T111000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №34\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260416T113000
+DTEND;TZID=Europe/Moscow:20260416T131000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6381\nАудитория: а.6235\nПара №23\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6381\nАудитория: а.408\nПара №18\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6381\nАудитория: а.408\nПара №19\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6381\nАудитория: а.408\nПара №24\nПреподаватель: Завьял
+ ова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T160000
+DTEND;TZID=Europe/Moscow:20260423T174000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6381\nАудитория: а.6236\nПара №20\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T180000
+DTEND;TZID=Europe/Moscow:20260423T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №11\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260423T200000
+DTEND;TZID=Europe/Moscow:20260423T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639вф\nАудитория: а.6235\nПара №12\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1400-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6381\nАудитория: а.6376\nПара №21\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260424T160000
+DTEND;TZID=Europe/Moscow:20260424T174000
+SUMMARY:Финансовое планирование и бюджетирование (Курс.работа) · гр. 6381 ·
+  а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6381\nАудитория: а.6376\nПара №22\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6381\nАудитория: а.6242\nПара №25\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Финансовое планирование и бюджетирование (лаб) · гр. 6381 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6381\nАудитория: а.6242\nПара №26\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-0930-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T093000
+DTEND;TZID=Europe/Moscow:20260430T111000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6381\nАудитория: а.6249\nПара №35\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1130-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260430T113000
+DTEND;TZID=Europe/Moscow:20260430T131000
+SUMMARY:Финансовое планирование и бюджетирование (пр) · гр. 6381 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6381\nАудитория: а.6382\nПара №36\nПреподаватель: Завья
+ лова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260512T180000
+DTEND;TZID=Europe/Moscow:20260512T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вф\nАудитория: а.6248\nПара №13\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260512T200000
+DTEND;TZID=Europe/Moscow:20260512T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 639вф\nАудитория: а.6248\nПара №14\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1600-6381-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260521T160000
+DTEND;TZID=Europe/Moscow:20260521T174000
+SUMMARY:Финансовое планирование и бюджетирование (экз) · гр. 6381 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6381\nАудитория: а.6245\nПреподаватель: Завьялова О.В.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260521T180000
+DTEND;TZID=Europe/Moscow:20260521T194000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 639вф\nАудитория: а.6245\nПара №15\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-2000-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260521T200000
+DTEND;TZID=Europe/Moscow:20260521T214000
+SUMMARY:Финансовое планирование и бюджетирование (лек) · гр. 639вф · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 639вф\nАудитория: а.6245\nПара №16\nПреподаватель: Завь
+ ялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1800-626вэ1-9-626вэ10-18-экономика-развития-предприяти
+ й@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260526T180000
+DTEND;TZID=Europe/Moscow:20260526T194000
+SUMMARY:Экономика развития предприятий и организаций (экз) · гр. 626вэ1-9\,
+ 626вэ10-18 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 626вэ1-9\,626вэ10-18\nАудитория: а.6116\nПреподаватель:
+  Завьялова О.В.
+CATEGORIES:Преподавание,626вэ1-9\,626вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260702-1800-639вф-финансовое-планирование-и-бюдж@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260702T180000
+DTEND;TZID=Europe/Moscow:20260702T194000
+SUMMARY:Финансовое планирование и бюджетирование (экз) · гр. 639вф · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 639вф\nАудитория: а.6116\nПреподаватель: Завьялова О.В.
+CATEGORIES:Преподавание,639вф
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

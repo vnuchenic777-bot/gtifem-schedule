@@ -1,0 +1,714 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Попов К.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Попов К.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Позиционирование электронных предприятий Лекц. · гр. 6231\,6232 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 5\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 1
+LOCATION:1
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 1\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.6117\nПара №2\nПреподаватель: 
+ Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Позиционирование электронных предприятий Лекц. · гр. 6231\,6232 · а
+ .6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.6117\nПара №6\nПреподаватель: 
+ Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 3
+LOCATION:3
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 3\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 4
+LOCATION:4
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 4\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Позиционирование электронных предприятий Лекц. · гр. 6231\,6232 · 7
+LOCATION:7
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 7\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 5\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1800-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251001T180000
+DTEND;TZID=Europe/Moscow:20251001T184500
+SUMMARY:IT-инфраструктура предприятия\, лекц. · гр. 639вб · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6382\nПара №-\nПреподаватель: Попо
+ в К.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-2000-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251001T200000
+DTEND;TZID=Europe/Moscow:20251001T204500
+SUMMARY:IT-инфраструктура предприятия\, практ · гр. 639вб · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6382\nПара №-\nПреподаватель: Попо
+ в К.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 6
+LOCATION:6
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 6\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Позиционирование электронных предприятий Практическое занятие. · гр
+ . 6231\,6232 · 3
+LOCATION:3
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 3\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Позиционирование электронных предприятий Лекц. · гр. 6231\,6232 · 8
+LOCATION:8
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 8\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 7
+LOCATION:7
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 7\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1800-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251008T180000
+DTEND;TZID=Europe/Moscow:20251008T184500
+SUMMARY:IT-инфраструктура предприятия\, лаб · гр. 639вб · 6249
+LOCATION:6249
+DESCRIPTION:Группа: 639вб\nАудитория: 6249\nПара №-\nПреподаватель: Попов К
+ .А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-2000-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251008T200000
+DTEND;TZID=Europe/Moscow:20251008T204500
+SUMMARY:IT-инфраструктура предприятия\, лаб · гр. 639вб · 6249
+LOCATION:6249
+DESCRIPTION:Группа: 639вб\nАудитория: 6249\nПара №-\nПреподаватель: Попов К
+ .А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 8
+LOCATION:8
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 8\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 9
+LOCATION:9
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 9\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 10\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 11\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1800-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T180000
+DTEND;TZID=Europe/Moscow:20251015T184500
+SUMMARY:IT-инфраструктура предприятия\, лаб · гр. 639вб · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6115\nПара №-\nПреподаватель: Попо
+ в К.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-2000-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T200000
+DTEND;TZID=Europe/Moscow:20251015T204500
+SUMMARY:IT-инфраструктура предприятия\, лаб · гр. 639вб · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6115\nПара №-\nПреподаватель: Попо
+ в К.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:Позиционирование электронных предприятий Практическое занятие. · гр
+ . 6231\,6232 · 4
+LOCATION:4
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 4\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Позиционирование электронных предприятий Лекц. · гр. 6231\,6232 · 9
+LOCATION:9
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 9\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Позиционирование электронных предприятий Лекц. · гр. 6231\,6232 · 1
+ 0
+LOCATION:10
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 10\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 12\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 13
+LOCATION:13
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 13\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 14
+LOCATION:14
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 14\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1800-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T180000
+DTEND;TZID=Europe/Moscow:20251029T184500
+SUMMARY:IT-инфраструктура предприятия\, КР · гр. 639вб · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6373\nПара №-\nПреподаватель: Попо
+ в К.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-2000-639вб-it-инфраструктура-предприятия-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T200000
+DTEND;TZID=Europe/Moscow:20251029T204500
+SUMMARY:IT-инфраструктура предприятия\, КР · гр. 639вб · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6373\nПара №-\nПреподаватель: Попо
+ в К.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 15
+LOCATION:15
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 15\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Позиционирование электронных предприятий Практическое занятие. · гр
+ . 6231\,6232 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 5\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 16
+LOCATION:16
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 16\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторное занятие. · гр
+ . 6231\,6232 · 17
+LOCATION:17
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 17\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Позиционирование электронных предприятий Практическое занятие. · гр
+ . 6231\,6232 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 5\nПара №Онлайн занятие\nПрепода
+ ватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторная работа. · гр.
+  6231\,6232 · 20
+LOCATION:20
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 20\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Позиционирование электронных предприятий Лабораторная работа. · гр.
+  6231\,6232 · 21
+LOCATION:21
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 21\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Позиционирование электронных предприятий Лабораторная работа. · гр.
+  6231\,6232 · 22
+LOCATION:22
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 22\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Позиционирование электронных предприятий Практическое занятие. · гр
+ . 6231\,6232 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 10\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Позиционирование электронных предприятий Лекция · гр. 6231\,6232 · 
+ 15
+LOCATION:15
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 15\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Позиционирование электронных предприятий Лабораторная работа · гр. 
+ 6231\,6232 · 23
+LOCATION:23
+DESCRIPTION:Группа: 6231\,6232\nАудитория: 23\nПара №Онлайн занятие\nПрепод
+ аватель: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260116T093000
+DTEND;TZID=Europe/Moscow:20260116T111000
+SUMMARY:Позиционирование электронных предприятий (лаб) · гр. 6231\,6232 · а
+ .ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.ОНЛАЙН\nПара №24\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Позиционирование электронных предприятий (лаб) · гр. 6231\,6232 · а
+ .ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.ОНЛАЙН\nПара №25\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Позиционирование электронных предприятий (Курс.работа) · гр. 6231\,
+ 6232 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.ОНЛАЙН\nПара №15\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Позиционирование электронных предприятий (Курс.работа) · гр. 6231\,
+ 6232 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.ОНЛАЙН\nПара №16\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260126T140000
+DTEND;TZID=Europe/Moscow:20260126T154000
+SUMMARY:Позиционирование электронных предприятий (Курс.работа) · гр. 6231\,
+ 6232 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.ОНЛАЙН\nПара №17\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:Позиционирование электронных предприятий (Курс.работа) · гр. 6231\,
+ 6232 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.ОНЛАЙН\nПара №18\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:Позиционирование электронных предприятий (лек) · гр. 6231\,6232 · а
+ .Онлайн
+LOCATION:а.Онлайн
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.Онлайн\nПара №16\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Позиционирование электронных предприятий (лек) · гр. 6231\,6232 · а
+ .Онлайн
+LOCATION:а.Онлайн
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.Онлайн\nПара №17\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Позиционирование электронных предприятий (лек) · гр. 6231\,6232 · а
+ .Онлайн
+LOCATION:а.Онлайн
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.Онлайн\nПара №18\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6231-6232-позиционирование-электронных-п@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Позиционирование электронных предприятий (лек) · гр. 6231\,6232 · а
+ .Онлайн
+LOCATION:а.Онлайн
+DESCRIPTION:Группа: 6231\,6232\nАудитория: а.Онлайн\nПара №19\nПреподавател
+ ь: Попов К.А.
+CATEGORIES:Преподавание,6231\,6232
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

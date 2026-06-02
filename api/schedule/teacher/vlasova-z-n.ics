@@ -20,7 +20,7 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250904-1130-6451-6452-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
 DTEND;TZID=Europe/Moscow:20250904T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -34,7 +34,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -48,7 +48,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1130-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250905T113000
 DTEND;TZID=Europe/Moscow:20250905T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -62,7 +62,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250908-1130-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250908T113000
 DTEND;TZID=Europe/Moscow:20250908T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -76,7 +76,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250909-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250909T140000
 DTEND;TZID=Europe/Moscow:20250909T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -90,7 +90,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1130-6451-6452-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250911T113000
 DTEND;TZID=Europe/Moscow:20250911T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -104,7 +104,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1130-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250912T113000
 DTEND;TZID=Europe/Moscow:20250912T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -118,7 +118,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -132,7 +132,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250917-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250917T140000
 DTEND;TZID=Europe/Moscow:20250917T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -146,7 +146,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1400-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -160,7 +160,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1130-6251-6252-6451-6452-элективные-курсы-по-физическо
  й@gtifem.ru
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -174,7 +174,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1130-6251-6252-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250929T113000
 DTEND;TZID=Europe/Moscow:20250929T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -188,7 +188,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1400-6451-6452-элективные-курсы-по-физической@gtifem.r
  u
-DTSTAMP:20260528T175446Z
+DTSTAMP:20260602T102635Z
 DTSTART;TZID=Europe/Moscow:20250929T140000
 DTEND;TZID=Europe/Moscow:20250929T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят

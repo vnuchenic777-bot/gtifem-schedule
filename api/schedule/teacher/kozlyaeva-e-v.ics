@@ -1,0 +1,3968 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Козляева Е.В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Козляева Е.В., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250901-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250908T140000
+DTEND;TZID=Europe/Moscow:20250908T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250917T113000
+DTEND;TZID=Europe/Moscow:20250917T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T093000
+DTEND;TZID=Europe/Moscow:20250930T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251010T140000
+DTEND;TZID=Europe/Moscow:20251010T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T093000
+DTEND;TZID=Europe/Moscow:20251021T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T093000
+DTEND;TZID=Europe/Moscow:20251111T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251114T093000
+DTEND;TZID=Europe/Moscow:20251114T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T093000
+DTEND;TZID=Europe/Moscow:20251117T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T093000
+DTEND;TZID=Europe/Moscow:20251118T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T093000
+DTEND;TZID=Europe/Moscow:20251216T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-0930-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251218T093000
+DTEND;TZID=Europe/Moscow:20251218T111000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ лекция · 
+ гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T093000
+DTEND;TZID=Europe/Moscow:20251223T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-442-144-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 442\,144 · ауд. 7-322
+LOCATION:ауд. 7-322
+DESCRIPTION:Группа: 442\,144\nАудитория: ауд. 7-322\nПара №Козляева Е.В.\nП
+ реподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,442\,144
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1130-422-422а-организация-и-планирование-авт@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:ОРГАНИЗАЦИЯ И ПЛАНИРОВАНИЕ АВТОМАТИЗИРОВАННЫХ ПРОИЗВОДСТВ практика 
+ · гр. 422\,422а · а. 260
+LOCATION:а. 260
+DESCRIPTION:Группа: 422\,422а\nАудитория: а. 260\nПара №Козляева Е.В.\nПреп
+ одаватель: Козляева Е.В.
+CATEGORIES:Преподавание,422\,422а
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-2041-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2041 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 2041\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2041
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-0930-441-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 441 · ауд. 258
+LOCATION:ауд. 258
+DESCRIPTION:Группа: 441\nАудитория: ауд. 258\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-344-345-441-442-446-основы-экономики-и-менеджмент
+ а@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 344\,345\,441\,442\,446
+  · ауд. 306
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 344\,345\,441\,442\,446\nАудитория: ауд. 306\nПара №Коз
+ ляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,345\,441\,442\,446
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-344-343-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 344\,343 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 344\,343\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,344\,343
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-546-548-5468-основы-экономики-и-менеджмента@gtife
+ m.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 546\,548\,5468 · ауд. 3
+ 06
+LOCATION:ауд. 306
+DESCRIPTION:Группа: 546\,548\,5468\nАудитория: ауд. 306\nПара №Козляева Е.В
+ .\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,546\,548\,5468
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-143-144-2045-2046-основы-экономики-и-менеджмента@
+ gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,144\,2045\,2046 
+ · ауд.306
+LOCATION:ауд.306
+DESCRIPTION:Группа: 143\,144\,2045\,2046\nАудитория: ауд.306\nПара №Козляев
+ а Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,144\,2045\,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-2046-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 2046 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 2046\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,2046
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251230-0930-143-244-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251230T093000
+DTEND;TZID=Europe/Moscow:20251230T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 143\,244 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 143\,244\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПре
+ подаватель: Козляева Е.В.
+CATEGORIES:Преподавание,143\,244
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251230-1130-246-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20251230T113000
+DTEND;TZID=Europe/Moscow:20251230T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 246 · ауд. 260
+LOCATION:ауд. 260
+DESCRIPTION:Группа: 246\nАудитория: ауд. 260\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,246
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T093000
+DTEND;TZID=Europe/Moscow:20260210T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260210T113000
+DTEND;TZID=Europe/Moscow:20260210T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T140000
+DTEND;TZID=Europe/Moscow:20260218T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260218T160000
+DTEND;TZID=Europe/Moscow:20260218T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260223-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260223T113000
+DTEND;TZID=Europe/Moscow:20260223T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260223-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260223T140000
+DTEND;TZID=Europe/Moscow:20260223T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T093000
+DTEND;TZID=Europe/Moscow:20260224T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260225T140000
+DTEND;TZID=Europe/Moscow:20260225T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T113000
+DTEND;TZID=Europe/Moscow:20260302T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T140000
+DTEND;TZID=Europe/Moscow:20260304T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260304T160000
+DTEND;TZID=Europe/Moscow:20260304T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260309-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260309T113000
+DTEND;TZID=Europe/Moscow:20260309T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260309-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260309T140000
+DTEND;TZID=Europe/Moscow:20260309T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260313T093000
+DTEND;TZID=Europe/Moscow:20260313T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260317T113000
+DTEND;TZID=Europe/Moscow:20260317T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T113000
+DTEND;TZID=Europe/Moscow:20260318T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260318T160000
+DTEND;TZID=Europe/Moscow:20260318T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260320T093000
+DTEND;TZID=Europe/Moscow:20260320T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260324T093000
+DTEND;TZID=Europe/Moscow:20260324T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260325T140000
+DTEND;TZID=Europe/Moscow:20260325T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260327T093000
+DTEND;TZID=Europe/Moscow:20260327T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260330T113000
+DTEND;TZID=Europe/Moscow:20260330T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260330T140000
+DTEND;TZID=Europe/Moscow:20260330T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260331T093000
+DTEND;TZID=Europe/Moscow:20260331T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260331T113000
+DTEND;TZID=Europe/Moscow:20260331T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260401T113000
+DTEND;TZID=Europe/Moscow:20260401T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260401T160000
+DTEND;TZID=Europe/Moscow:20260401T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260406T113000
+DTEND;TZID=Europe/Moscow:20260406T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-0930-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T093000
+DTEND;TZID=Europe/Moscow:20260407T111000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130-147м-технологическое-предпринимател@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260407T113000
+DTEND;TZID=Europe/Moscow:20260407T131000
+SUMMARY:ТЕХНОЛОГИЧЕСКОЕ ПРЕДПРИНИМАТЕЛЬСТВО практика/лекция · гр. 147м · ау
+ д. 357
+LOCATION:ауд. 357
+DESCRIPTION:Группа: 147м\nАудитория: ауд. 357\nПара №Козляева Е.В.\nПрепода
+ ватель: Козляева Е.В.
+CATEGORIES:Преподавание,147м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260408T113000
+DTEND;TZID=Europe/Moscow:20260408T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260408T140000
+DTEND;TZID=Europe/Moscow:20260408T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260410T093000
+DTEND;TZID=Europe/Moscow:20260410T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260413T113000
+DTEND;TZID=Europe/Moscow:20260413T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260415T113000
+DTEND;TZID=Europe/Moscow:20260415T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260415T140000
+DTEND;TZID=Europe/Moscow:20260415T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260415T160000
+DTEND;TZID=Europe/Moscow:20260415T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260420T140000
+DTEND;TZID=Europe/Moscow:20260420T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260422T113000
+DTEND;TZID=Europe/Moscow:20260422T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260422T140000
+DTEND;TZID=Europe/Moscow:20260422T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260424T093000
+DTEND;TZID=Europe/Moscow:20260424T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260427T140000
+DTEND;TZID=Europe/Moscow:20260427T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260429T113000
+DTEND;TZID=Europe/Moscow:20260429T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260508T093000
+DTEND;TZID=Europe/Moscow:20260508T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T140000
+DTEND;TZID=Europe/Moscow:20260513T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260513T160000
+DTEND;TZID=Europe/Moscow:20260513T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260515T093000
+DTEND;TZID=Europe/Moscow:20260515T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260518T113000
+DTEND;TZID=Europe/Moscow:20260518T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260518T140000
+DTEND;TZID=Europe/Moscow:20260518T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260522T093000
+DTEND;TZID=Europe/Moscow:20260522T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1130-543-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260525T113000
+DTEND;TZID=Europe/Moscow:20260525T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 543 · ауд. 259
+LOCATION:ауд. 259
+DESCRIPTION:Группа: 543\nАудитория: ауд. 259\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,543
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1400-540-541-542-547-549а-549б-340-341-342-основы-экон
+ омики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260525T140000
+DTEND;TZID=Europe/Moscow:20260525T154000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 540\, 541\, 542\, 547\,
+  549а\, 549б\, 340\, 341\, 342 · ауд. 201
+LOCATION:ауд. 201
+DESCRIPTION:Группа: 540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 342\n
+ Аудитория: ауд. 201\nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,540\, 541\, 542\, 547\, 549а\, 549б\, 340\, 341\, 3
+ 42
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1130-340-основы-экономики-и-менеджмента@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260527T113000
+DTEND;TZID=Europe/Moscow:20260527T131000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА практика · гр. 340 · ауд. 392
+LOCATION:ауд. 392
+DESCRIPTION:Группа: 340\nАудитория: ауд. 392\nПара №Козляева Е.В.\nПреподав
+ атель: Козляева Е.В.
+CATEGORIES:Преподавание,340
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1400-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260527T140000
+DTEND;TZID=Europe/Moscow:20260527T154000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1600-3572м-457м-458м-4510м-4511м-технико-экономический
+ -анализ-л@gtifem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260527T160000
+DTEND;TZID=Europe/Moscow:20260527T174000
+SUMMARY:ТЕХНИКО - ЭКОНОМИЧЕСКИЙ АНАЛИЗ лекция · гр. 3572м\, 457м\, 458м\,45
+ 10м\, 4511м · ауд 306
+LOCATION:ауд 306
+DESCRIPTION:Группа: 3572м\, 457м\, 458м\,4510м\, 4511м\nАудитория: ауд 306\
+ nПара №Козляева Е.В.\nПреподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,3572м\, 457м\, 458м\,4510м\, 4511м
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-0930-4504-4505-основы-экономики-и-менеджмента@gtifem.r
+ u
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260529T093000
+DTEND;TZID=Europe/Moscow:20260529T111000
+SUMMARY:ОСНОВЫ ЭКОНОМИКИ И МЕНЕДЖМЕНТА лекция · гр. 4504\, 4505 · ауд. 215
+LOCATION:ауд. 215
+DESCRIPTION:Группа: 4504\, 4505\nАудитория: ауд. 215\nПара №Козляева Е.В.\n
+ Преподаватель: Козляева Е.В.
+CATEGORIES:Преподавание,4504\, 4505
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260709-1800-636вэ1-9-636вэ10-18-экономический-анализ-экз-@gti
+ fem.ru
+DTSTAMP:20260602T102636Z
+DTSTART;TZID=Europe/Moscow:20260709T180000
+DTEND;TZID=Europe/Moscow:20260709T194000
+SUMMARY:Экономический анализ (экз) · гр. 636вэ1-9\,636вэ10-18 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 636вэ1-9\,636вэ10-18\nАудитория: а.6117\nПреподаватель:
+  Козляева Е.В.
+CATEGORIES:Преподавание,636вэ1-9\,636вэ10-18
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

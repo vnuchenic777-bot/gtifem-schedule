@@ -1,0 +1,4697 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Погожева С.Ю. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Погожева С.Ю., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250901-0930-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.401\nПара №1\nПре
+ подаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.401\nПара №1\nПреподаватель: П
+ огожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-0930-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №2\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №2\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №2\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1600-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6107\nПара №2\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №3\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-1130-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №3\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №3\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6117\nПара №3\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-0930-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6240\nПара №4\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6240\nПара №5\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-0930-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6240\nПара №4\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6240\nПара №5\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-0930-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250917T093000
+DTEND;TZID=Europe/Moscow:20250917T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6235\nПара №1\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1130-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250917T113000
+DTEND;TZID=Europe/Moscow:20250917T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6235\nПара №2\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.411\nПара №4\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.411\nПара №6\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №1\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №2\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.406\nПара №4\nПре
+ подаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.406\nПара №6\nПреподаватель: П
+ огожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №7\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №3\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №7\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1600-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №3\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-0930-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6235\nПара №4\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6235\nПара №8\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6236\nПара №4\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6236\nПара №8\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №9\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №5\nПре
+ подаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.403\nПара №9\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.403\nПара №5\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.106\nПара №10\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.106\nПара №6\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №10\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №6\nПре
+ подаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №11\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №12\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №11\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №12\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.406\nПара №13\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.406\nПара №7\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-0930-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251010T093000
+DTEND;TZID=Europe/Moscow:20251010T111000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.414\nПара №8\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251010-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251010T113000
+DTEND;TZID=Europe/Moscow:20251010T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.414\nПара №14\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №15\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1600-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №16\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №8\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПара №14\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T093000
+DTEND;TZID=Europe/Moscow:20251015T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6378\nПара №5\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6378\nПара №6\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПара №15\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1600-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПара №16\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-0930-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251017T093000
+DTEND;TZID=Europe/Moscow:20251017T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №5\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №6\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-0930-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №9\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №17\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПара №9\nПре
+ подаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6236\nПара №17\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.411\nПара №10\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПара №10\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №18\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №19\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №18\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №19\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №11\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6107\nПара №20\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №11\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №20\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №21\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №21\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-0930-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №22\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1130-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №12\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №22\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1600-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.401\nПара №12\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №23\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №7\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1800-659вл-659вф-658вк-659вм-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251106T180000
+DTEND;TZID=Europe/Moscow:20251106T184500
+SUMMARY:Экономика\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6112\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-2000-656вэ1-8-656вэ25-31-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251106T200000
+DTEND;TZID=Europe/Moscow:20251106T204500
+SUMMARY:Экономика\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6112\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6531-6532-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Экономика лабораторный практикум · гр. 6531\,6532 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6378\nПара №8\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6378\nПара №24\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №8\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №24\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №13\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №25\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №23\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6521-6571-экономика-лабораторный-практик@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Экономика лабораторный практикум · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №7\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1400-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №13\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1600-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6117\nПара №25\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1800-656вэ1-8-656вэ25-31-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T180000
+DTEND;TZID=Europe/Moscow:20251111T184500
+SUMMARY:Экономика\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6248\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1855-656вэ1-8-656вэ25-31-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T185500
+DTEND;TZID=Europe/Moscow:20251111T194000
+SUMMARY:Экономика\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6245\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-2000-659вл-659вф-658вк-659вм-экономика@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T200000
+DTEND;TZID=Europe/Moscow:20251111T204500
+SUMMARY:Экономика · гр. 659вл\,659вф\,658вк\,659вм · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6248\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-2055-659вл-659вф-658вк-659вм-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T205500
+DTEND;TZID=Europe/Moscow:20251111T214000
+SUMMARY:Экономика\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6245\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №26\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1600-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №14\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1800-656вэ1-8-656вэ25-31-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251113T180000
+DTEND;TZID=Europe/Moscow:20251113T184500
+SUMMARY:Экономика\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6245\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-2000-659вл-659вф-658вк-659вм-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251113T200000
+DTEND;TZID=Europe/Moscow:20251113T204500
+SUMMARY:Экономика\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6245
+LOCATION:а. 6245
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6245\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-0930-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251117T093000
+DTEND;TZID=Europe/Moscow:20251117T111000
+SUMMARY:Экономика практическое занятие ИНДИГО · гр. 6521\, 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6117\nПара №26\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.401\nПара №14\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.403\nПара №27\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.403\nПара №28\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №27\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №28\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6531-6532-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Экономика Курсовая работа · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №1\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №15\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6521-6571-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Экономика Курсовая работа · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №1\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №15\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1800-656вэ1-8-656вэ25-31-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251127T180000
+DTEND;TZID=Europe/Moscow:20251127T184500
+SUMMARY:Экономика\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6236\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-2000-659вл-659вф-658вк-659вм-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251127T200000
+DTEND;TZID=Europe/Moscow:20251127T204500
+SUMMARY:Экономика\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6236\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1855-656вэ1-8-656вэ25-31-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251201T185500
+DTEND;TZID=Europe/Moscow:20251201T194000
+SUMMARY:Экономика\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-2055-659вл-659вф-658вк-659вм-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251201T205500
+DTEND;TZID=Europe/Moscow:20251201T214000
+SUMMARY:Экономика\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6242\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №29\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6521-6571-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Экономика Курсовая работа · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №2\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №29\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1600-6531-6532-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Экономика Курсовая работа · гр. 6531\,6532 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №2\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1800-659вл-659вф-658вк-659вм-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251203T180000
+DTEND;TZID=Europe/Moscow:20251203T184500
+SUMMARY:Экономика\, практ · гр. 659вл\,659вф\,658вк\,659вм · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6373\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-2000-656вэ1-8-656вэ25-31-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251203T200000
+DTEND;TZID=Europe/Moscow:20251203T204500
+SUMMARY:Экономика\, практ · гр. 656вэ1-8\,656вэ25-31 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6373\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400-6521-6571-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Экономика Курсовая работа · гр. 6521\, 6571 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6373\nПара №3\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №30\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1800-656вэ1-8-656вэ25-31-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251204T180000
+DTEND;TZID=Europe/Moscow:20251204T184500
+SUMMARY:Экономика\, лекци · гр. 656вэ1-8\,656вэ25-31 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-2000-659вл-659вф-658вк-659вм-экономика-лекци@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251204T200000
+DTEND;TZID=Europe/Moscow:20251204T204500
+SUMMARY:Экономика\, лекци · гр. 659вл\,659вф\,658вк\,659вм · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6242\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-6531-6532-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Экономика Курсовая работа · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №3\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1600-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №30\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6521-6571-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Экономика Курсовая работа · гр. 6521\, 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.409\nПара №4\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.409\nПара №16\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-6531-6532-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Экономика Курсовая работа · гр. 6531\,6532 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6249\nПара №4\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №16\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-1800-659вл-659вф-658вк-659вм-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251210T180000
+DTEND;TZID=Europe/Moscow:20251210T184500
+SUMMARY:Экономика\, практ · гр. 659вл\,659вф\,658вк\,659вм · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6242\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251210-2000-656вэ1-8-656вэ25-31-экономика-практ@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251210T200000
+DTEND;TZID=Europe/Moscow:20251210T204500
+SUMMARY:Экономика\, практ · гр. 656вэ1-8\,656вэ25-31 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №31\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6521-6571-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Экономика лекция · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №17\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1800-656вэ1-8-656вэ25-31-экономика-лаб@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T180000
+DTEND;TZID=Europe/Moscow:20251211T184500
+SUMMARY:Экономика\, лаб · гр. 656вэ1-8\,656вэ25-31 · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а. 6242\nПара №-\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-2000-659вл-659вф-658вк-659вм-экономика-лаб@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T200000
+DTEND;TZID=Europe/Moscow:20251211T204500
+SUMMARY:Экономика\, лаб · гр. 659вл\,659вф\,658вк\,659вм · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а. 6242\nПара №-
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-6531-6532-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:Экономика практическое занятие · гр. 6531\,6532 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №31\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1600-6531-6532-6533-6534-экономика-лекция@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251212T160000
+DTEND;TZID=Europe/Moscow:20251212T174000
+SUMMARY:Экономика лекция · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №17\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №33\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-6521-6571-экономика-практическое-занятие@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Экономика практическое занятие · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №34\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6531-6532-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Экономика Курсовая работа · гр. 6531\,6532 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №7\nПреподаватель: П
+ огожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6531-6532-экономика-курсовая-работа@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Экономика Курсовая работа · гр. 6531\,6532 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №8\nПреподаватель: П
+ огожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №20\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1130-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №6\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПара №35\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260113T180000
+DTEND;TZID=Europe/Moscow:20260113T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №1\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260113T200000
+DTEND;TZID=Europe/Moscow:20260113T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №1\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПара №21\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6381\nПара №36\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260115T180000
+DTEND;TZID=Europe/Moscow:20260115T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №2\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260115T200000
+DTEND;TZID=Europe/Moscow:20260115T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №2\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1130-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260116T113000
+DTEND;TZID=Europe/Moscow:20260116T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №7\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260116-1400-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6381\nПара №8\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6240\nПара №37\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.401\nПара №22\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6376\nПара №38\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1130-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260121T113000
+DTEND;TZID=Europe/Moscow:20260121T131000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №21\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №35\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПара №9\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПара №10\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260127T180000
+DTEND;TZID=Europe/Moscow:20260127T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №3\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260127T200000
+DTEND;TZID=Europe/Moscow:20260127T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №3\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260129T140000
+DTEND;TZID=Europe/Moscow:20260129T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №23\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1600-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260129T160000
+DTEND;TZID=Europe/Moscow:20260129T174000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №22\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260129T180000
+DTEND;TZID=Europe/Moscow:20260129T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №4\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260129T200000
+DTEND;TZID=Europe/Moscow:20260129T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №4\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №36\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №37\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1130-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.414\nПара №23\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.414\nПара №38\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1600-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6249\nПара №9\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260203T180000
+DTEND;TZID=Europe/Moscow:20260203T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №5\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260203T200000
+DTEND;TZID=Europe/Moscow:20260203T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №6\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1130-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №11\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №12\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №10\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1600-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №11\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №39\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6378\nПара №40\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №24\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1600-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260210T160000
+DTEND;TZID=Europe/Moscow:20260210T174000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6373\nПара №25\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260210T180000
+DTEND;TZID=Europe/Moscow:20260210T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №5\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260210T200000
+DTEND;TZID=Europe/Moscow:20260210T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №6\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-0930-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №24\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6373\nПара №25\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1400-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №9\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6240\nПара №39\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6240\nПара №40\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1600-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260213T160000
+DTEND;TZID=Europe/Moscow:20260213T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6378\nПара №12\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №26\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6249\nПара №9\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260217T180000
+DTEND;TZID=Europe/Moscow:20260217T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №7\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260217T200000
+DTEND;TZID=Europe/Moscow:20260217T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №8\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1130-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №13\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1400-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260218T140000
+DTEND;TZID=Europe/Moscow:20260218T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №14\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1600-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260218T160000
+DTEND;TZID=Europe/Moscow:20260218T174000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №26\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260219T180000
+DTEND;TZID=Europe/Moscow:20260219T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №7\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260219T200000
+DTEND;TZID=Europe/Moscow:20260219T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №8\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6112\nПара №13\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1600-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6112\nПара №14\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6381\nПара №15\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1400-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260225T140000
+DTEND;TZID=Europe/Moscow:20260225T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №16\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1400-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №15\nПреподаватель: 
+ Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1600-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260226T160000
+DTEND;TZID=Europe/Moscow:20260226T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6236\nПара №16\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260226T180000
+DTEND;TZID=Europe/Moscow:20260226T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №9\nПрепо
+ даватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260226T200000
+DTEND;TZID=Europe/Moscow:20260226T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №10\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260302T180000
+DTEND;TZID=Europe/Moscow:20260302T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №9\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260302-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260302T200000
+DTEND;TZID=Europe/Moscow:20260302T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №10
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №27\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1400-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №27\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260305T180000
+DTEND;TZID=Europe/Moscow:20260305T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №11\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260305T200000
+DTEND;TZID=Europe/Moscow:20260305T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №12\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6373\nПара №41\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260311T160000
+DTEND;TZID=Europe/Moscow:20260311T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №41\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260311T180000
+DTEND;TZID=Europe/Moscow:20260311T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6248\nПара №11
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260311T200000
+DTEND;TZID=Europe/Moscow:20260311T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6248\nПара №12
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6376\nПара №42\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1600-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6240\nПара №28\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260312T180000
+DTEND;TZID=Europe/Moscow:20260312T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №13\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №43\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6112\nПара №42\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6112\nПара №43\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6117\nПара №17\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №18\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-0930-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6378\nПара №44\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260317T113000
+DTEND;TZID=Europe/Moscow:20260317T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6378\nПара №45\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260317T140000
+DTEND;TZID=Europe/Moscow:20260317T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПара №28\nПр
+ еподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1400-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №17\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1600-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260318T160000
+DTEND;TZID=Europe/Moscow:20260318T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №18\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260318T180000
+DTEND;TZID=Europe/Moscow:20260318T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №14\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260318T200000
+DTEND;TZID=Europe/Moscow:20260318T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №15\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №29\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260319T140000
+DTEND;TZID=Europe/Moscow:20260319T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №44\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1600-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260319T160000
+DTEND;TZID=Europe/Moscow:20260319T174000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №29\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260319T180000
+DTEND;TZID=Europe/Moscow:20260319T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №13
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260319T200000
+DTEND;TZID=Europe/Moscow:20260319T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №14
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6249\nПара №45\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6249\nПара №46\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-0930-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260323T093000
+DTEND;TZID=Europe/Moscow:20260323T111000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №47\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №10\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №46\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6373\nПара №30\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260324T160000
+DTEND;TZID=Europe/Moscow:20260324T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №47\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260324T180000
+DTEND;TZID=Europe/Moscow:20260324T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6112\nПара №16\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260324T200000
+DTEND;TZID=Europe/Moscow:20260324T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6112\nПара №17\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1400-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260325T140000
+DTEND;TZID=Europe/Moscow:20260325T154000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №30\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1600-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260325T160000
+DTEND;TZID=Europe/Moscow:20260325T174000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №10\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1400-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260326T140000
+DTEND;TZID=Europe/Moscow:20260326T154000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №11\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1600-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260326T160000
+DTEND;TZID=Europe/Moscow:20260326T174000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №12\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260326T180000
+DTEND;TZID=Europe/Moscow:20260326T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6236\nПара №15
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1130-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260327T113000
+DTEND;TZID=Europe/Moscow:20260327T131000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №11\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1400-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №12\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-0930-6521-6571-экономика-лек-ауд@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260330T093000
+DTEND;TZID=Europe/Moscow:20260330T111000
+SUMMARY:Экономика (лек) АУД · гр. 6521\, 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6249\nПара №31\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260330T113000
+DTEND;TZID=Europe/Moscow:20260330T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6249\nПара №48\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260330T140000
+DTEND;TZID=Europe/Moscow:20260330T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6373\nПара №49\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-0930-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260331T093000
+DTEND;TZID=Europe/Moscow:20260331T111000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №32\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260331T113000
+DTEND;TZID=Europe/Moscow:20260331T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №50\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260331T140000
+DTEND;TZID=Europe/Moscow:20260331T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №48\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260331T160000
+DTEND;TZID=Europe/Moscow:20260331T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №49\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260331T180000
+DTEND;TZID=Europe/Moscow:20260331T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №18\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260331T200000
+DTEND;TZID=Europe/Moscow:20260331T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №19\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260401T113000
+DTEND;TZID=Europe/Moscow:20260401T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №31\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №32\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260401T160000
+DTEND;TZID=Europe/Moscow:20260401T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №51\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1400-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №33\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6116\nПара №52\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260402T180000
+DTEND;TZID=Europe/Moscow:20260402T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №20\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260402T200000
+DTEND;TZID=Europe/Moscow:20260402T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №21\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №50\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №51\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-0930-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260407T093000
+DTEND;TZID=Europe/Moscow:20260407T111000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6373\nПара №34\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260407T113000
+DTEND;TZID=Europe/Moscow:20260407T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №53\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1400-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260407T140000
+DTEND;TZID=Europe/Moscow:20260407T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №19\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260407T160000
+DTEND;TZID=Europe/Moscow:20260407T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №52\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260407T180000
+DTEND;TZID=Europe/Moscow:20260407T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6242\nПара №16
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260407T200000
+DTEND;TZID=Europe/Moscow:20260407T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6242\nПара №17
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260408T113000
+DTEND;TZID=Europe/Moscow:20260408T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №33\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260408-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260408T140000
+DTEND;TZID=Europe/Moscow:20260408T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №53\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №19\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №34\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №54\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260409T160000
+DTEND;TZID=Europe/Moscow:20260409T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №55\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260409T180000
+DTEND;TZID=Europe/Moscow:20260409T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №22\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260409T200000
+DTEND;TZID=Europe/Moscow:20260409T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6240\nПара №23\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №56\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260410T160000
+DTEND;TZID=Europe/Moscow:20260410T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №57\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №58\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1600-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №35\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №54\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №55\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260414T140000
+DTEND;TZID=Europe/Moscow:20260414T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6378\nПара №59\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1600-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260414T160000
+DTEND;TZID=Europe/Moscow:20260414T174000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №35\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260414T180000
+DTEND;TZID=Europe/Moscow:20260414T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №18
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260414T200000
+DTEND;TZID=Europe/Moscow:20260414T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №19
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1130-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260415T113000
+DTEND;TZID=Europe/Moscow:20260415T131000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6373\nПара №36\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260415T140000
+DTEND;TZID=Europe/Moscow:20260415T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №56\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260415T160000
+DTEND;TZID=Europe/Moscow:20260415T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №57\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1400-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №13\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1600-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260416T160000
+DTEND;TZID=Europe/Moscow:20260416T174000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №14\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-0930-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260420T093000
+DTEND;TZID=Europe/Moscow:20260420T111000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №58\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №13\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260420T140000
+DTEND;TZID=Europe/Moscow:20260420T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №36\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №59\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260421T140000
+DTEND;TZID=Europe/Moscow:20260421T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6382\nПара №60\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260421T160000
+DTEND;TZID=Europe/Moscow:20260421T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №61\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1400-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260422T140000
+DTEND;TZID=Europe/Moscow:20260422T154000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6236\nПара №14\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260422T160000
+DTEND;TZID=Europe/Moscow:20260422T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6236\nПара №60\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6117\nПара №62\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-1130-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260423T113000
+DTEND;TZID=Europe/Moscow:20260423T131000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №37\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №63\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №64\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260424T160000
+DTEND;TZID=Europe/Moscow:20260424T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №61\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260427T113000
+DTEND;TZID=Europe/Moscow:20260427T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №65\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1400-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260427T140000
+DTEND;TZID=Europe/Moscow:20260427T154000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №15\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1600-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260427T160000
+DTEND;TZID=Europe/Moscow:20260427T174000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6376\nПара №16\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260427T180000
+DTEND;TZID=Europe/Moscow:20260427T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6242\nПара №24\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260427T200000
+DTEND;TZID=Europe/Moscow:20260427T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6242\nПара №25\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №37\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260428T140000
+DTEND;TZID=Europe/Moscow:20260428T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №62\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260428T160000
+DTEND;TZID=Europe/Moscow:20260428T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №63\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №66\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №67\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260429T180000
+DTEND;TZID=Europe/Moscow:20260429T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №26\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260429T200000
+DTEND;TZID=Europe/Moscow:20260429T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6116\nПара №27\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6240\nПара №64\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260430T160000
+DTEND;TZID=Europe/Moscow:20260430T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6240\nПара №65\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-0930-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260504T093000
+DTEND;TZID=Europe/Moscow:20260504T111000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №38\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1130-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6248\nПара №68\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260504T140000
+DTEND;TZID=Europe/Moscow:20260504T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6249\nПара №69\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1130-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №15\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1400-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6116\nПара №16\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №66\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6117\nПара №67\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260506T180000
+DTEND;TZID=Europe/Moscow:20260506T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6117\nПара №28\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260506T200000
+DTEND;TZID=Europe/Moscow:20260506T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6117\nПара №29\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1130-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260507T113000
+DTEND;TZID=Europe/Moscow:20260507T131000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6107\nПара №39\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260507-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6373\nПара №38\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-1400-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №17\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260508-1600-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260508T160000
+DTEND;TZID=Europe/Moscow:20260508T174000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6245\nПара №18\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-0930-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260512T093000
+DTEND;TZID=Europe/Moscow:20260512T111000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №68\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №69\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260512T140000
+DTEND;TZID=Europe/Moscow:20260512T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №70\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260512T160000
+DTEND;TZID=Europe/Moscow:20260512T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6115\nПара №71\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1130-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №39\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1400-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260514T140000
+DTEND;TZID=Europe/Moscow:20260514T154000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №17\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1600-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260514T160000
+DTEND;TZID=Europe/Moscow:20260514T174000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №18\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260514T180000
+DTEND;TZID=Europe/Moscow:20260514T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №20
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260514T200000
+DTEND;TZID=Europe/Moscow:20260514T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6240\nПара №21
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1400-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260515T140000
+DTEND;TZID=Europe/Moscow:20260515T154000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6240\nПара №40\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260515T160000
+DTEND;TZID=Europe/Moscow:20260515T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6236\nПара №72\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1400-6521-6571-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260518T140000
+DTEND;TZID=Europe/Moscow:20260518T154000
+SUMMARY:Экономика (лек) · гр. 6521\, 6571 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6381\nПара №41\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260518-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260518T160000
+DTEND;TZID=Europe/Moscow:20260518T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6117\nПара №73\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1400-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260519T140000
+DTEND;TZID=Europe/Moscow:20260519T154000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №40\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1600-6531-6532-6533-6534-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260519T160000
+DTEND;TZID=Europe/Moscow:20260519T174000
+SUMMARY:Экономика (лек) · гр. 6531\,6532\, 6533\,6534 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №41\nП
+ реподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №70\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №71\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6245\nПара №72\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260521T140000
+DTEND;TZID=Europe/Moscow:20260521T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6376\nПара №74\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260521T160000
+DTEND;TZID=Europe/Moscow:20260521T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6376\nПара №75\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1800-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260521T180000
+DTEND;TZID=Europe/Moscow:20260521T194000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6376\nПара №30\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-2000-656вэ1-8-656вэ25-31-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260521T200000
+DTEND;TZID=Europe/Moscow:20260521T214000
+SUMMARY:Экономика (лек) · гр. 656вэ1-8\,656вэ25-31 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\nАудитория: а.6376\nПара №31\nПреп
+ одаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260525T140000
+DTEND;TZID=Europe/Moscow:20260525T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №73\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1600-6531-6532-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260525T160000
+DTEND;TZID=Europe/Moscow:20260525T174000
+SUMMARY:Экономика (лаб) · гр. 6531\,6532 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6242\nПара №19\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1400-6521-6571-экономика-лаб-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260527T140000
+DTEND;TZID=Europe/Moscow:20260527T154000
+SUMMARY:Экономика (лаб) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №19\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1600-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260527T160000
+DTEND;TZID=Europe/Moscow:20260527T174000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №76\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1800-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260527T180000
+DTEND;TZID=Europe/Moscow:20260527T194000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6112\nПара №22
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-2000-659вл-659вф-658вк-659вм-экономика-лек-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260527T200000
+DTEND;TZID=Europe/Moscow:20260527T214000
+SUMMARY:Экономика (лек) · гр. 659вл\,659вф\,658вк\,659вм · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\nАудитория: а.6112\nПара №23
+ \nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1400-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260528T140000
+DTEND;TZID=Europe/Moscow:20260528T154000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №77\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1600-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260528T160000
+DTEND;TZID=Europe/Moscow:20260528T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6242\nПара №20\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260529T113000
+DTEND;TZID=Europe/Moscow:20260529T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №74\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1400-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260529T140000
+DTEND;TZID=Europe/Moscow:20260529T154000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №75\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260529-1600-6521-6571-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260529T160000
+DTEND;TZID=Europe/Moscow:20260529T174000
+SUMMARY:Экономика (Курс.работа) · гр. 6521\, 6571 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6112\nПара №21\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-0930-6521-6571-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260601T093000
+DTEND;TZID=Europe/Moscow:20260601T111000
+SUMMARY:Экономика (пр) · гр. 6521\, 6571 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\, 6571\nАудитория: а.6249\nПара №78\nПреподаватель
+ : Погожева С.Ю.
+CATEGORIES:Преподавание,6521\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1130-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260601T113000
+DTEND;TZID=Europe/Moscow:20260601T131000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6249\nПара №20\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1400-6531-6532-экономика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260601T140000
+DTEND;TZID=Europe/Moscow:20260601T154000
+SUMMARY:Экономика (Курс.работа) · гр. 6531\,6532 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6249\nПара №21\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260601-1600-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260601T160000
+DTEND;TZID=Europe/Moscow:20260601T174000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6249\nПара №76\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-0930-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260602T093000
+DTEND;TZID=Europe/Moscow:20260602T111000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6112\nПара №77\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1130-6531-6532-экономика-пр-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260602T113000
+DTEND;TZID=Europe/Moscow:20260602T131000
+SUMMARY:Экономика (пр) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №78\nПреподаватель:
+  Погожева С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-1400-6571-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260707T140000
+DTEND;TZID=Europe/Moscow:20260707T154000
+SUMMARY:Экономика (экз) · гр. 6571 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6571\nАудитория: а.6242\nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-1600-6521-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260707T160000
+DTEND;TZID=Europe/Moscow:20260707T174000
+SUMMARY:Экономика (экз) · гр. 6521 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\nАудитория: а.6242\nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260707-1800-656вэ1-8-656вэ25-31-659ву-659вб-экономика-экз-@gt
+ ifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260707T180000
+DTEND;TZID=Europe/Moscow:20260707T194000
+SUMMARY:Экономика (экз) · гр. 656вэ1-8\,656вэ25-31\, 659ву\,659вб · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\, 659ву\,659вб\nАудитория: а.6242\
+ nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31\, 659ву\,659вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260708-1800-659вл-659вф-658вк-659вм-656вэ9-16-656вэ17-24-экон
+ омика-курс-работа-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260708T180000
+DTEND;TZID=Europe/Moscow:20260708T194000
+SUMMARY:Экономика (Курс.работа) · гр. 659вл\,659вф\,658вк\,659вм\, 656вэ9-1
+ 6\,656вэ17-24 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 656вэ9-16\,656вэ17-24\nАуд
+ итория: а.6117\nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260708-2000-659вл-659вф-658вк-659вм-656вэ9-16-656вэ17-24-экон
+ омика-экз-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260708T200000
+DTEND;TZID=Europe/Moscow:20260708T214000
+SUMMARY:Экономика (экз) · гр. 659вл\,659вф\,658вк\,659вм\, 656вэ9-16\,656вэ
+ 17-24 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 656вэ9-16\,656вэ17-24\nАуд
+ итория: а.6117\nПреподаватель: Погожева С.Ю.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 656вэ9-16\,656вэ17-24
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260710-1130-6533-6534-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260710T113000
+DTEND;TZID=Europe/Moscow:20260710T131000
+SUMMARY:Экономика (экз) · гр. 6533\,6534 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.6115\nПреподаватель: Погожева 
+ С.Ю.
+CATEGORIES:Преподавание,6533\,6534
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260710-1400-6531-6532-экономика-экз-@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260710T140000
+DTEND;TZID=Europe/Moscow:20260710T154000
+SUMMARY:Экономика (экз) · гр. 6531\,6532 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПреподаватель: Погожева 
+ С.Ю.
+CATEGORIES:Преподавание,6531\,6532
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

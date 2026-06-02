@@ -1,0 +1,4248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Румянцев А.А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Румянцев А.А., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250917-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6382\nПара №1\nПреподаватель:
+  Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250917-1600-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250917T160000
+DTEND;TZID=Europe/Moscow:20250917T174000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6331 · а.
+ 6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6331\nАудитория: а.6235\nПара №1\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6332 · а.
+ 6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6332\nАудитория: а.6245\nПара №1\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.624
+ 9
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №1\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.624
+ 9
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №2\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6332\nАудитория: а.6378\nПара №1\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6332\nАудитория: а.6378\nПара №2\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6245\nПара №2\nПреподаватель:
+  Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1600-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250924T160000
+DTEND;TZID=Europe/Moscow:20250924T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6331\nАудитория: а.6245\nПара №3\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6332\nАудитория: а.6378\nПара №3\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Разработка компонентов ИКТ\, Лекции · гр. 6331\, 6332 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6378\nПара №3\nПреподаватель:
+  Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Разработка компонентов ИКТ\, Практическое занятие · гр. 6331 · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 6331\nАудитория: а.6116\nПара №4\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.637
+ 6
+LOCATION:а.6376
+DESCRIPTION:Группа: 6332\nАудитория: а.6376\nПара №4\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.637
+ 6
+LOCATION:а.6376
+DESCRIPTION:Группа: 6332\nАудитория: а.6376\nПара №5\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.637
+ 8
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №5\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6378\nПара №4\nПреподаватель:
+  Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Разработка компонентов ИКТ Практическое занятие · гр. 6332 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6332\nАудитория: а.6117\nПара №6\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T180000
+DTEND;TZID=Europe/Moscow:20251006T184500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6373\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-2000-639вб-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251006T200000
+DTEND;TZID=Europe/Moscow:20251006T204500
+SUMMARY:Разработка компонентов ИКТ\, практ · гр. 639вб · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6373\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.637
+ 6
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №7\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6331\nАудитория: а.6117\nПара №6\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6117\nПара №5\nПреподаватель:
+  Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6332\nАудитория: а.6117\nПара №7\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.409\nПара №6\nПреподаватель: 
+ Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.409\nПара №7\nПреподаватель: 
+ Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6332\nАудитория: а.6376\nПара №1\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T113000
+DTEND;TZID=Europe/Moscow:20251017T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №1\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №2\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №3\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1800-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T180000
+DTEND;TZID=Europe/Moscow:20251017T184500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6240\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-2000-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251017T200000
+DTEND;TZID=Europe/Moscow:20251017T204500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6240\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №2\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №3\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.409\nПара №8\nПреподаватель: 
+ Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Разработка компонентов ИКТ. Лекции · гр. 6331\, 6332 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.409\nПара №9\nПреподаватель: 
+ Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6332 · а.
+ 6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №2\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6332 · а.
+ 6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №3\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6331 · а.
+ 6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №2\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6331 · а.
+ 6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №3\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1800-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T180000
+DTEND;TZID=Europe/Moscow:20251024T184500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6236\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-2000-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251024T200000
+DTEND;TZID=Europe/Moscow:20251024T204500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6236\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.623
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №8\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · а.623
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №9\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.623
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №8\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · а.623
+ 6
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №9\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6332\nАудитория: 10\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 4
+LOCATION:4
+DESCRIPTION:Группа: 6332\nАудитория: 4\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6331\nАудитория: 10\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 4
+LOCATION:4
+DESCRIPTION:Группа: 6331\nАудитория: 4\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1800-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T180000
+DTEND;TZID=Europe/Moscow:20251031T184500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6236\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-2000-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251031T200000
+DTEND;TZID=Europe/Moscow:20251031T204500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 639вб\nАудитория: а. 6236\nПара №-\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6332\nАудитория: 5\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6331\nАудитория: 5\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 10\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6331\nАудитория: 11\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6331\nАудитория: 12\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6332\nАудитория: 11\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6332\nАудитория: 12\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-0930-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T093000
+DTEND;TZID=Europe/Moscow:20251110T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 13
+LOCATION:13
+DESCRIPTION:Группа: 6332\nАудитория: 13\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1130-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 14
+LOCATION:14
+DESCRIPTION:Группа: 6332\nАудитория: 14\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 13
+LOCATION:13
+DESCRIPTION:Группа: 6331\nАудитория: 13\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 14
+LOCATION:14
+DESCRIPTION:Группа: 6331\nАудитория: 14\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1800-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T180000
+DTEND;TZID=Europe/Moscow:20251111T184500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-2000-639вб-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251111T200000
+DTEND;TZID=Europe/Moscow:20251111T204500
+SUMMARY:Разработка компонентов ИКТ\, лаб · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 6
+LOCATION:6
+DESCRIPTION:Группа: 6331\nАудитория: 6\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 7
+LOCATION:7
+DESCRIPTION:Группа: 6331\nАудитория: 7\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 6
+LOCATION:6
+DESCRIPTION:Группа: 6332\nАудитория: 6\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 7
+LOCATION:7
+DESCRIPTION:Группа: 6332\nАудитория: 7\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-0930-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 11\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 12\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-6331-6332-разработка-компонентов-икт-пра@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331\, 6332 
+ · 15
+LOCATION:15
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 15\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1600-6331-6332-разработка-компонентов-икт-пра@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251114T160000
+DTEND;TZID=Europe/Moscow:20251114T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331\, 6332 
+ · 16
+LOCATION:16
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 16\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-1855-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T185500
+DTEND;TZID=Europe/Moscow:20251116T194000
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251116-2055-639вб-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251116T205500
+DTEND;TZID=Europe/Moscow:20251116T214000
+SUMMARY:Разработка компонентов ИКТ\, практ · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 13
+LOCATION:13
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 13\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1600-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251117T160000
+DTEND;TZID=Europe/Moscow:20251117T174000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 14
+LOCATION:14
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 14\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 17
+LOCATION:17
+DESCRIPTION:Группа: 6331\nАудитория: 17\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T140000
+DTEND;TZID=Europe/Moscow:20251118T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 17
+LOCATION:17
+DESCRIPTION:Группа: 6332\nАудитория: 17\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1800-639вб-разработка-компонентов-икт-кр@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T180000
+DTEND;TZID=Europe/Moscow:20251118T184500
+SUMMARY:Разработка компонентов ИКТ\, КР · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-2000-639вб-разработка-компонентов-икт-кр@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251118T200000
+DTEND;TZID=Europe/Moscow:20251118T204500
+SUMMARY:Разработка компонентов ИКТ\, КР · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-0930-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T093000
+DTEND;TZID=Europe/Moscow:20251119T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 18
+LOCATION:18
+DESCRIPTION:Группа: 6332\nАудитория: 18\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1130-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 19
+LOCATION:19
+DESCRIPTION:Группа: 6332\nАудитория: 19\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 18
+LOCATION:18
+DESCRIPTION:Группа: 6331\nАудитория: 18\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 19
+LOCATION:19
+DESCRIPTION:Группа: 6331\nАудитория: 19\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T180000
+DTEND;TZID=Europe/Moscow:20251119T184500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-2000-639вб-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251119T200000
+DTEND;TZID=Europe/Moscow:20251119T204500
+SUMMARY:Разработка компонентов ИКТ\, практ · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 20
+LOCATION:20
+DESCRIPTION:Группа: 6332\nАудитория: 20\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 8
+LOCATION:8
+DESCRIPTION:Группа: 6332\nАудитория: 8\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 20
+LOCATION:20
+DESCRIPTION:Группа: 6331\nАудитория: 20\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 8
+LOCATION:8
+DESCRIPTION:Группа: 6331\nАудитория: 8\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 9
+LOCATION:9
+DESCRIPTION:Группа: 6331\nАудитория: 9\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6331\nАудитория: 10\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 9
+LOCATION:9
+DESCRIPTION:Группа: 6332\nАудитория: 9\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 10
+LOCATION:10
+DESCRIPTION:Группа: 6332\nАудитория: 10\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6332\nАудитория: 11\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6332\nАудитория: 12\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6331\nАудитория: 11\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 12
+LOCATION:12
+DESCRIPTION:Группа: 6331\nАудитория: 12\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T140000
+DTEND;TZID=Europe/Moscow:20251125T154000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 15
+LOCATION:15
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 15\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T160000
+DTEND;TZID=Europe/Moscow:20251125T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 21
+LOCATION:21
+DESCRIPTION:Группа: 6332\nАудитория: 21\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1800-639вб-разработка-компонентов-икт-кр@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251125T180000
+DTEND;TZID=Europe/Moscow:20251125T184500
+SUMMARY:Разработка компонентов ИКТ\, КР · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-0930-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T093000
+DTEND;TZID=Europe/Moscow:20251126T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 22
+LOCATION:22
+DESCRIPTION:Группа: 6332\nАудитория: 22\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 13
+LOCATION:13
+DESCRIPTION:Группа: 6332\nАудитория: 13\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 21
+LOCATION:21
+DESCRIPTION:Группа: 6331\nАудитория: 21\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 14
+LOCATION:14
+DESCRIPTION:Группа: 6332\nАудитория: 14\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 15
+LOCATION:15
+DESCRIPTION:Группа: 6332\nАудитория: 15\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 22
+LOCATION:22
+DESCRIPTION:Группа: 6331\nАудитория: 22\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 13
+LOCATION:13
+DESCRIPTION:Группа: 6331\nАудитория: 13\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T180000
+DTEND;TZID=Europe/Moscow:20251127T184500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-2000-639вб-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251127T200000
+DTEND;TZID=Europe/Moscow:20251127T204500
+SUMMARY:Разработка компонентов ИКТ\, практ · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6332 · 16
+LOCATION:16
+DESCRIPTION:Группа: 6332\nАудитория: 16\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 14
+LOCATION:14
+DESCRIPTION:Группа: 6331\nАудитория: 14\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Разработка компонентов ИКТ. Лабораторная работа · гр. 6331 · 15
+LOCATION:15
+DESCRIPTION:Группа: 6331\nАудитория: 15\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 16
+LOCATION:16
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 16\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 17
+LOCATION:17
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 17\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 23
+LOCATION:23
+DESCRIPTION:Группа: 6331\nАудитория: 23\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 24
+LOCATION:24
+DESCRIPTION:Группа: 6331\nАудитория: 24\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 23
+LOCATION:23
+DESCRIPTION:Группа: 6332\nАудитория: 23\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 24
+LOCATION:24
+DESCRIPTION:Группа: 6332\nАудитория: 24\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251203-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 18
+LOCATION:18
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 18\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-0930-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T093000
+DTEND;TZID=Europe/Moscow:20251204T111000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6331 · 4
+LOCATION:4
+DESCRIPTION:Группа: 6331\nАудитория: 4\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1130-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T113000
+DTEND;TZID=Europe/Moscow:20251204T131000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6331 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6331\nАудитория: 5\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1400-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6332 · 4
+LOCATION:4
+DESCRIPTION:Группа: 6332\nАудитория: 4\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6332 · 5
+LOCATION:5
+DESCRIPTION:Группа: 6332\nАудитория: 5\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 19
+LOCATION:19
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 19\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6331 · 6
+LOCATION:6
+DESCRIPTION:Группа: 6331\nАудитория: 6\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T180000
+DTEND;TZID=Europe/Moscow:20251208T184500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251208T200000
+DTEND;TZID=Europe/Moscow:20251208T204500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6332 · 6
+LOCATION:6
+DESCRIPTION:Группа: 6332\nАудитория: 6\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-0930-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 25
+LOCATION:25
+DESCRIPTION:Группа: 6332\nАудитория: 25\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1130-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 26
+LOCATION:26
+DESCRIPTION:Группа: 6332\nАудитория: 26\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 25
+LOCATION:25
+DESCRIPTION:Группа: 6331\nАудитория: 25\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 26
+LOCATION:26
+DESCRIPTION:Группа: 6331\nАудитория: 26\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 27
+LOCATION:27
+DESCRIPTION:Группа: 6331\nАудитория: 27\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 28
+LOCATION:28
+DESCRIPTION:Группа: 6331\nАудитория: 28\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 27
+LOCATION:27
+DESCRIPTION:Группа: 6332\nАудитория: 27\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251212T160000
+DTEND;TZID=Europe/Moscow:20251212T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 28
+LOCATION:28
+DESCRIPTION:Группа: 6332\nАудитория: 28\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 20
+LOCATION:20
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 20\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1600-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6331 · 7
+LOCATION:7
+DESCRIPTION:Группа: 6331\nАудитория: 7\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1800-639вб-разработка-компонентов-икт-кр@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T180000
+DTEND;TZID=Europe/Moscow:20251215T184500
+SUMMARY:Разработка компонентов ИКТ\, КР · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-2000-639вб-разработка-компонентов-икт-кр@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251215T200000
+DTEND;TZID=Europe/Moscow:20251215T204500
+SUMMARY:Разработка компонентов ИКТ\, КР · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1130-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:Разработка компонентов ИКТ. Курсовое проектирование · гр. 6332 · 7
+LOCATION:7
+DESCRIPTION:Группа: 6332\nАудитория: 7\nПара №Онлайн занятие\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T093000
+DTEND;TZID=Europe/Moscow:20251217T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 29
+LOCATION:29
+DESCRIPTION:Группа: 6331\nАудитория: 29\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 30
+LOCATION:30
+DESCRIPTION:Группа: 6331\nАудитория: 30\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T140000
+DTEND;TZID=Europe/Moscow:20251217T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 29
+LOCATION:29
+DESCRIPTION:Группа: 6332\nАудитория: 29\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T160000
+DTEND;TZID=Europe/Moscow:20251217T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 30
+LOCATION:30
+DESCRIPTION:Группа: 6332\nАудитория: 30\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 21
+LOCATION:21
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 21\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1600-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 31
+LOCATION:31
+DESCRIPTION:Группа: 6331\nАудитория: 31\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1130-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 31
+LOCATION:31
+DESCRIPTION:Группа: 6332\nАудитория: 31\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6331-6332-разработка-компонентов-икт-пра@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331\, 6332 
+ · 36
+LOCATION:36
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 36\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Разработка компонентов ИКТ. Лекция · гр. 6331\, 6332 · 22
+LOCATION:22
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 22\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 32
+LOCATION:32
+DESCRIPTION:Группа: 6331\nАудитория: 32\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 33
+LOCATION:33
+DESCRIPTION:Группа: 6331\nАудитория: 33\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 32
+LOCATION:32
+DESCRIPTION:Группа: 6332\nАудитория: 32\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 33
+LOCATION:33
+DESCRIPTION:Группа: 6332\nАудитория: 33\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Разработка компонентов ИКТ\, лекц · гр. 639вб · -
+LOCATION:-
+DESCRIPTION:Группа: 639вб\nАудитория: -\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-0930-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T093000
+DTEND;TZID=Europe/Moscow:20251226T111000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 34
+LOCATION:34
+DESCRIPTION:Группа: 6331\nАудитория: 34\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1130-6331-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T113000
+DTEND;TZID=Europe/Moscow:20251226T131000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6331 · 35
+LOCATION:35
+DESCRIPTION:Группа: 6331\nАудитория: 35\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 34
+LOCATION:34
+DESCRIPTION:Группа: 6332\nАудитория: 34\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1600-6332-разработка-компонентов-икт-пра@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:Разработка компонентов ИКТ. Практическое занятие · гр. 6332 · 35
+LOCATION:35
+DESCRIPTION:Группа: 6332\nАудитория: 35\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №23\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6107\nПара №23\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №23\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №24\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T140000
+DTEND;TZID=Europe/Moscow:20260113T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6332\nАудитория: а.6245\nПара №25\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260113-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260113T160000
+DTEND;TZID=Europe/Moscow:20260113T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №26\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №24\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №25\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T180000
+DTEND;TZID=Europe/Moscow:20260114T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639вб\nАудитория: а.6112\nПара №1\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260114T200000
+DTEND;TZID=Europe/Moscow:20260114T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639вб\nАудитория: а.6112\nПара №2\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №27\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №26\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №27\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T093000
+DTEND;TZID=Europe/Moscow:20260119T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №36\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №28\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6331\nАудитория: а.6242\nПара №29\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1600-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T160000
+DTEND;TZID=Europe/Moscow:20260119T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №36\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1800-639вб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T180000
+DTEND;TZID=Europe/Moscow:20260119T194000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639вб · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 639вб\nАудитория: а.6245\nПара №1\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-2000-639вб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260119T200000
+DTEND;TZID=Europe/Moscow:20260119T214000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639вб · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 639вб\nАудитория: а.6245\nПара №2\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260121T093000
+DTEND;TZID=Europe/Moscow:20260121T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6332\nАудитория: а.6376\nПара №28\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260121T113000
+DTEND;TZID=Europe/Moscow:20260121T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6332\nАудитория: а.6376\nПара №29\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6332\nАудитория: а.6245\nПара №30\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6332\nАудитория: а.6245\nПара №31\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №30\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260123T160000
+DTEND;TZID=Europe/Moscow:20260123T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №31\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №9\nПреподаватель: Румянц
+ ев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6332\nАудитория: а.6116\nПара №10\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260127T093000
+DTEND;TZID=Europe/Moscow:20260127T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\nАудитория: а.ОНЛАЙН\nПара №37\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260127-1130-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260127T113000
+DTEND;TZID=Europe/Moscow:20260127T131000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\nАудитория: а.ОНЛАЙН\nПара №9\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6332\nАудитория: а.ОНЛАЙН\nПара №37\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6332\nАудитория: а.ОНЛАЙН\nПара №38\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T093000
+DTEND;TZID=Europe/Moscow:20260203T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\nАудитория: а.ОНЛАЙН\nПара №38\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T113000
+DTEND;TZID=Europe/Moscow:20260203T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\nАудитория: а.ОНЛАЙН\nПара №39\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1400-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6332\nАудитория: а.ОНЛАЙН\nПара №39\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\nАудитория: а.ОНЛАЙН\nПара №11\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1600-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.ОНЛАЙН\nПара №26\nПреподавате
+ ль: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T180000
+DTEND;TZID=Europe/Moscow:20260204T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 639вб\nАудитория: а.ОНЛАЙН\nПара №3\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260204T200000
+DTEND;TZID=Europe/Moscow:20260204T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 639вб\nАудитория: а.ОНЛАЙН\nПара №4\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T093000
+DTEND;TZID=Europe/Moscow:20260205T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\nАудитория: а.ОНЛАЙН\nПара №40\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.ОНЛАЙН
+LOCATION:а.ОНЛАЙН
+DESCRIPTION:Группа: 6331\nАудитория: а.ОНЛАЙН\nПара №41\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1400-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · 11
+LOCATION:11
+DESCRIPTION:Группа: 6332\nАудитория: 11\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-0930-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T093000
+DTEND;TZID=Europe/Moscow:20260209T111000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №12\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПара №42\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6382\nПара №27\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1600-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260209T160000
+DTEND;TZID=Europe/Moscow:20260209T174000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №12\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1600-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T160000
+DTEND;TZID=Europe/Moscow:20260211T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6332\nАудитория: а.6378\nПара №40\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T180000
+DTEND;TZID=Europe/Moscow:20260211T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 639вб\nАудитория: а.6117\nПара №5\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260211T200000
+DTEND;TZID=Europe/Moscow:20260211T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 639вб\nАудитория: а.6117\nПара №6\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T093000
+DTEND;TZID=Europe/Moscow:20260212T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6332\nАудитория: а.6376\nПара №41\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1130-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №42\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1400-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6332\nАудитория: а.6117\nПара №43\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1600-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260212T160000
+DTEND;TZID=Europe/Moscow:20260212T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №43\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · 44
+LOCATION:44
+DESCRIPTION:Группа: 6331\nАудитория: 44\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · 45
+LOCATION:45
+DESCRIPTION:Группа: 6331\nАудитория: 45\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T140000
+DTEND;TZID=Europe/Moscow:20260216T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · пр47
+LOCATION:пр47
+DESCRIPTION:Группа: 6332\nАудитория: пр47\nПара №Онлайн занятие\nПреподават
+ ель: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1600-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T160000
+DTEND;TZID=Europe/Moscow:20260216T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · 44
+LOCATION:44
+DESCRIPTION:Группа: 6332\nАудитория: 44\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T180000
+DTEND;TZID=Europe/Moscow:20260216T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · 7
+LOCATION:7
+DESCRIPTION:Группа: 639вб\nАудитория: 7\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260216T200000
+DTEND;TZID=Europe/Moscow:20260216T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · 8
+LOCATION:8
+DESCRIPTION:Группа: 639вб\nАудитория: 8\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6373\nПара №28\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №пр47\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260217T180000
+DTEND;TZID=Europe/Moscow:20260217T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 639вб\nАудитория: а.6117\nПара №9\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6331\nАудитория: а.6242\nПара №46\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №пр48\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1600-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №45\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6332\nАудитория: а.6376\nПара №46\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №пр48\nПреподаватель: Рум
+ янцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T093000
+DTEND;TZID=Europe/Moscow:20260225T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6332\nАудитория: а.6245\nПара №49\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260225-1130-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260225T113000
+DTEND;TZID=Europe/Moscow:20260225T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №50\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №49\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260226-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №50\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · 29
+LOCATION:29
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 29\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1600-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · 30
+LOCATION:30
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: 30\nПара №Онлайн занятие\nПрепо
+ даватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T093000
+DTEND;TZID=Europe/Moscow:20260306T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · 51
+LOCATION:51
+DESCRIPTION:Группа: 6331\nАудитория: 51\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T113000
+DTEND;TZID=Europe/Moscow:20260306T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · 33
+LOCATION:33
+DESCRIPTION:Группа: 6331\nАудитория: 33\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1400-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · 51
+LOCATION:51
+DESCRIPTION:Группа: 6332\nАудитория: 51\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · 33
+LOCATION:33
+DESCRIPTION:Группа: 6332\nАудитория: 33\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · 52
+LOCATION:52
+DESCRIPTION:Группа: 6332\nАудитория: 52\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · 53
+LOCATION:53
+DESCRIPTION:Группа: 6332\nАудитория: 53\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · 34
+LOCATION:34
+DESCRIPTION:Группа: 6331\nАудитория: 34\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1600-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260310T160000
+DTEND;TZID=Europe/Moscow:20260310T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · 52
+LOCATION:52
+DESCRIPTION:Группа: 6331\nАудитория: 52\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · 34
+LOCATION:34
+DESCRIPTION:Группа: 6332\nАудитория: 34\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · 35
+LOCATION:35
+DESCRIPTION:Группа: 6332\nАудитория: 35\nПара №Онлайн занятие\nПреподавател
+ ь: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260312T093000
+DTEND;TZID=Europe/Moscow:20260312T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №53\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260312T113000
+DTEND;TZID=Europe/Moscow:20260312T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №35\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-0930-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T093000
+DTEND;TZID=Europe/Moscow:20260313T111000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6373\nПара №31\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6373\nПара №32\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T093000
+DTEND;TZID=Europe/Moscow:20260318T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №54\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T113000
+DTEND;TZID=Europe/Moscow:20260318T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №55\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1400-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №54\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1600-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T160000
+DTEND;TZID=Europe/Moscow:20260318T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №55\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T180000
+DTEND;TZID=Europe/Moscow:20260318T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 639вб\nАудитория: а.6249\nПара №10\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260318T200000
+DTEND;TZID=Europe/Moscow:20260318T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 639вб\nАудитория: а.6249\nПара №11\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №56\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6331\nАудитория: а.6117\nПара №56\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260320T093000
+DTEND;TZID=Europe/Moscow:20260320T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №57\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №58\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1400-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №57\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260320-1600-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260320T160000
+DTEND;TZID=Europe/Moscow:20260320T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №58\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-0930-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260323T093000
+DTEND;TZID=Europe/Moscow:20260323T111000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №13\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №14\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №36\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T093000
+DTEND;TZID=Europe/Moscow:20260324T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №36\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6332\nАудитория: а.6245\nПара №37\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №37\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T140000
+DTEND;TZID=Europe/Moscow:20260326T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6331\nАудитория: а.6378\nПара №38\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1600-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T160000
+DTEND;TZID=Europe/Moscow:20260326T174000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6332\nАудитория: а.6245\nПара №13\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T180000
+DTEND;TZID=Europe/Moscow:20260326T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 639вб\nАудитория: а.6245\nПара №12\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260326T200000
+DTEND;TZID=Europe/Moscow:20260326T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 639вб\nАудитория: а.6236\nПара №13\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №38\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260327-1600-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260327T160000
+DTEND;TZID=Europe/Moscow:20260327T174000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №14\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260330T093000
+DTEND;TZID=Europe/Moscow:20260330T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №39\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260330-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260330T113000
+DTEND;TZID=Europe/Moscow:20260330T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №40\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №39\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №40\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1400-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6331\nАудитория: а.6116\nПара №41\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1600-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260403T160000
+DTEND;TZID=Europe/Moscow:20260403T174000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6382\nПара №33\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №15\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №59\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №59\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1600-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T160000
+DTEND;TZID=Europe/Moscow:20260409T174000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №15\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T180000
+DTEND;TZID=Europe/Moscow:20260409T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639вб\nАудитория: а.6112\nПара №14\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260409T200000
+DTEND;TZID=Europe/Moscow:20260409T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 639вб\nАудитория: а.6112\nПара №15\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260410T093000
+DTEND;TZID=Europe/Moscow:20260410T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №41\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260410T113000
+DTEND;TZID=Europe/Moscow:20260410T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №42\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №42\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №43\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T093000
+DTEND;TZID=Europe/Moscow:20260415T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6331\nАудитория: а.6245\nПара №44\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T113000
+DTEND;TZID=Europe/Moscow:20260415T131000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6382\nПара №34\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260415T140000
+DTEND;TZID=Europe/Moscow:20260415T154000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6382\nПара №35\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №43\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №44\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №45\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260417T160000
+DTEND;TZID=Europe/Moscow:20260417T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №45\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260420T093000
+DTEND;TZID=Europe/Moscow:20260420T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №60\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПара №61\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1400-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260420T140000
+DTEND;TZID=Europe/Moscow:20260420T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №60\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1600-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260420T160000
+DTEND;TZID=Europe/Moscow:20260420T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6331\nАудитория: а.6112\nПара №61\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1400-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T140000
+DTEND;TZID=Europe/Moscow:20260422T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6332\nАудитория: а.6378\nПара №62\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1600-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T160000
+DTEND;TZID=Europe/Moscow:20260422T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6331\nАудитория: а.6376\nПара №62\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T180000
+DTEND;TZID=Europe/Moscow:20260422T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 639вб\nАудитория: а.6378\nПара №16\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260422T200000
+DTEND;TZID=Europe/Moscow:20260422T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 639вб\nАудитория: а.6378\nПара №17\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T180000
+DTEND;TZID=Europe/Moscow:20260428T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 639вб\nАудитория: а.6249\nПара №18\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260428T200000
+DTEND;TZID=Europe/Moscow:20260428T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 639вб\nАудитория: а.6249\nПара №19\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-0930-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T093000
+DTEND;TZID=Europe/Moscow:20260504T111000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6331\nАудитория: а.6117\nПара №46\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260504-1130-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260504T113000
+DTEND;TZID=Europe/Moscow:20260504T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6331\nАудитория: а.6117\nПара №47\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1400-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №46\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1600-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260505T160000
+DTEND;TZID=Europe/Moscow:20260505T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6332\nАудитория: а.6236\nПара №47\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6107\nПара №36\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6107\nПара №37\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T180000
+DTEND;TZID=Europe/Moscow:20260506T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 639вб\nАудитория: а.6115\nПара №20\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260506T200000
+DTEND;TZID=Europe/Moscow:20260506T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 639вб\nАудитория: а.6115\nПара №21\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-0930-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260514T093000
+DTEND;TZID=Europe/Moscow:20260514T111000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6240\nПара №38\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1130-6331-6332-разработка-компонентов-икт-лек@gtifem.r
+ u
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 6331\, 6332 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6331\, 6332\nАудитория: а.6240\nПара №39\nПреподаватель
+ : Румянцев А.А.
+CATEGORIES:Преподавание,6331\, 6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-0930-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260515T093000
+DTEND;TZID=Europe/Moscow:20260515T111000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №16\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1130-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260515T113000
+DTEND;TZID=Europe/Moscow:20260515T131000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №17\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1400-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260515T140000
+DTEND;TZID=Europe/Moscow:20260515T154000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6331\nАудитория: а.6116\nПара №16\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260515-1600-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260515T160000
+DTEND;TZID=Europe/Moscow:20260515T174000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6331\nАудитория: а.6116\nПара №17\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-0930-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T093000
+DTEND;TZID=Europe/Moscow:20260519T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №63\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260519-1130-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260519T113000
+DTEND;TZID=Europe/Moscow:20260519T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №64\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №63\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6332-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №48\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6331-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6331 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6331\nАудитория: а.6116\nПара №65\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6331-разработка-компонентов-икт-лаб@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Разработка компонентов ИКТ (лаб) · гр. 6331 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6331\nАудитория: а.6116\nПара №48\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1800-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260520T180000
+DTEND;TZID=Europe/Moscow:20260520T194000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 639вб\nАудитория: а.6116\nПара №22\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-2000-639вб-разработка-компонентов-икт-лек@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260520T200000
+DTEND;TZID=Europe/Moscow:20260520T214000
+SUMMARY:Разработка компонентов ИКТ (лек) · гр. 639вб · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 639вб\nАудитория: а.6116\nПара №23\nПреподаватель: Румя
+ нцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-0930-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260522T093000
+DTEND;TZID=Europe/Moscow:20260522T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №64\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-1130-6332-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260522T113000
+DTEND;TZID=Europe/Moscow:20260522T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №65\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-0930-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260525T093000
+DTEND;TZID=Europe/Moscow:20260525T111000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №18\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1130-6332-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260525T113000
+DTEND;TZID=Europe/Moscow:20260525T131000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6332 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6332\nАудитория: а.6112\nПара №19\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-0930-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T093000
+DTEND;TZID=Europe/Moscow:20260526T111000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №18\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-6331-разработка-компонентов-икт-кур@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:Разработка компонентов ИКТ (Курс.работа) · гр. 6331 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6331\nАудитория: а.6236\nПара №19\nПреподаватель: Румян
+ цев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260604-1400-6331-разработка-компонентов-икт-экз@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260604T140000
+DTEND;TZID=Europe/Moscow:20260604T154000
+SUMMARY:Разработка компонентов ИКТ (экз) · гр. 6331 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6331\nАудитория: а.6249\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,6331
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260604-1600-6332-разработка-компонентов-икт-экз@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260604T160000
+DTEND;TZID=Europe/Moscow:20260604T174000
+SUMMARY:Разработка компонентов ИКТ (экз) · гр. 6332 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6332\nАудитория: а.6249\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,6332
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1400-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260610T140000
+DTEND;TZID=Europe/Moscow:20260610T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 639зб\nАудитория: а.6115\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1600-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260610T160000
+DTEND;TZID=Europe/Moscow:20260610T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 639зб\nАудитория: а.6115\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260611-0930-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260611T093000
+DTEND;TZID=Europe/Moscow:20260611T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 639зб\nАудитория: а.6115\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260611-1130-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260611T113000
+DTEND;TZID=Europe/Moscow:20260611T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 639зб\nАудитория: а.6115\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260616-0930-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260616T093000
+DTEND;TZID=Europe/Moscow:20260616T111000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 639зб\nАудитория: а.6116\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260616-1130-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260616T113000
+DTEND;TZID=Europe/Moscow:20260616T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 639зб\nАудитория: а.6116\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260617-1400-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260617T140000
+DTEND;TZID=Europe/Moscow:20260617T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639зб\nАудитория: а.6235\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260617-1600-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260617T160000
+DTEND;TZID=Europe/Moscow:20260617T174000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 639зб\nАудитория: а.6235\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-1130-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260625T113000
+DTEND;TZID=Europe/Moscow:20260625T131000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зб\nАудитория: а.6242\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-1400-639зб-разработка-компонентов-икт-пр-@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260625T140000
+DTEND;TZID=Europe/Moscow:20260625T154000
+SUMMARY:Разработка компонентов ИКТ (пр) · гр. 639зб · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зб\nАудитория: а.6242\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-1600-639зб-разработка-компонентов-икт-экз@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260625T160000
+DTEND;TZID=Europe/Moscow:20260625T174000
+SUMMARY:Разработка компонентов ИКТ (экз) · гр. 639зб · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639зб\nАудитория: а.6242\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639зб
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-1800-639вб-разработка-компонентов-икт-экз@gtifem.ru
+DTSTAMP:20260602T102638Z
+DTSTART;TZID=Europe/Moscow:20260625T180000
+DTEND;TZID=Europe/Moscow:20260625T194000
+SUMMARY:Разработка компонентов ИКТ (экз) · гр. 639вб · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 639вб\nАудитория: а.6242\nПреподаватель: Румянцев А.А.
+CATEGORIES:Преподавание,639вб
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

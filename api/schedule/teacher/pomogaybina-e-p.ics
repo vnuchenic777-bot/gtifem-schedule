@@ -1,0 +1,2293 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Помогайбина Е.П. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Помогайбина Е.П., ФЭМ СПбГТИ (Т
+ У)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №5\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения л
+ абораторный практикум · гр. 6253\,6254 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6242\nПара №3\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6107\nПара №6\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6353-6354-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · гр. 6353\,6354 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6353\,6354\nАудитория: а.101\nПара №7\nПреподаватель: П
+ омогайбина Е.П.
+CATEGORIES:Преподавание,6353\,6354
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения л
+ абораторный практикум · гр. 6253\,6254 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6373\nПара №4\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6240\nПара №24\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №25\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №26\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.414\nПара №27\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.414\nПара №28\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6381\nПара №7\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6381\nПара №8\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №29\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №30\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251007-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №31\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251008T093000
+DTEND;TZID=Europe/Moscow:20251008T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.411\nПара №32\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №9\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1600-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения л
+ абораторный практикум · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №5\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · гр. 6351\,6352 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6376\nПара №3\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251013-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6242\nПара №35\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №36\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.411\nПара №10\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.411\nПара №37\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.411\nПара №38\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1855-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251016T185500
+DTEND;TZID=Europe/Moscow:20251016T194000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  практ · гр. 619вр · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6107\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251017T180000
+DTEND;TZID=Europe/Moscow:20251017T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лекц · гр. 619вр · а. 6248
+LOCATION:а. 6248
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6248\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №39\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения л
+ абораторный практикум · гр. 6253\,6254 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6236\nПара №6\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1600-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251020T160000
+DTEND;TZID=Europe/Moscow:20251020T174000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения л
+ абораторный практикум · гр. 6253\,6254 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6236\nПара №7\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251020-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251020T180000
+DTEND;TZID=Europe/Moscow:20251020T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  практ · гр. 619вр · а. 6107
+LOCATION:а. 6107
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6107\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6381\nПара №11\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.414\nПара №40\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6381\nПара №12\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6381\nПара №13\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.411\nПара №41\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.411\nПара №42\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.406\nПара №43\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251024T180000
+DTEND;TZID=Europe/Moscow:20251024T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лекц · гр. 619вр · а. 6235
+LOCATION:а. 6235
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6235\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №44\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №45\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №46\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.401\nПара №47\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6240\nПара №14\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6240\nПара №15\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251029T180000
+DTEND;TZID=Europe/Moscow:20251029T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лекц · гр. 619вр · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6249\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №48\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №49\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1800-619вр-619вр-управление-маркетинговыми-комм@gtifem
+ .ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251031T180000
+DTEND;TZID=Europe/Moscow:20251031T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  практ · гр. 619вр\, 619вр · а. 6116
+LOCATION:а. 6116
+DESCRIPTION:Группа: 619вр\, 619вр\nАудитория: а. 6116\nПара №-\nПреподавате
+ ль: Помогайбина Е.П.
+CATEGORIES:Преподавание,619вр\, 619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №50\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №51\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251105-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6248\nПара №52\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6240\nПара №16\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6240\nПара №17\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №53\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №54\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6240\nПара №55\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6240\nПара №56\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T180000
+DTEND;TZID=Europe/Moscow:20251110T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6115\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251110T200000
+DTEND;TZID=Europe/Moscow:20251110T204500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  практ · гр. 619вр · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6115\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6248\nПара №57\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T180000
+DTEND;TZID=Europe/Moscow:20251111T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6117\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251111-1855-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251111T185500
+DTEND;TZID=Europe/Moscow:20251111T194000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6115\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.401\nПара №58\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251112T180000
+DTEND;TZID=Europe/Moscow:20251112T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6115\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251112T200000
+DTEND;TZID=Europe/Moscow:20251112T204500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  практ · гр. 619вр · а. 6115
+LOCATION:а. 6115
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6115\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251114T093000
+DTEND;TZID=Europe/Moscow:20251114T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №18\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №59\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №60\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251118-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №61\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6107\nПара №62\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6117\nПара №19\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6117\nПара №20\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №63\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №64\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · гр. 6351\,6352 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6249\nПара №4\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · гр. 6351\,6352 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6249\nПара №5\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6107\nПара №65\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6245\nПара №66\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6236\nПара №67\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6248\nПара №68\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №69\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения Л
+ абораторная работа · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №8\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения Л
+ абораторная работа · гр. 6253\,6254 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6249\nПара №9\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №70\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №71\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.403\nПара №72\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №73\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №6\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · гр. 6351\,6352 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6249\nПара №7\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие (перенос с 30.12.2025) · гр. 6351\,6352 · а
+ .6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6107\nПара №81\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие (перенос с 30.12.2025) · гр. 6351\,6352 · а
+ .6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №82\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T093000
+DTEND;TZID=Europe/Moscow:20251216T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а. 6373\nПара №74\nПреподаватель
+ : Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а. 6373\nПара №75\nПреподаватель
+ : Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.406\nПара №21\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения Л
+ абораторная работа · гр. 6253\,6254 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.406\nПара №10\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251217T180000
+DTEND;TZID=Europe/Moscow:20251217T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лекц · гр. 619вр · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6236\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251217T200000
+DTEND;TZID=Europe/Moscow:20251217T204500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6236
+LOCATION:а. 6236
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6236\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №76\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6115\nПара №77\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251221-1855-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251221T185500
+DTEND;TZID=Europe/Moscow:20251221T194000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6240\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251221-2055-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251221T205500
+DTEND;TZID=Europe/Moscow:20251221T214000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6240\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.401\nПара №78\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.401\nПара №79\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T180000
+DTEND;TZID=Europe/Moscow:20251223T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лекц · гр. 619вр · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6378\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251223-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251223T200000
+DTEND;TZID=Europe/Moscow:20251223T204500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лекц · гр. 619вр · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6378\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · гр. 6351\,6352 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.409\nПара №8\nПреподаватель: П
+ омогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · гр. 6351\,6352 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.409\nПара №9\nПреподаватель: П
+ омогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251224T180000
+DTEND;TZID=Europe/Moscow:20251224T184500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6240\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251224T200000
+DTEND;TZID=Europe/Moscow:20251224T204500
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения\,
+  лаб · гр. 619вр · а. 6240
+LOCATION:а. 6240
+DESCRIPTION:Группа: 619вр\nАудитория: а. 6240\nПара №-\nПреподаватель: Помо
+ гайбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351\,6352 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.406\nПара №80\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения п
+ рактическое занятие · гр. 6253\,6254 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.101\nПара №22\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения Л
+ абораторная работа · гр. 6253\,6254 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.101\nПара №11\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-0930-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 6253\,6254 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6382\nПара №23\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T113000
+DTEND;TZID=Europe/Moscow:20260112T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лаб) · гр. 6253\,6254 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6378\nПара №12\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T140000
+DTEND;TZID=Europe/Moscow:20260112T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.411\nПара №83\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T160000
+DTEND;TZID=Europe/Moscow:20260112T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №10\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260112-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260112T180000
+DTEND;TZID=Europe/Moscow:20260112T194000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лек) · гр. 619вр · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вр\nАудитория: а.6235\nПара №1\nПреподаватель: Помог
+ айбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260115T140000
+DTEND;TZID=Europe/Moscow:20260115T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №11\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1600-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260115T160000
+DTEND;TZID=Europe/Moscow:20260115T174000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 6253\,6254 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.106\nПара №24\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260119T180000
+DTEND;TZID=Europe/Moscow:20260119T194000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лек) · гр. 619вр · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вр\nАудитория: а.6235\nПара №2\nПреподаватель: Помог
+ айбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260119T200000
+DTEND;TZID=Europe/Moscow:20260119T214000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лек) · гр. 619вр · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 619вр\nАудитория: а.6235\nПара №3\nПреподаватель: Помог
+ айбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №12\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6382\nПара №84\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260121T093000
+DTEND;TZID=Europe/Moscow:20260121T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №13\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260121T113000
+DTEND;TZID=Europe/Moscow:20260121T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 6253\,6254 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6107\nПара №25\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лаб) · гр. 6253\,6254 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6112\nПара №13\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 6253\,6254 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6107\nПара №26\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260123T160000
+DTEND;TZID=Europe/Moscow:20260123T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6107\nПара №85\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6240\nПара №86\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260126T140000
+DTEND;TZID=Europe/Moscow:20260126T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №14\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260128T140000
+DTEND;TZID=Europe/Moscow:20260128T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 6253\,6254 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6115\nПара №27\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1600-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260128T160000
+DTEND;TZID=Europe/Moscow:20260128T174000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лаб) · гр. 6253\,6254 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6236\nПара №14\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260128T180000
+DTEND;TZID=Europe/Moscow:20260128T194000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 619вр · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 619вр\nАудитория: а.6115\nПара №1\nПреподаватель: Помог
+ айбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260128T200000
+DTEND;TZID=Europe/Moscow:20260128T214000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 619вр · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 619вр\nАудитория: а.6115\nПара №2\nПреподаватель: Помог
+ айбина Е.П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260130T093000
+DTEND;TZID=Europe/Moscow:20260130T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6240\nПара №87\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ пр) · гр. 6253\,6254 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.101\nПара №28\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №15\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1400-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260203T140000
+DTEND;TZID=Europe/Moscow:20260203T154000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лаб) · гр. 6253\,6254 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6112\nПара №15\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1600-6253-6254-управление-маркетинговыми-комм@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ лаб) · гр. 6253\,6254 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6253\,6254\nАудитория: а.6117\nПара №16\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6253\,6254
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6112\nПара №16\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.106\nПара №17\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.406\nПара №88\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.406\nПара №89\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-1800-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260209T180000
+DTEND;TZID=Europe/Moscow:20260209T194000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ экз) · гр. 619вр · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 619вр\nАудитория: а.6112\nПреподаватель: Помогайбина Е.
+ П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260209-2000-619вр-управление-маркетинговыми-комм@gtifem.ru
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260209T200000
+DTEND;TZID=Europe/Moscow:20260209T214000
+SUMMARY:Управление маркетинговыми коммуникациями и каналами распределения (
+ экз) · гр. 619вр · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 619вр\nАудитория: а.6112\nПреподаватель: Помогайбина Е.
+ П.
+CATEGORIES:Преподавание,619вр
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №18\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260211-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №19\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.403\nПара №90\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.403\nПара №91\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6249\nПара №20\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260216-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6249\nПара №21\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.406\nПара №92\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.406\nПара №93\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №94\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260227-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6381\nПара №95\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6245\nПара №96\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6249\nПара №97\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1600-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6249\nПара №98\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-0930-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №22\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260304-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6116\nПара №23\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.403\nПара №24\nПреподаватель: 
+ Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260310-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6236\nПара №25\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · гр. 6351\,6352 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6240\nПара №99\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-6351-6352-социальная-ответственность-про@gtifem.r
+ u
+DTSTAMP:20260602T102637Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · гр. 6351\,6352 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6351\,6352\nАудитория: а.6117\nПара №26\nПреподаватель:
+  Помогайбина Е.П.
+CATEGORIES:Преподавание,6351\,6352
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
