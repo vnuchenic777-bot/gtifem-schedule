@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Установить кнопку расписания на gtifem.ru</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; margin: 0; padding: 0; background: #f4f5f7; color: #222; line-height: 1.55; }
+  header { background: linear-gradient(180deg, #2f4f7a 0%, #1f3f6a 100%); color: #fff; padding: 26px 20px; box-shadow: 0 2px 12px rgba(0,0,0,.18); }
+  header h1 { margin: 0 0 6px; font-size: 22px; }
+  header p { margin: 0; opacity: .9; font-size: 14px; }
+  .container { max-width: 800px; margin: 0 auto; padding: 24px 18px; }
+  .card { background: #fff; border: 1px solid #d8dde3; border-radius: 8px; padding: 22px; margin-bottom: 18px; }
+  .card h2 { margin: 0 0 12px; color: #1f3f6a; font-size: 18px; }
+  .card h3 { margin: 16px 0 8px; color: #2f4f7a; font-size: 15px; }
+  .step { background: #f9fafc; border-left: 4px solid #2f4f7a; padding: 12px 14px; margin: 10px 0; border-radius: 0 6px 6px 0; }
+  .step b { color: #1f3f6a; }
+  .step .num { display: inline-block; width: 24px; height: 24px; line-height: 24px; background: #2f4f7a; color: #fff; border-radius: 50%; text-align: center; font-weight: 700; margin-right: 8px; }
+  a.cta { display: inline-block; background: #1e7e1e; color: #fff; text-decoration: none; padding: 14px 22px; border-radius: 6px; font-weight: 700; box-shadow: 0 4px 12px rgba(30,126,30,.3); }
+  a.cta:hover { background: #166916; }
+  .browser-row { display: flex; gap: 12px; flex-wrap: wrap; margin: 12px 0; }
+  .browser-card { flex: 1; min-width: 200px; background: #f9fafc; border: 1px solid #e0e6ec; border-radius: 6px; padding: 14px; text-decoration: none; color: #222; transition: border-color .12s, background .12s; }
+  .browser-card:hover { border-color: #2f4f7a; background: #e7f0f9; }
+  .browser-card b { color: #1f3f6a; }
+  .browser-card small { display: block; color: #888; font-size: 12px; margin-top: 4px; }
+  code { background: #f4f5f7; padding: 2px 6px; border-radius: 3px; font-family: ui-monospace, "SF Mono", monospace; font-size: 13px; }
+  .ok-note { background: #e7f5e8; border: 1px solid #4caf50; color: #1f6024; padding: 12px 16px; border-radius: 6px; font-size: 13px; margin: 12px 0; }
+  .note { background: #fffbe6; border: 1px solid #f0c850; color: #6a5300; padding: 12px 16px; border-radius: 6px; font-size: 13px; margin: 12px 0; }
+  .back-link { display:inline-block; color:#fff; opacity:.8; text-decoration: none; font-size: 13px; margin-top: 8px; }
+  .back-link:hover { opacity:1; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📅 Кнопка расписания прямо на gtifem.ru</h1>
+  <p>Установите один раз — на всех страницах расписания ФЭМ появится плавающая кнопка для подписки в календарь.</p>
+  <a class="back-link" href="../">← Вернуться на главную</a>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>Как это работает</h2>
+    <p>Это <b>userscript</b> — небольшой JavaScript, который браузер автоматически выполняет при открытии страниц <code>gtifem.ru/dekanat/raspisanie/...</code>. В правом нижнем углу появляется зелёная кнопка «📅 Моё расписание». Клик — открывается окно с поиском по преподавателям и группам, выбираете себя — попадаете в Apple/Google Calendar.</p>
+    <div class="ok-note"><b>✓ Не меняет сам сайт ФЭМ.</b> Скрипт работает локально в вашем браузере, никакие данные никуда не отправляются. На сайте появляется только кнопка.</div>
+    <p style="text-align:center; margin: 14px 0 0;">
+      <a class="cta" href="./demo-button-on-gtifem.html" style="background:#2f4f7a;">👁 Посмотреть демо — как это будет на странице ФЭМ</a>
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>Шаг 1. Установите расширение для userscript</h2>
+    <p>Если у вас уже стоит <b>Tampermonkey</b> или <b>Violentmonkey</b> — переходите к шагу 2.</p>
+    <div class="browser-row">
+      <a class="browser-card" href="https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo" target="_blank" rel="noopener">
+        <b>🌐 Tampermonkey для Chrome</b>
+        <small>Google Chrome, Edge, Opera, Brave</small>
+      </a>
+      <a class="browser-card" href="https://apps.apple.com/app/userscripts/id1463298887" target="_blank" rel="noopener">
+        <b>🍎 Userscripts для Safari</b>
+        <small>iPhone, iPad, Mac Safari (бесплатно)</small>
+      </a>
+      <a class="browser-card" href="https://addons.mozilla.org/firefox/addon/tampermonkey/" target="_blank" rel="noopener">
+        <b>🦊 Tampermonkey для Firefox</b>
+        <small>Firefox для всех систем</small>
+      </a>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Шаг 2. Установите скрипт</h2>
+    <p>Нажмите большую зелёную кнопку — Tampermonkey покажет окно установки, нажмите «Установить» (Install).</p>
+    <p style="text-align: center; margin: 20px 0;">
+      <a class="cta" href="./gtifem-schedule-button.user.js">📥 Установить скрипт «Расписание ФЭМ»</a>
+    </p>
+    <div class="step"><span class="num">1</span><b>В Tampermonkey появится окно установки</b><p style="margin:8px 0 0;">С названием «📅 Расписание ФЭМ — кнопка подписки в календарь» и описанием.</p></div>
+    <div class="step"><span class="num">2</span><b>Нажмите «Установить» (Install)</b><p style="margin:8px 0 0;">Скрипт установлен.</p></div>
+    <div class="step"><span class="num">3</span><b>Откройте свою страницу расписания на gtifem.ru</b><p style="margin:8px 0 0;">Например: <a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/" target="_blank" rel="noopener">список преподавателей</a> или <a href="https://gtifem.ru/dekanat/raspisanie/" target="_blank" rel="noopener">расписание групп</a>.</p></div>
+    <div class="step"><span class="num">4</span><b>В правом нижнем углу — зелёная кнопка «📅 Моё расписание»</b><p style="margin:8px 0 0;">Клик → окно поиска → «Открыть» рядом с вашим именем → подписаться в Календаре.</p></div>
+  </div>
+
+  <div class="card">
+    <h2>На iPhone / iPad через Safari</h2>
+    <p>На iOS используется приложение <a href="https://apps.apple.com/app/userscripts/id1463298887" target="_blank" rel="noopener"><b>Userscripts</b></a> (бесплатное от Justin Wasack).</p>
+    <ol>
+      <li>Установите Userscripts из App Store</li>
+      <li>Включите расширение в <b>Настройках iPhone → Safari → Расширения → Userscripts</b></li>
+      <li>В Userscripts выберите папку для скриптов (любая, например iCloud Drive)</li>
+      <li>Откройте на телефоне <a href="./gtifem-schedule-button.user.js">эту ссылку с .user.js</a></li>
+      <li>Подтвердите установку</li>
+    </ol>
+    <div class="note"><b>⚠ Заметка про iOS:</b> Safari иногда требует перезагрузить страницу один раз, чтобы расширение «увидело» новый сайт. После — работает.</div>
+  </div>
+
+  <div class="card">
+    <h2>Альтернатива: сразу открыть нашу страницу подписки</h2>
+    <p>Если не хочется устанавливать userscript — у нас есть отдельная страница со всеми преподавателями и группами:</p>
+    <p style="text-align: center;"><a class="cta" href="../" style="background:#2f4f7a;">→ Открыть страницу подписки</a></p>
+  </div>
+
+  <div class="card">
+    <h2>FAQ</h2>
+    <h3>Кнопка появится на ВСЕХ страницах gtifem.ru?</h3>
+    <p>Нет, только на страницах расписания (<code>/dekanat/raspisanie*</code>).</p>
+    <h3>Это безопасно?</h3>
+    <p>Да. Скрипт работает только в вашем браузере, не отправляет ничего во внешние сервисы. Исходный код открыт: <a href="https://github.com/vnuchenic777-bot/gtifem-schedule/blob/main/install/gtifem-schedule-button.user.js" target="_blank" rel="noopener">посмотреть на GitHub</a>.</p>
+    <h3>Где брать обновления?</h3>
+    <p>Tampermonkey автоматически проверяет обновления раз в день.</p>
+    <h3>Как удалить?</h3>
+    <p>В Tampermonkey → Dashboard → найдите «Расписание ФЭМ» → значок корзины.</p>
+  </div>
+
+  <p style="text-align: center; color: #888; font-size: 13px; padding: 18px 0;">
+    Скрипт открытый, MIT-лицензия. Исходники: <a href="https://github.com/vnuchenic777-bot/gtifem-schedule" target="_blank" rel="noopener">github.com/vnuchenic777-bot/gtifem-schedule</a>
+  </p>
+
+</div>
+
+</body>
+</html>
