@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-	<title>Расписание - Морозов Артём Михайлович</title>
+	<title>Расписание</title>
 	<!--<meta name="viewport" content="width=device-width, initial-scale=1" />-->
 	<meta name="cmsmagazine" content="f8ad9fa53754c56fda3b7246ae7fe371" />
 	<link href="https://gtifem.ru/favicon.ico" rel="shortcut icon" type="image/x-icon" />
@@ -11,7 +11,7 @@
 <script data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Windows/i.test(ua)){cl += ' bx-win';}else if (/Macintosh/i.test(ua)){cl += " bx-mac";}else if (/Linux/i.test(ua) && !/Android/i.test(ua)){cl += " bx-linux";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";if (/Safari/i.test(ua) && !/Chrome/i.test(ua)){cl += " bx-safari";}else if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Firefox/.test(ua)){cl += " bx-firefox";}ht.className = htc ? htc + " " + cl : cl;})(window, document, navigator);</script>
 
 
-<link href="https://gtifem.ru/bitrix/components/gtifem/prepod.prepod.new/templates/.default/style.css?16384438361770" type="text/css" rel="stylesheet"/>
+<link href="https://gtifem.ru/bitrix/components/gtifem/timetable.new/templates/.default/style.css?1588494723999" type="text/css" rel="stylesheet"/>
 <link href="https://gtifem.ru/bitrix/templates/gtifem_v2/css/bootstrap.css?143213122417107" type="text/css" rel="stylesheet" data-template-style="true"/>
 <link href="https://gtifem.ru/bitrix/templates/gtifem_v2/css/jquery.fancybox.css?14296857594924" type="text/css" rel="stylesheet" data-template-style="true"/>
 <link href="https://gtifem.ru/bitrix/templates/gtifem_v2/css/style.css?174921720551046" type="text/css" rel="stylesheet" data-template-style="true"/>
@@ -322,43 +322,120 @@ cursor:pointer;"></div>
    	<!-- **************************************** content ****************************************** -->
   <div class="content">
 
-        	     		<ul class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><li class="breadcrumbs_item"  itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a class="breadcrumbs_link" href="https://gtifem.ru/" title="Главная" itemprop="item"><span itemprop="name">Главная</span><meta itemprop="position" content="0"></a></li><li class="breadcrumbs_item"><span class="breadcrumbs_sep">&gt;</span></li><li class="breadcrumbs_item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="breadcrumbs_link" href="https://gtifem.ru/dekanat/" title="Деканат" itemprop="item"><span itemprop="name">Деканат</span><meta itemprop="position" content="1" /></a></li><li class="breadcrumbs_item"><span class="breadcrumbs_sep">&gt;</span></li><li class="breadcrumbs_item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="breadcrumbs_link" href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/" title="Расписание преподавателей" itemprop="item"><span itemprop="name">Расписание преподавателей</span><meta itemprop="position" content="2" /></a></li><li class="breadcrumbs_item"><span class="breadcrumbs_sep">&gt;</span></li><li class="breadcrumbs_item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="breadcrumbs_page" itemprop="item" title="Морозов Артём Михайлович"><span itemprop="name">Морозов Артём Михайлович</span></span><meta itemprop="position" content="3" /></li></ul>       
-  
+        	     		<ul class="breadcrumbs" itemscope itemtype="http://schema.org/BreadcrumbList"><li class="breadcrumbs_item"  itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" ><a class="breadcrumbs_link" href="https://gtifem.ru/" title="Главная" itemprop="item"><span itemprop="name">Главная</span><meta itemprop="position" content="0"></a></li><li class="breadcrumbs_item"><span class="breadcrumbs_sep">&gt;</span></li><li class="breadcrumbs_item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a class="breadcrumbs_link" href="https://gtifem.ru/dekanat/" title="Деканат" itemprop="item"><span itemprop="name">Деканат</span><meta itemprop="position" content="1" /></a></li><li class="breadcrumbs_item"><span class="breadcrumbs_sep">&gt;</span></li><li class="breadcrumbs_item" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="breadcrumbs_page" itemprop="item" title="Расписание"><span itemprop="name">Расписание</span></span><meta itemprop="position" content="2" /></li></ul>       
+  <!-- timetable-section -->
+ 
+<section class="timetable-page">
+    <h1>Расписание</h1>
+    <div class="help">Для просмотра расписания выберите отделение, направление и курс.</div>
+    <div id="raspisanie">
+        <div class="filter">
+            <div class="section first">
+                <div class="title">Отделение:</div>
+                <div class="values">
+                    <ul>
+                                                    <li><a href="#" data-id="2320">СПО</a></li>
+                                                    <li><a href="#" data-id="40">Бакалавриат</a></li>
+                                                    <li><a href="#" data-id="687">Магистратура</a></li>
+                                            </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
 
+                <div class="section specials" style="display: none;">
+                    <div class="title">Направление/Специальность: </div>
+                    <div class="values">
+                        <ul>
+                                                            <li class="special special40" style="display: none;"><a data-id="45" href="#">Экономика</a></li>
+                                                            <li class="special special40" style="display: none;"><a data-id="46" href="#">Реклама</a></li>
+                                                            <li class="special special40" style="display: none;"><a data-id="47" href="#">Маркетинг</a></li>
+                                                            <li class="special special40" style="display: none;"><a data-id="48" href="#">Финансовый менеджмент</a></li>
+                                                            <li class="special special40" style="display: none;"><a data-id="53" href="#">Производственный менеджмент</a></li>
+                                                            <li class="special special40" style="display: none;"><a data-id="54" href="#">Логистика</a></li>
+                                                            <li class="special special40" style="display: none;"><a data-id="55" href="#">Управление персоналом</a></li>
+                                                            <li class="special special40" style="display: none;"><a data-id="56" href="#">Бизнес информатика</a></li>
+                                                            <li class="special special687" style="display: none;"><a data-id="688" href="#">Инновационный менеджмент</a></li>
+                                                            <li class="special special2320" style="display: none;"><a data-id="2321" href="#">Экономика и бухгалтерский учет (по отраслям)</a></li>
+                                                    </ul>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+            <div class="section courses" style="display: none">
+                <div class="title">Курс:</div>
+                <div class="values">
+                    <ul>
+                                                    <li class="course course45" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course2322" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course56" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course55" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course54" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course53" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course48" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course47" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course46" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course47" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course56" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course46" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course55" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course48" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course45" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course53" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course54" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course2322" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course56" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course45" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course55" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course54" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course53" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course46" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course2322" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course48" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course47" data-course="3" style="display: none;"><a href="#">3 курс</a></li>
+                                                    <li class="course course56" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course2322" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course45" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course55" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course46" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course54" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course53" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course48" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course47" data-course="4" style="display: none;"><a href="#">4 курс</a></li>
+                                                    <li class="course course2322" data-course="5" style="display: none;"><a href="#">5 курс</a></li>
+                                                    <li class="course course688" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course688" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                                    <li class="course course2321" data-course="1" style="display: none;"><a href="#">1 курс</a></li>
+                                                    <li class="course course2321" data-course="2" style="display: none;"><a href="#">2 курс</a></li>
+                                            </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="section groups" style="display:none;">
+                <div class="title">Группа:</div>
+                <div class="values">
+                    <ul>
 
-    <h1> Морозов Артём Михайлович</h1>
-		        <div class="section" style='clear:both;'>
-				<div class="title">Месяц:</div>
-				<div class="values">
-					<ul>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=сентябрь">сентябрь</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=октябрь">октябрь</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=ноябрь">ноябрь</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=декабрь">декабрь</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=январь">январь</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=февраль">февраль</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=март">март</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=апрель">апрель</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=май">май</a></li>
-												
-							<li class="active"><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=июнь">июнь</a></li>
-												
-							<li><a href="https://gtifem.ru/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/?month=июль">июль</a></li>
-											</ul>
-				</div>
-				<div class="clear"></div>
-			</div>
-		<div id='raspisanie'>
-<table><tr class="lesson-line"><td>Дата</td><td >1 Июня</td><td style=background:red !important;>2 Июня</td><td >3 Июня</td><td >4 Июня</td><td >5 Июня</td></tr><tr></tr><tr ><td rowspan="2" >1</td><td data-forum="" data-id="601547"><b>09:30 - 11:10</b><br>Введение в информационные технологии (лаб) (перенос с 27.05.2026)<br>6441<br>а.6112<br>36<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >2</td><td data-forum="" data-id="600076,600132"><b>11:30 - 13:10</b><br>Введение в информационные технологии (лек)<br>6421, 6461<br>а.6116<br>13<br></td><td data-forum="" data-id="600149,600156"><b>11:30 - 13:10</b><br>Введение в информационные технологии (лаб)<br>6471, 6481<br>а.6242<br>34<br></td><td data-forum="" data-id="600082,600139"><b>11:30 - 13:10</b><br>Введение в информационные технологии (лек)<br>6421, 6461<br>а.6242<br>14<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >3</td><td data-forum="" data-id="600066"><b>14:00 - 15:40</b><br>Введение в информационные технологии (лаб)<br>6411,6412<br>а.6378<br>38<br></td><td data-forum="" data-id="600150,600157"><b>14:00 - 15:40</b><br>Введение в информационные технологии (лаб)<br>6471, 6481<br>а.6242<br>35<br></td><td data-forum="" data-id="600083,600140"><b>14:00 - 15:40</b><br>Введение в информационные технологии (лек)<br>6421, 6461<br>а.6248<br>15<br></td><td data-forum="" data-id="600153,600163"><b>14:00 - 15:40</b><br>Введение в информационные технологии (лаб)<br>6471, 6481<br>а.6242<br>36<br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >4</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id="600154,600164"><b>16:00 - 17:40</b><br>Введение в информационные технологии (пр)<br>6471, 6481<br>а.6242<br>18<br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >5</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >6</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr class="lesson-line"><td>Дата</td><td >6 Июня</td><td >7 Июня</td><td >8 Июня</td><td >9 Июня</td><td >10 Июня</td></tr><tr></tr><tr ><td rowspan="2" >1</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >2</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id="600378"><b>11:30 - 13:10</b><br>Введение в информационные технологии (лаб)<br>6441<br>а.6235<br>37<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >3</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id="600361,600401"><b>14:00 - 15:40</b><br>Введение в информационные технологии (лаб)<br>6421, 6461<br>а.6235<br>35<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >4</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id="600362,600402"><b>16:00 - 17:40</b><br>Введение в информационные технологии (лаб)<br>6421, 6461<br>а.6235<br>36<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >5</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >6</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr class="lesson-line"><td>Дата</td><td >11 Июня</td><td >12 Июня</td><td >13 Июня</td><td >14 Июня</td><td >15 Июня</td></tr><tr></tr><tr ><td rowspan="2" >1</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >2</td><td data-forum="" data-id="600384"><b>11:30 - 13:10</b><br>Введение в информационные технологии (пр)<br>6441<br>а.6116<br>19<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >3</td><td data-forum="" data-id="600371,600411"><b>14:00 - 15:40</b><br>Введение в информационные технологии (лаб)<br>6421, 6461<br>а.6235<br>37<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >4</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >5</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >6</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr class="lesson-line"><td>Дата</td><td >16 Июня</td><td >17 Июня</td><td >18 Июня</td><td >19 Июня</td><td >20 Июня</td></tr><tr></tr><tr ><td rowspan="2" >1</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >2</td><td data-forum="" data-id="600567"><b>11:30 - 13:10</b><br>Введение в информационные технологии (лаб)<br>6441<br>а.6378<br>38<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >3</td><td data-forum="" data-id="600559,600588"><b>14:00 - 15:40</b><br>Введение в информационные технологии (пр)<br>6421, 6461<br>а.6378<br>19<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >4</td><td data-forum="" data-id="600560,600589"><b>16:00 - 17:40</b><br>Введение в информационные технологии (лаб)<br>6421, 6461<br>а.6378<br>38<br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >5</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >6</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr class="lesson-line"><td>Дата</td><td >21 Июня</td><td >22 Июня</td><td >23 Июня</td><td >24 Июня</td><td >25 Июня</td></tr><tr></tr><tr ><td rowspan="2" >1</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id="600916"><b>09:30 - 11:10</b><br>Введение в информационные технологии (экз)<br>6481<br>а.6116<br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >2</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id="600912"><b>11:30 - 13:10</b><br>Введение в информационные технологии (экз)<br>6461<br>а.6116<br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >3</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >4</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >5</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >6</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr class="lesson-line"><td>Дата</td><td >26 Июня</td><td >27 Июня</td><td >28 Июня</td><td >29 Июня</td><td >30 Июня</td></tr><tr></tr><tr ><td rowspan="2" >1</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >2</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >3</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >4</td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td><td data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >5</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr><tr ><td rowspan="2" >6</td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td><td rowspan="2" data-forum="" data-id=""><br><br><br><br><br></td></tr><tr></tr></table></div>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
+
+            <div class="section months" style="display: none">
+                <div class="title">Месяц:</div>
+                <div class="values">
+                    <ul>
+                    </ul>
+                </div>
+                <div class="clear"></div>
+            </div>
+    <div class="clear"></div>
+
+        <div class="table">
+
+        </div>
+    </div>
+        </div>
+</section>
+
   </div><!-- content -->
 
 </div><!-- main -->
@@ -529,7 +606,7 @@ style="position:absolute; left: 1px; top: 1px;" width="3" height="3" alt="Янд
 
 		<div class="popup-form__box">
 			<div id="comp_b87fec049fbeb7f0924e0702d2e9a0fc"><form name="system_auth_form6zOYVN" id="ff" method="post" action="https://gtifem.ru/auth/">
-					<input type="hidden" name="backurl" value="/dekanat/raspisanie-prepodavateley/morozov-artyem-mikhaylovich/" />
+					<input type="hidden" name="backurl" value="/dekanat/raspisanie/" />
 						<input type="hidden" name="AUTH_FORM" value="Y" />
 		<input type="hidden" name="TYPE" value="AUTH" />
 
@@ -555,7 +632,7 @@ style="position:absolute; left: 1px; top: 1px;" width="3" height="3" alt="Янд
 		
 		<div class="popup-form_box_submit">
 			<input type="submit" class="popup-form__box_btn" value="Войти на сайт"><br>
-			<a href="https://gtifem.ru/auth/?forgot_password=yes&amp;backurl=%2Fdekanat%2Fraspisanie-prepodavateley%2Fmorozov-artyem-mikhaylovich%2F" rel="nofollow">Забыли свой пароль?</a><br>
+			<a href="https://gtifem.ru/auth/?forgot_password=yes&amp;backurl=%2Fdekanat%2Fraspisanie%2F" rel="nofollow">Забыли свой пароль?</a><br>
 			<a href=/pomoshh-v-avtorizacii>Не удалось войти? Помощь!</a>
 		</div>
 	</form>
@@ -616,7 +693,7 @@ style="position:absolute; left: 1px; top: 1px;" width="3" height="3" alt="Янд
 <script>(window.BX||top.BX).message({"JS_CORE_LOADING":"Загрузка...","JS_CORE_NO_DATA":"- Нет данных -","JS_CORE_WINDOW_CLOSE":"Закрыть","JS_CORE_WINDOW_EXPAND":"Развернуть","JS_CORE_WINDOW_NARROW":"Свернуть в окно","JS_CORE_WINDOW_SAVE":"Сохранить","JS_CORE_WINDOW_CANCEL":"Отменить","JS_CORE_WINDOW_CONTINUE":"Продолжить","JS_CORE_H":"ч","JS_CORE_M":"м","JS_CORE_S":"с","JSADM_AI_HIDE_EXTRA":"Скрыть лишние","JSADM_AI_ALL_NOTIF":"Показать все","JSADM_AUTH_REQ":"Требуется авторизация!","JS_CORE_WINDOW_AUTH":"Войти","JS_CORE_IMAGE_FULL":"Полный размер"});</script><script src="https://gtifem.ru/bitrix/js/main/core/core.js?1773221440543783"></script><script>BX.Runtime.registerExtension({"name":"main.core","namespace":"BX","loaded":true});</script>
 <script>BX.setJSList(["\/bitrix\/js\/main\/core\/core_ajax.js","\/bitrix\/js\/main\/core\/core_promise.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/loadext\/loadext.js","\/bitrix\/js\/main\/loadext\/extension.js","\/bitrix\/js\/main\/polyfill\/promise\/js\/promise.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/includes\/js\/includes.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/ui\/polyfill\/closest\/js\/closest.js","\/bitrix\/js\/main\/polyfill\/fill\/main.polyfill.fill.js","\/bitrix\/js\/main\/polyfill\/find\/js\/find.js","\/bitrix\/js\/main\/polyfill\/matches\/js\/matches.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/core\/core.js","\/bitrix\/js\/main\/polyfill\/intersectionobserver\/js\/intersectionobserver.js","\/bitrix\/js\/main\/lazyload\/dist\/lazyload.bundle.js","\/bitrix\/js\/main\/polyfill\/core\/dist\/polyfill.bundle.js","\/bitrix\/js\/main\/parambag\/dist\/parambag.bundle.js"]);
 </script>
-<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1780404489,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"49efa3c3020ada47f624884992d44078"});</script><script src="https://gtifem.ru/bitrix/js/pull/protobuf/protobuf.js?1596718143274055"></script>
+<script>(window.BX||top.BX).message({"LANGUAGE_ID":"ru","FORMAT_DATE":"DD.MM.YYYY","FORMAT_DATETIME":"DD.MM.YYYY HH:MI:SS","COOKIE_PREFIX":"BITRIX_SM","SERVER_TZ_OFFSET":"10800","UTF_MODE":"Y","SITE_ID":"s1","SITE_DIR":"\/","USER_ID":"","SERVER_TIME":1780404496,"USER_TZ_OFFSET":0,"USER_TZ_AUTO":"Y","bitrix_sessid":"a1ed23aaa89dce2183343f36edaf63d9"});</script><script src="https://gtifem.ru/bitrix/js/pull/protobuf/protobuf.js?1596718143274055"></script>
 <script src="https://gtifem.ru/bitrix/js/pull/protobuf/model.js?159671814370928"></script>
 <script src="https://gtifem.ru/bitrix/js/main/core/core_promise.js?17688182065221"></script>
 <script src="https://gtifem.ru/bitrix/js/rest/client/rest.client.js?177368162517414"></script>
@@ -632,9 +709,9 @@ style="position:absolute; left: 1px; top: 1px;" width="3" height="3" alt="Янд
 <script src="https://gtifem.ru/bitrix/templates/gtifem_v2/js/smart-cookies.js?17494549132578"></script>
 <script src="https://gtifem.ru/bitrix/templates/gtifem_v2/components/bitrix/search.suggest.input/.default/script.js?142968575912503"></script>
 <script src="https://gtifem.ru/bitrix/templates/gtifem_v2/components/bitrix/menu/top-menu/script.js?1429685759469"></script>
-<script src="https://gtifem.ru/bitrix/components/gtifem/prepod.prepod.new/templates/.default/script.js?1586178227490"></script>
-<script>new Image().src='https://economicvector.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATU0MDYyNDABMTgxMTUwODQ4OQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATAyLjA2LjIwMjYgMTU6NDg6MDkBMTgxMTUwODQ4OQEvAQEBAg.1780404549.124dcd90e597e4720c4000947a77b06eb07d5e1de8c67555ac96e64598da03b7';
-new Image().src='https://gtifem.technolog.edu.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATU0MDYyNDABMTgxMTUwODQ4OQEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATAyLjA2LjIwMjYgMTU6NDg6MDkBMTgxMTUwODQ4OQEvAQEBAg.1780404549.124dcd90e597e4720c4000947a77b06eb07d5e1de8c67555ac96e64598da03b7';
+<script src="https://gtifem.ru/bitrix/components/gtifem/timetable.new/templates/.default/script.js?15994834305068"></script>
+<script>new Image().src='https://economicvector.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATU0MDYyNDABMTgxMTUwODQ5NgEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATAyLjA2LjIwMjYgMTU6NDg6MTYBMTgxMTUwODQ5NgEvAQEBAg.1780404556.005ccd4e377461a756d0903f147164de3fe53f869f22e1fbb50911618b966701';
+new Image().src='https://gtifem.technolog.edu.ru/bitrix/spread.php?s=QklUUklYX1NNX0dVRVNUX0lEATU0MDYyNDABMTgxMTUwODQ5NgEvAQEBAkJJVFJJWF9TTV9MQVNUX1ZJU0lUATAyLjA2LjIwMjYgMTU6NDg6MTYBMTgxMTUwODQ5NgEvAQEBAg.1780404556.005ccd4e377461a756d0903f147164de3fe53f869f22e1fbb50911618b966701';
 </script>
 
 
@@ -687,7 +764,7 @@ new Image().src='https://gtifem.technolog.edu.ru/bitrix/spread.php?s=QklUUklYX1N
 </script>
 <div id="gschedfem-demo-banner" style="position:sticky;top:0;z-index:99999;background:#fff3cd;border-bottom:2px solid #ffc107;padding:10px 16px;font-family:-apple-system,sans-serif;font-size:13px;color:#856404;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
   <strong>📌 ДЕМО:</strong>
-  <span><b>Страница преподавателя — Морозов А.М.</b> — Кнопка «Добавить в календарь» появляется рядом с именем преподавателя.</span>
+  <span><b>Расписание группы</b> — Зелёный блок с кнопкой «Добавить расписание группы в календарь» сверху.</span>
   <span style="margin-left:auto;display:flex;gap:8px;">
     <a href="./demo-teacher-page.html" style="color:#856404;">Преподаватель</a> ·
     <a href="./demo-teacher-list.html" style="color:#856404;">Список</a> ·
