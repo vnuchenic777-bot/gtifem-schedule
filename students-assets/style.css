@@ -1,0 +1,57 @@
+table{
+    border:1px solid;
+    text-align: center; border-spacing: 1px 1px;
+
+}
+.content table tr td,
+.content table tr th {
+    border: 2px solid #ACACAC;
+    padding: 6px 12px;
+}
+td{
+    border:1px solid;
+}
+#raspisanie table .lesson-line td{
+    background:#DDD;
+    font-weight:bold;
+    font-size:14px;
+}
+caption{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.edit-teacher{
+    display: block;
+}
+.addedit{
+    cursor: pointer;
+    font-size: 24px;
+}
+.edit{
+    width:15px;
+    height:15px;
+    background: url('edit.svg'), no-repeat;
+    background-size:15px;
+    margin-left:5px;
+    display:inline-block;
+    cursor:pointer;
+}
+.delete{
+    width:15px;
+    height:15px;
+    background: url('delete.svg'), no-repeat;
+    background-size:15px;
+    margin-left:5px;
+    display:inline-block;
+    cursor:pointer;
+}
+.table td {
+    position: relative;
+}
+span.editing {
+    position: absolute;
+    right: 0;
+    top: 0;
+}

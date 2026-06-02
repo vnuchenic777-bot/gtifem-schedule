@@ -1,0 +1,66 @@
+.table{ width:960px; text-align:center; vertical-align:middle;font-family:Arial; font-size:14px; } 
+.border-none{border:0px !important;}
+.border-1px{ border:1px solid #000 !important; text-align:center; vertical-align:middle;}
+.border-color{border-color: #000  !important;}
+.divtop{
+	position: relative;
+	height: 0px;
+	width: 100%;
+
+	 background: -webkit-linear-gradient(top,#a5b557 0,#c3d467 25%,#b7ca5e 100%)!important;
+  background: -moz-linear-gradient(top,#a5b557 0,#c3d467 25%,#b7ca5e 100%)!important;
+  background: -ms-linear-gradient(top,#a5b557 0,#c3d467 25%,#b7ca5e 100%)!important;
+  background: -o-linear-gradient(top,#a5b557 0,#c3d467 25%,#b7ca5e 100%)!important;
+  background: linear-gradient(top,#a5b557 0,#c3d467 25%,#b7ca5e 100%)!important;
+	text-align: center;
+	color:#2b4e0c;
+	font-size: 20px;
+	padding-top:0px;
+-webkit-transition: all .5s;
+  transition: all .5s;
+	text-shadow: 0 1px rgba(255,255,255,0.4)!important;
+	min-width: 980px;
+}
+.divtop_close{
+	position: absolute;
+	right: 20px;
+	top:2px;
+	cursor: pointer;
+	width: 40px;
+	height: 36px;
+	  background: url(img/top-panel-sprite-2.png) no-repeat -365px -2622px!important;
+}
+.divtop_close:hover{
+	background-position: -365px -2649px!important;
+}
+.deactive{
+height:35px;
+padding-top:7px;
+-webkit-transition: all .5s;
+  transition: all .5s;
+}
+.image-margin{
+ margin: 10px 10px;
+}
+.table-lesson{
+width:900px;
+border-spacing: 1px;
+border:1px;
+text-align:center;
+}
+.table-lesson tr td{
+padding:1px;
+text-align:center;
+font-family:Arial;
+font-size:12pt !important;
+}
+.table-lesson tr:first-child td:first-child{
+width:10px;
+}
+.table-lesson tr td:nth-child(2){
+width:20px;
+}
+
+.table-lesson thead td{
+background: rgba(91, 148, 210, 0.41) !important;
+}
