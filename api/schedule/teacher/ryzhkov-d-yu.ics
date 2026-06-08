@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Рыжков Д.Ю. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Рыжков Д.Ю., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Рыжков Д. Ю. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Рыжков Д. Ю., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -19,495 +19,452 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250915-1600-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T160000
 DTEND;TZID=Europe/Moscow:20250915T174000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №6\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-0930-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T093000
 DTEND;TZID=Europe/Moscow:20250918T111000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №5\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T113000
 DTEND;TZID=Europe/Moscow:20250918T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №6\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1400-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T140000
 DTEND;TZID=Europe/Moscow:20250926T154000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №7\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1600-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T160000
 DTEND;TZID=Europe/Moscow:20250926T174000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №8\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-1400-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T140000
 DTEND;TZID=Europe/Moscow:20251001T154000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6471\nАудитория: а.6115\nПара №9\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6115\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251117-1600-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T160000
 DTEND;TZID=Europe/Moscow:20251117T174000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6471\nАудитория: а.6240\nПара №10\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6240\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251121-0930-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T093000
 DTEND;TZID=Europe/Moscow:20251121T111000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6471\nАудитория: а.403\nПара №11\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.403\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251121-1130-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T113000
 DTEND;TZID=Europe/Moscow:20251121T131000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6471\nАудитория: а.403\nПара №12\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.403\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251124-0930-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T093000
 DTEND;TZID=Europe/Moscow:20251124T111000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6471\nАудитория: а.403\nПара №19\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.403\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251124-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T113000
 DTEND;TZID=Europe/Moscow:20251124T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6471\nАудитория: а.403\nПара №20\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.403\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T113000
 DTEND;TZID=Europe/Moscow:20251126T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №21\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-0930-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T093000
 DTEND;TZID=Europe/Moscow:20251226T111000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №16\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T113000
 DTEND;TZID=Europe/Moscow:20251226T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №27\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251229-0930-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251229T093000
 DTEND;TZID=Europe/Moscow:20251229T111000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6471\nАудитория: а.409\nПара №28\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.409\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251229-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251229T113000
 DTEND;TZID=Europe/Moscow:20251229T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6471\nАудитория: а.409\nПара №29\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.409\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260302-1130-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260302T113000
 DTEND;TZID=Europe/Moscow:20260302T131000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6471\nАудитория: а.6242\nПара №45\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6242\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260302-1400-6471-управление-персоналом-лаб-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260302T140000
 DTEND;TZID=Europe/Moscow:20260302T154000
 SUMMARY:Управление персоналом (лаб) · гр. 6471 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6471\nАудитория: а.6242\nПара №19\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6242\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260305-0930-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260305T093000
 DTEND;TZID=Europe/Moscow:20260305T111000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПара №46\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260305-1130-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260305T113000
 DTEND;TZID=Europe/Moscow:20260305T131000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПара №47\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-0930-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T093000
 DTEND;TZID=Europe/Moscow:20260401T111000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПара №21\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-1130-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T113000
 DTEND;TZID=Europe/Moscow:20260401T131000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПара №22\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-1130-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T113000
 DTEND;TZID=Europe/Moscow:20260403T131000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПара №23\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-1400-6471-управление-персоналом-лаб-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T140000
 DTEND;TZID=Europe/Moscow:20260403T154000
 SUMMARY:Управление персоналом (лаб) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №20\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-1600-6471-управление-персоналом-лаб-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T160000
 DTEND;TZID=Europe/Moscow:20260403T174000
 SUMMARY:Управление персоналом (лаб) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №21\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-0930-6471-управление-персоналом-лаб-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T093000
 DTEND;TZID=Europe/Moscow:20260408T111000
 SUMMARY:Управление персоналом (лаб) · гр. 6471 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6471\nАудитория: а.6117\nПара №22\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6117\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1130-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T113000
 DTEND;TZID=Europe/Moscow:20260408T131000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПара №48\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-0930-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T093000
 DTEND;TZID=Europe/Moscow:20260409T111000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №49\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1400-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T140000
 DTEND;TZID=Europe/Moscow:20260422T154000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПара №24\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1600-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T160000
 DTEND;TZID=Europe/Moscow:20260422T174000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПара №25\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6373\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-0930-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T093000
 DTEND;TZID=Europe/Moscow:20260424T111000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПара №26\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1130-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T113000
 DTEND;TZID=Europe/Moscow:20260424T131000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПара №52\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1400-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T140000
 DTEND;TZID=Europe/Moscow:20260424T154000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПара №53\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-1400-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T140000
 DTEND;TZID=Europe/Moscow:20260428T154000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.408
 LOCATION:а.408
-DESCRIPTION:Группа: 6471\nАудитория: а.408\nПара №54\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.408\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-1600-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T160000
 DTEND;TZID=Europe/Moscow:20260428T174000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.408
 LOCATION:а.408
-DESCRIPTION:Группа: 6471\nАудитория: а.408\nПара №55\nПреподаватель: Рыжков
-  Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.408\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260429-1400-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T140000
 DTEND;TZID=Europe/Moscow:20260429T154000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПара №56\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260429-1600-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T160000
 DTEND;TZID=Europe/Moscow:20260429T174000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПара №57\nПреподаватель: Рыжко
- в Д.Ю.
+DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1400-6471-управление-персоналом-пр-перен@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T140000
 DTEND;TZID=Europe/Moscow:20260529T154000
 SUMMARY:Управление персоналом (пр) (перенос с 18.05.2026) · гр. 6471 · а.62
- 49
-LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №62\nПреподаватель: Рыжко
- в Д.Ю.
+LOCATION:а.62
+DESCRIPTION:Группа: 6471\nАудитория: а.62\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1600-6471-управление-персоналом-пр-перен@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T160000
 DTEND;TZID=Europe/Moscow:20260529T174000
 SUMMARY:Управление персоналом (пр) (перенос с 18.05.2026) · гр. 6471 · а.62
- 49
-LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №63\nПреподаватель: Рыжко
- в Д.Ю.
+LOCATION:а.62
+DESCRIPTION:Группа: 6471\nАудитория: а.62\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260605-1400-6471-управление-персоналом-пр-перен@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T140000
 DTEND;TZID=Europe/Moscow:20260605T154000
 SUMMARY:Управление персоналом (пр) (перенос с 25.05.2026) · гр. 6471 · а.62
- 49
-LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПреподаватель: Рыжков Д.Ю.
+LOCATION:а.62
+DESCRIPTION:Группа: 6471\nАудитория: а.62\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260605-1600-6471-управление-персоналом-пр-перен@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T160000
 DTEND;TZID=Europe/Moscow:20260605T174000
 SUMMARY:Управление персоналом (пр) (перенос с 25.05.2026) · гр. 6471 · а.62
- 49
-LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПреподаватель: Рыжков Д.Ю.
+LOCATION:а.62
+DESCRIPTION:Группа: 6471\nАудитория: а.62\nПреподаватель: Рыжков Д. Ю.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT

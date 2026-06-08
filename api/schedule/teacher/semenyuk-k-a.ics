@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Семенюк К.А. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Семенюк К.А., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Семенюк К. А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Семенюк К. А., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -19,1745 +19,2632 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20260113-1130-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T113000
 DTEND;TZID=Europe/Moscow:20260113T131000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №18\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260113-1130-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1130-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T113000
 DTEND;TZID=Europe/Moscow:20260113T131000
 SUMMARY:Философия (пр) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260113-1130-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1130-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T113000
 DTEND;TZID=Europe/Moscow:20260113T131000
 SUMMARY:Философия (пр) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-0930-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T093000
 DTEND;TZID=Europe/Moscow:20260115T111000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №16\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-0930-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Философия (пр) · гр. 6553 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\nАудитория: а.403\nПара №16\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-0930-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260115T093000
+DTEND;TZID=Europe/Moscow:20260115T111000
+SUMMARY:Философия (пр) · гр. 6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №16\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-1130-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
 DTEND;TZID=Europe/Moscow:20260115T131000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №17\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260115-1130-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Философия (пр) · гр. 6553 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\nАудитория: а.403\nПара №17\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260115-1130-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260115T113000
+DTEND;TZID=Europe/Moscow:20260115T131000
+SUMMARY:Философия (пр) · гр. 6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №17\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260116-0930-6511-6512-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T093000
 DTEND;TZID=Europe/Moscow:20260116T111000
 SUMMARY:Философия (лек) · гр. 6511\,6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №8\nПреподаватель: С
- еменюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260116-0930-философия-лeк-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-0930-6511-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T093000
 DTEND;TZID=Europe/Moscow:20260116T111000
 SUMMARY:Философия (лек) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260116-0930-философия-лeк-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-0930-6512-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T093000
 DTEND;TZID=Europe/Moscow:20260116T111000
 SUMMARY:Философия (лек) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260116-1400-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-1400-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:Философия (пр) · гр. 6511 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\nАудитория: а.6240
+DESCRIPTION:Группа: 6511\nАудитория: а.6240\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260116-1400-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260116-1400-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:Философия (пр) · гр. 6512 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6512\nАудитория: а.6240
+DESCRIPTION:Группа: 6512\nАудитория: а.6240\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1800-659ву-659вб-659вр-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T180000
 DTEND;TZID=Europe/Moscow:20260120T194000
 SUMMARY:Философия (лек) · гр. 659ву\,659вб\, 659вр · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6376\nПара №1\nПрепо
- даватель: Семенюк К.А.
+DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6376\nПреподаватель:
+  Семенюк К. А.
 CATEGORIES:Преподавание,659ву\,659вб\, 659вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-2000-656вэ9-16-656вэ17-24-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T200000
 DTEND;TZID=Europe/Moscow:20260120T214000
 SUMMARY:Философия (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПара №1\nПреп
- одаватель: Семенюк К.А.
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПреподаватель
+ : Семенюк К. А.
 CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-0930-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T093000
 DTEND;TZID=Europe/Moscow:20260123T111000
 SUMMARY:Философия (пр) · гр. 6571 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №16\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1130-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T113000
 DTEND;TZID=Europe/Moscow:20260123T131000
 SUMMARY:Философия (пр) · гр. 6571 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №17\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1400-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №19\nПреподаватель:
-  Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПреподаватель: Семенюк К
+ . А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260127-0930-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260127T093000
 DTEND;TZID=Europe/Moscow:20260127T111000
 SUMMARY:Философия (пр) · гр. 6571 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6571\nАудитория: а.411\nПара №18\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.411\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260127-1130-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260127T113000
 DTEND;TZID=Europe/Moscow:20260127T131000
 SUMMARY:Философия (пр) · гр. 6571 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6571\nАудитория: а.411\nПара №19\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.411\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-0930-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T093000
 DTEND;TZID=Europe/Moscow:20260128T111000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №18\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-1130-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T113000
 DTEND;TZID=Europe/Moscow:20260128T131000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №19\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-0930-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T093000
 DTEND;TZID=Europe/Moscow:20260129T111000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.401\nПара №18\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-0930-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260129T093000
+DTEND;TZID=Europe/Moscow:20260129T111000
+SUMMARY:Философия (пр) · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПара №18\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-0930-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260129T093000
+DTEND;TZID=Europe/Moscow:20260129T111000
+SUMMARY:Философия (пр) · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №18\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-1130-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T113000
 DTEND;TZID=Europe/Moscow:20260129T131000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.401\nПара №19\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260202-1600-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260129-1130-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260129T113000
+DTEND;TZID=Europe/Moscow:20260129T131000
+SUMMARY:Философия (пр) · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПара №19\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260129-1130-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260129T113000
+DTEND;TZID=Europe/Moscow:20260129T131000
+SUMMARY:Философия (пр) · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №19\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260202-1600-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:Философия (пр) · гр. 6511 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6511\nАудитория: а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260202-1600-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260202-1600-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:Философия (пр) · гр. 6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-1800-656вэ9-16-656вэ17-24-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T180000
 DTEND;TZID=Europe/Moscow:20260203T194000
 SUMMARY:Философия (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПара №2\nПреп
- одаватель: Семенюк К.А.
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПреподаватель
+ : Семенюк К. А.
 CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-2000-656вэ9-16-656вэ17-24-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T200000
 DTEND;TZID=Europe/Moscow:20260203T214000
 SUMMARY:Философия (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПара №3\nПреп
- одаватель: Семенюк К.А.
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПреподаватель
+ : Семенюк К. А.
 CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1400-6541-6542-6581-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T140000
 DTEND;TZID=Europe/Moscow:20260204T154000
 SUMMARY:Философия (лек) · гр. 6541\,6542\, 6581 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №8\nПреподава
- тель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260204-1400-6581-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Философия (лек) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №8\nПреподаватель: Семенюк
+  К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260204-1600-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
 DTEND;TZID=Europe/Moscow:20260204T174000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №20\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260204-1600-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260204-1600-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
 DTEND;TZID=Europe/Moscow:20260204T174000
 SUMMARY:Философия (пр) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260204-1600-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260204-1600-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
 DTEND;TZID=Europe/Moscow:20260204T174000
 SUMMARY:Философия (пр) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260206-1130-философия-лeк-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260206-1130-6511-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T113000
 DTEND;TZID=Europe/Moscow:20260206T131000
 SUMMARY:Философия (лек) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260206-1130-философия-лeк-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260206-1130-6512-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T113000
 DTEND;TZID=Europe/Moscow:20260206T131000
 SUMMARY:Философия (лек) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-0930-6531-6532-6533-6534-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T093000
 DTEND;TZID=Europe/Moscow:20260210T111000
 SUMMARY:Философия (лек) · гр. 6531\,6532\, 6533\,6534 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПара №8\nПре
- подаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПреподавател
+ ь: Семенюк К. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-1130-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T113000
 DTEND;TZID=Europe/Moscow:20260210T131000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №20\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-1400-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T140000
 DTEND;TZID=Europe/Moscow:20260210T154000
 SUMMARY:Философия (пр) · гр. 6571 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №20\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1400-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
 DTEND;TZID=Europe/Moscow:20260212T154000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №18\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260212-1400-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Философия (пр) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №18\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-0930-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T093000
 DTEND;TZID=Europe/Moscow:20260213T111000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №20\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260213-0930-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Философия (пр) · гр. 6553 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6553\nАудитория: а.406\nПара №20\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Философия (пр) · гр. 6554 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6554\nАудитория: а.406\nПара №20\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260217-1800-659ву-659вб-659вр-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T180000
 DTEND;TZID=Europe/Moscow:20260217T194000
 SUMMARY:Философия (лек) · гр. 659ву\,659вб\, 659вр · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6376\nПара №2\nПрепо
- даватель: Семенюк К.А.
+DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6376\nПреподаватель:
+  Семенюк К. А.
 CATEGORIES:Преподавание,659ву\,659вб\, 659вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-2000-659ву-659вб-659вр-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T200000
 DTEND;TZID=Europe/Moscow:20260217T214000
 SUMMARY:Философия (лек) · гр. 659ву\,659вб\, 659вр · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6376\nПара №3\nПрепо
- даватель: Семенюк К.А.
+DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6376\nПреподаватель:
+  Семенюк К. А.
 CATEGORIES:Преподавание,659ву\,659вб\, 659вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260218-0930-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T093000
 DTEND;TZID=Europe/Moscow:20260218T111000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №21\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260218-0930-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Философия (пр) · гр. 6553 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\nАудитория: а.403\nПара №21\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260218-0930-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Философия (пр) · гр. 6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №21\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260220-0930-6553-6554-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T093000
 DTEND;TZID=Europe/Moscow:20260220T111000
 SUMMARY:Философия (лек) · гр. 6553\,6554 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6553\,6554\nАудитория: а.401\nПреподаватель: Семенюк К.
- А.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260220-0930-6553-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Философия (лек) · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПреподаватель: Семенюк К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6554-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Философия (лек) · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПреподаватель: Семенюк К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260220-1130-6511-6512-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T113000
 DTEND;TZID=Europe/Moscow:20260220T131000
 SUMMARY:Философия (лек) · гр. 6511\,6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №9\nПреподаватель: С
- еменюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1400-6531-6532-6533-6534-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T140000
 DTEND;TZID=Europe/Moscow:20260224T154000
 SUMMARY:Философия (лек) · гр. 6531\,6532\, 6533\,6534 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №9\nПре
- подаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПреподавател
+ ь: Семенюк К. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1600-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T160000
 DTEND;TZID=Europe/Moscow:20260224T174000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №21\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-1400-6541-6542-6581-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260225T140000
 DTEND;TZID=Europe/Moscow:20260225T154000
 SUMMARY:Философия (лек) · гр. 6541\,6542\, 6581 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №9\nПреподава
- тель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260225-1400-6581-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260225T140000
+DTEND;TZID=Europe/Moscow:20260225T154000
+SUMMARY:Философия (лек) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №9\nПреподаватель: Семенюк
+  К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260225-1600-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260225T160000
 DTEND;TZID=Europe/Moscow:20260225T174000
 SUMMARY:Философия (пр) · гр. 6571 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6571\nАудитория: а.411\nПара №21\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.411\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260226-1400-6521-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T140000
 DTEND;TZID=Europe/Moscow:20260226T154000
 SUMMARY:Философия (пр) · гр. 6521 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6521\nАудитория: а.406\nПреподаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6521\nАудитория: а.406\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260226-1600-6533-6534-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T160000
 DTEND;TZID=Europe/Moscow:20260226T174000
 SUMMARY:Философия (пр) · гр. 6533\,6534 · а.106
 LOCATION:а.106
 DESCRIPTION:Группа: 6533\,6534\nАудитория: а.106\nПреподаватель: Семенюк К.
- А.
+  А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260302-1600-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260302-1600-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260302T160000
 DTEND;TZID=Europe/Moscow:20260302T174000
 SUMMARY:Философия (пр) · гр. 6511 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6511\nАудитория: а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260302-1600-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260302-1600-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260302T160000
 DTEND;TZID=Europe/Moscow:20260302T174000
 SUMMARY:Философия (пр) · гр. 6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260304-1600-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260304-1600-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T160000
 DTEND;TZID=Europe/Moscow:20260304T174000
 SUMMARY:Философия (пр) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260304-1600-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260304-1600-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T160000
 DTEND;TZID=Europe/Moscow:20260304T174000
 SUMMARY:Философия (пр) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260305-0930-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260305T093000
 DTEND;TZID=Europe/Moscow:20260305T111000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №22\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-0930-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260305T093000
+DTEND;TZID=Europe/Moscow:20260305T111000
+SUMMARY:Философия (пр) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №22\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-0930-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260305T093000
+DTEND;TZID=Europe/Moscow:20260305T111000
+SUMMARY:Философия (пр) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №22\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260305-1130-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260305T113000
 DTEND;TZID=Europe/Moscow:20260305T131000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №23\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260306-1130-философия-лeк-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260305-1130-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Философия (пр) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №23\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260305-1130-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260305T113000
+DTEND;TZID=Europe/Moscow:20260305T131000
+SUMMARY:Философия (пр) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №23\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260306-1130-6511-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T113000
 DTEND;TZID=Europe/Moscow:20260306T131000
 SUMMARY:Философия (лек) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260306-1130-философия-лeк-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1130-6512-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T113000
 DTEND;TZID=Europe/Moscow:20260306T131000
 SUMMARY:Философия (лек) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1400-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T140000
 DTEND;TZID=Europe/Moscow:20260312T154000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №21\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1600-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T160000
 DTEND;TZID=Europe/Moscow:20260312T174000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПара №22\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.409\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1800-656вэ9-16-656вэ17-24-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T180000
 DTEND;TZID=Europe/Moscow:20260312T194000
 SUMMARY:Философия (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПара №4\nПреп
- одаватель: Семенюк К.А.
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПреподаватель
+ : Семенюк К. А.
 CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-0930-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T093000
 DTEND;TZID=Europe/Moscow:20260313T111000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №22\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1130-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T113000
 DTEND;TZID=Europe/Moscow:20260313T131000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №23\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1400-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T140000
 DTEND;TZID=Europe/Moscow:20260313T154000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №19\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Философия (пр) · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПара №19\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Философия (пр) · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПара №19\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1400-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Философия (пр) · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №19\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260317-0930-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260317T093000
 DTEND;TZID=Europe/Moscow:20260317T111000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №20\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260317-0930-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Философия (пр) · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПара №20\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-0930-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Философия (пр) · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПара №20\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-0930-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Философия (пр) · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №20\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260317-1130-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260317T113000
 DTEND;TZID=Europe/Moscow:20260317T131000
 SUMMARY:Философия (пр) · гр. 6571 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №22\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260317-1600-6531-6532-6533-6534-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260317T160000
 DTEND;TZID=Europe/Moscow:20260317T174000
 SUMMARY:Философия (лек) · гр. 6531\,6532\, 6533\,6534 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПара №10\nПр
- еподаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.409\nПреподавател
+ ь: Семенюк К. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1400-6511-6512-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T140000
 DTEND;TZID=Europe/Moscow:20260318T154000
 SUMMARY:Философия (лек) · гр. 6511\,6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПара №10\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1600-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T160000
 DTEND;TZID=Europe/Moscow:20260318T174000
 SUMMARY:Философия (пр) · гр. 6571 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №23\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1800-659ву-659вб-659вр-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T180000
 DTEND;TZID=Europe/Moscow:20260318T194000
 SUMMARY:Философия (лек) · гр. 659ву\,659вб\, 659вр · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6115\nПара №4\nПрепо
- даватель: Семенюк К.А.
+DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6115\nПреподаватель:
+  Семенюк К. А.
 CATEGORIES:Преподавание,659ву\,659вб\, 659вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-0930-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260324T093000
 DTEND;TZID=Europe/Moscow:20260324T111000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №23\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-1400-6541-6542-6581-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260324T140000
 DTEND;TZID=Europe/Moscow:20260324T154000
 SUMMARY:Философия (лек) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №10\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260324-1400-6541-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Философия (лек) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №10\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1400-6542-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Философия (лек) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №10\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1400-6581-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Философия (лек) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №10\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260325-0930-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260325T093000
 DTEND;TZID=Europe/Moscow:20260325T111000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №24\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1130-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260325T113000
 DTEND;TZID=Europe/Moscow:20260325T131000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №25\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260326-1400-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260326T140000
 DTEND;TZID=Europe/Moscow:20260326T154000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №24\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1400-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T140000
+DTEND;TZID=Europe/Moscow:20260326T154000
+SUMMARY:Философия (пр) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №24\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1400-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T140000
+DTEND;TZID=Europe/Moscow:20260326T154000
+SUMMARY:Философия (пр) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №24\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260326-1600-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260326T160000
 DTEND;TZID=Europe/Moscow:20260326T174000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №25\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260326-1600-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T160000
+DTEND;TZID=Europe/Moscow:20260326T174000
+SUMMARY:Философия (пр) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №25\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260326-1600-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T160000
+DTEND;TZID=Europe/Moscow:20260326T174000
+SUMMARY:Философия (пр) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №25\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260327-0930-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260327T093000
 DTEND;TZID=Europe/Moscow:20260327T111000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПара №24\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1400-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T140000
 DTEND;TZID=Europe/Moscow:20260331T154000
 SUMMARY:Философия (пр) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №24\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-0930-6531-6532-6533-6534-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T093000
 DTEND;TZID=Europe/Moscow:20260401T111000
 SUMMARY:Философия (лек) · гр. 6531\,6532\, 6533\,6534 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПара №11\nПр
- еподаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПреподавател
+ ь: Семенюк К. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260402-1600-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260402-1600-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T160000
 DTEND;TZID=Europe/Moscow:20260402T174000
 SUMMARY:Философия (пр) · гр. 6511 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6511\nАудитория: а.406
+DESCRIPTION:Группа: 6511\nАудитория: а.406\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260402-1600-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260402-1600-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T160000
 DTEND;TZID=Europe/Moscow:20260402T174000
 SUMMARY:Философия (пр) · гр. 6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6512\nАудитория: а.406
+DESCRIPTION:Группа: 6512\nАудитория: а.406\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-0930-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T093000
 DTEND;TZID=Europe/Moscow:20260403T111000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №21\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260404-1600-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260403-0930-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №21\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-0930-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №21\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-0930-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №21\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260404-1600-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260404T160000
 DTEND;TZID=Europe/Moscow:20260404T174000
 SUMMARY:Философия (пр) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260404-1600-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260404-1600-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260404T160000
 DTEND;TZID=Europe/Moscow:20260404T174000
 SUMMARY:Философия (пр) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260406-1130-философия-лeк-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260406-1130-6511-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T113000
 DTEND;TZID=Europe/Moscow:20260406T131000
 SUMMARY:Философия (лек) · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260406-1130-философия-лeк-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260406-1130-6512-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T113000
 DTEND;TZID=Europe/Moscow:20260406T131000
 SUMMARY:Философия (лек) · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1130-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T113000
 DTEND;TZID=Europe/Moscow:20260407T131000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №25\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1400-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T140000
 DTEND;TZID=Europe/Moscow:20260407T154000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №26\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1400-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T140000
 DTEND;TZID=Europe/Moscow:20260408T154000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №26\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1600-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T160000
 DTEND;TZID=Europe/Moscow:20260408T174000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №27\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1130-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T113000
 DTEND;TZID=Europe/Moscow:20260409T131000
 SUMMARY:Философия (пр) · гр. 6571 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №25\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1400-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
 DTEND;TZID=Europe/Moscow:20260409T154000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №22\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260409-1400-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №22\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №22\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1400-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №22\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260409-1600-6511-6512-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T160000
 DTEND;TZID=Europe/Moscow:20260409T174000
 SUMMARY:Философия (лек) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №11\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260414-0930-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T093000
 DTEND;TZID=Europe/Moscow:20260414T111000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №28\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260414-1130-6541-6542-6581-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T113000
 DTEND;TZID=Europe/Moscow:20260414T131000
 SUMMARY:Философия (лек) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №11\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260414-1130-6541-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Философия (лек) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №11\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6542-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Философия (лек) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №11\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6581-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Философия (лек) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №11\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260414-1400-6531-6532-6533-6534-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T140000
 DTEND;TZID=Europe/Moscow:20260414T154000
 SUMMARY:Философия (лек) · гр. 6531\,6532\, 6533\,6534 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №12\nПр
- еподаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПреподавател
+ ь: Семенюк К. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260415-1130-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T113000
 DTEND;TZID=Europe/Moscow:20260415T131000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №26\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260415-1400-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T140000
 DTEND;TZID=Europe/Moscow:20260415T154000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №27\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-0930-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T093000
 DTEND;TZID=Europe/Moscow:20260421T111000
 SUMMARY:Философия (пр) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №26\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-1130-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T113000
 DTEND;TZID=Europe/Moscow:20260421T131000
 SUMMARY:Философия (пр) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №27\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1600-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T160000
 DTEND;TZID=Europe/Moscow:20260422T174000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №28\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1800-656вэ9-16-656вэ17-24-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T180000
 DTEND;TZID=Europe/Moscow:20260422T194000
 SUMMARY:Философия (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПара №5\nПреп
- одаватель: Семенюк К.А.
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПреподаватель
+ : Семенюк К. А.
 CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-2000-656вэ9-16-656вэ17-24-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T200000
 DTEND;TZID=Europe/Moscow:20260422T214000
 SUMMARY:Философия (лек) · гр. 656вэ9-16\,656вэ17-24 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПара №6\nПреп
- одаватель: Семенюк К.А.
+DESCRIPTION:Группа: 656вэ9-16\,656вэ17-24\nАудитория: а.6376\nПреподаватель
+ : Семенюк К. А.
 CATEGORIES:Преподавание,656вэ9-16\,656вэ17-24
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-0930-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T093000
 DTEND;TZID=Europe/Moscow:20260424T111000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №27\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1130-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T113000
 DTEND;TZID=Europe/Moscow:20260424T131000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №23\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260424-1130-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №23\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1130-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №23\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1130-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260424T113000
+DTEND;TZID=Europe/Moscow:20260424T131000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №23\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260429-0930-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T093000
 DTEND;TZID=Europe/Moscow:20260429T111000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПара №28\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260429-1130-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T113000
 DTEND;TZID=Europe/Moscow:20260429T131000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПара №29\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260429-1400-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T140000
 DTEND;TZID=Europe/Moscow:20260429T154000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №24\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260429-1400-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №24\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №24\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №24\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260430-1130-6511-6512-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T113000
 DTEND;TZID=Europe/Moscow:20260430T131000
 SUMMARY:Философия (лек) · гр. 6511\,6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №12\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-1400-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T140000
 DTEND;TZID=Europe/Moscow:20260430T154000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №29\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-1600-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T160000
 DTEND;TZID=Europe/Moscow:20260430T174000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №30\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-0930-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-0930-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T093000
 DTEND;TZID=Europe/Moscow:20260505T111000
 SUMMARY:Философия (пр) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-0930-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-0930-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T093000
 DTEND;TZID=Europe/Moscow:20260505T111000
 SUMMARY:Философия (пр) · гр. 6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6512\nАудитория: а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-1130-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-1130-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T113000
 DTEND;TZID=Europe/Moscow:20260505T131000
 SUMMARY:Философия (пр) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-1130-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-1130-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T113000
 DTEND;TZID=Europe/Moscow:20260505T131000
 SUMMARY:Философия (пр) · гр. 6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6512\nАудитория: а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-1400-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-1400-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T140000
 DTEND;TZID=Europe/Moscow:20260505T154000
 SUMMARY:Философия (пр) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-1400-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-1400-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T140000
 DTEND;TZID=Europe/Moscow:20260505T154000
 SUMMARY:Философия (пр) · гр. 6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6512\nАудитория: а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-1600-философия-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-1600-6511-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T160000
 DTEND;TZID=Europe/Moscow:20260505T174000
 SUMMARY:Философия (пр) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260505-1600-философия-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260505-1600-6512-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T160000
 DTEND;TZID=Europe/Moscow:20260505T174000
 SUMMARY:Философия (пр) · гр. 6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6512\nАудитория: а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260506-1400-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T140000
 DTEND;TZID=Europe/Moscow:20260506T154000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №25\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №25\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №25\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1400-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T140000
+DTEND;TZID=Europe/Moscow:20260506T154000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №25\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260506-1600-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T160000
 DTEND;TZID=Europe/Moscow:20260506T174000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №26\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260506-1600-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №26\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №26\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1600-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T160000
+DTEND;TZID=Europe/Moscow:20260506T174000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №26\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260507-0930-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T093000
 DTEND;TZID=Europe/Moscow:20260507T111000
 SUMMARY:Философия (пр) · гр. 6571 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6571\nАудитория: а.414\nПара №28\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.414\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-1130-6531-6532-6533-6534-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T113000
 DTEND;TZID=Europe/Moscow:20260507T131000
 SUMMARY:Философия (лек) · гр. 6531\,6532\, 6533\,6534 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПара №13\nПр
- еподаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПреподавател
+ ь: Семенюк К. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260507-1400-философия-лeк-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260507-1400-6511-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T140000
 DTEND;TZID=Europe/Moscow:20260507T154000
 SUMMARY:Философия (лек) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-semenyuk-k-a-20260507-1400-философия-лeк-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260507-1400-6512-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T140000
 DTEND;TZID=Europe/Moscow:20260507T154000
 SUMMARY:Философия (лек) · гр. 6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6512\nАудитория: а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260512-0930-6541-6542-6581-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T093000
 DTEND;TZID=Europe/Moscow:20260512T111000
 SUMMARY:Философия (лек) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №12\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-0930-6541-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T093000
+DTEND;TZID=Europe/Moscow:20260512T111000
+SUMMARY:Философия (лек) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №12\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-0930-6542-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T093000
+DTEND;TZID=Europe/Moscow:20260512T111000
+SUMMARY:Философия (лек) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №12\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-0930-6581-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T093000
+DTEND;TZID=Europe/Moscow:20260512T111000
+SUMMARY:Философия (лек) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №12\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260512-1130-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T113000
 DTEND;TZID=Europe/Moscow:20260512T131000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №30\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260512-1130-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №30\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1130-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №30\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1130-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №30\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260513-1400-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T140000
 DTEND;TZID=Europe/Moscow:20260513T154000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №29\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1600-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T160000
 DTEND;TZID=Europe/Moscow:20260513T174000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №30\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1800-659ву-659вб-659вр-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T180000
 DTEND;TZID=Europe/Moscow:20260513T194000
 SUMMARY:Философия (лек) · гр. 659ву\,659вб\, 659вр · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6117\nПара №5\nПрепо
- даватель: Семенюк К.А.
+DESCRIPTION:Группа: 659ву\,659вб\, 659вр\nАудитория: а.6117\nПреподаватель:
+  Семенюк К. А.
 CATEGORIES:Преподавание,659ву\,659вб\, 659вр
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-0930-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T093000
 DTEND;TZID=Europe/Moscow:20260514T111000
 SUMMARY:Философия (пр) · гр. 6571 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6571\nАудитория: а.414\nПара №29\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.414\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1130-6541-6542-6581-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T113000
 DTEND;TZID=Europe/Moscow:20260514T131000
 SUMMARY:Философия (лек) · гр. 6541\,6542\, 6581 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №13\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260514-1130-6541-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Философия (лек) · гр. 6541 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\nАудитория: а.414\nПара №13\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1130-6542-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Философия (лек) · гр. 6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6542\nАудитория: а.414\nПара №13\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1130-6581-философия-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Философия (лек) · гр. 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6581\nАудитория: а.414\nПара №13\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260521-1130-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T113000
 DTEND;TZID=Europe/Moscow:20260521T131000
 SUMMARY:Философия (пр) · гр. 6571 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №30\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1400-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T140000
 DTEND;TZID=Europe/Moscow:20260521T154000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №30\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1600-6531-6532-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T160000
 DTEND;TZID=Europe/Moscow:20260521T174000
 SUMMARY:Философия (пр) · гр. 6531\,6532 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №31\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260522-0930-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T093000
 DTEND;TZID=Europe/Moscow:20260522T111000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №31\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-0930-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260522T093000
+DTEND;TZID=Europe/Moscow:20260522T111000
+SUMMARY:Философия (пр) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №31\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-0930-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260522T093000
+DTEND;TZID=Europe/Moscow:20260522T111000
+SUMMARY:Философия (пр) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №31\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260522-1130-6553-6554-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T113000
 DTEND;TZID=Europe/Moscow:20260522T131000
 SUMMARY:Философия (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №32\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260522-1130-6553-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260522T113000
+DTEND;TZID=Europe/Moscow:20260522T131000
+SUMMARY:Философия (пр) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №32\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260522-1130-6554-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260522T113000
+DTEND;TZID=Europe/Moscow:20260522T131000
+SUMMARY:Философия (пр) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №32\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260522-1400-6511-6512-философия-лек-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T140000
 DTEND;TZID=Europe/Moscow:20260522T154000
 SUMMARY:Философия (лек) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №13\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-0930-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T093000
 DTEND;TZID=Europe/Moscow:20260527T111000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №31\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1130-6511-6512-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T113000
 DTEND;TZID=Europe/Moscow:20260527T131000
 SUMMARY:Философия (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №32\nПреподаватель: 
- Семенюк К.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Семенюк К.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260604-0930-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260604T093000
 DTEND;TZID=Europe/Moscow:20260604T111000
 SUMMARY:Философия (пр) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №31\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260604-1130-6571-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260604T113000
 DTEND;TZID=Europe/Moscow:20260604T131000
 SUMMARY:Философия (пр) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №32\nПреподаватель: Семеню
- к К.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260609-1400-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260609T140000
 DTEND;TZID=Europe/Moscow:20260609T154000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №31\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1400-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260609T140000
+DTEND;TZID=Europe/Moscow:20260609T154000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №31\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1400-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260609T140000
+DTEND;TZID=Europe/Moscow:20260609T154000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №31\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1400-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260609T140000
+DTEND;TZID=Europe/Moscow:20260609T154000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №31\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260609-1600-6541-6542-6581-философия-пр-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260609T160000
 DTEND;TZID=Europe/Moscow:20260609T174000
 SUMMARY:Философия (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №32\nПреподав
- атель: Семенюк К.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Сем
+ енюк К. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260609-1600-6541-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260609T160000
+DTEND;TZID=Europe/Moscow:20260609T174000
+SUMMARY:Философия (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №32\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1600-6542-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260609T160000
+DTEND;TZID=Europe/Moscow:20260609T174000
+SUMMARY:Философия (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №32\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260609-1600-6581-философия-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260609T160000
+DTEND;TZID=Europe/Moscow:20260609T174000
+SUMMARY:Философия (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №32\nПреподаватель: Семеню
+ к К. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260625-0930-6511-6512-философия-экз-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260625T093000
 DTEND;TZID=Europe/Moscow:20260625T111000
 SUMMARY:Философия (экз) · гр. 6511\,6512 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6511\,6512\nАудитория: а.401\nПреподаватель: Семенюк К.
- А.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260625-1130-6541-6542-философия-экз-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260625T113000
 DTEND;TZID=Europe/Moscow:20260625T131000
 SUMMARY:Философия (экз) · гр. 6541\,6542 · а.401
 LOCATION:а.401
 DESCRIPTION:Группа: 6541\,6542\nАудитория: а.401\nПреподаватель: Семенюк К.
- А.
+  А.
 CATEGORIES:Преподавание,6541\,6542
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260625-1130-6541-философия-экз-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260625T113000
+DTEND;TZID=Europe/Moscow:20260625T131000
+SUMMARY:Философия (экз) · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПреподаватель: Семенюк К. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260625-1130-6542-философия-экз-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260625T113000
+DTEND;TZID=Europe/Moscow:20260625T131000
+SUMMARY:Философия (экз) · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПреподаватель: Семенюк К. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260625-1400-6581-философия-экз-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260625T140000
 DTEND;TZID=Europe/Moscow:20260625T154000
 SUMMARY:Философия (экз) · гр. 6581 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6581\nАудитория: а.401\nПреподаватель: Семенюк К.А.
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПреподаватель: Семенюк К. А.
 CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260626-0930-6531-6532-философия-экз-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260626T093000
 DTEND;TZID=Europe/Moscow:20260626T111000
 SUMMARY:Философия (экз) · гр. 6531\,6532 · а.414
 LOCATION:а.414
 DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПреподаватель: Семенюк К.
- А.
+  А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260626-1130-6533-6534-философия-экз-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260626T113000
 DTEND;TZID=Europe/Moscow:20260626T131000
 SUMMARY:Философия (экз) · гр. 6533\,6534 · а.414
 LOCATION:а.414
 DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПреподаватель: Семенюк К.
- А.
+  А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260630-1800-659вл-659вф-658вк-659вм-659ву-659вб-659вр-философ
- ия-экз-@gtifem.ru
-DTSTAMP:20260602T102638Z
+UID:teacher-20260630-1800-659вл-659вф-658вк-659вм-659ву-659вб-6-философия-э
+ кз-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260630T180000
 DTEND;TZID=Europe/Moscow:20260630T194000
 SUMMARY:Философия (экз) · гр. 659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 6
- 59вр · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр\nАуди
- тория: а.6107\nПреподаватель: Семенюк К.А.
-CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 659вр
+DESCRIPTION:Группа: 659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 6\nПреподав
+ атель: Семенюк К. А.
+CATEGORIES:Преподавание,659вл\,659вф\,658вк\,659вм\, 659ву\,659вб\, 6
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260630-2000-656вэ1-8-656вэ25-31-656вэ9-16-656вэ17-24-философи
  я-экз-@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260630T200000
 DTEND;TZID=Europe/Moscow:20260630T214000
-SUMMARY:Философия (экз) · гр. 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24 
- · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24\nАудитория
- : а.6107\nПреподаватель: Семенюк К.А.
+SUMMARY:Философия (экз) · гр. 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24
+DESCRIPTION:Группа: 656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24\nПреподава
+ тель: Семенюк К. А.
 CATEGORIES:Преподавание,656вэ1-8\,656вэ25-31\, 656вэ9-16\,656вэ17-24
 STATUS:CONFIRMED
 END:VEVENT

@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250903-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T113000
 DTEND;TZID=Europe/Moscow:20250903T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -29,8 +29,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1130-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6571\nАудитория: а.6117\nПара №2\nПреподаватель: Савчен
+ ко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250903-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T140000
 DTEND;TZID=Europe/Moscow:20250903T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -40,8 +53,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1400-6471-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6471 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6471\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250903-1400-6481-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T140000
 DTEND;TZID=Europe/Moscow:20250903T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -54,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -64,8 +90,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250904-1400-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6581\nАудитория: а.6117\nПара №2\nПреподаватель: Савчен
+ ко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250909-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T113000
 DTEND;TZID=Europe/Moscow:20250909T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -75,8 +114,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250909-1130-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250909-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T140000
 DTEND;TZID=Europe/Moscow:20250909T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -86,8 +138,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250909-1400-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250910-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T113000
 DTEND;TZID=Europe/Moscow:20250910T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -97,8 +162,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250910-1130-6471-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6471 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6471\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250910-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T140000
 DTEND;TZID=Europe/Moscow:20250910T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -109,7 +187,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250910-1400-6481-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T140000
 DTEND;TZID=Europe/Moscow:20250910T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -122,7 +200,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-0930--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T093000
 DTEND;TZID=Europe/Moscow:20250911T111000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -132,8 +210,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250911-0930-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №4\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250911-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T113000
 DTEND;TZID=Europe/Moscow:20250911T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -143,8 +234,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250911-1130-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №4\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250912-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T113000
 DTEND;TZID=Europe/Moscow:20250912T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -154,8 +258,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250912-1130-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №5\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250912-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T140000
 DTEND;TZID=Europe/Moscow:20250912T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -165,8 +282,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250912-1400-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №5\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250915-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T113000
 DTEND;TZID=Europe/Moscow:20250915T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -176,8 +306,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250915-1130-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №6\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250915-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -188,7 +331,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1400-6481-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -201,7 +344,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250916T113000
 DTEND;TZID=Europe/Moscow:20250916T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -212,7 +355,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250916T140000
 DTEND;TZID=Europe/Moscow:20250916T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -222,8 +365,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250916-1400-6361-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6361 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6361\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250917-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T140000
 DTEND;TZID=Europe/Moscow:20250917T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -233,8 +389,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250917-1400-6471-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6471 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6471\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250917-1400-6481-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T140000
 DTEND;TZID=Europe/Moscow:20250917T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -246,8 +415,21 @@ CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250917-1400-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №6\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250918-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T140000
 DTEND;TZID=Europe/Moscow:20250918T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -257,8 +439,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250918-1400-6471-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6471 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6471\nАудитория: каф.физ.воспитания\nПара №4\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №7\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250922-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T113000
 DTEND;TZID=Europe/Moscow:20250922T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -268,8 +476,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250922-1130-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №8\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250924-0930--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250924T093000
 DTEND;TZID=Europe/Moscow:20250924T111000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -279,8 +500,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250924-0930-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №8\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -290,8 +524,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250925-1130-6361-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6361 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6361\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-1130-6481-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -304,7 +551,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -314,8 +561,47 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250925-1400-6471-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6471 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6471\nАудитория: каф.физ.воспитания\nПара №5\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №9\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №9\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250926-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T113000
 DTEND;TZID=Europe/Moscow:20250926T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -325,8 +611,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250926-1130-6361-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6361 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6361\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
+ тель: Савченко В. И.
+CATEGORIES:Преподавание,6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250929-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T113000
 DTEND;TZID=Europe/Moscow:20250929T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -336,8 +635,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250929-1130-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №11\nПреподав
+ атель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250929-1400--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T140000
 DTEND;TZID=Europe/Moscow:20250929T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -347,8 +659,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250929-1400-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №10\nПреподав
+ атель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250930-0930--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250930T093000
 DTEND;TZID=Europe/Moscow:20250930T111000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -358,8 +683,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250930-0930-6581-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250930T093000
+DTEND;TZID=Europe/Moscow:20250930T111000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6581 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6581\nАудитория: каф.физ.воспитания\nПара №10\nПреподав
+ атель: Савченко В. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250930-1130--элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250930T113000
 DTEND;TZID=Europe/Moscow:20250930T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -369,8 +707,21 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250930-1130-6571-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · гр. 6571 · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6571\nАудитория: каф.физ.воспитания\nПара №11\nПреподав
+ атель: Савченко В. И.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260615-1400-6581-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260615T140000
 DTEND;TZID=Europe/Moscow:20260615T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · гр. 6581
@@ -380,7 +731,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260617-1400-6581-физическая-культура-и-спорт-за@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260617T140000
 DTEND;TZID=Europe/Moscow:20260617T154000
 SUMMARY:Физическая культура и спорт (зачет) · гр. 6581 · а.Каф.физ.восп.
@@ -392,7 +743,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260617-1600-6571-физическая-культура-и-спорт-за@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260617T160000
 DTEND;TZID=Europe/Moscow:20260617T174000
 SUMMARY:Физическая культура и спорт (зачет) · гр. 6571 · а.Каф.физ.воспит.
@@ -404,7 +755,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260618-1130-6571-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260618T113000
 DTEND;TZID=Europe/Moscow:20260618T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · гр. 6571
@@ -414,7 +765,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260624-1400-6481-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260624T140000
 DTEND;TZID=Europe/Moscow:20260624T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · гр. 6481
@@ -424,7 +775,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260625-1130-6471-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260625T113000
 DTEND;TZID=Europe/Moscow:20260625T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · гр. 6471

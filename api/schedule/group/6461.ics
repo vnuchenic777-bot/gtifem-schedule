@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:group-6461-20250901-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250901T093000
 DTEND;TZID=Europe/Moscow:20250901T111000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -32,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250901-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250901T113000
 DTEND;TZID=Europe/Moscow:20250901T131000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -45,7 +45,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250901-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250901T140000
 DTEND;TZID=Europe/Moscow:20250901T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -58,7 +58,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250902-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T093000
 DTEND;TZID=Europe/Moscow:20250902T111000
 SUMMARY:Введение в информационные технологии лекция · Морозов А. М. · а.403
@@ -70,7 +70,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250902-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T113000
 DTEND;TZID=Europe/Moscow:20250902T131000
 SUMMARY:Введение в информационные технологии лекция · Морозов А. М. · а.403
@@ -82,7 +82,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250902-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T140000
 DTEND;TZID=Europe/Moscow:20250902T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -95,7 +95,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250902-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T160000
 DTEND;TZID=Europe/Moscow:20250902T174000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -108,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250903-0930-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T093000
 DTEND;TZID=Europe/Moscow:20250903T111000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6381
@@ -120,7 +120,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250903-1130-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T113000
 DTEND;TZID=Europe/Moscow:20250903T131000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6381
@@ -132,7 +132,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250903-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T140000
 DTEND;TZID=Europe/Moscow:20250903T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -145,7 +145,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250904-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T093000
 DTEND;TZID=Europe/Moscow:20250904T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -158,7 +158,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250904-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
 DTEND;TZID=Europe/Moscow:20250904T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -171,7 +171,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250904-1400-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6248
@@ -183,7 +183,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250904-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T160000
 DTEND;TZID=Europe/Moscow:20250904T174000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6248
@@ -195,7 +195,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250905-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T093000
 DTEND;TZID=Europe/Moscow:20250905T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -208,7 +208,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250905-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T113000
 DTEND;TZID=Europe/Moscow:20250905T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -221,7 +221,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250905-1400-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6249
@@ -233,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250905-1600-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6249
@@ -245,7 +245,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250908-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T140000
 DTEND;TZID=Europe/Moscow:20250908T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -258,7 +258,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250908-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T160000
 DTEND;TZID=Europe/Moscow:20250908T174000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -271,7 +271,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250909-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T140000
 DTEND;TZID=Europe/Moscow:20250909T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -284,7 +284,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250909-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T160000
 DTEND;TZID=Europe/Moscow:20250909T174000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -297,7 +297,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250910-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T113000
 DTEND;TZID=Europe/Moscow:20250910T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -310,7 +310,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250910-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T140000
 DTEND;TZID=Europe/Moscow:20250910T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
@@ -323,7 +323,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250910-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T160000
 DTEND;TZID=Europe/Moscow:20250910T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -336,7 +336,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250911-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T093000
 DTEND;TZID=Europe/Moscow:20250911T111000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -349,7 +349,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250911-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T113000
 DTEND;TZID=Europe/Moscow:20250911T131000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -362,7 +362,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250911-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6117
@@ -374,7 +374,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250911-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T160000
 DTEND;TZID=Europe/Moscow:20250911T174000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6117
@@ -386,7 +386,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250912-0930-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T093000
 DTEND;TZID=Europe/Moscow:20250912T111000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6115
@@ -398,7 +398,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250912-1130-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T113000
 DTEND;TZID=Europe/Moscow:20250912T131000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6115
@@ -410,7 +410,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250912-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T140000
 DTEND;TZID=Europe/Moscow:20250912T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -423,7 +423,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250912-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T160000
 DTEND;TZID=Europe/Moscow:20250912T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -436,7 +436,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250915-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T093000
 DTEND;TZID=Europe/Moscow:20250915T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -449,7 +449,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250915-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T113000
 DTEND;TZID=Europe/Moscow:20250915T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -462,7 +462,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250915-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -475,7 +475,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250915-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T160000
 DTEND;TZID=Europe/Moscow:20250915T174000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -488,7 +488,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250916-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250916T140000
 DTEND;TZID=Europe/Moscow:20250916T154000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -501,7 +501,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250916-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250916T160000
 DTEND;TZID=Europe/Moscow:20250916T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -514,7 +514,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250917-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T113000
 DTEND;TZID=Europe/Moscow:20250917T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -527,7 +527,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250917-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T140000
 DTEND;TZID=Europe/Moscow:20250917T154000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6115
@@ -539,7 +539,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250917-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T160000
 DTEND;TZID=Europe/Moscow:20250917T174000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6115
@@ -551,7 +551,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250918-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T113000
 DTEND;TZID=Europe/Moscow:20250918T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -564,7 +564,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250918-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T140000
 DTEND;TZID=Europe/Moscow:20250918T154000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -577,7 +577,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250918-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T160000
 DTEND;TZID=Europe/Moscow:20250918T174000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -590,7 +590,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250919-0930-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T093000
 DTEND;TZID=Europe/Moscow:20250919T111000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6115
@@ -602,7 +602,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250919-1130-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T113000
 DTEND;TZID=Europe/Moscow:20250919T131000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6115
@@ -614,7 +614,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250922-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T093000
 DTEND;TZID=Europe/Moscow:20250922T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторная ра
@@ -627,7 +627,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250922-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T113000
 DTEND;TZID=Europe/Moscow:20250922T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -640,7 +640,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250922-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -651,7 +651,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250922-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T160000
 DTEND;TZID=Europe/Moscow:20250922T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -662,7 +662,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250923-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250923T140000
 DTEND;TZID=Europe/Moscow:20250923T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -673,7 +673,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250923-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250923T160000
 DTEND;TZID=Europe/Moscow:20250923T174000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -684,7 +684,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250924-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250924T113000
 DTEND;TZID=Europe/Moscow:20250924T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -697,7 +697,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250924-1400-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250924T140000
 DTEND;TZID=Europe/Moscow:20250924T154000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6240
@@ -709,7 +709,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250924-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250924T160000
 DTEND;TZID=Europe/Moscow:20250924T174000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6240
@@ -721,7 +721,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250925-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -734,7 +734,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250925-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T160000
 DTEND;TZID=Europe/Moscow:20250925T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -747,7 +747,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250926-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T140000
 DTEND;TZID=Europe/Moscow:20250926T154000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.408
@@ -759,7 +759,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250926-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T160000
 DTEND;TZID=Europe/Moscow:20250926T174000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.408
@@ -771,7 +771,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250929-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T093000
 DTEND;TZID=Europe/Moscow:20250929T111000
 SUMMARY:Введение в информационные технологии лекция · Морозов А. М. · а.405
@@ -783,7 +783,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250929-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T113000
 DTEND;TZID=Europe/Moscow:20250929T131000
 SUMMARY:Введение в информационные технологии лекция · Морозов А. М. · а.405
@@ -795,7 +795,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250929-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T140000
 DTEND;TZID=Europe/Moscow:20250929T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -808,7 +808,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250929-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T160000
 DTEND;TZID=Europe/Moscow:20250929T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -821,7 +821,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250930-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250930T140000
 DTEND;TZID=Europe/Moscow:20250930T154000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -834,7 +834,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20250930-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250930T160000
 DTEND;TZID=Europe/Moscow:20250930T174000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -847,7 +847,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251001-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T093000
 DTEND;TZID=Europe/Moscow:20251001T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -860,7 +860,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251001-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T113000
 DTEND;TZID=Europe/Moscow:20251001T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -873,7 +873,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251001-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T140000
 DTEND;TZID=Europe/Moscow:20251001T154000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.414
@@ -885,7 +885,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251001-1600-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T160000
 DTEND;TZID=Europe/Moscow:20251001T174000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.414
@@ -897,7 +897,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251002-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -910,7 +910,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251002-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -923,7 +923,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251002-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -936,7 +936,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251003-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -949,7 +949,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251003-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -962,7 +962,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251003-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T140000
 DTEND;TZID=Europe/Moscow:20251003T154000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6115
@@ -974,7 +974,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251003-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T160000
 DTEND;TZID=Europe/Moscow:20251003T174000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6235
@@ -986,7 +986,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251006-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T093000
 DTEND;TZID=Europe/Moscow:20251006T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -999,7 +999,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251006-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -1012,7 +1012,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251007-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251007T093000
 DTEND;TZID=Europe/Moscow:20251007T111000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1025,7 +1025,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251007-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251007T113000
 DTEND;TZID=Europe/Moscow:20251007T131000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1038,7 +1038,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251007-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251007T140000
 DTEND;TZID=Europe/Moscow:20251007T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -1051,7 +1051,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251008-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251008T093000
 DTEND;TZID=Europe/Moscow:20251008T111000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1064,7 +1064,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251008-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251008T113000
 DTEND;TZID=Europe/Moscow:20251008T131000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1077,7 +1077,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251008-1400-менеджмент-кр@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251008T140000
 DTEND;TZID=Europe/Moscow:20251008T154000
 SUMMARY:Менеджмент КР · Сидорова Н. А. · а.6107
@@ -1089,7 +1089,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251008-1600-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251008T160000
 DTEND;TZID=Europe/Moscow:20251008T174000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.101
@@ -1101,7 +1101,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251009-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T140000
 DTEND;TZID=Europe/Moscow:20251009T154000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1112,7 +1112,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251009-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T160000
 DTEND;TZID=Europe/Moscow:20251009T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1123,7 +1123,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251010-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251010T093000
 DTEND;TZID=Europe/Moscow:20251010T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -1136,7 +1136,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251010-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251010T113000
 DTEND;TZID=Europe/Moscow:20251010T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -1149,7 +1149,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251013-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T113000
 DTEND;TZID=Europe/Moscow:20251013T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -1162,7 +1162,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251013-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T140000
 DTEND;TZID=Europe/Moscow:20251013T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1175,7 +1175,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251013-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T160000
 DTEND;TZID=Europe/Moscow:20251013T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1188,7 +1188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251014-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T093000
 DTEND;TZID=Europe/Moscow:20251014T111000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1201,7 +1201,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251014-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T113000
 DTEND;TZID=Europe/Moscow:20251014T131000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1214,7 +1214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251014-1400-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T140000
 DTEND;TZID=Europe/Moscow:20251014T154000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6245
@@ -1226,7 +1226,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251014-1600-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T160000
 DTEND;TZID=Europe/Moscow:20251014T174000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6245
@@ -1238,7 +1238,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251015-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T093000
 DTEND;TZID=Europe/Moscow:20251015T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -1251,7 +1251,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251015-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T113000
 DTEND;TZID=Europe/Moscow:20251015T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -1264,7 +1264,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251015-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T140000
 DTEND;TZID=Europe/Moscow:20251015T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -1277,7 +1277,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251016-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T140000
 DTEND;TZID=Europe/Moscow:20251016T154000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1290,7 +1290,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251016-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T160000
 DTEND;TZID=Europe/Moscow:20251016T174000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1303,7 +1303,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251017-1400-менеджмент-кр@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T140000
 DTEND;TZID=Europe/Moscow:20251017T154000
 SUMMARY:Менеджмент КР · Сидорова Н. А. · а.6376
@@ -1315,7 +1315,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251017-1600-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T160000
 DTEND;TZID=Europe/Moscow:20251017T174000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6376
@@ -1327,7 +1327,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251020-0930-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T093000
 DTEND;TZID=Europe/Moscow:20251020T111000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6236
@@ -1339,7 +1339,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251020-1130-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T113000
 DTEND;TZID=Europe/Moscow:20251020T131000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6236
@@ -1351,7 +1351,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251020-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T140000
 DTEND;TZID=Europe/Moscow:20251020T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1364,7 +1364,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251020-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T160000
 DTEND;TZID=Europe/Moscow:20251020T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1377,7 +1377,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251021-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251021T093000
 DTEND;TZID=Europe/Moscow:20251021T111000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1390,7 +1390,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251021-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251021T113000
 DTEND;TZID=Europe/Moscow:20251021T131000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1403,7 +1403,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251021-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251021T140000
 DTEND;TZID=Europe/Moscow:20251021T154000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1416,7 +1416,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251021-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251021T160000
 DTEND;TZID=Europe/Moscow:20251021T174000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1429,7 +1429,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251022-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T093000
 DTEND;TZID=Europe/Moscow:20251022T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM)Курсовая работа 
@@ -1442,7 +1442,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251022-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T113000
 DTEND;TZID=Europe/Moscow:20251022T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1455,7 +1455,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251022-1400-менеджмент-кр@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T140000
 DTEND;TZID=Europe/Moscow:20251022T154000
 SUMMARY:Менеджмент КР · Сидорова Н. А. · а.6249
@@ -1467,7 +1467,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251022-1600-менеджмент-кр@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T160000
 DTEND;TZID=Europe/Moscow:20251022T174000
 SUMMARY:Менеджмент КР · Сидорова Н. А. · а.6249
@@ -1479,7 +1479,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251023-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T113000
 DTEND;TZID=Europe/Moscow:20251023T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -1492,7 +1492,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251023-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T140000
 DTEND;TZID=Europe/Moscow:20251023T154000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1505,7 +1505,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251023-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T160000
 DTEND;TZID=Europe/Moscow:20251023T174000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -1518,7 +1518,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251024-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T093000
 DTEND;TZID=Europe/Moscow:20251024T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1531,7 +1531,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251024-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T113000
 DTEND;TZID=Europe/Moscow:20251024T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1544,7 +1544,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251027-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T093000
 DTEND;TZID=Europe/Moscow:20251027T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1557,7 +1557,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251027-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T113000
 DTEND;TZID=Europe/Moscow:20251027T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -1570,7 +1570,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251027-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T140000
 DTEND;TZID=Europe/Moscow:20251027T154000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1583,7 +1583,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251027-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T160000
 DTEND;TZID=Europe/Moscow:20251027T174000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1596,7 +1596,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251028-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251028T093000
 DTEND;TZID=Europe/Moscow:20251028T111000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1609,7 +1609,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251028-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251028T113000
 DTEND;TZID=Europe/Moscow:20251028T131000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1622,7 +1622,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251028-1400-менеджмент-лекция-перенос-с-31@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251028T140000
 DTEND;TZID=Europe/Moscow:20251028T154000
 SUMMARY:Менеджмент лекция (перенос с 31.10.2025) · Сидорова Н. А. · а.408
@@ -1634,7 +1634,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251028-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251028T160000
 DTEND;TZID=Europe/Moscow:20251028T174000
 SUMMARY:Менеджмент практическое занятие (перенос с 31.10.2025) · Сидорова Н
@@ -1647,7 +1647,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251029-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251029T093000
 DTEND;TZID=Europe/Moscow:20251029T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -1660,7 +1660,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251029-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251029T113000
 DTEND;TZID=Europe/Moscow:20251029T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -1673,7 +1673,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251029-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251029T140000
 DTEND;TZID=Europe/Moscow:20251029T154000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1686,7 +1686,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251029-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251029T160000
 DTEND;TZID=Europe/Moscow:20251029T174000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1699,7 +1699,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251030-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T140000
 DTEND;TZID=Europe/Moscow:20251030T154000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1712,7 +1712,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251030-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T160000
 DTEND;TZID=Europe/Moscow:20251030T174000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -1725,7 +1725,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251031-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T140000
 DTEND;TZID=Europe/Moscow:20251031T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1738,7 +1738,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251031-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T160000
 DTEND;TZID=Europe/Moscow:20251031T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1751,7 +1751,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251101-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T093000
 DTEND;TZID=Europe/Moscow:20251101T111000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1764,7 +1764,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251101-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T113000
 DTEND;TZID=Europe/Moscow:20251101T131000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1777,7 +1777,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251101-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T140000
 DTEND;TZID=Europe/Moscow:20251101T154000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6112
@@ -1789,7 +1789,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251101-1600-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T160000
 DTEND;TZID=Europe/Moscow:20251101T174000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6112
@@ -1801,7 +1801,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251105-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T093000
 DTEND;TZID=Europe/Moscow:20251105T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1814,7 +1814,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251105-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T113000
 DTEND;TZID=Europe/Moscow:20251105T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1827,7 +1827,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251105-1400-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T140000
 DTEND;TZID=Europe/Moscow:20251105T154000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6376
@@ -1839,7 +1839,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251105-1600-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T160000
 DTEND;TZID=Europe/Moscow:20251105T174000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6381
@@ -1851,7 +1851,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251106-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T093000
 DTEND;TZID=Europe/Moscow:20251106T111000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1864,7 +1864,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251106-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T113000
 DTEND;TZID=Europe/Moscow:20251106T131000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -1877,7 +1877,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251106-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -1890,7 +1890,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251106-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T160000
 DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -1903,7 +1903,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251107-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T140000
 DTEND;TZID=Europe/Moscow:20251107T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -1916,7 +1916,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251107-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T160000
 DTEND;TZID=Europe/Moscow:20251107T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -1929,7 +1929,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251110-0930-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T093000
 DTEND;TZID=Europe/Moscow:20251110T111000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6382
@@ -1941,7 +1941,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251110-1130-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T113000
 DTEND;TZID=Europe/Moscow:20251110T131000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6382
@@ -1953,7 +1953,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251110-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T140000
 DTEND;TZID=Europe/Moscow:20251110T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -1966,7 +1966,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251110-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T160000
 DTEND;TZID=Europe/Moscow:20251110T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -1979,7 +1979,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251111-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T113000
 DTEND;TZID=Europe/Moscow:20251111T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -1992,7 +1992,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251111-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T140000
 DTEND;TZID=Europe/Moscow:20251111T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2005,7 +2005,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251111-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T160000
 DTEND;TZID=Europe/Moscow:20251111T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2018,7 +2018,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251112-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T113000
 DTEND;TZID=Europe/Moscow:20251112T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -2031,7 +2031,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251112-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T140000
 DTEND;TZID=Europe/Moscow:20251112T154000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6236
@@ -2043,7 +2043,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251112-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T160000
 DTEND;TZID=Europe/Moscow:20251112T174000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6236
@@ -2055,7 +2055,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251113-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251113T093000
 DTEND;TZID=Europe/Moscow:20251113T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -2068,7 +2068,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251113-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251113T113000
 DTEND;TZID=Europe/Moscow:20251113T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2081,7 +2081,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251113-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251113T140000
 DTEND;TZID=Europe/Moscow:20251113T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2094,7 +2094,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251113-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251113T160000
 DTEND;TZID=Europe/Moscow:20251113T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2107,7 +2107,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251114-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T113000
 DTEND;TZID=Europe/Moscow:20251114T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -2120,7 +2120,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251114-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T140000
 DTEND;TZID=Europe/Moscow:20251114T154000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -2133,7 +2133,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251114-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T160000
 DTEND;TZID=Europe/Moscow:20251114T174000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -2146,7 +2146,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251117-0930-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T093000
 DTEND;TZID=Europe/Moscow:20251117T111000
 SUMMARY:Менеджмент практическое занятие · Сидорова Н. А. · а.6378
@@ -2158,7 +2158,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251117-1130-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T113000
 DTEND;TZID=Europe/Moscow:20251117T131000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6378
@@ -2170,7 +2170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251117-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T140000
 DTEND;TZID=Europe/Moscow:20251117T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2183,7 +2183,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251117-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T160000
 DTEND;TZID=Europe/Moscow:20251117T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -2196,7 +2196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251118-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T113000
 DTEND;TZID=Europe/Moscow:20251118T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -2209,7 +2209,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251118-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T140000
 DTEND;TZID=Europe/Moscow:20251118T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2222,7 +2222,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251118-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T160000
 DTEND;TZID=Europe/Moscow:20251118T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2235,7 +2235,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251119-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T113000
 DTEND;TZID=Europe/Moscow:20251119T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -2248,7 +2248,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251119-1400-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T140000
 DTEND;TZID=Europe/Moscow:20251119T154000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6117
@@ -2260,7 +2260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251119-1600-менеджмент-кр@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T160000
 DTEND;TZID=Europe/Moscow:20251119T174000
 SUMMARY:Менеджмент КР · Сидорова Н. А. · а.6117
@@ -2272,7 +2272,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251120-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T093000
 DTEND;TZID=Europe/Moscow:20251120T111000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2285,7 +2285,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251120-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T113000
 DTEND;TZID=Europe/Moscow:20251120T131000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2298,7 +2298,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251120-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T140000
 DTEND;TZID=Europe/Moscow:20251120T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -2311,7 +2311,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251120-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T160000
 DTEND;TZID=Europe/Moscow:20251120T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -2324,7 +2324,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251121-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T113000
 DTEND;TZID=Europe/Moscow:20251121T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -2337,7 +2337,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251121-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T140000
 DTEND;TZID=Europe/Moscow:20251121T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2350,7 +2350,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251121-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T160000
 DTEND;TZID=Europe/Moscow:20251121T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2363,7 +2363,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251124-1400-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T140000
 DTEND;TZID=Europe/Moscow:20251124T154000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6245
@@ -2375,7 +2375,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251124-1600-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T160000
 DTEND;TZID=Europe/Moscow:20251124T174000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6245
@@ -2387,7 +2387,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251125-0930-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251125T093000
 DTEND;TZID=Europe/Moscow:20251125T111000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6116
@@ -2399,7 +2399,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251125-1130-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251125T113000
 DTEND;TZID=Europe/Moscow:20251125T131000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6116
@@ -2411,7 +2411,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251125-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251125T140000
 DTEND;TZID=Europe/Moscow:20251125T154000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -2424,7 +2424,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251125-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251125T160000
 DTEND;TZID=Europe/Moscow:20251125T174000
 SUMMARY:Основы управления в профессиональной деятельности лабораторный прак
@@ -2437,7 +2437,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251126-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T093000
 DTEND;TZID=Europe/Moscow:20251126T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -2450,7 +2450,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251126-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T113000
 DTEND;TZID=Europe/Moscow:20251126T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -2463,7 +2463,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251127-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T140000
 DTEND;TZID=Europe/Moscow:20251127T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -2476,7 +2476,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251127-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T160000
 DTEND;TZID=Europe/Moscow:20251127T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2489,7 +2489,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251128-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T093000
 DTEND;TZID=Europe/Moscow:20251128T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -2502,7 +2502,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251128-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T113000
 DTEND;TZID=Europe/Moscow:20251128T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2515,7 +2515,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251201-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T093000
 DTEND;TZID=Europe/Moscow:20251201T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2528,7 +2528,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251201-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T113000
 DTEND;TZID=Europe/Moscow:20251201T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -2541,7 +2541,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251202-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T113000
 DTEND;TZID=Europe/Moscow:20251202T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -2554,7 +2554,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251202-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T140000
 DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -2567,7 +2567,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251202-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T160000
 DTEND;TZID=Europe/Moscow:20251202T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2580,7 +2580,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251203-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T140000
 DTEND;TZID=Europe/Moscow:20251203T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -2593,7 +2593,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251203-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T160000
 DTEND;TZID=Europe/Moscow:20251203T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2606,7 +2606,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251204-0930-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T093000
 DTEND;TZID=Europe/Moscow:20251204T111000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6382
@@ -2618,7 +2618,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251204-1130-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T113000
 DTEND;TZID=Europe/Moscow:20251204T131000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6382
@@ -2630,7 +2630,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251204-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -2643,7 +2643,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251204-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2656,7 +2656,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251205-1400-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T140000
 DTEND;TZID=Europe/Moscow:20251205T154000
 SUMMARY:Менеджмент Практическое занятие · Сидорова Н. А. · а.6249
@@ -2668,7 +2668,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251205-1600-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T160000
 DTEND;TZID=Europe/Moscow:20251205T174000
 SUMMARY:Менеджмент Практическое занятие · Сидорова Н. А. · а.6249
@@ -2680,7 +2680,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251208-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T093000
 DTEND;TZID=Europe/Moscow:20251208T111000
 SUMMARY:Введение в информационные технологии Лекция · Морозов А. М. · а. 63
@@ -2693,7 +2693,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251208-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T113000
 DTEND;TZID=Europe/Moscow:20251208T131000
 SUMMARY:Введение в информационные технологии Лекция · Морозов А. М. · а. 63
@@ -2706,7 +2706,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251209-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251209T093000
 DTEND;TZID=Europe/Moscow:20251209T111000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -2719,7 +2719,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251209-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251209T113000
 DTEND;TZID=Europe/Moscow:20251209T131000
 SUMMARY:Введение в информационные технологии практическое занятие · Морозов
@@ -2732,7 +2732,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251209-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251209T140000
 DTEND;TZID=Europe/Moscow:20251209T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -2745,7 +2745,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251210-0930-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251210T093000
 DTEND;TZID=Europe/Moscow:20251210T111000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6381
@@ -2757,7 +2757,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251210-1130-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251210T113000
 DTEND;TZID=Europe/Moscow:20251210T131000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6381
@@ -2769,7 +2769,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251210-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251210T140000
 DTEND;TZID=Europe/Moscow:20251210T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -2782,7 +2782,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251210-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251210T160000
 DTEND;TZID=Europe/Moscow:20251210T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -2795,7 +2795,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251211-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T140000
 DTEND;TZID=Europe/Moscow:20251211T154000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -2808,7 +2808,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251211-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T160000
 DTEND;TZID=Europe/Moscow:20251211T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2821,7 +2821,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251212-0930-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T093000
 DTEND;TZID=Europe/Moscow:20251212T111000
 SUMMARY:Менеджмент Практическое занятие · Сидорова Н. А. · а.6117
@@ -2833,7 +2833,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251212-1130-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T113000
 DTEND;TZID=Europe/Moscow:20251212T131000
 SUMMARY:Менеджмент Практическое занятие · Сидорова Н. А. · а.6117
@@ -2845,7 +2845,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251215-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T093000
 DTEND;TZID=Europe/Moscow:20251215T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лабораторное за
@@ -2858,7 +2858,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251215-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T113000
 DTEND;TZID=Europe/Moscow:20251215T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -2871,7 +2871,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251216-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251216T093000
 DTEND;TZID=Europe/Moscow:20251216T111000
 SUMMARY:Основы управления в профессиональной деятельности лекция · Зелезинс
@@ -2884,7 +2884,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251216-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251216T113000
 DTEND;TZID=Europe/Moscow:20251216T131000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -2897,7 +2897,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251217-0930-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251217T093000
 DTEND;TZID=Europe/Moscow:20251217T111000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6381
@@ -2909,7 +2909,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251217-1130-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251217T113000
 DTEND;TZID=Europe/Moscow:20251217T131000
 SUMMARY:Менеджмент лекция · Сидорова Н. А. · а.6381
@@ -2921,7 +2921,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251217-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251217T140000
 DTEND;TZID=Europe/Moscow:20251217T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2934,7 +2934,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251217-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251217T160000
 DTEND;TZID=Europe/Moscow:20251217T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2947,7 +2947,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251218-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T113000
 DTEND;TZID=Europe/Moscow:20251218T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -2960,7 +2960,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251218-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T140000
 DTEND;TZID=Europe/Moscow:20251218T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -2973,7 +2973,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251218-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T160000
 DTEND;TZID=Europe/Moscow:20251218T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -2986,7 +2986,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251219-0930-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T093000
 DTEND;TZID=Europe/Moscow:20251219T111000
 SUMMARY:Менеджмент Практическое занятие · Сидорова Н. А. · а.6378
@@ -2998,7 +2998,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251219-1130-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T113000
 DTEND;TZID=Europe/Moscow:20251219T131000
 SUMMARY:Менеджмент Практическое занятие · Сидорова Н. А. · а.6378
@@ -3010,7 +3010,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251219-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T140000
 DTEND;TZID=Europe/Moscow:20251219T154000
 SUMMARY:Введение в информационные технологии лабораторный практикум (перено
@@ -3023,7 +3023,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251219-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T160000
 DTEND;TZID=Europe/Moscow:20251219T174000
 SUMMARY:Введение в информационные технологии лабораторный практикум (перено
@@ -3036,7 +3036,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251222-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251222T093000
 DTEND;TZID=Europe/Moscow:20251222T111000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -3049,7 +3049,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251222-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251222T113000
 DTEND;TZID=Europe/Moscow:20251222T131000
 SUMMARY:Введение в информационные технологии лабораторный практикум · Мороз
@@ -3062,7 +3062,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251223-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251223T093000
 DTEND;TZID=Europe/Moscow:20251223T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -3075,7 +3075,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251223-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251223T113000
 DTEND;TZID=Europe/Moscow:20251223T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -3088,7 +3088,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251223-1400-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251223T140000
 DTEND;TZID=Europe/Moscow:20251223T154000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6245
@@ -3100,7 +3100,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251223-1600-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251223T160000
 DTEND;TZID=Europe/Moscow:20251223T174000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6245
@@ -3112,7 +3112,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251224-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251224T140000
 DTEND;TZID=Europe/Moscow:20251224T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -3125,7 +3125,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251224-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251224T160000
 DTEND;TZID=Europe/Moscow:20251224T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Лекция · Жулева
@@ -3138,7 +3138,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251225-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T113000
 DTEND;TZID=Europe/Moscow:20251225T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
@@ -3151,7 +3151,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251225-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T140000
 DTEND;TZID=Europe/Moscow:20251225T154000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -3164,7 +3164,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251225-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T160000
 DTEND;TZID=Europe/Moscow:20251225T174000
 SUMMARY:Основы управления в профессиональной деятельности практическое заня
@@ -3177,7 +3177,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251226-0930-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T093000
 DTEND;TZID=Europe/Moscow:20251226T111000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6249
@@ -3189,7 +3189,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251226-1130-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T113000
 DTEND;TZID=Europe/Moscow:20251226T131000
 SUMMARY:Менеджмент лабораторный практикум · Сидорова Н. А. · а.6249
@@ -3201,7 +3201,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251229-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251229T140000
 DTEND;TZID=Europe/Moscow:20251229T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Практическое за
@@ -3214,7 +3214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251229-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251229T160000
 DTEND;TZID=Europe/Moscow:20251229T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) Курсовая работа
@@ -3227,7 +3227,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20251231-0930-выходной-день@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251231T093000
 DTEND;TZID=Europe/Moscow:20251231T111000
 SUMMARY:Выходной день · Новый год
@@ -3238,7 +3238,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260112-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260112T113000
 DTEND;TZID=Europe/Moscow:20260112T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -3250,7 +3250,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260112-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260112T140000
 DTEND;TZID=Europe/Moscow:20260112T154000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -3263,7 +3263,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260113-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T113000
 DTEND;TZID=Europe/Moscow:20260113T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -3275,7 +3275,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260113-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3288,7 +3288,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260113-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T160000
 DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -3301,7 +3301,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260114-0930-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T093000
 DTEND;TZID=Europe/Moscow:20260114T111000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6117
@@ -3313,7 +3313,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260114-1130-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T113000
 DTEND;TZID=Europe/Moscow:20260114T131000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6117
@@ -3325,7 +3325,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260115-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T140000
 DTEND;TZID=Europe/Moscow:20260115T154000
 SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6240
@@ -3337,7 +3337,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260115-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T160000
 DTEND;TZID=Europe/Moscow:20260115T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · Жулева 
@@ -3350,7 +3350,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260116-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -3363,7 +3363,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260116-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T160000
 DTEND;TZID=Europe/Moscow:20260116T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -3376,7 +3376,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260119-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260119T093000
 DTEND;TZID=Europe/Moscow:20260119T111000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3389,7 +3389,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260119-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260119T113000
 DTEND;TZID=Europe/Moscow:20260119T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3402,7 +3402,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260120-0930-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T093000
 DTEND;TZID=Europe/Moscow:20260120T111000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.408
@@ -3414,7 +3414,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260120-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T113000
 DTEND;TZID=Europe/Moscow:20260120T131000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.408
@@ -3426,7 +3426,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260120-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T140000
 DTEND;TZID=Europe/Moscow:20260120T154000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6242
@@ -3438,7 +3438,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260120-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T160000
 DTEND;TZID=Europe/Moscow:20260120T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -3451,7 +3451,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260121-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T140000
 DTEND;TZID=Europe/Moscow:20260121T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -3464,7 +3464,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260121-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T160000
 DTEND;TZID=Europe/Moscow:20260121T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -3477,7 +3477,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260122-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T140000
 DTEND;TZID=Europe/Moscow:20260122T154000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -3490,7 +3490,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260122-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T160000
 DTEND;TZID=Europe/Moscow:20260122T174000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -3503,7 +3503,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260123-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T113000
 DTEND;TZID=Europe/Moscow:20260123T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -3516,7 +3516,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260123-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -3529,7 +3529,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260123-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T160000
 DTEND;TZID=Europe/Moscow:20260123T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -3542,7 +3542,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260126-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T093000
 DTEND;TZID=Europe/Moscow:20260126T111000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3555,7 +3555,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260126-1130-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T113000
 DTEND;TZID=Europe/Moscow:20260126T131000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6249
@@ -3567,7 +3567,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260126-1400-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T140000
 DTEND;TZID=Europe/Moscow:20260126T154000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6235
@@ -3579,7 +3579,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260127-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260127T093000
 DTEND;TZID=Europe/Moscow:20260127T111000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -3592,7 +3592,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260127-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260127T113000
 DTEND;TZID=Europe/Moscow:20260127T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -3605,7 +3605,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260127-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260127T140000
 DTEND;TZID=Europe/Moscow:20260127T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -3618,7 +3618,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260128-0930-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T093000
 DTEND;TZID=Europe/Moscow:20260128T111000
 SUMMARY:Менеджмент (лек) · Сидорова Н. А. · а.6373
@@ -3630,7 +3630,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260128-1130-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T113000
 DTEND;TZID=Europe/Moscow:20260128T131000
 SUMMARY:Менеджмент (лек) · Сидорова Н. А. · а.414
@@ -3642,7 +3642,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260128-1400-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T140000
 DTEND;TZID=Europe/Moscow:20260128T154000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6245
@@ -3654,7 +3654,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260129-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T140000
 DTEND;TZID=Europe/Moscow:20260129T154000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3667,7 +3667,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260129-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T160000
 DTEND;TZID=Europe/Moscow:20260129T174000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3680,7 +3680,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260130-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T113000
 DTEND;TZID=Europe/Moscow:20260130T131000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -3692,7 +3692,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260130-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T140000
 DTEND;TZID=Europe/Moscow:20260130T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -3704,7 +3704,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260130-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T160000
 DTEND;TZID=Europe/Moscow:20260130T174000
 SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6240
@@ -3716,7 +3716,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260202-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T140000
 DTEND;TZID=Europe/Moscow:20260202T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · Жулева 
@@ -3729,7 +3729,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260202-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -3742,7 +3742,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260203-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T093000
 DTEND;TZID=Europe/Moscow:20260203T111000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3755,7 +3755,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260203-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T113000
 DTEND;TZID=Europe/Moscow:20260203T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -3767,7 +3767,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260205-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -3780,7 +3780,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260205-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
 DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -3793,7 +3793,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260206-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T113000
 DTEND;TZID=Europe/Moscow:20260206T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -3806,7 +3806,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260206-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М.
@@ -3816,7 +3816,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260206-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T160000
 DTEND;TZID=Europe/Moscow:20260206T174000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М.
@@ -3826,7 +3826,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260209-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260209T093000
 DTEND;TZID=Europe/Moscow:20260209T111000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3839,7 +3839,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260209-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260209T113000
 DTEND;TZID=Europe/Moscow:20260209T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3852,7 +3852,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260210-0930-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T093000
 DTEND;TZID=Europe/Moscow:20260210T111000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -3864,7 +3864,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260210-1130-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T113000
 DTEND;TZID=Europe/Moscow:20260210T131000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6115
@@ -3876,7 +3876,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260210-1400-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T140000
 DTEND;TZID=Europe/Moscow:20260210T154000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.408
@@ -3888,7 +3888,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260210-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T160000
 DTEND;TZID=Europe/Moscow:20260210T174000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3901,7 +3901,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260211-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T093000
 DTEND;TZID=Europe/Moscow:20260211T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -3914,7 +3914,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260211-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T113000
 DTEND;TZID=Europe/Moscow:20260211T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -3927,7 +3927,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260211-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T140000
 DTEND;TZID=Europe/Moscow:20260211T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -3940,7 +3940,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260212-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T093000
 DTEND;TZID=Europe/Moscow:20260212T111000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -3953,7 +3953,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260212-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T113000
 DTEND;TZID=Europe/Moscow:20260212T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3966,7 +3966,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260212-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
 DTEND;TZID=Europe/Moscow:20260212T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -3979,7 +3979,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260212-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T160000
 DTEND;TZID=Europe/Moscow:20260212T174000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -3992,7 +3992,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260213-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T113000
 DTEND;TZID=Europe/Moscow:20260213T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
@@ -4004,7 +4004,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260213-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T140000
 DTEND;TZID=Europe/Moscow:20260213T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6376
@@ -4016,7 +4016,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260213-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T160000
 DTEND;TZID=Europe/Moscow:20260213T174000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6112
@@ -4028,7 +4028,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260216-0930-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T093000
 DTEND;TZID=Europe/Moscow:20260216T111000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6376
@@ -4040,7 +4040,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260216-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T113000
 DTEND;TZID=Europe/Moscow:20260216T131000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4053,7 +4053,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260216-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T140000
 DTEND;TZID=Europe/Moscow:20260216T154000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4066,7 +4066,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260216-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T160000
 DTEND;TZID=Europe/Moscow:20260216T174000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -4079,7 +4079,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260217-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T093000
 DTEND;TZID=Europe/Moscow:20260217T111000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4092,7 +4092,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260217-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T113000
 DTEND;TZID=Europe/Moscow:20260217T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -4105,7 +4105,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260218-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T093000
 DTEND;TZID=Europe/Moscow:20260218T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4118,7 +4118,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260218-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T113000
 DTEND;TZID=Europe/Moscow:20260218T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4131,7 +4131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260218-1400-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T140000
 DTEND;TZID=Europe/Moscow:20260218T154000
 SUMMARY:Менеджмент (лек) · Сидорова Н. А. · а.408
@@ -4143,7 +4143,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260218-1600-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T160000
 DTEND;TZID=Europe/Moscow:20260218T174000
 SUMMARY:Менеджмент (лек) · Сидорова Н. А. · а.408
@@ -4155,7 +4155,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260219-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T140000
 DTEND;TZID=Europe/Moscow:20260219T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
@@ -4167,7 +4167,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260219-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T160000
 DTEND;TZID=Europe/Moscow:20260219T174000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4180,7 +4180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260224-0930-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T093000
 DTEND;TZID=Europe/Moscow:20260224T111000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6376
@@ -4192,7 +4192,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260224-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T113000
 DTEND;TZID=Europe/Moscow:20260224T131000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4205,7 +4205,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260224-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T140000
 DTEND;TZID=Europe/Moscow:20260224T154000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4218,7 +4218,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260224-1600-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T160000
 DTEND;TZID=Europe/Moscow:20260224T174000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6112
@@ -4230,7 +4230,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260226-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T093000
 DTEND;TZID=Europe/Moscow:20260226T111000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -4243,7 +4243,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260226-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T113000
 DTEND;TZID=Europe/Moscow:20260226T131000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4256,7 +4256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260226-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T140000
 DTEND;TZID=Europe/Moscow:20260226T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4269,7 +4269,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260226-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T160000
 DTEND;TZID=Europe/Moscow:20260226T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4282,7 +4282,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260227-0930-менеджмент-лек-перенос-с-04-02@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260227T093000
 DTEND;TZID=Europe/Moscow:20260227T111000
 SUMMARY:Менеджмент (лек) (перенос с 04.02.2026) · Сидорова Н. А. · а.6373
@@ -4294,7 +4294,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260227-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260227T113000
 DTEND;TZID=Europe/Moscow:20260227T131000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4306,7 +4306,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260227-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260227T140000
 DTEND;TZID=Europe/Moscow:20260227T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4318,7 +4318,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260227-1600-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260227T160000
 DTEND;TZID=Europe/Moscow:20260227T174000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -4329,8 +4329,658 @@ CATEGORIES:Учёба,6461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:group-6461-20260302-1400-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.61
+ 15\nПара №48
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260302-1600-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260302T160000
+DTEND;TZID=Europe/Moscow:20260302T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
+ ий А. Л. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.62
+ 45\nПара №26
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260303-1130-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.61
+ 16\nПара №49
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260303-1400-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6461\nПреподаватель: Сидорова Н. А.\nАудитория: а.6376\
+ nПара №23
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260303-1600-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
+ О. И. · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6235\nП
+ ара №25
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260305-1400-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260305T140000
+DTEND;TZID=Europe/Moscow:20260305T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.62
+ 42\nПара №50
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260305-1600-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260305T160000
+DTEND;TZID=Europe/Moscow:20260305T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.62
+ 42\nПара №51
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260306-1400-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nПреподаватель: Сидорова Н. А.\nАудитория: а.6235\
+ nПара №24
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260306-1600-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
+ О. И. · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6235\nП
+ ара №26
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260310-0930-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260310T093000
+DTEND;TZID=Europe/Moscow:20260310T111000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.41
+ 4\nПара №52
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260310-1130-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
+ ий А. Л. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.41
+ 4\nПара №21
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260310-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6461\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260311-0930-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T093000
+DTEND;TZID=Europe/Moscow:20260311T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
+ О. И. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6242\nП
+ ара №27
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260311-1130-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
+ О. И. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6376\nП
+ ара №28
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260312-0930-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T093000
+DTEND;TZID=Europe/Moscow:20260312T111000
+SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nПреподаватель: Сидорова Н. А.\nАудитория: а.6235\
+ nПара №9
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260312-1130-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T113000
+DTEND;TZID=Europe/Moscow:20260312T131000
+SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nПреподаватель: Сидорова Н. А.\nАудитория: а.6235\
+ nПара №25
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260312-1400-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.10
+ 6\nПара №53
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260312-1600-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
+ ий А. Л. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.62
+ 45\nПара №27
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260316-0930-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260316T093000
+DTEND;TZID=Europe/Moscow:20260316T111000
+SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
+ ий А. Л. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.63
+ 82\nПара №22
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260316-1130-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
+ ий А. Л. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.62
+ 45\nПара №28
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260316-1400-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
+ . И. · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6115\nП
+ ара №39
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260316-1600-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
+ О. И. · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6112\nП
+ ара №29
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260317-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260317T140000
+DTEND;TZID=Europe/Moscow:20260317T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
+ оспит.
+LOCATION:а.Каф.физ.воспит.
+DESCRIPTION:Группа: 6461\nАудитория: а.Каф.физ.воспит.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260317-1600-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260317T160000
+DTEND;TZID=Europe/Moscow:20260317T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.62
+ 45\nПара №54
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260318-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T093000
+DTEND;TZID=Europe/Moscow:20260318T111000
+SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6117\n
+ Пара №11
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260318-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T113000
+DTEND;TZID=Europe/Moscow:20260318T131000
+SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6376\n
+ Пара №12
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260319-1400-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T140000
+DTEND;TZID=Europe/Moscow:20260319T154000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.63
+ 73\nПара №55
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260319-1600-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T160000
+DTEND;TZID=Europe/Moscow:20260319T174000
+SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
+ й А. Л. · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6461\nПреподаватель: Зелезинский А. Л.\nАудитория: а.63
+ 73\nПара №56
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260320-0930-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260320T093000
+DTEND;TZID=Europe/Moscow:20260320T111000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260320-1130-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260320T113000
+DTEND;TZID=Europe/Moscow:20260320T131000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260320-1400-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260320T140000
+DTEND;TZID=Europe/Moscow:20260320T154000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260320-1600-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260320T160000
+DTEND;TZID=Europe/Moscow:20260320T174000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260323-0930-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T093000
+DTEND;TZID=Europe/Moscow:20260323T111000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260323-1130-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260323-1400-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260323-1600-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T160000
+DTEND;TZID=Europe/Moscow:20260323T174000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260324-0930-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T093000
+DTEND;TZID=Europe/Moscow:20260324T111000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260324-1130-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260324-1400-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T140000
+DTEND;TZID=Europe/Moscow:20260324T154000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260324-1600-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T160000
+DTEND;TZID=Europe/Moscow:20260324T174000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260325-0930-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260325T093000
+DTEND;TZID=Europe/Moscow:20260325T111000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260325-1130-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260325-1400-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260325T140000
+DTEND;TZID=Europe/Moscow:20260325T154000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260325-1600-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260325T160000
+DTEND;TZID=Europe/Moscow:20260325T174000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260326-0930-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T093000
+DTEND;TZID=Europe/Moscow:20260326T111000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260326-1130-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T113000
+DTEND;TZID=Europe/Moscow:20260326T131000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260326-1400-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T140000
+DTEND;TZID=Europe/Moscow:20260326T154000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260326-1600-каникулы@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260326T160000
+DTEND;TZID=Europe/Moscow:20260326T174000
+SUMMARY:Каникулы · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6461\nАудитория: а.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260327-0930-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260327T093000
+DTEND;TZID=Europe/Moscow:20260327T111000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · Жулева 
+ О. И. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6381\nП
+ ара №22
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260327-1130-логистика-и-управление-цепями-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260327T113000
+DTEND;TZID=Europe/Moscow:20260327T131000
+SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
+  Жулева О. И. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6461\nПреподаватель: Жулева О. И.\nАудитория: а.6376\nП
+ ара №15
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260327-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6461\nАудитория: а.Кафедра физ.в.
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260330-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260330T093000
+DTEND;TZID=Europe/Moscow:20260330T111000
+SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6376\n
+ Пара №25
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260330-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260330T113000
+DTEND;TZID=Europe/Moscow:20260330T131000
+SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6242\n
+ Пара №26
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6461-20260330-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260330T140000
+DTEND;TZID=Europe/Moscow:20260330T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6461\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:group-6461-20260401-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T140000
 DTEND;TZID=Europe/Moscow:20260401T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
@@ -4342,7 +4992,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260401-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T160000
 DTEND;TZID=Europe/Moscow:20260401T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -4355,7 +5005,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260402-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T140000
 DTEND;TZID=Europe/Moscow:20260402T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -4368,7 +5018,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260402-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T160000
 DTEND;TZID=Europe/Moscow:20260402T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -4381,7 +5031,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260403-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T093000
 DTEND;TZID=Europe/Moscow:20260403T111000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4393,7 +5043,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260403-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T113000
 DTEND;TZID=Europe/Moscow:20260403T131000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4405,7 +5055,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260406-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T093000
 DTEND;TZID=Europe/Moscow:20260406T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · Жулева 
@@ -4418,7 +5068,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260406-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T113000
 DTEND;TZID=Europe/Moscow:20260406T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4431,7 +5081,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260407-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T093000
 DTEND;TZID=Europe/Moscow:20260407T111000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6117
@@ -4443,7 +5093,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260407-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T113000
 DTEND;TZID=Europe/Moscow:20260407T131000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6117
@@ -4455,7 +5105,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260408-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T140000
 DTEND;TZID=Europe/Moscow:20260408T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -4467,7 +5117,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260409-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T093000
 DTEND;TZID=Europe/Moscow:20260409T111000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4480,7 +5130,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260409-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T113000
 DTEND;TZID=Europe/Moscow:20260409T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -4493,7 +5143,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260409-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
 DTEND;TZID=Europe/Moscow:20260409T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -4506,7 +5156,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260409-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T160000
 DTEND;TZID=Europe/Moscow:20260409T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -4519,7 +5169,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260410-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T140000
 DTEND;TZID=Europe/Moscow:20260410T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4531,7 +5181,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260410-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T160000
 DTEND;TZID=Europe/Moscow:20260410T174000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4543,7 +5193,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260414-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T113000
 DTEND;TZID=Europe/Moscow:20260414T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4556,7 +5206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260414-1400-теория-коммуникаций-замена-мен@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T140000
 DTEND;TZID=Europe/Moscow:20260414T154000
 SUMMARY:Теория коммуникаций Замена Менеджмента · Новикова Е. Н. · а.6117
@@ -4568,7 +5218,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260414-1600-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T160000
 DTEND;TZID=Europe/Moscow:20260414T174000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -4580,7 +5230,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260415-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T140000
 DTEND;TZID=Europe/Moscow:20260415T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -4593,7 +5243,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260415-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T160000
 DTEND;TZID=Europe/Moscow:20260415T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -4606,7 +5256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260416-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T140000
 DTEND;TZID=Europe/Moscow:20260416T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -4619,7 +5269,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260416-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T160000
 DTEND;TZID=Europe/Moscow:20260416T174000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4632,7 +5282,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260417-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T093000
 DTEND;TZID=Europe/Moscow:20260417T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -4645,7 +5295,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260417-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T113000
 DTEND;TZID=Europe/Moscow:20260417T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4658,7 +5308,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260417-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T140000
 DTEND;TZID=Europe/Moscow:20260417T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4670,7 +5320,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260417-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T160000
 DTEND;TZID=Europe/Moscow:20260417T174000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -4682,7 +5332,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260420-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260420T140000
 DTEND;TZID=Europe/Moscow:20260420T154000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6117
@@ -4694,7 +5344,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260420-1600-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260420T160000
 DTEND;TZID=Europe/Moscow:20260420T174000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -4706,7 +5356,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260421-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T093000
 DTEND;TZID=Europe/Moscow:20260421T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -4719,7 +5369,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260421-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T113000
 DTEND;TZID=Europe/Moscow:20260421T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4732,7 +5382,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260421-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T140000
 DTEND;TZID=Europe/Moscow:20260421T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4745,7 +5395,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260422-0930-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T093000
 DTEND;TZID=Europe/Moscow:20260422T111000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6235
@@ -4757,7 +5407,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260422-1130-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T113000
 DTEND;TZID=Europe/Moscow:20260422T131000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6235
@@ -4769,7 +5419,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260422-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T140000
 DTEND;TZID=Europe/Moscow:20260422T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -4781,7 +5431,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260423-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T093000
 DTEND;TZID=Europe/Moscow:20260423T111000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4794,7 +5444,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260423-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T113000
 DTEND;TZID=Europe/Moscow:20260423T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4807,7 +5457,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260423-1400-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T140000
 DTEND;TZID=Europe/Moscow:20260423T154000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6115
@@ -4819,7 +5469,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260423-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T160000
 DTEND;TZID=Europe/Moscow:20260423T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -4832,7 +5482,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260424-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T140000
 DTEND;TZID=Europe/Moscow:20260424T154000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6117
@@ -4844,7 +5494,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260424-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T160000
 DTEND;TZID=Europe/Moscow:20260424T174000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6117
@@ -4856,7 +5506,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260427-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T093000
 DTEND;TZID=Europe/Moscow:20260427T111000
 SUMMARY:Основы управления в профессиональной деятельности (лек) · Зелезинск
@@ -4869,7 +5519,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260427-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T113000
 DTEND;TZID=Europe/Moscow:20260427T131000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4882,7 +5532,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260427-1400-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T140000
 DTEND;TZID=Europe/Moscow:20260427T154000
 SUMMARY:Менеджмент (лек) · Сидорова Н. А. · а.106
@@ -4894,7 +5544,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260427-1600-менеджмент-пр-перенос-с-06-04-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T160000
 DTEND;TZID=Europe/Moscow:20260427T174000
 SUMMARY:Менеджмент (пр) (перенос с 06.04.2026) · Сидорова Н. А. · а.106
@@ -4906,7 +5556,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260428-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T093000
 DTEND;TZID=Europe/Moscow:20260428T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · Б
@@ -4919,7 +5569,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260428-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T113000
 DTEND;TZID=Europe/Moscow:20260428T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -4932,7 +5582,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260428-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T140000
 DTEND;TZID=Europe/Moscow:20260428T154000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4945,7 +5595,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260428-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T160000
 DTEND;TZID=Europe/Moscow:20260428T174000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -4958,7 +5608,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260429-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T113000
 DTEND;TZID=Europe/Moscow:20260429T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -4970,7 +5620,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260429-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T140000
 DTEND;TZID=Europe/Moscow:20260429T154000
 SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6240
@@ -4982,7 +5632,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260429-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T160000
 DTEND;TZID=Europe/Moscow:20260429T174000
 SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6240
@@ -4994,7 +5644,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260430-0930-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T093000
 DTEND;TZID=Europe/Moscow:20260430T111000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.408
@@ -5006,7 +5656,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260430-1130-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T113000
 DTEND;TZID=Europe/Moscow:20260430T131000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.408
@@ -5018,7 +5668,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260430-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T140000
 DTEND;TZID=Europe/Moscow:20260430T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · Б
@@ -5031,7 +5681,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260504-0930-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T093000
 DTEND;TZID=Europe/Moscow:20260504T111000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -5043,7 +5693,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260504-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T113000
 DTEND;TZID=Europe/Moscow:20260504T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · Жулева 
@@ -5056,7 +5706,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260504-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T140000
 DTEND;TZID=Europe/Moscow:20260504T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -5069,7 +5719,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260504-1600-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T160000
 DTEND;TZID=Europe/Moscow:20260504T174000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6236
@@ -5081,7 +5731,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260506-0930-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T093000
 DTEND;TZID=Europe/Moscow:20260506T111000
 SUMMARY:Менеджмент (лек) · Сидорова Н. А. · а.6248
@@ -5093,7 +5743,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260506-1130-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T113000
 DTEND;TZID=Europe/Moscow:20260506T131000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6236
@@ -5105,7 +5755,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260508-0930-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T093000
 DTEND;TZID=Europe/Moscow:20260508T111000
 SUMMARY:Менеджмент (Курс.работа) · Лоцманов А. A. · а.6378
@@ -5117,7 +5767,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260508-1130-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T113000
 DTEND;TZID=Europe/Moscow:20260508T131000
 SUMMARY:Менеджмент (Курс.работа) · Лоцманов А. A. · а.6378
@@ -5129,7 +5779,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260508-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T140000
 DTEND;TZID=Europe/Moscow:20260508T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -5141,7 +5791,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260512-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T093000
 DTEND;TZID=Europe/Moscow:20260512T111000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5154,7 +5804,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260512-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T113000
 DTEND;TZID=Europe/Moscow:20260512T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5167,7 +5817,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260512-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T140000
 DTEND;TZID=Europe/Moscow:20260512T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -5180,7 +5830,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260512-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T160000
 DTEND;TZID=Europe/Moscow:20260512T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -5193,7 +5843,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260513-0930-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T093000
 DTEND;TZID=Europe/Moscow:20260513T111000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6242
@@ -5205,7 +5855,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260513-1130-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T113000
 DTEND;TZID=Europe/Moscow:20260513T131000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6242
@@ -5217,7 +5867,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260513-1400-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T140000
 DTEND;TZID=Europe/Moscow:20260513T154000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6242
@@ -5229,7 +5879,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260513-1600-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T160000
 DTEND;TZID=Europe/Moscow:20260513T174000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
@@ -5241,7 +5891,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260514-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T093000
 DTEND;TZID=Europe/Moscow:20260514T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · Б
@@ -5254,7 +5904,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260514-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T113000
 DTEND;TZID=Europe/Moscow:20260514T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5267,7 +5917,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260514-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T140000
 DTEND;TZID=Europe/Moscow:20260514T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5280,7 +5930,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260518-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260518T113000
 DTEND;TZID=Europe/Moscow:20260518T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
@@ -5292,7 +5942,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260518-1400-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260518T140000
 DTEND;TZID=Europe/Moscow:20260518T154000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6376
@@ -5304,7 +5954,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260518-1600-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260518T160000
 DTEND;TZID=Europe/Moscow:20260518T174000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6376
@@ -5316,7 +5966,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260519-0930-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T093000
 DTEND;TZID=Europe/Moscow:20260519T111000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6117
@@ -5328,7 +5978,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260519-1130-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T113000
 DTEND;TZID=Europe/Moscow:20260519T131000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6117
@@ -5340,7 +5990,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260519-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T140000
 DTEND;TZID=Europe/Moscow:20260519T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -5353,7 +6003,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260519-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T160000
 DTEND;TZID=Europe/Moscow:20260519T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -5366,7 +6016,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260520-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T093000
 DTEND;TZID=Europe/Moscow:20260520T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · Б
@@ -5379,7 +6029,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260520-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T113000
 DTEND;TZID=Europe/Moscow:20260520T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · Б
@@ -5392,7 +6042,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260520-1400-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T140000
 DTEND;TZID=Europe/Moscow:20260520T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -5404,7 +6054,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260521-0930-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T093000
 DTEND;TZID=Europe/Moscow:20260521T111000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6242
@@ -5416,7 +6066,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260521-1130-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T113000
 DTEND;TZID=Europe/Moscow:20260521T131000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6242
@@ -5428,7 +6078,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260521-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T140000
 DTEND;TZID=Europe/Moscow:20260521T154000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -5441,7 +6091,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260521-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T160000
 DTEND;TZID=Europe/Moscow:20260521T174000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5454,7 +6104,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260522-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T093000
 DTEND;TZID=Europe/Moscow:20260522T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · Жулева 
@@ -5467,7 +6117,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260522-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T113000
 DTEND;TZID=Europe/Moscow:20260522T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лек) · Жулева 
@@ -5480,7 +6130,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260522-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T140000
 DTEND;TZID=Europe/Moscow:20260522T154000
 SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6115
@@ -5492,7 +6142,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260522-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T160000
 DTEND;TZID=Europe/Moscow:20260522T174000
 SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6115
@@ -5504,7 +6154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260525-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T113000
 DTEND;TZID=Europe/Moscow:20260525T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -5516,7 +6166,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260525-1400-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T140000
 DTEND;TZID=Europe/Moscow:20260525T154000
 SUMMARY:Менеджмент (лек) · Сидорова Н. А. · а.6381
@@ -5528,7 +6178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260526-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T093000
 DTEND;TZID=Europe/Moscow:20260526T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -5541,7 +6191,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260526-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T113000
 DTEND;TZID=Europe/Moscow:20260526T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (Курс.работа) ·
@@ -5554,7 +6204,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260526-1400-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T140000
 DTEND;TZID=Europe/Moscow:20260526T154000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6376
@@ -5566,7 +6216,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260526-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T160000
 DTEND;TZID=Europe/Moscow:20260526T174000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -5579,7 +6229,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260527-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T093000
 DTEND;TZID=Europe/Moscow:20260527T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -5592,7 +6242,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260527-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T113000
 DTEND;TZID=Europe/Moscow:20260527T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -5605,7 +6255,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260527-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T140000
 DTEND;TZID=Europe/Moscow:20260527T154000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6376
@@ -5617,7 +6267,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260528-0930-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T093000
 DTEND;TZID=Europe/Moscow:20260528T111000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6116
@@ -5629,7 +6279,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260528-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T113000
 DTEND;TZID=Europe/Moscow:20260528T131000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6116
@@ -5641,7 +6291,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260528-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T140000
 DTEND;TZID=Europe/Moscow:20260528T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5654,7 +6304,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260528-1600-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T160000
 DTEND;TZID=Europe/Moscow:20260528T174000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5667,7 +6317,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260601-0930-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260601T093000
 DTEND;TZID=Europe/Moscow:20260601T111000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6116
@@ -5679,7 +6329,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260601-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260601T113000
 DTEND;TZID=Europe/Moscow:20260601T131000
 SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6116
@@ -5691,7 +6341,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260601-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260601T140000
 DTEND;TZID=Europe/Moscow:20260601T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -5704,7 +6354,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260601-1600-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260601T160000
 DTEND;TZID=Europe/Moscow:20260601T174000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -5717,7 +6367,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260602-0930-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260602T093000
 DTEND;TZID=Europe/Moscow:20260602T111000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6235
@@ -5729,7 +6379,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260602-1130-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260602T113000
 DTEND;TZID=Europe/Moscow:20260602T131000
 SUMMARY:Менеджмент (пр) · Сидорова Н. А. · а.6235
@@ -5741,7 +6391,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260602-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260602T140000
 DTEND;TZID=Europe/Moscow:20260602T154000
 SUMMARY:Основы управления в профессиональной деятельности (пр) · Зелезински
@@ -5754,7 +6404,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260603-0930-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260603T093000
 DTEND;TZID=Europe/Moscow:20260603T111000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
@@ -5766,31 +6416,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260603-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260603T113000
 DTEND;TZID=Europe/Moscow:20260603T131000
-SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6115\n
+SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6242\n
  Пара №14
 CATEGORIES:Учёба,6461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260603-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260603T140000
 DTEND;TZID=Europe/Moscow:20260603T154000
-SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6116\n
+SUMMARY:Введение в информационные технологии (лек) · Морозов А. М. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6461\nПреподаватель: Морозов А. М.\nАудитория: а.6248\n
  Пара №15
 CATEGORIES:Учёба,6461
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260605-0930-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T093000
 DTEND;TZID=Europe/Moscow:20260605T111000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
@@ -5802,7 +6452,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260605-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T113000
 DTEND;TZID=Europe/Moscow:20260605T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (лаб) · Жулева 
@@ -5815,7 +6465,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260605-1400-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T140000
 DTEND;TZID=Europe/Moscow:20260605T154000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -5828,7 +6478,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260608-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260608T140000
 DTEND;TZID=Europe/Moscow:20260608T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -5840,7 +6490,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260608-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260608T160000
 DTEND;TZID=Europe/Moscow:20260608T174000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -5852,7 +6502,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260609-0930-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260609T093000
 DTEND;TZID=Europe/Moscow:20260609T111000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6235
@@ -5864,7 +6514,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260609-1130-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260609T113000
 DTEND;TZID=Europe/Moscow:20260609T131000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6235
@@ -5876,7 +6526,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260609-1400-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260609T140000
 DTEND;TZID=Europe/Moscow:20260609T154000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5889,7 +6539,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260609-1600-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260609T160000
 DTEND;TZID=Europe/Moscow:20260609T174000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
@@ -5901,7 +6551,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260610-1400-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260610T140000
 DTEND;TZID=Europe/Moscow:20260610T154000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6245
@@ -5913,7 +6563,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260610-1600-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260610T160000
 DTEND;TZID=Europe/Moscow:20260610T174000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6245
@@ -5925,7 +6575,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260611-0930-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260611T093000
 DTEND;TZID=Europe/Moscow:20260611T111000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5938,7 +6588,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260611-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260611T113000
 DTEND;TZID=Europe/Moscow:20260611T131000
 SUMMARY:Основы управления в профессиональной деятельности (лаб) · Зелезинск
@@ -5951,7 +6601,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260611-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260611T140000
 DTEND;TZID=Europe/Moscow:20260611T154000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6235
@@ -5963,7 +6613,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260611-1600-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260611T160000
 DTEND;TZID=Europe/Moscow:20260611T174000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.каф. физ.
@@ -5975,7 +6625,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260615-0930-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260615T093000
 DTEND;TZID=Europe/Moscow:20260615T111000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -5987,7 +6637,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260615-1130-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260615T113000
 DTEND;TZID=Europe/Moscow:20260615T131000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6242
@@ -5999,7 +6649,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260615-1400-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260615T140000
 DTEND;TZID=Europe/Moscow:20260615T154000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6242
@@ -6011,7 +6661,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260616-0930-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260616T093000
 DTEND;TZID=Europe/Moscow:20260616T111000
 SUMMARY:Менеджмент (Курс.работа) · Сидорова Н. А. · а.6376
@@ -6023,7 +6673,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260616-1130-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260616T113000
 DTEND;TZID=Europe/Moscow:20260616T131000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6376
@@ -6035,7 +6685,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260616-1400-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260616T140000
 DTEND;TZID=Europe/Moscow:20260616T154000
 SUMMARY:Введение в информационные технологии (пр) · Морозов А. М. · а.6378
@@ -6047,7 +6697,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260616-1600-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260616T160000
 DTEND;TZID=Europe/Moscow:20260616T174000
 SUMMARY:Введение в информационные технологии (лаб) · Морозов А. М. · а.6378
@@ -6059,7 +6709,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260617-0930-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260617T093000
 DTEND;TZID=Europe/Moscow:20260617T111000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -6072,7 +6722,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260617-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260617T113000
 DTEND;TZID=Europe/Moscow:20260617T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (пр) · Жулева О
@@ -6085,7 +6735,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260618-0930-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260618T093000
 DTEND;TZID=Europe/Moscow:20260618T111000
 SUMMARY:Менеджмент (лаб) · Сидорова Н. А. · а.6235
@@ -6097,7 +6747,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260618-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260618T113000
 DTEND;TZID=Europe/Moscow:20260618T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
@@ -6109,7 +6759,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260623-1130-введение-в-информационные-техн@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260623T113000
 DTEND;TZID=Europe/Moscow:20260623T131000
 SUMMARY:Введение в информационные технологии (экз) · Морозов А. М. · а.6116
@@ -6120,7 +6770,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260626-1130-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260626T113000
 DTEND;TZID=Europe/Moscow:20260626T131000
 SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · Ковшура 
@@ -6133,7 +6783,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260629-1130-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260629T113000
 DTEND;TZID=Europe/Moscow:20260629T131000
 SUMMARY:Основы управления в профессиональной деятельности (экз) · Зелезинск
@@ -6146,7 +6796,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260703-1400-менеджмент-экз-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260703T140000
 DTEND;TZID=Europe/Moscow:20260703T154000
 SUMMARY:Менеджмент (экз) · Сидорова Н. А. · а.6116
@@ -6157,7 +6807,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:group-6461-20260706-1130-логистика-и-управление-цепями-@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260706T113000
 DTEND;TZID=Europe/Moscow:20260706T131000
 SUMMARY:Логистика и управление цепями поставок (L&amp\;SCM) (экз) · Жулева 

@@ -20,7 +20,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250902-1400-6481-6441-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T140000
 DTEND;TZID=Europe/Moscow:20250902T154000
 SUMMARY:Менеджмент лекция · гр. 6481\, 6441 · а. 6373
@@ -32,20 +32,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T140000
 DTEND;TZID=Europe/Moscow:20250902T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №1\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №1\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1600-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T160000
 DTEND;TZID=Europe/Moscow:20250902T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6373
@@ -57,19 +69,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T160000
 DTEND;TZID=Europe/Moscow:20250902T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №1\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250902-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №1\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250904-1400-6481-6441-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Менеджмент лекция · гр. 6481\, 6441 · а. 6378
@@ -81,20 +105,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6378
 LOCATION:а. 6378
-DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПара №2\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6441\nАудитория: а. 6378\nПара №2\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1600-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T160000
 DTEND;TZID=Europe/Moscow:20250904T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6378
@@ -106,19 +142,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T160000
 DTEND;TZID=Europe/Moscow:20250904T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6378
 LOCATION:а. 6378
-DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПара №2\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250904-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6441\nАудитория: а. 6378\nПара №2\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250905-1400-6481-6441-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Менеджмент лекция · гр. 6481\, 6441 · а. 6381
@@ -130,19 +178,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №3\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250905-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №3\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250905-1600-6481-6441-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Менеджмент лекция · гр. 6481\, 6441 · а. 6381
@@ -154,20 +214,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №4\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №4\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1400-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6373
@@ -179,20 +251,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №3\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №3\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1600-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T160000
 DTEND;TZID=Europe/Moscow:20250911T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6373
@@ -204,20 +288,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T160000
 DTEND;TZID=Europe/Moscow:20250911T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №4\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №4\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1400-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T140000
 DTEND;TZID=Europe/Moscow:20250912T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6381
@@ -229,19 +325,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T140000
 DTEND;TZID=Europe/Moscow:20250912T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №5\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250912-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №5\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250912-1600-6481-6441-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T160000
 DTEND;TZID=Europe/Moscow:20250912T174000
 SUMMARY:Менеджмент лекция · гр. 6481\, 6441 · а. 6381
@@ -253,20 +361,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T160000
 DTEND;TZID=Europe/Moscow:20250912T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №5\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №5\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1400-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T140000
 DTEND;TZID=Europe/Moscow:20250918T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6373
@@ -278,20 +398,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T140000
 DTEND;TZID=Europe/Moscow:20250918T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №6\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №6\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1600-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T160000
 DTEND;TZID=Europe/Moscow:20250918T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6373
@@ -303,20 +435,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T160000
 DTEND;TZID=Europe/Moscow:20250918T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №7\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №7\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1400-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T140000
 DTEND;TZID=Europe/Moscow:20250919T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6373
@@ -328,19 +472,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T140000
 DTEND;TZID=Europe/Moscow:20250919T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №8\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250919-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №8\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250919-1600-6481-6441-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T160000
 DTEND;TZID=Europe/Moscow:20250919T174000
 SUMMARY:Менеджмент лекция · гр. 6481\, 6441 · а. 6373
@@ -352,19 +508,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T160000
 DTEND;TZID=Europe/Moscow:20250919T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №6\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250919-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №6\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-1400-6481-6441-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Менеджмент лекция · гр. 6481\, 6441 · а. 6373
@@ -376,20 +544,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №7\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №7\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1600-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T160000
 DTEND;TZID=Europe/Moscow:20250925T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6373
@@ -401,20 +581,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T160000
 DTEND;TZID=Europe/Moscow:20250925T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №9\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №9\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1400-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T140000
 DTEND;TZID=Europe/Moscow:20250926T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6378
@@ -426,20 +618,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T140000
 DTEND;TZID=Europe/Moscow:20250926T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6378
 LOCATION:а. 6378
-DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПара №10\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6441\nАудитория: а. 6378\nПара №10\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1600-6481-6441-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T160000
 DTEND;TZID=Europe/Moscow:20250926T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481\, 6441 · а. 6378
@@ -451,20 +655,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T160000
 DTEND;TZID=Europe/Moscow:20250926T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6378
 LOCATION:а. 6378
-DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПара №11\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6441\nАудитория: а. 6378\nПара №11\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а. 6373
@@ -476,19 +692,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №12\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251002-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №12\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251002-1600-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6373
@@ -500,20 +728,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №8\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №8\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T140000
 DTEND;TZID=Europe/Moscow:20251003T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а. 6373
@@ -525,20 +765,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T140000
 DTEND;TZID=Europe/Moscow:20251003T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №13\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №13\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1600-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T160000
 DTEND;TZID=Europe/Moscow:20251003T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а. 6373
@@ -550,19 +802,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T160000
 DTEND;TZID=Europe/Moscow:20251003T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №14\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251003-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №14\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251009-1400-6441-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T140000
 DTEND;TZID=Europe/Moscow:20251009T154000
 SUMMARY:Менеджмент КР · гр. 6441\, 6481 · а.6376
@@ -574,19 +838,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1400-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T140000
 DTEND;TZID=Europe/Moscow:20251009T154000
 SUMMARY:Менеджмент КР · гр. 6481 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПара №1\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251009-1400-6441-менеджмент-кр@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Менеджмент КР · гр. 6441 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6441\nАудитория: а.6376\nПара №1\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251009-1600-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T160000
 DTEND;TZID=Europe/Moscow:20251009T174000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а.6381
@@ -598,20 +874,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251009-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T160000
 DTEND;TZID=Europe/Moscow:20251009T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6481\nАудитория: а.6382\nПара №9\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6382\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6441\nАудитория: а.6381\nПара №9\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T140000
 DTEND;TZID=Europe/Moscow:20251016T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -623,20 +911,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T140000
 DTEND;TZID=Europe/Moscow:20251016T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №1\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251016-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №1\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T160000
 DTEND;TZID=Europe/Moscow:20251016T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -648,19 +948,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T160000
 DTEND;TZID=Europe/Moscow:20251016T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №2\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251016-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №2\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251017-1400-6441-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T140000
 DTEND;TZID=Europe/Moscow:20251017T154000
 SUMMARY:Менеджмент КР · гр. 6441\, 6481 · а.6378
@@ -672,20 +984,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1400-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T140000
 DTEND;TZID=Europe/Moscow:20251017T154000
 SUMMARY:Менеджмент КР · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №2\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1400-6441-менеджмент-кр@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Менеджмент КР · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №2\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T160000
 DTEND;TZID=Europe/Moscow:20251017T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -697,20 +1021,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T160000
 DTEND;TZID=Europe/Moscow:20251017T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №3\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251017-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №3\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T140000
 DTEND;TZID=Europe/Moscow:20251023T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6376
@@ -722,20 +1058,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T140000
 DTEND;TZID=Europe/Moscow:20251023T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПара №4\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6441\nАудитория: а.6376\nПара №4\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T160000
 DTEND;TZID=Europe/Moscow:20251023T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6376
@@ -747,19 +1095,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T160000
 DTEND;TZID=Europe/Moscow:20251023T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПара №5\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251023-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6441\nАудитория: а.6376\nПара №5\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251024-1400-6441-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T140000
 DTEND;TZID=Europe/Moscow:20251024T154000
 SUMMARY:Менеджмент КР · гр. 6441\, 6481 · а.6378
@@ -771,19 +1131,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1400-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T140000
 DTEND;TZID=Europe/Moscow:20251024T154000
 SUMMARY:Менеджмент КР · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №3\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251024-1400-6441-менеджмент-кр@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Менеджмент КР · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №3\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251024-1600-6441-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T160000
 DTEND;TZID=Europe/Moscow:20251024T174000
 SUMMARY:Менеджмент КР · гр. 6441\, 6481 · а.6378
@@ -795,19 +1167,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1600-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T160000
 DTEND;TZID=Europe/Moscow:20251024T174000
 SUMMARY:Менеджмент КР · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №4\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251024-1600-6441-менеджмент-кр@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Менеджмент КР · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №4\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251030-1400-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T140000
 DTEND;TZID=Europe/Moscow:20251030T154000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6373
@@ -819,20 +1203,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251030-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T140000
 DTEND;TZID=Europe/Moscow:20251030T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №12\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №12\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251030-1600-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T160000
 DTEND;TZID=Europe/Moscow:20251030T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а. 6373
@@ -844,20 +1240,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251030-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T160000
 DTEND;TZID=Europe/Moscow:20251030T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а. 6373
 LOCATION:а. 6373
-DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПара №15\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6373\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6441\nАудитория: а. 6373\nПара №15\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251031-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T140000
 DTEND;TZID=Europe/Moscow:20251031T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а.6378
@@ -869,20 +1277,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251031-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T140000
 DTEND;TZID=Europe/Moscow:20251031T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №16\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №16\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251031-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T160000
 DTEND;TZID=Europe/Moscow:20251031T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -894,20 +1314,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251031-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T160000
 DTEND;TZID=Europe/Moscow:20251031T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №6\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №6\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -919,19 +1351,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №7\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251106-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T140000
+DTEND;TZID=Europe/Moscow:20251106T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №7\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251106-1600-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T160000
 DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а.6373
@@ -943,19 +1387,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T160000
 DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №13\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251106-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T160000
+DTEND;TZID=Europe/Moscow:20251106T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №13\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251107-1400-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T140000
 DTEND;TZID=Europe/Moscow:20251107T154000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а.6373
@@ -967,19 +1423,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T140000
 DTEND;TZID=Europe/Moscow:20251107T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №14\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251107-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №14\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251107-1600-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T160000
 DTEND;TZID=Europe/Moscow:20251107T174000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а.6373
@@ -991,20 +1459,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T160000
 DTEND;TZID=Europe/Moscow:20251107T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №15\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №15\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T140000
 DTEND;TZID=Europe/Moscow:20251112T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а.6378
@@ -1016,20 +1496,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T140000
 DTEND;TZID=Europe/Moscow:20251112T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №17\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №17\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1600-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T160000
 DTEND;TZID=Europe/Moscow:20251112T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а.6376
@@ -1041,20 +1533,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T160000
 DTEND;TZID=Europe/Moscow:20251112T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПара №18\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251112-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6441\nАудитория: а.6376\nПара №18\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251114-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T140000
 DTEND;TZID=Europe/Moscow:20251114T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а.6378
@@ -1066,20 +1570,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251114-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T140000
 DTEND;TZID=Europe/Moscow:20251114T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №19\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №19\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251114-1600-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T160000
 DTEND;TZID=Europe/Moscow:20251114T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а.6378
@@ -1091,20 +1607,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251114-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T160000
 DTEND;TZID=Europe/Moscow:20251114T174000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №20\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T160000
+DTEND;TZID=Europe/Moscow:20251114T174000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №20\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T140000
 DTEND;TZID=Europe/Moscow:20251119T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6441\, 6481 · а.6378
@@ -1116,20 +1644,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T140000
 DTEND;TZID=Europe/Moscow:20251119T154000
 SUMMARY:Менеджмент практическое занятие · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №21\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Менеджмент практическое занятие · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №21\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T160000
 DTEND;TZID=Europe/Moscow:20251119T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1141,20 +1681,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T160000
 DTEND;TZID=Europe/Moscow:20251119T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №8\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №8\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251121-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T140000
 DTEND;TZID=Europe/Moscow:20251121T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1166,19 +1718,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251121-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T140000
 DTEND;TZID=Europe/Moscow:20251121T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №9\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251121-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №9\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251121-1600-6441-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T160000
 DTEND;TZID=Europe/Moscow:20251121T174000
 SUMMARY:Менеджмент КР · гр. 6441\, 6481 · а.6378
@@ -1190,20 +1754,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251121-1600-6481-менеджмент-кр@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T160000
 DTEND;TZID=Europe/Moscow:20251121T174000
 SUMMARY:Менеджмент КР · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №5\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6441-менеджмент-кр@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Менеджмент КР · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №5\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T140000
 DTEND;TZID=Europe/Moscow:20251127T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1215,20 +1791,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T140000
 DTEND;TZID=Europe/Moscow:20251127T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №10\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №10\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T160000
 DTEND;TZID=Europe/Moscow:20251127T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1240,20 +1828,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T160000
 DTEND;TZID=Europe/Moscow:20251127T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №11\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №11\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T140000
 DTEND;TZID=Europe/Moscow:20251128T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1265,20 +1865,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T140000
 DTEND;TZID=Europe/Moscow:20251128T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №12\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №12\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T160000
 DTEND;TZID=Europe/Moscow:20251128T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1290,19 +1902,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T160000
 DTEND;TZID=Europe/Moscow:20251128T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №13\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251128-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №13\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251204-1400-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6381
@@ -1314,19 +1938,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №16\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251204-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №16\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251204-1600-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6381
@@ -1338,20 +1974,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №17\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251204-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №17\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251205-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T140000
 DTEND;TZID=Europe/Moscow:20251205T154000
 SUMMARY:Менеджмент Практическое занятие · гр. 6441\, 6481 · а. 6378
@@ -1363,20 +2011,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251205-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T140000
 DTEND;TZID=Europe/Moscow:20251205T154000
 SUMMARY:Менеджмент Практическое занятие · гр. 6481 · а. 6378
 LOCATION:а. 6378
-DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПара №22\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Менеджмент Практическое занятие · гр. 6441 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6441\nАудитория: а. 6378\nПара №22\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251205-1600-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T160000
 DTEND;TZID=Europe/Moscow:20251205T174000
 SUMMARY:Менеджмент Практическое занятие · гр. 6441\, 6481 · а. 6378
@@ -1388,19 +2048,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251205-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T160000
 DTEND;TZID=Europe/Moscow:20251205T174000
 SUMMARY:Менеджмент Практическое занятие · гр. 6481 · а. 6378
 LOCATION:а. 6378
-DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПара №23\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6378\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251205-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Менеджмент Практическое занятие · гр. 6441 · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6441\nАудитория: а. 6378\nПара №23\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251211-1400-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T140000
 DTEND;TZID=Europe/Moscow:20251211T154000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6381
@@ -1412,19 +2084,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251211-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T140000
 DTEND;TZID=Europe/Moscow:20251211T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №18\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251211-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №18\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251211-1600-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T160000
 DTEND;TZID=Europe/Moscow:20251211T174000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6381
@@ -1436,20 +2120,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251211-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T160000
 DTEND;TZID=Europe/Moscow:20251211T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №19\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №19\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T140000
 DTEND;TZID=Europe/Moscow:20251212T154000
 SUMMARY:Менеджмент Практическое занятие · гр. 6441\, 6481 · а. 6376
@@ -1461,20 +2157,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T140000
 DTEND;TZID=Europe/Moscow:20251212T154000
 SUMMARY:Менеджмент Практическое занятие · гр. 6481 · а. 6376
 LOCATION:а. 6376
-DESCRIPTION:Группа: 6481\nАудитория: а. 6376\nПара №24\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6376\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251212T140000
+DTEND;TZID=Europe/Moscow:20251212T154000
+SUMMARY:Менеджмент Практическое занятие · гр. 6441 · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 6441\nАудитория: а. 6376\nПара №24\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-1600-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T160000
 DTEND;TZID=Europe/Moscow:20251212T174000
 SUMMARY:Менеджмент Практическое занятие · гр. 6441\, 6481 · а. 6376
@@ -1486,19 +2194,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251212-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T160000
 DTEND;TZID=Europe/Moscow:20251212T174000
 SUMMARY:Менеджмент Практическое занятие · гр. 6481 · а. 6376
 LOCATION:а. 6376
-DESCRIPTION:Группа: 6481\nАудитория: а. 6376\nПара №25\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6376\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251212-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251212T160000
+DTEND;TZID=Europe/Moscow:20251212T174000
+SUMMARY:Менеджмент Практическое занятие · гр. 6441 · а. 6376
+LOCATION:а. 6376
+DESCRIPTION:Группа: 6441\nАудитория: а. 6376\nПара №25\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251218-1400-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T140000
 DTEND;TZID=Europe/Moscow:20251218T154000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6381
@@ -1510,19 +2230,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-1400-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T140000
 DTEND;TZID=Europe/Moscow:20251218T154000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №20\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251218-1400-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №20\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251218-1600-6441-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T160000
 DTEND;TZID=Europe/Moscow:20251218T174000
 SUMMARY:Менеджмент лекция · гр. 6441\, 6481 · а. 6381
@@ -1534,20 +2266,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-1600-6481-менеджмент-лекция@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T160000
 DTEND;TZID=Europe/Moscow:20251218T174000
 SUMMARY:Менеджмент лекция · гр. 6481 · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПара №21\nПреподаватель: Овчи
- нникова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а. 6381\nПреподаватель: Овчинникова Л.
+  А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1600-6441-менеджмент-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:Менеджмент лекция · гр. 6441 · а. 6381
+LOCATION:а. 6381
+DESCRIPTION:Группа: 6441\nАудитория: а. 6381\nПара №21\nПреподаватель: Овчи
+ нникова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1400-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T140000
 DTEND;TZID=Europe/Moscow:20251219T154000
 SUMMARY:Менеджмент Практическое занятие · гр. 6441\, 6481 · а.6378
@@ -1559,20 +2303,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1400-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T140000
 DTEND;TZID=Europe/Moscow:20251219T154000
 SUMMARY:Менеджмент Практическое занятие · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №26\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Менеджмент Практическое занятие · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №26\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1600-6441-6481-менеджмент-практическое-заняти@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T160000
 DTEND;TZID=Europe/Moscow:20251219T174000
 SUMMARY:Менеджмент Практическое занятие · гр. 6441\, 6481 · а.6378
@@ -1584,20 +2340,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1600-6481-менеджмент-практическое-заняти@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T160000
 DTEND;TZID=Europe/Moscow:20251219T174000
 SUMMARY:Менеджмент Практическое занятие · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №27\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1600-6441-менеджмент-практическое-заняти@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Менеджмент Практическое занятие · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №27\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251225-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T140000
 DTEND;TZID=Europe/Moscow:20251225T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1609,20 +2377,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251225-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T140000
 DTEND;TZID=Europe/Moscow:20251225T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №14\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №14\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251225-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T160000
 DTEND;TZID=Europe/Moscow:20251225T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1634,20 +2414,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251225-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T160000
 DTEND;TZID=Europe/Moscow:20251225T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №15\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №15\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-1400-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T140000
 DTEND;TZID=Europe/Moscow:20251226T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1659,20 +2451,32 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-1400-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T140000
 DTEND;TZID=Europe/Moscow:20251226T154000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №16\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251226-1400-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №16\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-1600-6441-6481-менеджмент-лабораторный-практи@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T160000
 DTEND;TZID=Europe/Moscow:20251226T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6441\, 6481 · а.6378
@@ -1684,19 +2488,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251226-1600-6481-менеджмент-лабораторный-практи@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T160000
 DTEND;TZID=Europe/Moscow:20251226T174000
 SUMMARY:Менеджмент лабораторный практикум · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №17\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251226-1600-6441-менеджмент-лабораторный-практи@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:Менеджмент лабораторный практикум · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №17\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260116-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6112
@@ -1708,19 +2524,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6112
 LOCATION:а.6112
-DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПара №18\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260116-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260116T140000
+DTEND;TZID=Europe/Moscow:20260116T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6441\nАудитория: а.6112\nПара №18\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260116-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T160000
 DTEND;TZID=Europe/Moscow:20260116T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6112
@@ -1732,19 +2560,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T160000
 DTEND;TZID=Europe/Moscow:20260116T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6112
 LOCATION:а.6112
-DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПара №19\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260116-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260116T160000
+DTEND;TZID=Europe/Moscow:20260116T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6441\nАудитория: а.6112\nПара №19\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-1400-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6381
@@ -1756,19 +2596,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1400-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6481\nАудитория: а.6381\nПара №6\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6381\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260123-1400-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6441\nАудитория: а.6381\nПара №6\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-1600-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T160000
 DTEND;TZID=Europe/Moscow:20260123T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -1780,19 +2632,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1600-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T160000
 DTEND;TZID=Europe/Moscow:20260123T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №7\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260123-1600-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260123T160000
+DTEND;TZID=Europe/Moscow:20260123T174000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №7\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260129-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T140000
 DTEND;TZID=Europe/Moscow:20260129T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6112
@@ -1804,19 +2668,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T140000
 DTEND;TZID=Europe/Moscow:20260129T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6112
 LOCATION:а.6112
-DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПара №20\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260129-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260129T140000
+DTEND;TZID=Europe/Moscow:20260129T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6441\nАудитория: а.6112\nПара №20\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260129-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T160000
 DTEND;TZID=Europe/Moscow:20260129T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6112
@@ -1828,19 +2704,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T160000
 DTEND;TZID=Europe/Moscow:20260129T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6112
 LOCATION:а.6112
-DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПара №21\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6112\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260129-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260129T160000
+DTEND;TZID=Europe/Moscow:20260129T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6441\nАудитория: а.6112\nПара №21\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260205-1400-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -1852,19 +2740,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260205-1400-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №22\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260205-1400-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260205T140000
+DTEND;TZID=Europe/Moscow:20260205T154000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №22\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260205-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
 DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6373
@@ -1876,19 +2776,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260205-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
 DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №27\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260205-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260205T160000
+DTEND;TZID=Europe/Moscow:20260205T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №27\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260206-1400-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -1900,19 +2812,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260206-1400-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №23\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260206-1400-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №23\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260206-1600-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T160000
 DTEND;TZID=Europe/Moscow:20260206T174000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -1924,19 +2848,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260206-1600-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T160000
 DTEND;TZID=Europe/Moscow:20260206T174000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №24\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260206-1600-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260206T160000
+DTEND;TZID=Europe/Moscow:20260206T174000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №24\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260212-1400-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
 DTEND;TZID=Europe/Moscow:20260212T154000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6373
@@ -1948,19 +2884,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1400-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
 DTEND;TZID=Europe/Moscow:20260212T154000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №28\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260212-1400-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №28\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260212-1600-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T160000
 DTEND;TZID=Europe/Moscow:20260212T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6242
@@ -1972,19 +2920,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1600-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T160000
 DTEND;TZID=Europe/Moscow:20260212T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6481\nАудитория: а.6242\nПара №8\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6242\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260212-1600-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T160000
+DTEND;TZID=Europe/Moscow:20260212T174000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6441\nАудитория: а.6242\nПара №8\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-1400-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T140000
 DTEND;TZID=Europe/Moscow:20260213T154000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -1996,19 +2956,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1400-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T140000
 DTEND;TZID=Europe/Moscow:20260213T154000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №25\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260213-1400-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №25\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-1600-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T160000
 DTEND;TZID=Europe/Moscow:20260213T174000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -2020,19 +2992,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1600-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T160000
 DTEND;TZID=Europe/Moscow:20260213T174000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №26\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260213-1600-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T160000
+DTEND;TZID=Europe/Moscow:20260213T174000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №26\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260220-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T140000
 DTEND;TZID=Europe/Moscow:20260220T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6242
@@ -2044,19 +3028,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T140000
 DTEND;TZID=Europe/Moscow:20260220T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6481\nАудитория: а.6242\nПара №22\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6242\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260220-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6441\nАудитория: а.6242\nПара №22\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260220-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T160000
 DTEND;TZID=Europe/Moscow:20260220T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6242
@@ -2068,19 +3064,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T160000
 DTEND;TZID=Europe/Moscow:20260220T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6481\nАудитория: а.6242\nПара №23\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6242\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260220-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6441\nАудитория: а.6242\nПара №23\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260312-1400-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T140000
 DTEND;TZID=Europe/Moscow:20260312T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -2092,19 +3100,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1400-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T140000
 DTEND;TZID=Europe/Moscow:20260312T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №9\nПреподаватель: Овчинн
- икова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260312-1400-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №9\nПреподаватель: Овчинн
+ икова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260312-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T160000
 DTEND;TZID=Europe/Moscow:20260312T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2116,19 +3136,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T160000
 DTEND;TZID=Europe/Moscow:20260312T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №29\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260312-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T160000
+DTEND;TZID=Europe/Moscow:20260312T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №29\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260313-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T140000
 DTEND;TZID=Europe/Moscow:20260313T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2140,19 +3172,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T140000
 DTEND;TZID=Europe/Moscow:20260313T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №24\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260313-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №24\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260313-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T160000
 DTEND;TZID=Europe/Moscow:20260313T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2164,19 +3208,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T160000
 DTEND;TZID=Europe/Moscow:20260313T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №25\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260313-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №25\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260402-1400-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T140000
 DTEND;TZID=Europe/Moscow:20260402T154000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -2188,19 +3244,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-1400-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T140000
 DTEND;TZID=Europe/Moscow:20260402T154000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №27\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260402-1400-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260402T140000
+DTEND;TZID=Europe/Moscow:20260402T154000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №27\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260402-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T160000
 DTEND;TZID=Europe/Moscow:20260402T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2212,19 +3280,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T160000
 DTEND;TZID=Europe/Moscow:20260402T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №30\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260402-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260402T160000
+DTEND;TZID=Europe/Moscow:20260402T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №30\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260403-1400-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T140000
 DTEND;TZID=Europe/Moscow:20260403T154000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2236,19 +3316,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-1400-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T140000
 DTEND;TZID=Europe/Moscow:20260403T154000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №31\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260403-1400-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №31\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260403-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T160000
 DTEND;TZID=Europe/Moscow:20260403T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2260,19 +3352,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T160000
 DTEND;TZID=Europe/Moscow:20260403T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №32\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260403-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T160000
+DTEND;TZID=Europe/Moscow:20260403T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №32\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260409-1400-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
 DTEND;TZID=Europe/Moscow:20260409T154000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -2284,19 +3388,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1400-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
 DTEND;TZID=Europe/Moscow:20260409T154000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №28\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260409-1400-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T140000
+DTEND;TZID=Europe/Moscow:20260409T154000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №28\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260409-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T160000
 DTEND;TZID=Europe/Moscow:20260409T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2308,19 +3424,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T160000
 DTEND;TZID=Europe/Moscow:20260409T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №33\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260409-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T160000
+DTEND;TZID=Europe/Moscow:20260409T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №33\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260410-1400-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T140000
 DTEND;TZID=Europe/Moscow:20260410T154000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2332,19 +3460,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260410-1400-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T140000
 DTEND;TZID=Europe/Moscow:20260410T154000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №34\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260410-1400-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №34\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260410-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T160000
 DTEND;TZID=Europe/Moscow:20260410T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2356,19 +3496,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260410-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T160000
 DTEND;TZID=Europe/Moscow:20260410T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №35\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260410-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260410T160000
+DTEND;TZID=Europe/Moscow:20260410T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №35\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260416-1400-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T140000
 DTEND;TZID=Europe/Moscow:20260416T154000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6373
@@ -2380,19 +3532,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260416-1400-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T140000
 DTEND;TZID=Europe/Moscow:20260416T154000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПара №29\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6373\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260416-1400-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6441\nАудитория: а.6373\nПара №29\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260416-1600-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T160000
 DTEND;TZID=Europe/Moscow:20260416T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6376
@@ -2404,19 +3568,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260416-1600-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T160000
 DTEND;TZID=Europe/Moscow:20260416T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПара №10\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6376\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260416-1600-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T160000
+DTEND;TZID=Europe/Moscow:20260416T174000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6441\nАудитория: а.6376\nПара №10\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260417-1400-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T140000
 DTEND;TZID=Europe/Moscow:20260417T154000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2428,19 +3604,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1400-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T140000
 DTEND;TZID=Europe/Moscow:20260417T154000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №36\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260417-1400-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №36\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260417-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T160000
 DTEND;TZID=Europe/Moscow:20260417T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2452,19 +3640,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T160000
 DTEND;TZID=Europe/Moscow:20260417T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №37\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260417-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T160000
+DTEND;TZID=Europe/Moscow:20260417T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №37\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260423-1400-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T140000
 DTEND;TZID=Europe/Moscow:20260423T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -2476,19 +3676,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-1400-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T140000
 DTEND;TZID=Europe/Moscow:20260423T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №11\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260423-1400-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260423T140000
+DTEND;TZID=Europe/Moscow:20260423T154000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №11\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260423-1600-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T160000
 DTEND;TZID=Europe/Moscow:20260423T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -2500,19 +3712,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-1600-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T160000
 DTEND;TZID=Europe/Moscow:20260423T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №12\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260423-1600-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260423T160000
+DTEND;TZID=Europe/Moscow:20260423T174000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №12\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260424-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T140000
 DTEND;TZID=Europe/Moscow:20260424T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2524,19 +3748,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T140000
 DTEND;TZID=Europe/Moscow:20260424T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №26\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260424-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №26\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260424-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T160000
 DTEND;TZID=Europe/Moscow:20260424T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2548,19 +3784,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T160000
 DTEND;TZID=Europe/Moscow:20260424T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №27\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260424-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260424T160000
+DTEND;TZID=Europe/Moscow:20260424T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №27\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260507-1400-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T140000
 DTEND;TZID=Europe/Moscow:20260507T154000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2572,19 +3820,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-1400-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T140000
 DTEND;TZID=Europe/Moscow:20260507T154000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №38\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260507-1400-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260507T140000
+DTEND;TZID=Europe/Moscow:20260507T154000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №38\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260507-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T160000
 DTEND;TZID=Europe/Moscow:20260507T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2596,19 +3856,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T160000
 DTEND;TZID=Europe/Moscow:20260507T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №39\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260507-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260507T160000
+DTEND;TZID=Europe/Moscow:20260507T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №39\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260508-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T140000
 DTEND;TZID=Europe/Moscow:20260508T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2620,19 +3892,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260508-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T140000
 DTEND;TZID=Europe/Moscow:20260508T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №28\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260508-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260508T140000
+DTEND;TZID=Europe/Moscow:20260508T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №28\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260508-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T160000
 DTEND;TZID=Europe/Moscow:20260508T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2644,19 +3928,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260508-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T160000
 DTEND;TZID=Europe/Moscow:20260508T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №29\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260508-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260508T160000
+DTEND;TZID=Europe/Moscow:20260508T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №29\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260514-1400-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T140000
 DTEND;TZID=Europe/Moscow:20260514T154000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2668,19 +3964,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1400-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T140000
 DTEND;TZID=Europe/Moscow:20260514T154000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №40\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260514-1400-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T140000
+DTEND;TZID=Europe/Moscow:20260514T154000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №40\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260514-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T160000
 DTEND;TZID=Europe/Moscow:20260514T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2692,19 +4000,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T160000
 DTEND;TZID=Europe/Moscow:20260514T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №30\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260514-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T160000
+DTEND;TZID=Europe/Moscow:20260514T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №30\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260515-1400-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T140000
 DTEND;TZID=Europe/Moscow:20260515T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -2716,19 +4036,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-1400-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T140000
 DTEND;TZID=Europe/Moscow:20260515T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №13\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260515-1400-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260515T140000
+DTEND;TZID=Europe/Moscow:20260515T154000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №13\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260515-1600-6441-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T160000
 DTEND;TZID=Europe/Moscow:20260515T174000
 SUMMARY:Менеджмент (лек) · гр. 6441\, 6481 · а.6381
@@ -2740,19 +4072,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-1600-6481-менеджмент-лек-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T160000
 DTEND;TZID=Europe/Moscow:20260515T174000
 SUMMARY:Менеджмент (лек) · гр. 6481 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6481\nАудитория: а.6381\nПара №30\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6381\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260515-1600-6441-менеджмент-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260515T160000
+DTEND;TZID=Europe/Moscow:20260515T174000
+SUMMARY:Менеджмент (лек) · гр. 6441 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6441\nАудитория: а.6381\nПара №30\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260521-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T140000
 DTEND;TZID=Europe/Moscow:20260521T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2764,19 +4108,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T140000
 DTEND;TZID=Europe/Moscow:20260521T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №31\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260521-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260521T140000
+DTEND;TZID=Europe/Moscow:20260521T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №31\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260521-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T160000
 DTEND;TZID=Europe/Moscow:20260521T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2788,19 +4144,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T160000
 DTEND;TZID=Europe/Moscow:20260521T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №32\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260521-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260521T160000
+DTEND;TZID=Europe/Moscow:20260521T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №32\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260522-1400-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T140000
 DTEND;TZID=Europe/Moscow:20260522T154000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2812,19 +4180,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260522-1400-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T140000
 DTEND;TZID=Europe/Moscow:20260522T154000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №41\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260522-1400-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260522T140000
+DTEND;TZID=Europe/Moscow:20260522T154000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №41\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260522-1600-6441-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T160000
 DTEND;TZID=Europe/Moscow:20260522T174000
 SUMMARY:Менеджмент (пр) · гр. 6441\, 6481 · а.6378
@@ -2836,19 +4216,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260522-1600-6481-менеджмент-пр-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T160000
 DTEND;TZID=Europe/Moscow:20260522T174000
 SUMMARY:Менеджмент (пр) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №42\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260522-1600-6441-менеджмент-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260522T160000
+DTEND;TZID=Europe/Moscow:20260522T174000
+SUMMARY:Менеджмент (пр) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №42\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260528-1400-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T140000
 DTEND;TZID=Europe/Moscow:20260528T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -2860,19 +4252,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-1400-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T140000
 DTEND;TZID=Europe/Moscow:20260528T154000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №14\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260528-1400-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260528T140000
+DTEND;TZID=Europe/Moscow:20260528T154000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №14\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260528-1600-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T160000
 DTEND;TZID=Europe/Moscow:20260528T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -2884,19 +4288,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-1600-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T160000
 DTEND;TZID=Europe/Moscow:20260528T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №15\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260528-1600-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260528T160000
+DTEND;TZID=Europe/Moscow:20260528T174000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №15\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260529-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T140000
 DTEND;TZID=Europe/Moscow:20260529T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2908,19 +4324,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T140000
 DTEND;TZID=Europe/Moscow:20260529T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №33\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260529-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260529T140000
+DTEND;TZID=Europe/Moscow:20260529T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №33\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260529-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T160000
 DTEND;TZID=Europe/Moscow:20260529T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2932,19 +4360,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T160000
 DTEND;TZID=Europe/Moscow:20260529T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №34\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260529-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260529T160000
+DTEND;TZID=Europe/Moscow:20260529T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №34\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260605-1400-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T140000
 DTEND;TZID=Europe/Moscow:20260605T154000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2956,19 +4396,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260605-1400-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T140000
 DTEND;TZID=Europe/Moscow:20260605T154000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №35\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260605-1400-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T140000
+DTEND;TZID=Europe/Moscow:20260605T154000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №35\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260605-1600-6441-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T160000
 DTEND;TZID=Europe/Moscow:20260605T174000
 SUMMARY:Менеджмент (лаб) · гр. 6441\, 6481 · а.6378
@@ -2980,19 +4432,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260605-1600-6481-менеджмент-лаб-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260605T160000
 DTEND;TZID=Europe/Moscow:20260605T174000
 SUMMARY:Менеджмент (лаб) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №36\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260605-1600-6441-менеджмент-лаб-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T160000
+DTEND;TZID=Europe/Moscow:20260605T174000
+SUMMARY:Менеджмент (лаб) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №36\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260611-1600-6441-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260611T160000
 DTEND;TZID=Europe/Moscow:20260611T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6441\, 6481 · а.6378
@@ -3004,19 +4468,31 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260611-1600-6481-менеджмент-курс-работа-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260611T160000
 DTEND;TZID=Europe/Moscow:20260611T174000
 SUMMARY:Менеджмент (Курс.работа) · гр. 6481 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПара №16\nПреподаватель: Овчин
- никова Л. А.
+DESCRIPTION:Группа: 6481\nАудитория: а.6378\nПреподаватель: Овчинникова Л. 
+ А.
 CATEGORIES:Преподавание,6481
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260611-1600-6441-менеджмент-курс-работа-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260611T160000
+DTEND;TZID=Europe/Moscow:20260611T174000
+SUMMARY:Менеджмент (Курс.работа) · гр. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №16\nПреподаватель: Овчин
+ никова Л. А.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260626-1400-6481-менеджмент-экз-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260626T140000
 DTEND;TZID=Europe/Moscow:20260626T154000
 SUMMARY:Менеджмент (экз) · гр. 6481 · а.6378
@@ -3028,7 +4504,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260626-1600-6441-менеджмент-экз-@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260626T160000
 DTEND;TZID=Europe/Moscow:20260626T174000
 SUMMARY:Менеджмент (экз) · гр. 6441 · а.6378

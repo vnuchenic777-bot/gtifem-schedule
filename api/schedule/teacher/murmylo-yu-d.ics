@@ -1,0 +1,228 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Мурмыло Ю.Д. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Мурмыло Ю.Д., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\nАудитория: а.411\nПара №19\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nАудитория: а.411\nПара №19\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6351\nАудитория: а.411\nПара №20\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6352 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nАудитория: а.411\nПара №20\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-0930-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · гр. 6351 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\nАудитория: а.6116\nПара №1\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-0930-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · гр. 6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nАудитория: а.6116\nПара №1\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · гр. 6351 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6351\nАудитория: а.6116\nПара №2\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250924-1130-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · гр. 6352 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nАудитория: а.6116\nПара №2\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · гр. 6351 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6351\nАудитория: а.101\nПара №7\nПреподаватель: Мурмыло
+  Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · гр. 6352 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nАудитория: а.101\nПара №7\nПреподаватель: Мурмыло
+  Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6351\nАудитория: а.101\nПара №21\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6352 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nАудитория: а.101\nПара №21\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6351\nАудитория: а.414\nПара №22\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6352 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nАудитория: а.414\nПара №22\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6351-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6351 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6351\nАудитория: а.414\nПара №23\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6351
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6352-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · гр. 6352 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nАудитория: а.414\nПара №23\nПреподаватель: Мурмыл
+ о Ю.Д.
+CATEGORIES:Преподавание,6352
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

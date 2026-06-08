@@ -1,10 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FEM SPbGTI//Schedule v1.0//RU
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание преподавателя Мерзенина А.С (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Мерзенина А.С, ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Мерзенина А. С. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Мерзенина А. С., ФЭМ СПбГТИ (ТУ
+ )
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -18,189 +19,975 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251003-0930-философия-практичeскоe-занятиe-6511
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251003-0930-6511-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
 SUMMARY:Философия практическое занятие · гр. 6511 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6511\nАудитория: а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251003-0930-философия-практичeскоe-занятиe-6512
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251003-0930-6512-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
 SUMMARY:Философия практическое занятие · гр. 6512 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251003-1130-философия-практичeскоe-занятиe-6511
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251003-1130-6511-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Философия практическое занятие · гр. 6511 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6511\nАудитория: а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251003-1130-философия-практичeскоe-занятиe-6512
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251003-1130-6512-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Философия практическое занятие · гр. 6512 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251106-0930-философия-лeкция-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251028-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6571\nАудитория: а.406\nПара №9\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6571\nАудитория: а.406\nПара №10\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6561-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Философия практическое занятие · гр. 6561 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\nАудитория: а.411\nПара №9\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-0930-6521-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Философия практическое занятие · гр. 6521 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\nАудитория: а.411\nПара №9\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6561-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Философия практическое занятие · гр. 6561 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\nАудитория: а.411\nПара №10\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1130-6521-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Философия практическое занятие · гр. 6521 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\nАудитория: а.411\nПара №10\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПара №9\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПара №9\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-0930-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №9\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПара №10\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПара №10\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251030-1130-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №10\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6541-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Философия лекция · гр. 6541 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\nАудитория: а.406\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6542-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Философия лекция · гр. 6542 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6542\nАудитория: а.406\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6581-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Философия лекция · гр. 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6581\nАудитория: а.406\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6541-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Философия лекция · гр. 6541 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\nАудитория: а.406\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6542-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Философия лекция · гр. 6542 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6542\nАудитория: а.406\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6581-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Философия лекция · гр. 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6581\nАудитория: а.406\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6561-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Философия лекция · гр. 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\nАудитория: а.406\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6521-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Философия лекция · гр. 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\nАудитория: а.406\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6561-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Философия лекция · гр. 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\nАудитория: а.406\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6521-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Философия лекция · гр. 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\nАудитория: а.406\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6511-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T093000
 DTEND;TZID=Europe/Moscow:20251106T111000
 SUMMARY:Философия лекция · гр. 6511 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6511\nАудитория: а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251106-0930-философия-лeкция-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251106-0930-6512-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T093000
 DTEND;TZID=Europe/Moscow:20251106T111000
 SUMMARY:Философия лекция · гр. 6512 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251106-1130-философия-лeкция-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251106-1130-6511-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T113000
 DTEND;TZID=Europe/Moscow:20251106T131000
 SUMMARY:Философия лекция · гр. 6511 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6511\nАудитория: а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251106-1130-философия-лeкция-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251106-1130-6512-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T113000
 DTEND;TZID=Europe/Moscow:20251106T131000
 SUMMARY:Философия лекция · гр. 6512 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251202-0930-философия-практичeскоe-занятиe-6511
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251107-0930-6551-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Философия лекция · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6552-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Философия лекция · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6553-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Философия лекция · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6554-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Философия лекция · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №5\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6551-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Философия практическое занятие · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №11\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6552-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Философия практическое занятие · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №11\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T093000
+DTEND;TZID=Europe/Moscow:20251114T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №11\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-1130-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №12\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №11\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №12\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6551-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Философия практическое занятие · гр. 6551 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\nАудитория: а.411\nПара №12\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-0930-6552-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T093000
+DTEND;TZID=Europe/Moscow:20251120T111000
+SUMMARY:Философия практическое занятие · гр. 6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6552\nАудитория: а.411\nПара №12\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6551-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Философия лекция · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6552-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Философия лекция · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6553-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Философия лекция · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251120-1130-6554-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T113000
+DTEND;TZID=Europe/Moscow:20251120T131000
+SUMMARY:Философия лекция · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №6\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6561-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Философия практическое занятие (перенос 18.11.2025) · гр. 6561 · а.
+ 101
+LOCATION:а.101
+DESCRIPTION:Группа: 6561\nАудитория: а.101\nПара №11\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-0930-6521-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Философия практическое занятие (перенос 18.11.2025) · гр. 6521 · а.
+ 101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\nАудитория: а.101\nПара №11\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6561-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Философия практическое занятие (перенос 18.11.2025) · гр. 6561 · а.
+ 101
+LOCATION:а.101
+DESCRIPTION:Группа: 6561\nАудитория: а.101\nПара №12\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1130-6521-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Философия практическое занятие (перенос 18.11.2025) · гр. 6521 · а.
+ 101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\nАудитория: а.101\nПара №12\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6553-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Философия практическое занятие · гр. 6553 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\nАудитория: а.403\nПара №13\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-0930-6554-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251125T093000
+DTEND;TZID=Europe/Moscow:20251125T111000
+SUMMARY:Философия практическое занятие · гр. 6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №13\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-6553-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Философия практическое занятие · гр. 6553 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6553\nАудитория: а.403\nПара №14\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251125-1130-6554-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251125T113000
+DTEND;TZID=Europe/Moscow:20251125T131000
+SUMMARY:Философия практическое занятие · гр. 6554 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №14\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T093000
+DTEND;TZID=Europe/Moscow:20251126T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №13\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1130-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №14\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\nАудитория: а.406\nПара №13\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1400-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6542\nАудитория: а.406\nПара №13\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1600-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\nАудитория: а.406\nПара №14\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251126-1600-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6542\nАудитория: а.406\nПара №14\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6511-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T093000
 DTEND;TZID=Europe/Moscow:20251202T111000
 SUMMARY:Философия практическое занятие · гр. 6511 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6511\nАудитория: а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251202-0930-философия-практичeскоe-занятиe-6512
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251202-0930-6512-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T093000
 DTEND;TZID=Europe/Moscow:20251202T111000
 SUMMARY:Философия практическое занятие · гр. 6512 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251202-1130-философия-лeкция-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251202-1130-6511-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T113000
 DTEND;TZID=Europe/Moscow:20251202T131000
 SUMMARY:Философия Лекция · гр. 6511 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6511\nАудитория: а.403
+DESCRIPTION:Группа: 6511\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251202-1130-философия-лeкция-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251202-1130-6512-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T113000
 DTEND;TZID=Europe/Moscow:20251202T131000
 SUMMARY:Философия Лекция · гр. 6512 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6512\nАудитория: а.403
+DESCRIPTION:Группа: 6512\nАудитория: а.403\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251205-0930-философия-практичeскоe-занятиe-6511
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251205-0930-6511-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T093000
 DTEND;TZID=Europe/Moscow:20251205T111000
 SUMMARY:Философия практическое занятие · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251205-0930-философия-практичeскоe-занятиe-6512
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251205-0930-6512-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T093000
 DTEND;TZID=Europe/Moscow:20251205T111000
 SUMMARY:Философия практическое занятие · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251205-1130-философия-практичeскоe-занятиe-6511
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251205-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №15\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6511-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T113000
 DTEND;TZID=Europe/Moscow:20251205T131000
 SUMMARY:Философия практическое занятие · гр. 6511 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6511\nАудитория: а.401
+DESCRIPTION:Группа: 6511\nАудитория: а.401\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-merzenina-a-s-20251205-1130-философия-практичeскоe-занятиe-6512
- @gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251205-1130-6512-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T113000
 DTEND;TZID=Europe/Moscow:20251205T131000
 SUMMARY:Философия практическое занятие · гр. 6512 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6512\nАудитория: а.401
+DESCRIPTION:Группа: 6512\nАудитория: а.401\nПреподаватель: Мерзенина А. С.
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6571-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Философия Лекция · гр. 6571 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №7\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6553-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Философия практическое занятие · гр. 6553 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\nАудитория: а.411\nПара №15\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6554-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Философия практическое занятие · гр. 6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6554\nАудитория: а.411\nПара №15\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6553-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Философия Лекция · гр. 6553 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\nАудитория: а.411\nПара №7\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6554-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Философия Лекция · гр. 6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6554\nАудитория: а.411\nПара №7\nПреподаватель: Мерзени
+ на А. С.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\nАудитория: а.414\nПара №16\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6542\nАудитория: а.414\nПара №16\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\nАудитория: а.414\nПара №17\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6542\nАудитория: а.414\nПара №17\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6551-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Философия практическое занятие · гр. 6551 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6551\nАудитория: а.409\nПара №16\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1400-6552-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Философия практическое занятие · гр. 6552 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6552\nАудитория: а.409\nПара №16\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6551-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Философия практическое занятие · гр. 6551 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6551\nАудитория: а.409\nПара №17\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251229-1600-6552-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Философия практическое занятие · гр. 6552 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6552\nАудитория: а.409\nПара №17\nПреподаватель: Мерзен
+ ина А. С.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

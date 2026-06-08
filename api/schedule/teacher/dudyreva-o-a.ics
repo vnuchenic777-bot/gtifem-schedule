@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Дудырева О.А. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Дудырева О.А., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Дудырева О. А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Дудырева О. А., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -18,2107 +18,2841 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:teacher-20250903-1400-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250903-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T140000
 DTEND;TZID=Europe/Moscow:20250903T154000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №1\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1600-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250903-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T160000
 DTEND;TZID=Europe/Moscow:20250903T174000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №2\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250905-0930-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250905-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T093000
 DTEND;TZID=Europe/Moscow:20250905T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №3\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250905-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250905-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T113000
 DTEND;TZID=Europe/Moscow:20250905T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №1\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250908-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250908-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T093000
 DTEND;TZID=Europe/Moscow:20250908T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №2\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250908-1130-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250908-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T113000
 DTEND;TZID=Europe/Moscow:20250908T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №4\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250910-1400-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250910-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T140000
 DTEND;TZID=Europe/Moscow:20250910T154000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №5\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250910-1600--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250910-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T160000
 DTEND;TZID=Europe/Moscow:20250910T174000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №3\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250915-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250915-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T093000
 DTEND;TZID=Europe/Moscow:20250915T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6421\nАудитория: а.6245\nПара №4\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250915-1130-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250915-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T113000
 DTEND;TZID=Europe/Moscow:20250915T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6421\nАудитория: а.6245\nПара №6\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250923-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250923-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250923T093000
 DTEND;TZID=Europe/Moscow:20250923T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6381
 LOCATION:а.6381
 DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №6\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250923-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250923-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250923T113000
 DTEND;TZID=Europe/Moscow:20250923T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
  а · гр. 6421 · а.6381
 LOCATION:а.6381
 DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №1\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250925-0930-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T093000
 DTEND;TZID=Europe/Moscow:20250925T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №7\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250925-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250925-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №5\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251001-0930-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251001-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T093000
 DTEND;TZID=Europe/Moscow:20251001T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6421\nАудитория: а.6245\nПара №8\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251001-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251001-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T113000
 DTEND;TZID=Europe/Moscow:20251001T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6421\nАудитория: а.6245\nПара №7\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251006-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251006-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T140000
 DTEND;TZID=Europe/Moscow:20251006T154000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №8\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251006-1600-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251006-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T160000
 DTEND;TZID=Europe/Moscow:20251006T174000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6112
 LOCATION:а.6112
 DESCRIPTION:Группа: 6421\nАудитория: а.6112\nПара №9\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251009-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T093000
+DTEND;TZID=Europe/Moscow:20251009T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251009-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T093000
 DTEND;TZID=Europe/Moscow:20251009T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №9\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251009-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251009-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T113000
 DTEND;TZID=Europe/Moscow:20251009T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №10\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251013-1400-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251013-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T140000
 DTEND;TZID=Europe/Moscow:20251013T154000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №10\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251013-1600--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251013-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T160000
 DTEND;TZID=Europe/Moscow:20251013T174000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №11\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251015-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251015-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T140000
 DTEND;TZID=Europe/Moscow:20251015T154000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №12\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251015-1600--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251015-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T160000
 DTEND;TZID=Europe/Moscow:20251015T174000
 SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
  а · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №2\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251016-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251016T093000
+DTEND;TZID=Europe/Moscow:20251016T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251016-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T093000
 DTEND;TZID=Europe/Moscow:20251016T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6112
 LOCATION:а.6112
 DESCRIPTION:Группа: 6421\nАудитория: а.6112\nПара №1\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251016-1130-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251016T113000
+DTEND;TZID=Europe/Moscow:20251016T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251016-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T113000
 DTEND;TZID=Europe/Moscow:20251016T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6112
 LOCATION:а.6112
 DESCRIPTION:Группа: 6421\nАудитория: а.6112\nПара №11\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251017-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251017-1800-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T180000
 DTEND;TZID=Europe/Moscow:20251017T184500
 SUMMARY:Анализ и проектирование производственных процессов\, лаб · гр. 639в
- м · а. 6116
-LOCATION:а. 6116
-DESCRIPTION:Группа: 639вм\nАудитория: а. 6116\nПара №-\nПреподаватель: Дуды
- рева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251017-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251017-2000-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T200000
 DTEND;TZID=Europe/Moscow:20251017T204500
 SUMMARY:Анализ и проектирование производственных процессов\, лаб · гр. 639в
- м · 6116
-LOCATION:6116
-DESCRIPTION:Группа: 639вм\nАудитория: 6116\nПреподаватель: Дудырева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T093000
 DTEND;TZID=Europe/Moscow:20251022T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 6421\nАудитория: а.6378\nПара №13\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251022-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251022-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T113000
 DTEND;TZID=Europe/Moscow:20251022T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 6421\nАудитория: а.6378\nПара №14\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251023-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251023-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T093000
 DTEND;TZID=Europe/Moscow:20251023T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
  а · гр. 6421 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №3\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251023-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251023-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T113000
 DTEND;TZID=Europe/Moscow:20251023T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
  а · гр. 6421 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №4\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251024-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251024-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T093000
 DTEND;TZID=Europe/Moscow:20251024T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
- абота · гр. 6421 · а.6117
-LOCATION:а.6117
-DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПара №3\nПреподаватель: Дудыре
- ва О.А.
-CATEGORIES:Преподавание,6421
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T113000
 DTEND;TZID=Europe/Moscow:20251024T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6117
 LOCATION:а.6117
 DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПара №15\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251118-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251118T093000
+DTEND;TZID=Europe/Moscow:20251118T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251118-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T093000
 DTEND;TZID=Europe/Moscow:20251118T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
  а · гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №5\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251118-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251118-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T113000
 DTEND;TZID=Europe/Moscow:20251118T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №3\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251119-0930-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T093000
+DTEND;TZID=Europe/Moscow:20251119T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251119-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T093000
 DTEND;TZID=Europe/Moscow:20251119T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6248
 LOCATION:а.6248
 DESCRIPTION:Группа: 6421\nАудитория: а.6248\nПара №12\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251119-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251119-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T113000
 DTEND;TZID=Europe/Moscow:20251119T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6245
 LOCATION:а.6245
 DESCRIPTION:Группа: 6421\nАудитория: а.6245\nПара №16\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251120-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251120-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T140000
 DTEND;TZID=Europe/Moscow:20251120T154000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №17\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251120-1600-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251120-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T160000
 DTEND;TZID=Europe/Moscow:20251120T174000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6248
 LOCATION:а.6248
 DESCRIPTION:Группа: 6421\nАудитория: а.6248\nПара №13\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251121-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251121-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T093000
 DTEND;TZID=Europe/Moscow:20251121T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №18\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251121-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251121-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T113000
 DTEND;TZID=Europe/Moscow:20251121T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №19\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251124-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251124-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T093000
 DTEND;TZID=Europe/Moscow:20251124T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №4\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251124-1130-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251124-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T113000
 DTEND;TZID=Europe/Moscow:20251124T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №14\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251126-1400-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251126-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T140000
 DTEND;TZID=Europe/Moscow:20251126T154000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6248
 LOCATION:а.6248
 DESCRIPTION:Группа: 6421\nАудитория: а.6248\nПара №15\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251126-1600--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T160000
+DTEND;TZID=Europe/Moscow:20251126T174000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251126-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T160000
 DTEND;TZID=Europe/Moscow:20251126T174000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №20\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251127-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251127-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T093000
 DTEND;TZID=Europe/Moscow:20251127T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №21\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251127-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251127-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T113000
 DTEND;TZID=Europe/Moscow:20251127T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №5\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251128-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251128-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T093000
 DTEND;TZID=Europe/Moscow:20251128T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №22\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251128-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251128-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T113000
 DTEND;TZID=Europe/Moscow:20251128T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
  а · гр. 6421 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №6\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251201-0930-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251201-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T093000
 DTEND;TZID=Europe/Moscow:20251201T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6381
 LOCATION:а.6381
 DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №16\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251201-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251201-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T113000
 DTEND;TZID=Europe/Moscow:20251201T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №23\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251202-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251202-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T093000
 DTEND;TZID=Europe/Moscow:20251202T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Курсовая работ
  а · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №7\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251202-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251202-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T113000
 DTEND;TZID=Europe/Moscow:20251202T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №24\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251203-0930-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251203T093000
+DTEND;TZID=Europe/Moscow:20251203T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251203-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T093000
 DTEND;TZID=Europe/Moscow:20251203T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №17\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251203-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251203T113000
+DTEND;TZID=Europe/Moscow:20251203T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251203-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T113000
 DTEND;TZID=Europe/Moscow:20251203T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6249
 LOCATION:а.6249
 DESCRIPTION:Группа: 6421\nАудитория: а.6249\nПара №25\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251215-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251215-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T093000
 DTEND;TZID=Europe/Moscow:20251215T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6249
 LOCATION:а.6249
 DESCRIPTION:Группа: 6421\nАудитория: а.6249\nПара №6\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251215-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251215-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T113000
 DTEND;TZID=Europe/Moscow:20251215T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6249
 LOCATION:а.6249
 DESCRIPTION:Группа: 6421\nАудитория: а.6249\nПара №7\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251217-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251217-1800-639-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251217T180000
 DTEND;TZID=Europe/Moscow:20251217T184500
 SUMMARY:Анализ и проектирование производственных процессов\, лекц · гр. 639
- вм · а. 6112
-LOCATION:а. 6112
-DESCRIPTION:Группа: 639вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Дуды
- рева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251217-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251217-2000-639-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251217T200000
 DTEND;TZID=Europe/Moscow:20251217T204500
 SUMMARY:Анализ и проектирование производственных процессов\, лекц · гр. 639
- вм · а. 6112
-LOCATION:а. 6112
-DESCRIPTION:Группа: 639вм\nАудитория: а. 6112\nПара №-\nПреподаватель: Дуды
- рева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T093000
+DTEND;TZID=Europe/Moscow:20251218T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T093000
 DTEND;TZID=Europe/Moscow:20251218T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6236
 LOCATION:а.6236
 DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №8\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251218-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251218-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T113000
 DTEND;TZID=Europe/Moscow:20251218T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лабораторная р
  абота · гр. 6421 · а.6236
 LOCATION:а.6236
 DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №9\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251224-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция (ауд) ·
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251224-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251224T093000
 DTEND;TZID=Europe/Moscow:20251224T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция (ауд) ·
   гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №18\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251224-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция (ауд) ·
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251224-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251224T113000
 DTEND;TZID=Europe/Moscow:20251224T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция (ауд) ·
   гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №19\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251225-0930-6-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T093000
+DTEND;TZID=Europe/Moscow:20251225T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
+DESCRIPTION:Группа: 6\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,6
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251225-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T093000
 DTEND;TZID=Europe/Moscow:20251225T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Лекция · гр. 6
  421 · а.6112
 LOCATION:а.6112
 DESCRIPTION:Группа: 6421\nАудитория: а.6112\nПара №20\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251225-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251225-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251225T113000
 DTEND;TZID=Europe/Moscow:20251225T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6115
 LOCATION:а.6115
 DESCRIPTION:Группа: 6421\nАудитория: а.6115\nПара №26\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251229-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251229-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251229T093000
 DTEND;TZID=Europe/Moscow:20251229T111000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6116
 LOCATION:а.6116
 DESCRIPTION:Группа: 6421\nАудитория: а.6116\nПара №27\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251229-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251229-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251229T113000
 DTEND;TZID=Europe/Moscow:20251229T131000
 SUMMARY:Анализ и проектирование производственных процессов\, Практическое з
  анятие · гр. 6421 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №28\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260112-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260112T093000
+DTEND;TZID=Europe/Moscow:20260112T111000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260112-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260112T093000
 DTEND;TZID=Europe/Moscow:20260112T111000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6242
 LOCATION:а.6242
 DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №8\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260112-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260112T113000
 DTEND;TZID=Europe/Moscow:20260112T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №29\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T140000
 DTEND;TZID=Europe/Moscow:20260114T154000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6249
-LOCATION:а.6249
-DESCRIPTION:Группа: 6421\nАудитория: а.6249\nПара №30\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T160000
 DTEND;TZID=Europe/Moscow:20260114T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6421\nАудитория: а.6382\nПара №31\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T093000
 DTEND;TZID=Europe/Moscow:20260115T111000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6249
-LOCATION:а.6249
-DESCRIPTION:Группа: 6421\nАудитория: а.6249\nПара №32\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
 DTEND;TZID=Europe/Moscow:20260115T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №33\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260121-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260121T093000
+DTEND;TZID=Europe/Moscow:20260121T111000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260121-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T093000
 DTEND;TZID=Europe/Moscow:20260121T111000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6236
 LOCATION:а.6236
 DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №9\nПреподаватель: Дудыре
- ва О.А.
+ ва О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T113000
 DTEND;TZID=Europe/Moscow:20260121T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6421\nАудитория: а.6245\nПара №34\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T140000
 DTEND;TZID=Europe/Moscow:20260121T154000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6373
-LOCATION:а.6373
-DESCRIPTION:Группа: 6421\nАудитория: а.6373\nПара №21\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260122-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260122-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T093000
 DTEND;TZID=Europe/Moscow:20260122T111000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6236
 LOCATION:а.6236
 DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №10\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260122-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T113000
 DTEND;TZID=Europe/Moscow:20260122T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6249
-LOCATION:а.6249
-DESCRIPTION:Группа: 6421\nАудитория: а.6249\nПара №35\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260202-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260202-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T113000
 DTEND;TZID=Europe/Moscow:20260202T131000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №11\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T140000
 DTEND;TZID=Europe/Moscow:20260202T154000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №36\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T140000
 DTEND;TZID=Europe/Moscow:20260204T154000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №22\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
 DTEND;TZID=Europe/Moscow:20260204T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №37\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260204-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260204-1800-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T180000
 DTEND;TZID=Europe/Moscow:20260204T194000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №1\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260204-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260204-2000-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T200000
 DTEND;TZID=Europe/Moscow:20260204T214000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №2\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260211-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260211-1800-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T180000
 DTEND;TZID=Europe/Moscow:20260211T194000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №3\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260211-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260211-2000-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T200000
 DTEND;TZID=Europe/Moscow:20260211T214000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №4\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260213-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T093000
 DTEND;TZID=Europe/Moscow:20260213T111000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №12\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260213-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260213-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T113000
 DTEND;TZID=Europe/Moscow:20260213T131000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №13\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T113000
 DTEND;TZID=Europe/Moscow:20260217T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №38\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260217-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260217-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T140000
 DTEND;TZID=Europe/Moscow:20260217T154000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №14\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T093000
 DTEND;TZID=Europe/Moscow:20260219T111000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №39\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T113000
 DTEND;TZID=Europe/Moscow:20260219T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №40\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T140000
 DTEND;TZID=Europe/Moscow:20260219T154000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №41\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260225T093000
 DTEND;TZID=Europe/Moscow:20260225T111000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №10\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260225T113000
 DTEND;TZID=Europe/Moscow:20260225T131000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №11\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260225T140000
 DTEND;TZID=Europe/Moscow:20260225T154000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №42\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260304-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T140000
 DTEND;TZID=Europe/Moscow:20260304T154000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №12\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260304-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T160000
 DTEND;TZID=Europe/Moscow:20260304T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №43\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260304-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260304-1800-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T180000
 DTEND;TZID=Europe/Moscow:20260304T194000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №5\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260304-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260304-2000-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T200000
 DTEND;TZID=Europe/Moscow:20260304T214000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №6\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260306-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T093000
 DTEND;TZID=Europe/Moscow:20260306T111000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №44\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260306-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T113000
 DTEND;TZID=Europe/Moscow:20260306T131000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №13\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260311-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260311T140000
 DTEND;TZID=Europe/Moscow:20260311T154000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №23\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260311-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260311T160000
 DTEND;TZID=Europe/Moscow:20260311T174000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №14\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260311-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260311-1800-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260311T180000
 DTEND;TZID=Europe/Moscow:20260311T194000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №7\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260311-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260311-2000-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260311T200000
 DTEND;TZID=Europe/Moscow:20260311T214000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №8\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T093000
 DTEND;TZID=Europe/Moscow:20260313T111000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №24\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T113000
 DTEND;TZID=Europe/Moscow:20260313T131000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №15\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T140000
 DTEND;TZID=Europe/Moscow:20260316T154000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №16\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T160000
 DTEND;TZID=Europe/Moscow:20260316T174000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №17\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260316-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260316-1800-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T180000
 DTEND;TZID=Europe/Moscow:20260316T194000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №9\nПреподаватель: Дудыр
- ева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260316-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260316-2000-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T200000
 DTEND;TZID=Europe/Moscow:20260316T214000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №10\nПреподаватель: Дуды
- рева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T113000
 DTEND;TZID=Europe/Moscow:20260331T131000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №25\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T140000
 DTEND;TZID=Europe/Moscow:20260331T154000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №26\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T160000
 DTEND;TZID=Europe/Moscow:20260331T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №45\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T093000
 DTEND;TZID=Europe/Moscow:20260402T111000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №18\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T113000
 DTEND;TZID=Europe/Moscow:20260402T131000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №19\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T140000
 DTEND;TZID=Europe/Moscow:20260407T154000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №46\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T160000
 DTEND;TZID=Europe/Moscow:20260407T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №47\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T113000
 DTEND;TZID=Europe/Moscow:20260408T131000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №27\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T140000
 DTEND;TZID=Europe/Moscow:20260408T154000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6378
-LOCATION:а.6378
-DESCRIPTION:Группа: 6421\nАудитория: а.6378\nПара №28\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260413-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260413T093000
 DTEND;TZID=Europe/Moscow:20260413T111000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №48\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260413-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260413T113000
 DTEND;TZID=Europe/Moscow:20260413T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №49\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260413-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260413-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260413T140000
 DTEND;TZID=Europe/Moscow:20260413T154000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6376
 LOCATION:а.6376
 DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №15\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260415-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T140000
 DTEND;TZID=Europe/Moscow:20260415T154000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №29\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260415-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T160000
 DTEND;TZID=Europe/Moscow:20260415T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №50\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260415-1800-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260415-1800-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T180000
 DTEND;TZID=Europe/Moscow:20260415T194000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №11\nПреподаватель: Дуды
- рева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260415-2000-639вм-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260415-2000-639в-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T200000
 DTEND;TZID=Europe/Moscow:20260415T214000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 639в
- м · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639вм\nАудитория: а.6376\nПара №12\nПреподаватель: Дуды
- рева О.А.
-CATEGORIES:Преподавание,639вм
+DESCRIPTION:Группа: 639в\nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,639в
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T093000
 DTEND;TZID=Europe/Moscow:20260417T111000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №20\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260417-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260417-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T113000
 DTEND;TZID=Europe/Moscow:20260417T131000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №16\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260420-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260420T093000
 DTEND;TZID=Europe/Moscow:20260420T111000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6421\nАудитория: а.6248\nПара №30\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260420-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260420T113000
 DTEND;TZID=Europe/Moscow:20260420T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6421\nАудитория: а.6115\nПара №51\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260421-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260421T140000
+DTEND;TZID=Europe/Moscow:20260421T154000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260421-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T140000
 DTEND;TZID=Europe/Moscow:20260421T154000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6117
 LOCATION:а.6117
 DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПара №17\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T160000
 DTEND;TZID=Europe/Moscow:20260421T174000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6117
-LOCATION:а.6117
-DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПара №21\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T093000
 DTEND;TZID=Europe/Moscow:20260504T111000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6421\nАудитория: а.6115\nПара №31\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T113000
 DTEND;TZID=Europe/Moscow:20260504T131000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6421\nАудитория: а.6115\nПара №32\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T140000
 DTEND;TZID=Europe/Moscow:20260504T154000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №52\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260505-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260505-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T113000
 DTEND;TZID=Europe/Moscow:20260505T131000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №18\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260505-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260505T140000
+DTEND;TZID=Europe/Moscow:20260505T154000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260505-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T140000
 DTEND;TZID=Europe/Moscow:20260505T154000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №19\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T093000
 DTEND;TZID=Europe/Moscow:20260507T111000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №33\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T113000
 DTEND;TZID=Europe/Moscow:20260507T131000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №34\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260507-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260507T140000
 DTEND;TZID=Europe/Moscow:20260507T154000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6249
-LOCATION:а.6249
-DESCRIPTION:Группа: 6421\nАудитория: а.6249\nПара №22\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260508-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T140000
 DTEND;TZID=Europe/Moscow:20260508T154000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6421\nАудитория: а.6240\nПара №35\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260508-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260508T160000
 DTEND;TZID=Europe/Moscow:20260508T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6421\nАудитория: а.6242\nПара №53\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260512-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T140000
 DTEND;TZID=Europe/Moscow:20260512T154000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №23\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260512-1600--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T160000
+DTEND;TZID=Europe/Moscow:20260512T174000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
+ гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260512-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260512T160000
 DTEND;TZID=Europe/Moscow:20260512T174000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) · 
  гр. 6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №20\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260518-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260518T093000
 DTEND;TZID=Europe/Moscow:20260518T111000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №38\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260518-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260518T113000
 DTEND;TZID=Europe/Moscow:20260518T131000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №39\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260519-1400--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260519T140000
+DTEND;TZID=Europe/Moscow:20260519T154000
+SUMMARY:Анализ и проектирование производственных процессов (курс.раб) · гр.
+  
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260519-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T140000
 DTEND;TZID=Europe/Moscow:20260519T154000
 SUMMARY:Анализ и проектирование производственных процессов (курс.раб) · гр.
   6421 · а.6235
 LOCATION:а.6235
 DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №21\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T140000
 DTEND;TZID=Europe/Moscow:20260520T154000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №54\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T160000
 DTEND;TZID=Europe/Moscow:20260520T174000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №55\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260522-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T093000
 DTEND;TZID=Europe/Moscow:20260522T111000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №56\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260522-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260522T113000
 DTEND;TZID=Europe/Moscow:20260522T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №57\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260525-0930--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260525T093000
+DTEND;TZID=Europe/Moscow:20260525T111000
+SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) (п
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260525-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T093000
 DTEND;TZID=Europe/Moscow:20260525T111000
 SUMMARY:Анализ и проектирование производственных процессов (Курс.работа) (п
  еренос с 15.05.2026) · гр. 6421 · а.6117
 LOCATION:а.6117
 DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПара №21\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260525-1130--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260525T113000
+DTEND;TZID=Europe/Moscow:20260525T131000
+SUMMARY:Анализ и проектирование производственных процессов (лек) (перенос с
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260525-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T113000
 DTEND;TZID=Europe/Moscow:20260525T131000
 SUMMARY:Анализ и проектирование производственных процессов (лек) (перенос с
   15.05.2026) · гр. 6421 · а.6117
 LOCATION:а.6117
 DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПара №36\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T093000
 DTEND;TZID=Europe/Moscow:20260527T111000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №58\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T113000
 DTEND;TZID=Europe/Moscow:20260527T131000
-SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
- · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №59\nПреподаватель: Дудыр
- ева О.А.
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-0930-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T093000
 DTEND;TZID=Europe/Moscow:20260529T111000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6421\nАудитория: а.6248\nПара №40\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1130-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T113000
 DTEND;TZID=Europe/Moscow:20260529T131000
 SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
-  · а.6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6421\nАудитория: а.6248\nПара №41\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1400-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T140000
 DTEND;TZID=Europe/Moscow:20260529T154000
 SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
-  · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6421\nАудитория: а.6112\nПара №25\nПреподаватель: Дудыр
- ева О.А.
+DESCRIPTION:Группа: 6421\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260529-1600--анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260529T160000
+DTEND;TZID=Europe/Moscow:20260529T174000
+SUMMARY:Анализ и проектирование производственных процессов (лек) (перенос с
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Дудырева О. А.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260529-1600-6421-анализ-и-проектирование-произв@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T160000
 DTEND;TZID=Europe/Moscow:20260529T174000
 SUMMARY:Анализ и проектирование производственных процессов (лек) (перенос с
   15.05.2026) · гр. 6421 · а.6117
 LOCATION:а.6117
 DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПара №37\nПреподаватель: Дудыр
- ева О.А.
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-0930-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T093000
+DTEND;TZID=Europe/Moscow:20260605T111000
+SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
+  · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №26\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1130-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T113000
+DTEND;TZID=Europe/Moscow:20260605T131000
+SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
+  · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №27\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1400-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T140000
+DTEND;TZID=Europe/Moscow:20260605T154000
+SUMMARY:Анализ и проектирование производственных процессов (лек) · гр. 6421
+  · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6421\nАудитория: а.6381\nПара №42\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260608-0930-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260608T093000
+DTEND;TZID=Europe/Moscow:20260608T111000
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
+ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №60\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260608-1130-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260608T113000
+DTEND;TZID=Europe/Moscow:20260608T131000
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
+ · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6421\nАудитория: а.6236\nПара №61\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260619-0930-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260619T093000
+DTEND;TZID=Europe/Moscow:20260619T111000
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
+ · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №62\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260619-1130-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260619T113000
+DTEND;TZID=Europe/Moscow:20260619T131000
+SUMMARY:Анализ и проектирование производственных процессов (пр) · гр. 6421 
+ · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №63\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260619-1400-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260619T140000
+DTEND;TZID=Europe/Moscow:20260619T154000
+SUMMARY:Анализ и проектирование производственных процессов (лаб) · гр. 6421
+  · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №24\nПреподаватель: Дудыр
+ ева О. А.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260623-1130-6421-анализ-и-проектирование-произв@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260623T113000
+DTEND;TZID=Europe/Moscow:20260623T131000
+SUMMARY:Анализ и проектирование производственных процессов (экз) · гр. 6421
+  · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6421\nАудитория: а.6117\nПреподаватель: Дудырева О. А.
 CATEGORIES:Преподавание,6421
 STATUS:CONFIRMED
 END:VEVENT

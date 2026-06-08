@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Гуркин Я.А. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Гуркин Я.А., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Гуркин Я. А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Гуркин Я. А., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -19,1732 +19,3578 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20251124-1400-6571-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T140000
 DTEND;TZID=Europe/Moscow:20251124T154000
 SUMMARY:Основы права лекция · гр. 6571 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №1\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251124-1600-6571-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T160000
 DTEND;TZID=Europe/Moscow:20251124T174000
 SUMMARY:Основы права лекция · гр. 6571 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №2\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-0930-6561-6521-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T093000
 DTEND;TZID=Europe/Moscow:20251128T111000
 SUMMARY:Основы права лекция · гр. 6561\, 6521 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.403\nПара №1\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.403\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-6561-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Основы права лекция · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-6521-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Основы права лекция · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-1130-6561-6521-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T113000
 DTEND;TZID=Europe/Moscow:20251128T131000
 SUMMARY:Основы права лекция · гр. 6561\, 6521 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.403\nПара №2\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.403\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6561\, 6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251128-1130-6561-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Основы права лекция · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6521-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Основы права лекция · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251128-1400-6541-6542-6581-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T140000
 DTEND;TZID=Europe/Moscow:20251128T154000
 SUMMARY:Основы права лекция · гр. 6541\,6542\, 6581 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №1\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6541-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Основы права лекция · гр. 6541 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\nАудитория: а.403\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6542-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Основы права лекция · гр. 6542 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6581-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Основы права лекция · гр. 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-1600-6541-6542-6581-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T160000
 DTEND;TZID=Europe/Moscow:20251128T174000
 SUMMARY:Основы права лекция · гр. 6541\,6542\, 6581 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №2\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251128-1600-6541-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Основы права лекция · гр. 6541 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-6542-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Основы права лекция · гр. 6542 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-6581-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Основы права лекция · гр. 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251201-1400-6511-6512-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T140000
 DTEND;TZID=Europe/Moscow:20251201T154000
 SUMMARY:Основы права лекция · гр. 6511\,6512 · а. 406
 LOCATION:а. 406
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 406\nПара №1\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 406\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20251201-1400-основы-права-лeкция-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251201-1400-6511-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T140000
 DTEND;TZID=Europe/Moscow:20251201T154000
 SUMMARY:Основы права лекция · гр. 6511 · а. 406
 LOCATION:а. 406
-DESCRIPTION:Группа: 6511\nАудитория: а. 406
+DESCRIPTION:Группа: 6511\nАудитория: а. 406\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20251201-1400-основы-права-лeкция-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251201-1400-6512-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T140000
 DTEND;TZID=Europe/Moscow:20251201T154000
 SUMMARY:Основы права лекция · гр. 6512 · а. 406
 LOCATION:а. 406
-DESCRIPTION:Группа: 6512\nАудитория: а. 406
+DESCRIPTION:Группа: 6512\nАудитория: а. 406\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251201-1600-6511-6512-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T160000
 DTEND;TZID=Europe/Moscow:20251201T174000
 SUMMARY:Основы права лекция · гр. 6511\,6512 · а. 406
 LOCATION:а. 406
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 406\nПара №2\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 406\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20251201-1600-основы-права-лeкция-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251201-1600-6511-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T160000
 DTEND;TZID=Europe/Moscow:20251201T174000
 SUMMARY:Основы права лекция · гр. 6511 · а. 406
 LOCATION:а. 406
-DESCRIPTION:Группа: 6511\nАудитория: а. 406
+DESCRIPTION:Группа: 6511\nАудитория: а. 406\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20251201-1600-основы-права-лeкция-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20251201-1600-6512-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251201T160000
 DTEND;TZID=Europe/Moscow:20251201T174000
 SUMMARY:Основы права лекция · гр. 6512 · а. 406
 LOCATION:а. 406
-DESCRIPTION:Группа: 6512\nАудитория: а. 406
+DESCRIPTION:Группа: 6512\nАудитория: а. 406\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1400-6551-6552-6553-6554-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T140000
 DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Основы права лекция · гр. 6551\,6552\, 6553\,6554 · а. 101
 LOCATION:а. 101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПара №1\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6551-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы права лекция · гр. 6551 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6551\nАудитория: а. 101\nПара №1\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6552-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы права лекция · гр. 6552 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6552\nАудитория: а. 101\nПара №1\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6553-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы права лекция · гр. 6553 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6553\nАудитория: а. 101\nПара №1\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1400-6554-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Основы права лекция · гр. 6554 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6554\nАудитория: а. 101\nПара №1\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1600-6551-6552-6553-6554-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T160000
 DTEND;TZID=Europe/Moscow:20251202T174000
 SUMMARY:Основы права лекция · гр. 6551\,6552\, 6553\,6554 · а. 101
 LOCATION:а. 101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПара №2\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251202-1600-6551-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Основы права лекция · гр. 6551 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6551\nАудитория: а. 101\nПара №2\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6552-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Основы права лекция · гр. 6552 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6552\nАудитория: а. 101\nПара №2\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6553-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Основы права лекция · гр. 6553 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6553\nАудитория: а. 101\nПара №2\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1600-6554-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Основы права лекция · гр. 6554 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6554\nАудитория: а. 101\nПара №2\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251204-0930-6531-6532-6533-6534-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T093000
 DTEND;TZID=Europe/Moscow:20251204T111000
 SUMMARY:Основы права лекция · гр. 6531\,6532\, 6533\,6534 · а. 101
 LOCATION:а. 101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 101\nПара №1\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 101\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1130-6531-6532-6533-6534-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T113000
 DTEND;TZID=Europe/Moscow:20251204T131000
 SUMMARY:Основы права лекция · гр. 6531\,6532\, 6533\,6534 · а. 101
 LOCATION:а. 101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 101\nПара №2\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 101\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1400-6541-6542-6581-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251209T140000
 DTEND;TZID=Europe/Moscow:20251209T154000
 SUMMARY:Основы права лекция · гр. 6541\,6542\, 6581 · а. 409
 LOCATION:а. 409
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПара №3\nПреподав
- атель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПреподаватель: Гу
+ ркин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1400-6541-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Основы права лекция · гр. 6541 · а. 409
+LOCATION:а. 409
+DESCRIPTION:Группа: 6541\nАудитория: а. 409\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1400-6542-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Основы права лекция · гр. 6542 · а. 409
+LOCATION:а. 409
+DESCRIPTION:Группа: 6542\nАудитория: а. 409\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6542
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1600-6541-6542-6581-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251209T160000
 DTEND;TZID=Europe/Moscow:20251209T174000
 SUMMARY:Основы права лекция · гр. 6541\,6542\, 6581 · а. 409
 LOCATION:а. 409
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПара №4\nПреподав
- атель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а. 409\nПреподаватель: Гу
+ ркин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251209-1600-6541-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Основы права лекция · гр. 6541 · а. 409
+LOCATION:а. 409
+DESCRIPTION:Группа: 6541\nАудитория: а. 409\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1600-6542-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Основы права лекция · гр. 6542 · а. 409
+LOCATION:а. 409
+DESCRIPTION:Группа: 6542\nАудитория: а. 409\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251215-1400-6511-6512-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T140000
 DTEND;TZID=Europe/Moscow:20251215T154000
 SUMMARY:Основы права лекция · гр. 6511\,6512 · а. 411
 LOCATION:а. 411
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 411\nПара №3\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 411\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251215-1600-6511-6512-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T160000
 DTEND;TZID=Europe/Moscow:20251215T174000
 SUMMARY:Основы права лекция · гр. 6511\,6512 · а. 411
 LOCATION:а. 411
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 411\nПара №4\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а. 411\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1400-6551-6552-6553-6554-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251216T140000
 DTEND;TZID=Europe/Moscow:20251216T154000
 SUMMARY:Основы права лекция · гр. 6551\,6552\, 6553\,6554 · а. 101
 LOCATION:а. 101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПара №3\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6551-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Основы права лекция · гр. 6551 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6551\nАудитория: а. 101\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6552-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Основы права лекция · гр. 6552 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6552\nАудитория: а. 101\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6553-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Основы права лекция · гр. 6553 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6553\nАудитория: а. 101\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1400-6554-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Основы права лекция · гр. 6554 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6554\nАудитория: а. 101\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1600-6551-6552-6553-6554-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251216T160000
 DTEND;TZID=Europe/Moscow:20251216T174000
 SUMMARY:Основы права лекция · гр. 6551\,6552\, 6553\,6554 · а. 101
 LOCATION:а. 101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПара №4\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а. 101\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251216-1600-6551-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Основы права лекция · гр. 6551 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6551\nАудитория: а. 101\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6552-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Основы права лекция · гр. 6552 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6552\nАудитория: а. 101\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6553-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Основы права лекция · гр. 6553 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6553\nАудитория: а. 101\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251216-1600-6554-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Основы права лекция · гр. 6554 · а. 101
+LOCATION:а. 101
+DESCRIPTION:Группа: 6554\nАудитория: а. 101\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251218-0930-6571-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T093000
 DTEND;TZID=Europe/Moscow:20251218T111000
 SUMMARY:Основы права лекция · гр. 6571 · а. 405
 LOCATION:а. 405
-DESCRIPTION:Группа: 6571\nАудитория: а. 405\nПара №3\nПреподаватель: Гуркин
-  Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а. 405\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251218-1130-6571-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251218T113000
 DTEND;TZID=Europe/Moscow:20251218T131000
 SUMMARY:Основы права лекция · гр. 6571 · а. 405
 LOCATION:а. 405
-DESCRIPTION:Группа: 6571\nАудитория: а. 405\nПара №4\nПреподаватель: Гуркин
-  Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а. 405\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-0930-6531-6532-6533-6534-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T093000
 DTEND;TZID=Europe/Moscow:20251219T111000
 SUMMARY:Основы права лекция · гр. 6531\,6532\, 6533\,6534 · а. 409
 LOCATION:а. 409
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 409\nПара №3\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 409\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1130-6531-6532-6533-6534-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T113000
 DTEND;TZID=Europe/Moscow:20251219T131000
 SUMMARY:Основы права лекция · гр. 6531\,6532\, 6533\,6534 · а. 409
 LOCATION:а. 409
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 409\nПара №4\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 409\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1400-6561-6521-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T140000
 DTEND;TZID=Europe/Moscow:20251219T154000
 SUMMARY:Основы права лекция · гр. 6561\, 6521 · а. 106
 LOCATION:а. 106
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 106\nПара №3\nПреподаватель:
-  Гуркин Я.А.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 106\nПреподаватель: Гуркин Я
+ . А.
 CATEGORIES:Преподавание,6561\, 6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6561-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Основы права лекция · гр. 6561 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6561\nАудитория: а. 106\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1400-6521-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Основы права лекция · гр. 6521 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6521\nАудитория: а. 106\nПара №3\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251219-1600-6561-6521-основы-права-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251219T160000
 DTEND;TZID=Europe/Moscow:20251219T174000
 SUMMARY:Основы права лекция · гр. 6561\, 6521 · а. 106
 LOCATION:а. 106
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 106\nПара №4\nПреподаватель:
-  Гуркин Я.А.
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а. 106\nПреподаватель: Гуркин Я
+ . А.
 CATEGORIES:Преподавание,6561\, 6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251219-1600-6561-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Основы права лекция · гр. 6561 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6561\nАудитория: а. 106\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1600-6521-основы-права-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Основы права лекция · гр. 6521 · а. 106
+LOCATION:а. 106
+DESCRIPTION:Группа: 6521\nАудитория: а. 106\nПара №4\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260113-1400-6511-6512-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:Основы права (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №1\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260113-1400-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1400-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:Основы права (пр) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260113-1400-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260113-1400-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:Основы права (пр) · гр. 6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6512\nАудитория: а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-0930-6511-6512-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T093000
 DTEND;TZID=Europe/Moscow:20260115T111000
 SUMMARY:Основы права (пр) · гр. 6511\,6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №2\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260115-0930-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260115-0930-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T093000
 DTEND;TZID=Europe/Moscow:20260115T111000
 SUMMARY:Основы права (пр) · гр. 6511 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\nАудитория: а.6381
+DESCRIPTION:Группа: 6511\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260115-0930-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260115-0930-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T093000
 DTEND;TZID=Europe/Moscow:20260115T111000
 SUMMARY:Основы права (пр) · гр. 6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6512\nАудитория: а.6381
+DESCRIPTION:Группа: 6512\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260115-1130-основы-права-лeк-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260115-1130-6511-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
 DTEND;TZID=Europe/Moscow:20260115T131000
 SUMMARY:Основы права (лек) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260115-1130-основы-права-лeк-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260115-1130-6512-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T113000
 DTEND;TZID=Europe/Moscow:20260115T131000
 SUMMARY:Основы права (лек) · гр. 6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6512\nАудитория: а.101
+DESCRIPTION:Группа: 6512\nАудитория: а.101\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-0930-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260119T093000
 DTEND;TZID=Europe/Moscow:20260119T111000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПара №1\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-1130-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260119T113000
 DTEND;TZID=Europe/Moscow:20260119T131000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПара №2\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-0930-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T093000
 DTEND;TZID=Europe/Moscow:20260120T111000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №1\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-0930-6541-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T093000
+DTEND;TZID=Europe/Moscow:20260120T111000
+SUMMARY:Основы права (пр) · гр. 6541 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\nАудитория: а.411\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-0930-6542-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T093000
+DTEND;TZID=Europe/Moscow:20260120T111000
+SUMMARY:Основы права (пр) · гр. 6542 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6542\nАудитория: а.411\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-0930-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T093000
+DTEND;TZID=Europe/Moscow:20260120T111000
+SUMMARY:Основы права (пр) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1130-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T113000
 DTEND;TZID=Europe/Moscow:20260120T131000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №2\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260120-1130-6541-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Основы права (пр) · гр. 6541 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1130-6542-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Основы права (пр) · гр. 6542 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1130-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Основы права (пр) · гр. 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260121-0930-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T093000
 DTEND;TZID=Europe/Moscow:20260121T111000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПара №1\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1130-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T113000
 DTEND;TZID=Europe/Moscow:20260121T131000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.106\nПара №2\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.106\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1400-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T140000
 DTEND;TZID=Europe/Moscow:20260121T154000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №1\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1400-6553-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Основы права (пр) · гр. 6553 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\nАудитория: а.411\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1400-6554-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260121T140000
+DTEND;TZID=Europe/Moscow:20260121T154000
+SUMMARY:Основы права (пр) · гр. 6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6554\nАудитория: а.411\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1600-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T160000
 DTEND;TZID=Europe/Moscow:20260121T174000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №2\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260121-1600-6553-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Основы права (пр) · гр. 6553 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\nАудитория: а.411\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1600-6554-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260121T160000
+DTEND;TZID=Europe/Moscow:20260121T174000
+SUMMARY:Основы права (пр) · гр. 6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6554\nАудитория: а.411\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260122-0930-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T093000
 DTEND;TZID=Europe/Moscow:20260122T111000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №1\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Основы права (пр) · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Основы права (пр) · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260122-1130-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T113000
 DTEND;TZID=Europe/Moscow:20260122T131000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №2\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260122-1130-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Основы права (пр) · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Основы права (пр) · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-0930-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T093000
 DTEND;TZID=Europe/Moscow:20260123T111000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №1\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-0930-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:Основы права (пр) · гр. 6551 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\nАудитория: а.401\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-0930-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260123T093000
+DTEND;TZID=Europe/Moscow:20260123T111000
+SUMMARY:Основы права (пр) · гр. 6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6552\nАудитория: а.401\nПара №1\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1130-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T113000
 DTEND;TZID=Europe/Moscow:20260123T131000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПара №2\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.401\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260123-1130-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Основы права (пр) · гр. 6551 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\nАудитория: а.401\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1130-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260123T113000
+DTEND;TZID=Europe/Moscow:20260123T131000
+SUMMARY:Основы права (пр) · гр. 6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6552\nАудитория: а.401\nПара №2\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260123-1400-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Основы права (пр) · гр. 6571 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №1\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1600-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T160000
 DTEND;TZID=Europe/Moscow:20260123T174000
 SUMMARY:Основы права (пр) · гр. 6571 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №2\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-0930-6521-6561-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T093000
 DTEND;TZID=Europe/Moscow:20260126T111000
 SUMMARY:Основы права (лек) · гр. 6521\, 6561 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №5\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260126-0930-6561-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Основы права (лек) · гр. 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6561\nАудитория: а.101\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-0930-6521-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260126T093000
+DTEND;TZID=Europe/Moscow:20260126T111000
+SUMMARY:Основы права (лек) · гр. 6521 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\nАудитория: а.101\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260128-0930-6541-6542-6581-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T093000
 DTEND;TZID=Europe/Moscow:20260128T111000
 SUMMARY:Основы права (лек) · гр. 6541\,6542\, 6581 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №5\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260128-0930-6541-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260128T093000
+DTEND;TZID=Europe/Moscow:20260128T111000
+SUMMARY:Основы права (лек) · гр. 6541 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\nАудитория: а.411\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-0930-6542-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260128T093000
+DTEND;TZID=Europe/Moscow:20260128T111000
+SUMMARY:Основы права (лек) · гр. 6542 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6542\nАудитория: а.411\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260128-0930-6581-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260128T093000
+DTEND;TZID=Europe/Moscow:20260128T111000
+SUMMARY:Основы права (лек) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260129-1130-6511-6512-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T113000
 DTEND;TZID=Europe/Moscow:20260129T131000
 SUMMARY:Основы права (лек) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №5\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-1400-6571-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T140000
 DTEND;TZID=Europe/Moscow:20260129T154000
 SUMMARY:Основы права (лек) · гр. 6571 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №5\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-0930-6531-6532-6533-6534-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T093000
 DTEND;TZID=Europe/Moscow:20260203T111000
 SUMMARY:Основы права (лек) · гр. 6531\,6532\, 6533\,6534 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПара №5\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1400-6551-6552-6553-6554-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T140000
 DTEND;TZID=Europe/Moscow:20260204T154000
 SUMMARY:Основы права (лек) · гр. 6551\,6552\, 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №5\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260206-1400-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260204-1400-6551-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Основы права (лек) · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6552-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Основы права (лек) · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6553-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Основы права (лек) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1400-6554-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Основы права (лек) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260206-1400-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:Основы права (пр) · гр. 6511 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\nАудитория: а.6381
+DESCRIPTION:Группа: 6511\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260206-1400-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260206-1400-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T140000
 DTEND;TZID=Europe/Moscow:20260206T154000
 SUMMARY:Основы права (пр) · гр. 6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6512\nАудитория: а.6381
+DESCRIPTION:Группа: 6512\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260206-1600-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260206-1600-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T160000
 DTEND;TZID=Europe/Moscow:20260206T174000
 SUMMARY:Основы права (пр) · гр. 6511 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\nАудитория: а.6381
+DESCRIPTION:Группа: 6511\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260206-1600-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260206-1600-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T160000
 DTEND;TZID=Europe/Moscow:20260206T174000
 SUMMARY:Основы права (пр) · гр. 6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6512\nАудитория: а.6381
+DESCRIPTION:Группа: 6512\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1400-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T140000
 DTEND;TZID=Europe/Moscow:20260212T154000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПара №3\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1400-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Основы права (пр) · гр. 6551 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6551\nАудитория: а.409\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1400-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Основы права (пр) · гр. 6552 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6552\nАудитория: а.409\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260212-1600-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260212T160000
 DTEND;TZID=Europe/Moscow:20260212T174000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПара №4\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260212-1600-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T160000
+DTEND;TZID=Europe/Moscow:20260212T174000
+SUMMARY:Основы права (пр) · гр. 6551 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6551\nАудитория: а.409\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260212-1600-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T160000
+DTEND;TZID=Europe/Moscow:20260212T174000
+SUMMARY:Основы права (пр) · гр. 6552 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6552\nАудитория: а.409\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260217-0930-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T093000
 DTEND;TZID=Europe/Moscow:20260217T111000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №3\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-0930-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T093000
+DTEND;TZID=Europe/Moscow:20260217T111000
+SUMMARY:Основы права (пр) · гр. 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1130-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T113000
 DTEND;TZID=Europe/Moscow:20260217T131000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №4\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260217-1130-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Основы права (пр) · гр. 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260218-1600-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T160000
 DTEND;TZID=Europe/Moscow:20260218T174000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №3\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-0930-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T093000
 DTEND;TZID=Europe/Moscow:20260219T111000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №3\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-0930-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T093000
+DTEND;TZID=Europe/Moscow:20260219T111000
+SUMMARY:Основы права (пр) · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-0930-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T093000
+DTEND;TZID=Europe/Moscow:20260219T111000
+SUMMARY:Основы права (пр) · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1130-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T113000
 DTEND;TZID=Europe/Moscow:20260219T131000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №4\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260219-1130-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Основы права (пр) · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1130-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Основы права (пр) · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260219-1400-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T140000
 DTEND;TZID=Europe/Moscow:20260219T154000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №3\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6553-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Основы права (пр) · гр. 6553 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6553\nАудитория: а.406\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6554-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Основы права (пр) · гр. 6554 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6554\nАудитория: а.406\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1600-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T160000
 DTEND;TZID=Europe/Moscow:20260219T174000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №4\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260219-1600-6553-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Основы права (пр) · гр. 6553 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6553\nАудитория: а.406\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1600-6554-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Основы права (пр) · гр. 6554 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6554\nАудитория: а.406\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260220-0930-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T093000
 DTEND;TZID=Europe/Moscow:20260220T111000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПара №3\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1130-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T113000
 DTEND;TZID=Europe/Moscow:20260220T131000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПара №4\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1400-6511-6512-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T140000
 DTEND;TZID=Europe/Moscow:20260220T154000
 SUMMARY:Основы права (пр) · гр. 6511\,6512\, 6571 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\,6512\, 6571\nАудитория: а.6381\nПара №3\nПреподав
- атель: Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\, 6571\nАудитория: а.6381\nПреподаватель: Гу
+ ркин Я. А.
 CATEGORIES:Преподавание,6511\,6512\, 6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6571-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Основы права (пр) · гр. 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №3\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1600-6511-6512-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T160000
 DTEND;TZID=Europe/Moscow:20260220T174000
 SUMMARY:Основы права (пр) · гр. 6511\,6512\, 6571 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\,6512\, 6571\nАудитория: а.6381\nПара №4\nПреподав
- атель: Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\, 6571\nАудитория: а.6381\nПреподаватель: Гу
+ ркин Я. А.
 CATEGORIES:Преподавание,6511\,6512\, 6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260220-1600-6571-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Основы права (пр) · гр. 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №4\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260224-1130-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T113000
 DTEND;TZID=Europe/Moscow:20260224T131000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПара №4\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260306-1400-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1400-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T140000
 DTEND;TZID=Europe/Moscow:20260306T154000
 SUMMARY:Основы права (пр) · гр. 6511 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\nАудитория: а.6381
+DESCRIPTION:Группа: 6511\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260306-1400-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1400-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T140000
 DTEND;TZID=Europe/Moscow:20260306T154000
 SUMMARY:Основы права (пр) · гр. 6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6512\nАудитория: а.6381
+DESCRIPTION:Группа: 6512\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260306-1600-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1600-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T160000
 DTEND;TZID=Europe/Moscow:20260306T174000
 SUMMARY:Основы права (пр) · гр. 6511 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\nАудитория: а.6381
+DESCRIPTION:Группа: 6511\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260306-1600-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260306-1600-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T160000
 DTEND;TZID=Europe/Moscow:20260306T174000
 SUMMARY:Основы права (пр) · гр. 6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6512\nАудитория: а.6381
+DESCRIPTION:Группа: 6512\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260311-0930-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260311T093000
 DTEND;TZID=Europe/Moscow:20260311T111000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПара №5\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260312-1400-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T140000
 DTEND;TZID=Europe/Moscow:20260312T154000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПара №5\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260312-1400-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Основы права (пр) · гр. 6551 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6551\nАудитория: а.411\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260312-1400-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260312T140000
+DTEND;TZID=Europe/Moscow:20260312T154000
+SUMMARY:Основы права (пр) · гр. 6552 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6552\nАудитория: а.411\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260313-1130-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T113000
 DTEND;TZID=Europe/Moscow:20260313T131000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №5\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260313-1130-6553-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Основы права (пр) · гр. 6553 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\nАудитория: а.411\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6554-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Основы права (пр) · гр. 6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6554\nАудитория: а.411\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260316-1130-6531-6532-6533-6534-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T113000
 DTEND;TZID=Europe/Moscow:20260316T131000
 SUMMARY:Основы права (лек) · гр. 6531\,6532\, 6533\,6534 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №6\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260317-0930-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260317T093000
 DTEND;TZID=Europe/Moscow:20260317T111000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №5\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260317-0930-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Основы права (пр) · гр. 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\nАудитория: а.409\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260317-0930-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260317T093000
+DTEND;TZID=Europe/Moscow:20260317T111000
+SUMMARY:Основы права (пр) · гр. 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\nАудитория: а.409\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260317-1130-6511-6512-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260317T113000
 DTEND;TZID=Europe/Moscow:20260317T131000
 SUMMARY:Основы права (пр) · гр. 6511\,6512 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.409\nПара №5\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.409\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-0930-6521-6561-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T093000
 DTEND;TZID=Europe/Moscow:20260318T111000
 SUMMARY:Основы права (лек) · гр. 6521\, 6561 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №6\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260318-0930-6561-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T093000
+DTEND;TZID=Europe/Moscow:20260318T111000
+SUMMARY:Основы права (лек) · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-0930-6521-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T093000
+DTEND;TZID=Europe/Moscow:20260318T111000
+SUMMARY:Основы права (лек) · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260319-0930-6551-6552-6553-6554-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260319T093000
 DTEND;TZID=Europe/Moscow:20260319T111000
 SUMMARY:Основы права (лек) · гр. 6551\,6552\, 6553\,6554 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6107\nПара №6\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6107\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6551-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Основы права (лек) · гр. 6551 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6551\nАудитория: а.6107\nПара №6\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6552-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Основы права (лек) · гр. 6552 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6552\nАудитория: а.6107\nПара №6\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6553-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Основы права (лек) · гр. 6553 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6553\nАудитория: а.6107\nПара №6\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-0930-6554-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T093000
+DTEND;TZID=Europe/Moscow:20260319T111000
+SUMMARY:Основы права (лек) · гр. 6554 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6554\nАудитория: а.6107\nПара №6\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260319-1130-6551-6552-6553-6554-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260319T113000
 DTEND;TZID=Europe/Moscow:20260319T131000
 SUMMARY:Основы права (лек) · гр. 6551\,6552\, 6553\,6554 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6107\nПара №7\nПр
- еподаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6107\nПреподавате
+ ль: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260319-1130-6551-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Основы права (лек) · гр. 6551 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6551\nАудитория: а.6107\nПара №7\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6552-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Основы права (лек) · гр. 6552 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6552\nАудитория: а.6107\nПара №7\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6553-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Основы права (лек) · гр. 6553 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6553\nАудитория: а.6107\nПара №7\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260319-1130-6554-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260319T113000
+DTEND;TZID=Europe/Moscow:20260319T131000
+SUMMARY:Основы права (лек) · гр. 6554 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6554\nАудитория: а.6107\nПара №7\nПреподаватель: Гуркин
+  Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260320-0930-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260320T093000
 DTEND;TZID=Europe/Moscow:20260320T111000
 SUMMARY:Основы права (пр) · гр. 6571 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №5\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-0930-6571-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260324T093000
 DTEND;TZID=Europe/Moscow:20260324T111000
 SUMMARY:Основы права (лек) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №6\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-1130-6571-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260324T113000
 DTEND;TZID=Europe/Moscow:20260324T131000
 SUMMARY:Основы права (лек) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №7\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1130-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260330T113000
 DTEND;TZID=Europe/Moscow:20260330T131000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №5\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1400-6511-6512-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260330T140000
 DTEND;TZID=Europe/Moscow:20260330T154000
 SUMMARY:Основы права (лек) · гр. 6511\,6512 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №6\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1600-6511-6512-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260330T160000
 DTEND;TZID=Europe/Moscow:20260330T174000
 SUMMARY:Основы права (лек) · гр. 6511\,6512 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №7\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-0930-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T093000
 DTEND;TZID=Europe/Moscow:20260331T111000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №6\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1130-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T113000
 DTEND;TZID=Europe/Moscow:20260331T131000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПара №7\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-0930-6551-6552-6553-6554-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T093000
 DTEND;TZID=Europe/Moscow:20260401T111000
 SUMMARY:Основы права (лек) · гр. 6551\,6552\, 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №8\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-0930-6551-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260401T093000
+DTEND;TZID=Europe/Moscow:20260401T111000
+SUMMARY:Основы права (лек) · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-0930-6552-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260401T093000
+DTEND;TZID=Europe/Moscow:20260401T111000
+SUMMARY:Основы права (лек) · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-0930-6551-6552-6553-6554-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T093000
 DTEND;TZID=Europe/Moscow:20260402T111000
 SUMMARY:Основы права (лек) · гр. 6551\,6552\, 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №9\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260402-0930-6551-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Основы права (лек) · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-0930-6552-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260402T093000
+DTEND;TZID=Europe/Moscow:20260402T111000
+SUMMARY:Основы права (лек) · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260403-0930-6521-6561-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T093000
 DTEND;TZID=Europe/Moscow:20260403T111000
 SUMMARY:Основы права (лек) · гр. 6521\, 6561 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПара №7\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260403-0930-6561-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Основы права (лек) · гр. 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\nАудитория: а.406\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-0930-6521-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Основы права (лек) · гр. 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\nАудитория: а.406\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260403-1130-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T113000
 DTEND;TZID=Europe/Moscow:20260403T131000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №5\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260403-1130-6541-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Основы права (пр) · гр. 6541 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\nАудитория: а.406\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1130-6542-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Основы права (пр) · гр. 6542 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6542\nАудитория: а.406\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1130-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Основы права (пр) · гр. 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6581\nАудитория: а.406\nПара №5\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260403-1400-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T140000
 DTEND;TZID=Europe/Moscow:20260403T154000
 SUMMARY:Основы права (пр) · гр. 6571 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6571\nАудитория: а.406\nПара №6\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.406\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1130-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T113000
 DTEND;TZID=Europe/Moscow:20260406T131000
 SUMMARY:Основы права (пр) · гр. 6571 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6571\nАудитория: а.414\nПара №7\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.414\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1400-6521-6561-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T140000
 DTEND;TZID=Europe/Moscow:20260406T154000
 SUMMARY:Основы права (лек) · гр. 6521\, 6561 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №8\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260406-1400-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260406-1400-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T140000
 DTEND;TZID=Europe/Moscow:20260406T154000
 SUMMARY:Основы права (пр) · гр. 6511 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\nАудитория: а.6381
+DESCRIPTION:Группа: 6511\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260406-1400-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260406-1400-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T140000
 DTEND;TZID=Europe/Moscow:20260406T154000
 SUMMARY:Основы права (пр) · гр. 6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6512\nАудитория: а.6381
+DESCRIPTION:Группа: 6512\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1400-6561-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Основы права (лек) · гр. 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\nАудитория: а.414\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1400-6521-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Основы права (лек) · гр. 6521 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\nАудитория: а.414\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1600-6521-6561-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T160000
 DTEND;TZID=Europe/Moscow:20260406T174000
 SUMMARY:Основы права (лек) · гр. 6521\, 6561 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПара №9\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.414\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260406-1600-основы-права-пр-6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260406-1600-6511-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T160000
 DTEND;TZID=Europe/Moscow:20260406T174000
 SUMMARY:Основы права (пр) · гр. 6511 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\nАудитория: а.6381
+DESCRIPTION:Группа: 6511\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-gurkin-ya-a-20260406-1600-основы-права-пр-6512@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260406-1600-6512-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T160000
 DTEND;TZID=Europe/Moscow:20260406T174000
 SUMMARY:Основы права (пр) · гр. 6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6512\nАудитория: а.6381
+DESCRIPTION:Группа: 6512\nАудитория: а.6381\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260406-1600-6561-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Основы права (лек) · гр. 6561 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6561\nАудитория: а.414\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1600-6521-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Основы права (лек) · гр. 6521 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\nАудитория: а.414\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260407-0930-6531-6532-6533-6534-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T093000
 DTEND;TZID=Europe/Moscow:20260407T111000
 SUMMARY:Основы права (лек) · гр. 6531\,6532\, 6533\,6534 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПара №7\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1130-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T113000
 DTEND;TZID=Europe/Moscow:20260407T131000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №6\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1130-6511-6512-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T113000
 DTEND;TZID=Europe/Moscow:20260408T131000
 SUMMARY:Основы права (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №6\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-0930-6541-6542-6581-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T093000
 DTEND;TZID=Europe/Moscow:20260409T111000
 SUMMARY:Основы права (лек) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №6\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6541-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Основы права (лек) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6542-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Основы права (лек) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-0930-6581-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T093000
+DTEND;TZID=Europe/Moscow:20260409T111000
+SUMMARY:Основы права (лек) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260410-1400-6541-6542-6581-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T140000
 DTEND;TZID=Europe/Moscow:20260410T154000
 SUMMARY:Основы права (лек) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №7\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260410-1400-6541-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:Основы права (лек) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1400-6542-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:Основы права (лек) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260410-1400-6581-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260410T140000
+DTEND;TZID=Europe/Moscow:20260410T154000
+SUMMARY:Основы права (лек) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260410-1600-6511-6512-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T160000
 DTEND;TZID=Europe/Moscow:20260410T174000
 SUMMARY:Основы права (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №7\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260414-0930-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T093000
 DTEND;TZID=Europe/Moscow:20260414T111000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №6\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:Основы права (пр) · гр. 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6561\nАудитория: а.106\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-0930-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T093000
+DTEND;TZID=Europe/Moscow:20260414T111000
+SUMMARY:Основы права (пр) · гр. 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260414-1130-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T113000
 DTEND;TZID=Europe/Moscow:20260414T131000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №7\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Основы права (пр) · гр. 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6561\nАудитория: а.106\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1130-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T113000
+DTEND;TZID=Europe/Moscow:20260414T131000
+SUMMARY:Основы права (пр) · гр. 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260415-0930-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T093000
 DTEND;TZID=Europe/Moscow:20260415T111000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПара №8\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.101\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260415-0930-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260415T093000
+DTEND;TZID=Europe/Moscow:20260415T111000
+SUMMARY:Основы права (пр) · гр. 6561 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6561\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260415-0930-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260415T093000
+DTEND;TZID=Europe/Moscow:20260415T111000
+SUMMARY:Основы права (пр) · гр. 6521 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6521\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260415-1600-6511-6512-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T160000
 DTEND;TZID=Europe/Moscow:20260415T174000
 SUMMARY:Основы права (лек) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №8\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260416-0930-6571-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T093000
 DTEND;TZID=Europe/Moscow:20260416T111000
 SUMMARY:Основы права (лек) · гр. 6571 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260416-1130-6571-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T113000
 DTEND;TZID=Europe/Moscow:20260416T131000
 SUMMARY:Основы права (лек) · гр. 6571 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6571\nАудитория: а.101\nПара №9\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.101\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260416-1400-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T140000
 DTEND;TZID=Europe/Moscow:20260416T154000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПара №6\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.414\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1400-6541-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Основы права (пр) · гр. 6541 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\nАудитория: а.414\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1400-6542-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Основы права (пр) · гр. 6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6542\nАудитория: а.414\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1400-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Основы права (пр) · гр. 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6581\nАудитория: а.414\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-0930-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T093000
 DTEND;TZID=Europe/Moscow:20260417T111000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №6\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:Основы права (пр) · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-0930-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T093000
+DTEND;TZID=Europe/Moscow:20260417T111000
+SUMMARY:Основы права (пр) · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №6\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1130-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T113000
 DTEND;TZID=Europe/Moscow:20260417T131000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №7\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260417-1130-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Основы права (пр) · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1130-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T113000
+DTEND;TZID=Europe/Moscow:20260417T131000
+SUMMARY:Основы права (пр) · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260417-1400-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T140000
 DTEND;TZID=Europe/Moscow:20260417T154000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №7\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1400-6541-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:Основы права (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1400-6542-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:Основы права (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1400-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T140000
+DTEND;TZID=Europe/Moscow:20260417T154000
+SUMMARY:Основы права (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №7\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1600-6541-6542-6581-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T160000
 DTEND;TZID=Europe/Moscow:20260417T174000
 SUMMARY:Основы права (лек) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №8\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260417-1600-6541-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T160000
+DTEND;TZID=Europe/Moscow:20260417T174000
+SUMMARY:Основы права (лек) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1600-6542-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T160000
+DTEND;TZID=Europe/Moscow:20260417T174000
+SUMMARY:Основы права (лек) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260417-1600-6581-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260417T160000
+DTEND;TZID=Europe/Moscow:20260417T174000
+SUMMARY:Основы права (лек) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260420-1400-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260420T140000
 DTEND;TZID=Europe/Moscow:20260420T154000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №6\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260420-1600-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260420T160000
 DTEND;TZID=Europe/Moscow:20260420T174000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.101\nПара №7\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-0930-6531-6532-6533-6534-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T093000
 DTEND;TZID=Europe/Moscow:20260421T111000
 SUMMARY:Основы права (лек) · гр. 6531\,6532\, 6533\,6534 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПара №8\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-1130-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T113000
 DTEND;TZID=Europe/Moscow:20260421T131000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.414\nПара №8\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.414\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260421-1130-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:Основы права (пр) · гр. 6551 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6551\nАудитория: а.414\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1130-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:Основы права (пр) · гр. 6552 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6552\nАудитория: а.414\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260422-0930-6531-6532-6533-6534-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T093000
 DTEND;TZID=Europe/Moscow:20260422T111000
 SUMMARY:Основы права (лек) · гр. 6531\,6532\, 6533\,6534 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПара №9\nПре
- подаватель: Гуркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.414\nПреподавател
+ ь: Гуркин Я. А.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1130-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T113000
 DTEND;TZID=Europe/Moscow:20260422T131000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПара №8\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-0930-6541-6542-6581-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T093000
 DTEND;TZID=Europe/Moscow:20260423T111000
 SUMMARY:Основы права (лек) · гр. 6541\,6542\, 6581 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №9\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260423-0930-6541-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:Основы права (лек) · гр. 6541 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6541\nАудитория: а.411\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-6542-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:Основы права (лек) · гр. 6542 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6542\nАудитория: а.411\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260423-0930-6581-основы-права-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260423T093000
+DTEND;TZID=Europe/Moscow:20260423T111000
+SUMMARY:Основы права (лек) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260423-1400-6511-6512-основы-права-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T140000
 DTEND;TZID=Europe/Moscow:20260423T154000
 SUMMARY:Основы права (лек) · гр. 6511\,6512 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПара №9\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1130-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T113000
 DTEND;TZID=Europe/Moscow:20260424T131000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПара №7\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260424-1400-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260424T140000
 DTEND;TZID=Europe/Moscow:20260424T154000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №8\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260427-1130-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T113000
 DTEND;TZID=Europe/Moscow:20260427T131000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №8\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260427-1400-6511-6512-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T140000
 DTEND;TZID=Europe/Moscow:20260427T154000
 SUMMARY:Основы права (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №8\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260427-1600-6531-6532-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T160000
 DTEND;TZID=Europe/Moscow:20260427T174000
 SUMMARY:Основы права (пр) · гр. 6531\,6532 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПара №9\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-0930-6533-6534-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T093000
 DTEND;TZID=Europe/Moscow:20260428T111000
 SUMMARY:Основы права (пр) · гр. 6533\,6534 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПара №9\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6533\,6534\nАудитория: а.409\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260428-1130-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T113000
 DTEND;TZID=Europe/Moscow:20260428T131000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПара №8\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.409\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260428-1130-6541-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Основы права (пр) · гр. 6541 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6541\nАудитория: а.409\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6542-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Основы права (пр) · гр. 6542 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6542\nАудитория: а.409\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-1130-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260428T113000
+DTEND;TZID=Europe/Moscow:20260428T131000
+SUMMARY:Основы права (пр) · гр. 6581 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6581\nАудитория: а.409\nПара №8\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260429-0930-6553-6554-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T093000
 DTEND;TZID=Europe/Moscow:20260429T111000
 SUMMARY:Основы права (пр) · гр. 6553\,6554 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПара №9\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6553\,6554\nАудитория: а.101\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260429-1600-6541-6542-6581-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T160000
 DTEND;TZID=Europe/Moscow:20260429T174000
 SUMMARY:Основы права (пр) · гр. 6541\,6542\, 6581 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПара №9\nПреподава
- тель: Гуркин Я.А.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.101\nПреподаватель: Гур
+ кин Я. А.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260429-1600-6541-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Основы права (пр) · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-6542-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Основы права (пр) · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-6581-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Основы права (пр) · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260430-0930-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T093000
 DTEND;TZID=Europe/Moscow:20260430T111000
 SUMMARY:Основы права (пр) · гр. 6571 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6571\nАудитория: а.414\nПара №8\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.414\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-1130-6571-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T113000
 DTEND;TZID=Europe/Moscow:20260430T131000
 SUMMARY:Основы права (пр) · гр. 6571 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6571\nАудитория: а.414\nПара №9\nПреподаватель: Гуркин 
- Я.А.
+DESCRIPTION:Группа: 6571\nАудитория: а.414\nПреподаватель: Гуркин Я. А.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-1400-6551-6552-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T140000
 DTEND;TZID=Europe/Moscow:20260430T154000
 SUMMARY:Основы права (пр) · гр. 6551\,6552 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.414\nПара №9\nПреподаватель: Г
- уркин Я.А.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.414\nПреподаватель: Гуркин Я. 
+ А.
 CATEGORIES:Преподавание,6551\,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260430-1400-6551-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Основы права (пр) · гр. 6551 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6551\nАудитория: а.414\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-6552-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Основы права (пр) · гр. 6552 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6552\nАудитория: а.414\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260430-1600-6511-6512-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T160000
 DTEND;TZID=Europe/Moscow:20260430T174000
 SUMMARY:Основы права (пр) · гр. 6511\,6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №9\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260506-1130-6521-6561-основы-права-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T113000
 DTEND;TZID=Europe/Moscow:20260506T131000
 SUMMARY:Основы права (пр) · гр. 6521\, 6561 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №9\nПреподаватель: 
- Гуркин Я.А.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПреподаватель: Гуркин Я.
+  А.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1130-6561-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Основы права (пр) · гр. 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6561\nАудитория: а.106\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-1130-6521-основы-права-пр-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T113000
+DTEND;TZID=Europe/Moscow:20260506T131000
+SUMMARY:Основы права (пр) · гр. 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №9\nПреподаватель: Гуркин 
+ Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-1400-6521-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260615T140000
+DTEND;TZID=Europe/Moscow:20260615T154000
+SUMMARY:Основы права (зачет) · гр. 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260617-1130-6551-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260617T113000
+DTEND;TZID=Europe/Moscow:20260617T131000
+SUMMARY:Основы права (зачет) · гр. 6551 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260617-1130-6552-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260617T113000
+DTEND;TZID=Europe/Moscow:20260617T131000
+SUMMARY:Основы права (зачет) · гр. 6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6552\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260619-1130-6553-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260619T113000
+DTEND;TZID=Europe/Moscow:20260619T131000
+SUMMARY:Основы права (зачет) · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260619-1130-6554-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260619T113000
+DTEND;TZID=Europe/Moscow:20260619T131000
+SUMMARY:Основы права (зачет) · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260619-1400-6581-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260619T140000
+DTEND;TZID=Europe/Moscow:20260619T154000
+SUMMARY:Основы права (зачет) · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1130-6561-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260622T113000
+DTEND;TZID=Europe/Moscow:20260622T131000
+SUMMARY:Основы права (зачет) · гр. 6561 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1400-6571-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260622T140000
+DTEND;TZID=Europe/Moscow:20260622T154000
+SUMMARY:Основы права (зачет) · гр. 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1600-6541-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260622T160000
+DTEND;TZID=Europe/Moscow:20260622T174000
+SUMMARY:Основы права (зачет) · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1600-6542-основы-права-зачет-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260622T160000
+DTEND;TZID=Europe/Moscow:20260622T174000
+SUMMARY:Основы права (зачет) · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПреподаватель: Гуркин Я. А.
+CATEGORIES:Преподавание,6542
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

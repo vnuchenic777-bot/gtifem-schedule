@@ -1,0 +1,4171 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Group Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание группы 6352 (ФЭМ)
+X-WR-CALDESC:Расписание учебной группы 6352, ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:group-6352-20250901-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250901T093000
+DTEND;TZID=Europe/Moscow:20250901T111000
+SUMMARY:Введение в информационные технологии Лекция · Давудов М. Г. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.414\nП
+ ара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250901-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250901T113000
+DTEND;TZID=Europe/Moscow:20250901T131000
+SUMMARY:Введение в информационные технологии Лекция · Давудов М. Г. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.414\nП
+ ара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250902-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T093000
+DTEND;TZID=Europe/Moscow:20250902T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250902-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T113000
+DTEND;TZID=Europe/Moscow:20250902T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250902-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.409
+ \nПара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250902-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.409
+ \nПара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250903-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T093000
+DTEND;TZID=Europe/Moscow:20250903T111000
+SUMMARY:Введение в информационные технологии Лекция · Давудов М. Г. · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6117\n
+ Пара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250903-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.408\nП
+ ара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250903-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.403\n
+ Пара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250903-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.403\n
+ Пара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250904-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T093000
+DTEND;TZID=Europe/Moscow:20250904T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.101\n
+ Пара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250904-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250904-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.409\n
+ Пара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250904-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.409\n
+ Пара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250905-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250905-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Порошков М. М. · а. 414
+LOCATION:а. 414
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 414\
+ nПара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250905-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T160000
+DTEND;TZID=Europe/Moscow:20250905T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Порошков М. М. · а. 414
+LOCATION:а. 414
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 414\
+ nПара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250908-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250908T093000
+DTEND;TZID=Europe/Moscow:20250908T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.403\n
+ Пара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250908-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250908T113000
+DTEND;TZID=Europe/Moscow:20250908T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.403\n
+ Пара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250909-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.414
+ \nПара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250909-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6242\
+ nПара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250909-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250909T140000
+DTEND;TZID=Europe/Moscow:20250909T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250910-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T093000
+DTEND;TZID=Europe/Moscow:20250910T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6248\
+ nПара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250910-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.6248\
+ nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250910-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6107\n
+ Пара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250910-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а.610
+ 7
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6107\n
+ Пара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250911-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.411\n
+ Пара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250911-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.411\n
+ Пара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250911-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250912-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T093000
+DTEND;TZID=Europe/Moscow:20250912T111000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 6117
+ \nПара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250912-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T113000
+DTEND;TZID=Europe/Moscow:20250912T131000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а. 6117
+LOCATION:а. 6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 6117
+ \nПара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250912-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Порошков М. М. · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 6382
+ \nПара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250912-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 6382
+ \nПара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250915-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.409\n
+ Пара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250915-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.409\n
+ Пара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250915-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250916-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.403\n
+ Пара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250916-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.403\n
+ Пара №15
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250916-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а. 6382
+LOCATION:а. 6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 6382
+ \nПара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250916-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.610
+ 7\nПара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250917-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250917T140000
+DTEND;TZID=Europe/Moscow:20250917T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250917-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250917T160000
+DTEND;TZID=Europe/Moscow:20250917T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250918-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T140000
+DTEND;TZID=Europe/Moscow:20250918T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.409\n
+ Пара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250918-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T160000
+DTEND;TZID=Europe/Moscow:20250918T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Новикова Е. Н. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Новикова Е. Н.\nАудитория: а.409\n
+ Пара №18
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250919-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а. 6378
+LOCATION:а. 6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 6378
+ \nПара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250919-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.414
+ \nПара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250922-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6236\n
+ Пара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250922-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6236\n
+ Пара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250922-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250923-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Мурмыло Ю.Д. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.411\nПа
+ ра №19
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250923-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Мурмыло Ю.Д. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.411\nПа
+ ра №20
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250923-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T140000
+DTEND;TZID=Europe/Moscow:20250923T154000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.101\nП
+ ара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250923-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T160000
+DTEND;TZID=Europe/Moscow:20250923T174000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.101\nП
+ ара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250924-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T093000
+DTEND;TZID=Europe/Moscow:20250924T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · Мурмыло Ю.Д. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.6116\nП
+ ара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250924-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T113000
+DTEND;TZID=Europe/Moscow:20250924T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · Мурмыло Ю.Д. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.6116\nП
+ ара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250924-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250924T140000
+DTEND;TZID=Europe/Moscow:20250924T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250925-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T093000
+DTEND;TZID=Europe/Moscow:20250925T111000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.408\nП
+ ара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250925-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.408\nП
+ ара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250925-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.106\n
+ Пара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250925-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T160000
+DTEND;TZID=Europe/Moscow:20250925T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.106\n
+ Пара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250926-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Мурмыло Ю.Д. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.101\nПа
+ ра №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250926-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Мурмыло Ю.Д. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.101\nПа
+ ра №21
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250926-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T140000
+DTEND;TZID=Europe/Moscow:20250926T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.403\n
+ Пара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250926-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T160000
+DTEND;TZID=Europe/Moscow:20250926T174000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.409
+ \nПара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250929-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Мурмыло Ю.Д. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.414\nПа
+ ра №22
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250929-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Мурмыло Ю.Д. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Мурмыло Ю.Д.\nАудитория: а.414\nПа
+ ра №23
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250929-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.610
+ 7\nПара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250929-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а. 6249
+LOCATION:а. 6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а. 6249
+ \nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250930-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а. 401
+LOCATION:а. 401
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 401\n
+ Пара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20250930-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а. 401
+LOCATION:а. 401
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 401\n
+ Пара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251001-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 40\nПара №24
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251001-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251001-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T140000
+DTEND;TZID=Europe/Moscow:20251001T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.403\n
+ Пара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251001-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T160000
+DTEND;TZID=Europe/Moscow:20251001T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.403\n
+ Пара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251002-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №25
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251002-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №26
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251003-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251003-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 4\nПара №27
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251003-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 4\nПара №28
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251006-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251006-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251006-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 82\nПара №29
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251007-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251007T093000
+DTEND;TZID=Europe/Moscow:20251007T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 82\nПара №30
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251007-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251007T113000
+DTEND;TZID=Europe/Moscow:20251007T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 82\nПара №31
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251007-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.101\nП
+ ара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251007-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.101\nП
+ ара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251008-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251008T093000
+DTEND;TZID=Europe/Moscow:20251008T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 1\nПара №32
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251008-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251008T113000
+DTEND;TZID=Europe/Moscow:20251008T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251008-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.101
+ \nПара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251008-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6245\
+ nПара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251009-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T113000
+DTEND;TZID=Europe/Moscow:20251009T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251009-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6116\
+ nПара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251009-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6116\
+ nПара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251013-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251013T093000
+DTEND;TZID=Europe/Moscow:20251013T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · Помогайбина Е. П. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 76\nПара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251013-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251013T113000
+DTEND;TZID=Europe/Moscow:20251013T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 42\nПара №35
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251013-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251013T140000
+DTEND;TZID=Europe/Moscow:20251013T154000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.408\nП
+ ара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251013-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251013T160000
+DTEND;TZID=Europe/Moscow:20251013T174000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.408\nП
+ ара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251014-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251014-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251014-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 82\nПара №36
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251014-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251015-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T113000
+DTEND;TZID=Europe/Moscow:20251015T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251015-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 1\nПара №37
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251015-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 1\nПара №38
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251016-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251016T140000
+DTEND;TZID=Europe/Moscow:20251016T154000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251016-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251016T160000
+DTEND;TZID=Europe/Moscow:20251016T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №15
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251017-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251017T140000
+DTEND;TZID=Europe/Moscow:20251017T154000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.409\nП
+ ара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251017-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251017T160000
+DTEND;TZID=Europe/Moscow:20251017T174000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.101\nП
+ ара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251020-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251020T093000
+DTEND;TZID=Europe/Moscow:20251020T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251020-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251020T113000
+DTEND;TZID=Europe/Moscow:20251020T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №39
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251020-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251020T140000
+DTEND;TZID=Europe/Moscow:20251020T154000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6382\n
+ Пара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251020-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251020T160000
+DTEND;TZID=Europe/Moscow:20251020T174000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6117\n
+ Пара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251021-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251021T113000
+DTEND;TZID=Europe/Moscow:20251021T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251021-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 4\nПара №40
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251021-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251021T160000
+DTEND;TZID=Europe/Moscow:20251021T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251022-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6236\
+ nПара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251022-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T160000
+DTEND;TZID=Europe/Moscow:20251022T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.408\n
+ Пара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251023-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 1\nПара №41
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251023-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.41
+ 1\nПара №42
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251024-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251024-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 6\nПара №43
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251024-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №18
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251024-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251027-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T093000
+DTEND;TZID=Europe/Moscow:20251027T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №44
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251027-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №45
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251027-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.101
+ \nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251027-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.101
+ \nПара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251028-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №15
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251028-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T160000
+DTEND;TZID=Europe/Moscow:20251028T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №46
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251029-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T093000
+DTEND;TZID=Europe/Moscow:20251029T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 1\nПара №47
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251029-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T113000
+DTEND;TZID=Europe/Moscow:20251029T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251029-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6378\n
+ Пара №15
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251029-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6378\n
+ Пара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251030-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T093000
+DTEND;TZID=Europe/Moscow:20251030T111000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.101
+ \nПара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251030-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T113000
+DTEND;TZID=Europe/Moscow:20251030T131000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6376\
+ nПара №19
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251030-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T140000
+DTEND;TZID=Europe/Moscow:20251030T154000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6378\n
+ Пара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251030-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251030T160000
+DTEND;TZID=Europe/Moscow:20251030T174000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6378\n
+ Пара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251031-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №48
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251031-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T113000
+DTEND;TZID=Europe/Moscow:20251031T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №49
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251031-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251101-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378\
+ nПара №20
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251101-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378\
+ nПара №21
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251101-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №50
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251101-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №51
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251105-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251105T093000
+DTEND;TZID=Europe/Moscow:20251105T111000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6376\n
+ Пара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251105-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251105T113000
+DTEND;TZID=Europe/Moscow:20251105T131000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6376\n
+ Пара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251105-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251105T140000
+DTEND;TZID=Europe/Moscow:20251105T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 48\nПара №52
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251105-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251105T160000
+DTEND;TZID=Europe/Moscow:20251105T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251106-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №22
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251106-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №23
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251107-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251107-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T140000
+DTEND;TZID=Europe/Moscow:20251107T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №53
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251107-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T160000
+DTEND;TZID=Europe/Moscow:20251107T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №54
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251110-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251110T113000
+DTEND;TZID=Europe/Moscow:20251110T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251110-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 40\nПара №55
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251110-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 40\nПара №56
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251111-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251111T093000
+DTEND;TZID=Europe/Moscow:20251111T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №18
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251111-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251111T113000
+DTEND;TZID=Europe/Moscow:20251111T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 48\nПара №57
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251111-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251111T140000
+DTEND;TZID=Europe/Moscow:20251111T154000
+SUMMARY:Разработка коммуникационного продукта КР · Порошков М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №1
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251111-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251111T160000
+DTEND;TZID=Europe/Moscow:20251111T174000
+SUMMARY:Разработка коммуникационного продукта КР · Порошков М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №2
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251112-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251112T093000
+DTEND;TZID=Europe/Moscow:20251112T111000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6249\n
+ Пара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251112-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251112T113000
+DTEND;TZID=Europe/Moscow:20251112T131000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6249\n
+ Пара №18
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251112-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251112T140000
+DTEND;TZID=Europe/Moscow:20251112T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 1\nПара №58
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251112-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251112T160000
+DTEND;TZID=Europe/Moscow:20251112T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №19
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251113-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T140000
+DTEND;TZID=Europe/Moscow:20251113T154000
+SUMMARY:Разработка коммуникационного продукта КР · Порошков М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №3
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251113-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T160000
+DTEND;TZID=Europe/Moscow:20251113T174000
+SUMMARY:Разработка коммуникационного продукта КР · Порошков М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251114-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T113000
+DTEND;TZID=Europe/Moscow:20251114T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 82\nПара №59
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251114-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T140000
+DTEND;TZID=Europe/Moscow:20251114T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 82\nПара №60
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251114-1600-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T160000
+DTEND;TZID=Europe/Moscow:20251114T174000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №15
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251117-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6376\n
+ Пара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251117-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251117T160000
+DTEND;TZID=Europe/Moscow:20251117T174000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6376\n
+ Пара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251118-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251118T093000
+DTEND;TZID=Europe/Moscow:20251118T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №20
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251118-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251118T113000
+DTEND;TZID=Europe/Moscow:20251118T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №61
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251119-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Разработка коммуникационного продукта КР · Порошков М. М. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6240\
+ nПара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251119-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.638
+ 2\nПара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251120-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T140000
+DTEND;TZID=Europe/Moscow:20251120T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 07\nПара №62
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251120-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251120T160000
+DTEND;TZID=Europe/Moscow:20251120T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №21
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251121-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251121-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №63
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251121-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №64
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251124-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T093000
+DTEND;TZID=Europe/Moscow:20251124T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · Помогайбина Е. П. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 49\nПара №4
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251124-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T113000
+DTEND;TZID=Europe/Moscow:20251124T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лабораторный практикум · Помогайбина Е. П. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 49\nПара №5
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251125-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251125T140000
+DTEND;TZID=Europe/Moscow:20251125T154000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6376\n
+ Пара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251125-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251125T160000
+DTEND;TZID=Europe/Moscow:20251125T174000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6376\n
+ Пара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251126-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T113000
+DTEND;TZID=Europe/Moscow:20251126T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №22
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251126-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251126T140000
+DTEND;TZID=Europe/Moscow:20251126T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 07\nПара №65
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251127-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 45\nПара №66
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251127-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 36\nПара №67
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251127-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T140000
+DTEND;TZID=Europe/Moscow:20251127T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6240\
+ nПара №24
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251127-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T160000
+DTEND;TZID=Europe/Moscow:20251127T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6376\
+ nПара №25
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251128-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 48\nПара №68
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251128-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №23
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251128-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251201-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 82\nПара №69
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251201-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №24
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251202-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №18
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251202-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T140000
+DTEND;TZID=Europe/Moscow:20251202T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №70
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251202-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T160000
+DTEND;TZID=Europe/Moscow:20251202T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №71
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251203-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251203T140000
+DTEND;TZID=Europe/Moscow:20251203T154000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251203-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251203T160000
+DTEND;TZID=Europe/Moscow:20251203T174000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251204-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251204T140000
+DTEND;TZID=Europe/Moscow:20251204T154000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а. 408
+LOCATION:а. 408
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 408\n
+ Пара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251204-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251204T160000
+DTEND;TZID=Europe/Moscow:20251204T174000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а. 40
+ 9
+LOCATION:а. 409
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 409\n
+ Пара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251205-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.610
+ 7\nПара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251205-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.610
+ 7\nПара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251208-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Разработка коммуникационного продукта лекция · Постникова Е. М. · а
+ .101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.101
+ \nПара №15
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251208-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6381\
+ nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251209-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T140000
+DTEND;TZID=Europe/Moscow:20251209T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №25
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251209-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T160000
+DTEND;TZID=Europe/Moscow:20251209T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 3\nПара №72
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251210-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251210T093000
+DTEND;TZID=Europe/Moscow:20251210T111000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а. 61
+ 07
+LOCATION:а. 6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6107\
+ nПара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251210-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251210T113000
+DTEND;TZID=Europe/Moscow:20251210T131000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а. 61
+ 07
+LOCATION:а. 6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6107\
+ nПара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251210-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251210T140000
+DTEND;TZID=Europe/Moscow:20251210T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.409\n
+ Пара №26
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251210-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251210T160000
+DTEND;TZID=Europe/Moscow:20251210T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.409\n
+ Пара №27
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251211-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T093000
+DTEND;TZID=Europe/Moscow:20251211T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 16\nПара №73
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251211-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T113000
+DTEND;TZID=Europe/Moscow:20251211T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №6
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251211-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №19
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251212-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · Помогайбина Е. П. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 49\nПара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251212-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №26
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251215-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие (перенос с 30.12.2025) · Помогайбина Е. П. 
+ · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 07\nПара №81
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251215-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие (перенос с 30.12.2025) · Помогайбина Е. П. 
+ · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №82
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251215-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №28
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251215-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6249\
+ nПара №29
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251216-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T093000
+DTEND;TZID=Europe/Moscow:20251216T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а. 6
+ 373\nПара №74
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251216-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T113000
+DTEND;TZID=Europe/Moscow:20251216T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а. 6373
+LOCATION:а. 6373
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а. 6
+ 373\nПара №75
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251216-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T140000
+DTEND;TZID=Europe/Moscow:20251216T154000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а. 40
+ 1
+LOCATION:а. 401
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 401\n
+ Пара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251216-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251216T160000
+DTEND;TZID=Europe/Moscow:20251216T174000
+SUMMARY:Введение в информационные технологии лекция · Давудов М. Г. · а. 40
+ 1
+LOCATION:а. 401
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 401\n
+ Пара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251217-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251217T093000
+DTEND;TZID=Europe/Moscow:20251217T111000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6116\
+ nПара №30
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251217-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6116\
+ nПара №31
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251218-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T093000
+DTEND;TZID=Europe/Moscow:20251218T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.101\n
+ Пара №27
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251218-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T113000
+DTEND;TZID=Europe/Moscow:20251218T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №76
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251218-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6112\
+ nПара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251218-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6112\
+ nПара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251219-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6112\
+ nПара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251219-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6112\
+ nПара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251219-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T140000
+DTEND;TZID=Europe/Moscow:20251219T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 15\nПара №77
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251219-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T160000
+DTEND;TZID=Europe/Moscow:20251219T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №28
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251222-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6242\
+ nПара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251222-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Введение в информационные технологии лабораторный практикум · Давуд
+ ов М. Г. · а. 6242
+LOCATION:а. 6242
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6242\
+ nПара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251222-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T140000
+DTEND;TZID=Europe/Moscow:20251222T154000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.106\n
+ Пара №32
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251222-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T160000
+DTEND;TZID=Europe/Moscow:20251222T174000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6116\
+ nПара №33
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251223-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251223T113000
+DTEND;TZID=Europe/Moscow:20251223T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №20
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251223-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251223T140000
+DTEND;TZID=Europe/Moscow:20251223T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 1\nПара №78
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251223-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251223T160000
+DTEND;TZID=Europe/Moscow:20251223T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 1\nПара №79
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251224-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378\
+ nПара №34
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251224-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Разработка коммуникационного продукта практическое занятие · Порошк
+ ов М. М. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378\
+ nПара №35
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251224-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · Помогайбина Е. П. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 9\nПара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251224-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве Лабораторное занятие · Помогайбина Е. П. · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 9\nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251225-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T113000
+DTEND;TZID=Europe/Moscow:20251225T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+ ие · Ковшура Т. Е. · каф.физ.воспитания
+LOCATION:каф.физ.воспитания
+DESCRIPTION:Группа: 6352\nПреподаватель: Ковшура Т. Е.\nАудитория: каф.физ.
+ воспитания\nПара №21
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251225-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве лекция · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №29
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251225-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве практическое занятие · Помогайбина Е. П. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 6\nПара №80
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251226-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251226T140000
+DTEND;TZID=Europe/Moscow:20251226T154000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6245\
+ nПара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251226-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251226T160000
+DTEND;TZID=Europe/Moscow:20251226T174000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6245\
+ nПара №11
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251229-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T093000
+DTEND;TZID=Europe/Moscow:20251229T111000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6112\
+ nПара №19
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251229-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T113000
+DTEND;TZID=Europe/Moscow:20251229T131000
+SUMMARY:Введение в информационные технологии практическое занятие · Давудов
+  М. Г. · а. 6112
+LOCATION:а. 6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а. 6112\
+ nПара №20
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251229-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T140000
+DTEND;TZID=Europe/Moscow:20251229T154000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6382\
+ nПара №12
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251229-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251229T160000
+DTEND;TZID=Europe/Moscow:20251229T174000
+SUMMARY:Разработка коммуникационного продукта лабораторный практикум · Поро
+ шков М. М. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6382\
+ nПара №13
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20251231-0930-выходной-день@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251231T093000
+DTEND;TZID=Europe/Moscow:20251231T111000
+SUMMARY:Выходной день · Новый год
+LOCATION:Новый год
+DESCRIPTION:Группа: 6352\nАудитория: Новый год
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260202-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260202T093000
+DTEND;TZID=Europe/Moscow:20260202T111000
+SUMMARY:Введение в информационные технологии (пр) · Давудов М. Г. · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.408\nП
+ ара №22
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260202-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260202T113000
+DTEND;TZID=Europe/Moscow:20260202T131000
+SUMMARY:Введение в информационные технологии (пр) · Давудов М. Г. · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6112\n
+ Пара №23
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260202-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260202T140000
+DTEND;TZID=Europe/Moscow:20260202T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.восп.
+LOCATION:а.Кафедра физ.восп.
+DESCRIPTION:Группа: 6352\nАудитория: а.Кафедра физ.восп.
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260202-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260202T160000
+DTEND;TZID=Europe/Moscow:20260202T174000
+SUMMARY:Разработка коммуникационного продукта (лек) · Постникова Е. М. · а.
+ 101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.101
+ \nПара №20
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260204-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 12\nПара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260204-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.10
+ 6\nПара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260204-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T140000
+DTEND;TZID=Europe/Moscow:20260204T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лек) · Порошков М. М. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6382\
+ nПара №32
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260204-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Разработка коммуникационного продукта (Курс.работа) · Порошков М. М
+ . · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6373\
+ nПара №7
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260206-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260206T093000
+DTEND;TZID=Europe/Moscow:20260206T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 6\nПара №88
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260206-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260206T113000
+DTEND;TZID=Europe/Moscow:20260206T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 6\nПара №89
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260206-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260206T140000
+DTEND;TZID=Europe/Moscow:20260206T154000
+SUMMARY:Разработка коммуникационного продукта (Курс.работа) · Порошков М. М
+ . · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.403\n
+ Пара №8
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260209-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260209T113000
+DTEND;TZID=Europe/Moscow:20260209T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лек) · Порошков М. М. · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6382\
+ nПара №33
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260209-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260209T140000
+DTEND;TZID=Europe/Moscow:20260209T154000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.624
+ 0
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6240\
+ nПара №43
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260211-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260211T093000
+DTEND;TZID=Europe/Moscow:20260211T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 16\nПара №18
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260211-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260211T113000
+DTEND;TZID=Europe/Moscow:20260211T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 16\nПара №19
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260212-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T113000
+DTEND;TZID=Europe/Moscow:20260212T131000
+SUMMARY:Разработка коммуникационного продукта (лек) · Постникова Е. М. · а.
+ 101
+LOCATION:а.101
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.101
+ \nПара №21
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260212-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T140000
+DTEND;TZID=Europe/Moscow:20260212T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.воспит
+LOCATION:а.Кафедра физ.воспит
+DESCRIPTION:Группа: 6352\nАудитория: а.Кафедра физ.воспит
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260212-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260212T160000
+DTEND;TZID=Europe/Moscow:20260212T174000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.406\n
+ Пара №44
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260213-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T093000
+DTEND;TZID=Europe/Moscow:20260213T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 3\nПара №90
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260213-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T113000
+DTEND;TZID=Europe/Moscow:20260213T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 3\nПара №91
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260213-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260213T140000
+DTEND;TZID=Europe/Moscow:20260213T154000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.411\n
+ Пара №45
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260216-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260216T093000
+DTEND;TZID=Europe/Moscow:20260216T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 49\nПара №20
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260216-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260216T113000
+DTEND;TZID=Europe/Moscow:20260216T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 49\nПара №21
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260217-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6352\nАудитория: а.Кафедра физ.в.
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260217-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Разработка коммуникационного продукта (лек) · Постникова Е. М. · а.
+ 6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6352\nПреподаватель: Постникова Е. М.\nАудитория: а.638
+ 2\nПара №22
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260218-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260218T093000
+DTEND;TZID=Europe/Moscow:20260218T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 6\nПара №92
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260218-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260218T113000
+DTEND;TZID=Europe/Moscow:20260218T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 6\nПара №93
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260219-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лек) · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №34
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260219-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T160000
+DTEND;TZID=Europe/Moscow:20260219T174000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.610
+ 7
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №46
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260220-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Разработка коммуникационного продукта (лаб) · Порошков М. М. · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6116\
+ nПара №14
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260220-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T160000
+DTEND;TZID=Europe/Moscow:20260220T174000
+SUMMARY:Разработка коммуникационного продукта (лаб) · Порошков М. М. · а.61
+ 16
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6116\
+ nПара №15
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260224-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лек) · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №35
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260224-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260224T140000
+DTEND;TZID=Europe/Moscow:20260224T154000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.411\n
+ Пара №47
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260226-0930-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260226T093000
+DTEND;TZID=Europe/Moscow:20260226T111000
+SUMMARY:Разработка коммуникационного продукта (лаб) · Порошков М. М. · а.61
+ 17
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260226-1130-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260226T113000
+DTEND;TZID=Europe/Moscow:20260226T131000
+SUMMARY:Разработка коммуникационного продукта (лаб) · Порошков М. М. · а.61
+ 17
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260226-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лек) · Порошков М. М. · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6107\
+ nПара №36
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260226-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260226T160000
+DTEND;TZID=Europe/Moscow:20260226T174000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.411\n
+ Пара №48
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260227-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260227T093000
+DTEND;TZID=Europe/Moscow:20260227T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №94
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260227-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260227T113000
+DTEND;TZID=Europe/Moscow:20260227T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.63
+ 81\nПара №95
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260227-1400-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260227T140000
+DTEND;TZID=Europe/Moscow:20260227T154000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Кафедра ф
+ из.в.
+LOCATION:а.Кафедра физ.в.
+DESCRIPTION:Группа: 6352\nАудитория: а.Кафедра физ.в.
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260227-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260227T160000
+DTEND;TZID=Europe/Moscow:20260227T174000
+SUMMARY:Введение в информационные технологии (лаб) · Давудов М. Г. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6116\n
+ Пара №16
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260302-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260302T140000
+DTEND;TZID=Europe/Moscow:20260302T154000
+SUMMARY:Разработка коммуникационного продукта (Курс.работа) · Порошков М. М
+ . · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №9
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260302-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260302T160000
+DTEND;TZID=Europe/Moscow:20260302T174000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №49
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260303-0930-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:Введение в информационные технологии (лаб) · Давудов М. Г. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6116\n
+ Пара №17
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260303-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 45\nПара №96
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260303-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 49\nПара №97
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260303-1600-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T160000
+DTEND;TZID=Europe/Moscow:20260303T174000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 49\nПара №98
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260304-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260304T093000
+DTEND;TZID=Europe/Moscow:20260304T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 16\nПара №22
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260304-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260304T113000
+DTEND;TZID=Europe/Moscow:20260304T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 16\nПара №23
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260306-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260306T140000
+DTEND;TZID=Europe/Moscow:20260306T154000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.624
+ 0
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6240\
+ nПара №50
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260306-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260306T160000
+DTEND;TZID=Europe/Moscow:20260306T174000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.624
+ 5
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6245\
+ nПара №51
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260310-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260310T113000
+DTEND;TZID=Europe/Moscow:20260310T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.40
+ 3\nПара №24
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260310-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260310T140000
+DTEND;TZID=Europe/Moscow:20260310T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 36\nПара №25
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260311-0930-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T093000
+DTEND;TZID=Europe/Moscow:20260311T111000
+SUMMARY:Элективные курсы по физической культуре и спорту (пр) · а.Каф.физ.в
+ оспит.
+LOCATION:а.Каф.физ.воспит.
+DESCRIPTION:Группа: 6352\nАудитория: а.Каф.физ.воспит.
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260311-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (пр) · Помогайбина Е. П. · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.62
+ 40\nПара №99
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260311-1400-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (лаб) · Помогайбина Е. П. · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Помогайбина Е. П.\nАудитория: а.61
+ 17\nПара №26
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260311-1600-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T160000
+DTEND;TZID=Europe/Moscow:20260311T174000
+SUMMARY:Введение в информационные технологии (лаб) · Давудов М. Г. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6378\n
+ Пара №18
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260313-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T140000
+DTEND;TZID=Europe/Moscow:20260313T154000
+SUMMARY:Разработка коммуникационного продукта (пр) · Порошков М. М. · а.611
+ 7
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №52
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260313-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T160000
+DTEND;TZID=Europe/Moscow:20260313T174000
+SUMMARY:Разработка коммуникационного продукта (Курс.работа) · Порошков М. М
+ . · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6117\
+ nПара №10
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260318-1130-элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T113000
+DTEND;TZID=Europe/Moscow:20260318T131000
+SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · а.
+LOCATION:а.
+DESCRIPTION:Группа: 6352\nАудитория: а.
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260323-1130-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Введение в информационные технологии (экз) · Давудов М. Г. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6245
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260323-1400-введение-в-информационные-техн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T140000
+DTEND;TZID=Europe/Moscow:20260323T154000
+SUMMARY:Введение в информационные технологии (экз) · Давудов М. Г. · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6352\nПреподаватель: Давудов М. Г.\nАудитория: а.6245
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260327-1400-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260327T140000
+DTEND;TZID=Europe/Moscow:20260327T154000
+SUMMARY:Разработка коммуникационного продукта (экз) · Порошков М. М. · а.63
+ 78
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260327-1600-разработка-коммуникационного-п@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260327T160000
+DTEND;TZID=Europe/Moscow:20260327T174000
+SUMMARY:Разработка коммуникационного продукта (экз) · Порошков М. М. · а.63
+ 78
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260330-0930-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260330T093000
+DTEND;TZID=Europe/Moscow:20260330T111000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (экз) · Порошков М. М. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:group-6352-20260330-1130-социальная-ответственность-про@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260330T113000
+DTEND;TZID=Europe/Moscow:20260330T131000
+SUMMARY:Социальная ответственность профессиональной деятельности в медиапро
+ странстве (экз) · Порошков М. М. · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6352\nПреподаватель: Порошков М. М.\nАудитория: а.6378
+CATEGORIES:Учёба,6352
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Телятникова Н.В. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Телятникова Н.В., ФЭМ СПбГТИ (Т
- У)
+X-WR-CALNAME:Расписание Телятникова Н. В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Телятникова Н. В., ФЭМ СПбГТИ (
+ ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -19,232 +19,254 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:teacher-20250904-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T113000
+DTEND;TZID=Europe/Moscow:20250904T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250904-1130-6453-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
 DTEND;TZID=Europe/Moscow:20250904T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6453 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6453\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
- тель: Телятникова Н.В.
+ тель: Телятникова Н. В.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250904-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250904-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №1\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250905-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250905-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T113000
 DTEND;TZID=Europe/Moscow:20250905T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №2\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250908-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250908-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T113000
 DTEND;TZID=Europe/Moscow:20250908T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №3\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250909-1130-6241-6242-6253-6254-элективные-курсы-по-физическо
- й@gtifem.ru
-DTSTAMP:20260602T102638Z
+UID:teacher-20250909-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T113000
 DTEND;TZID=Europe/Moscow:20250909T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6241\,6242\, 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6241\,6242\, 6253\,6254\nАудитория: каф.физ.воспитания\
- nПара №1\nПреподаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6241\,6242\, 6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250911-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250911-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T113000
 DTEND;TZID=Europe/Moscow:20250911T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №5\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-1400-6453-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6453 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6453\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
- тель: Телятникова Н.В.
+ тель: Телятникова Н. В.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250915-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250915-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №6\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T140000
+DTEND;TZID=Europe/Moscow:20250916T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-1400-6453-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250916T140000
 DTEND;TZID=Europe/Moscow:20250916T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6453 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6453\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
- тель: Телятникова Н.В.
+ тель: Телятникова Н. В.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250917-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250917-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T140000
 DTEND;TZID=Europe/Moscow:20250917T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №7\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250918-1130-6453-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250918T113000
 DTEND;TZID=Europe/Moscow:20250918T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6453 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6453\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
- тель: Телятникова Н.В.
+ тель: Телятникова Н. В.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250922-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250922-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №8\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250925-1130-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250925-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №9\nПре
- подаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T140000
+DTEND;TZID=Europe/Moscow:20250925T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1400-6453-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6453 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6453\nАудитория: каф.физ.воспитания\nПара №4\nПреподава
- тель: Телятникова Н.В.
+ тель: Телятникова Н. В.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250929-1400-6253-6254-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102638Z
+UID:teacher-20250929-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T140000
 DTEND;TZID=Europe/Moscow:20250929T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6253\,6254 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6253\,6254\nАудитория: каф.физ.воспитания\nПара №10\nПр
- еподаватель: Телятникова Н.В.
-CATEGORIES:Преподавание,6253\,6254
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Телятникова Н. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260626-1130-6453-физическая-культура-и-спорт-за@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260626T113000
 DTEND;TZID=Europe/Moscow:20260626T131000
 SUMMARY:Физическая культура и спорт (зачет) · гр. 6453 · а.Каф.физ.воспит.
 LOCATION:а.Каф.физ.воспит.
 DESCRIPTION:Группа: 6453\nАудитория: а.Каф.физ.воспит.\nПреподаватель: Теля
- тникова Н.В.
+ тникова Н. В.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260703-1400-6453-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102638Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260703T140000
 DTEND;TZID=Europe/Moscow:20260703T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · гр. 6453
-  · а.Кафедра физ.воспит
-LOCATION:а.Кафедра физ.воспит
-DESCRIPTION:Группа: 6453\nАудитория: а.Кафедра физ.воспит\nПреподаватель: Т
- елятникова Н.В.
+DESCRIPTION:Группа: 6453\nПреподаватель: Телятникова Н. В.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT

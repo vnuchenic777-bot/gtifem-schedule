@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Федоров В.И. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Федоров В.И., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Федоров В. И. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Федоров В. И., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -18,260 +18,301 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:teacher-20250903-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T113000
+DTEND;TZID=Europe/Moscow:20250903T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250903-1130-6441-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T113000
 DTEND;TZID=Europe/Moscow:20250903T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6441 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6441\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
- тель: Федоров В.И.
+ тель: Федоров В. И.
 CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250904-1400-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250904-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T140000
 DTEND;TZID=Europe/Moscow:20250904T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · а.6117
-LOCATION:а.6117
-DESCRIPTION:Группа: 6541\,6542\nАудитория: а.6117\nПара №2\nПреподаватель: 
- Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250908-1130-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250908-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T113000
 DTEND;TZID=Europe/Moscow:20250908T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №3\nПре
- подаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250909-1130-6241-6242-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250909-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T113000
 DTEND;TZID=Europe/Moscow:20250909T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6241\,6242 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6241\,6242\nАудитория: каф.физ.воспитания\nПара №1\nПре
- подаватель: Федоров В.И.
-CATEGORIES:Преподавание,6241\,6242
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250910-1130-6441-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T113000
 DTEND;TZID=Europe/Moscow:20250910T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6441 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6441\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
- тель: Федоров В.И.
+ тель: Федоров В. И.
 CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250911-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250911-1130-6441-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T113000
 DTEND;TZID=Europe/Moscow:20250911T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6441 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6441\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
- тель: Федоров В.И.
+ тель: Федоров В. И.
 CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250911-1400-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250911-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T140000
 DTEND;TZID=Europe/Moscow:20250911T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №4\nПре
- подаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250912-1130-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250912-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T113000
 DTEND;TZID=Europe/Moscow:20250912T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №5\nПре
- подаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250915-1400-6541-6542-6441-элективные-курсы-по-физической@gti
- fem.ru
-DTSTAMP:20260602T102639Z
+UID:teacher-20250915-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542\, 6441 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\, 6441\nАудитория: каф.физ.воспитания\nПара 
- №6\nПреподаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542\, 6441
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250917-1400-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250917-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T140000
 DTEND;TZID=Europe/Moscow:20250917T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №7\nПре
- подаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1400-6341-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T140000
 DTEND;TZID=Europe/Moscow:20250919T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6341 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6341\nАудитория: каф.физ.воспитания\nПара №1\nПреподава
- тель: Федоров В.И.
+ тель: Федоров В. И.
 CATEGORIES:Преподавание,6341
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250922-1400-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250922-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №8\nПре
- подаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250925-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250925T113000
+DTEND;TZID=Europe/Moscow:20250925T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1130-6441-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T113000
 DTEND;TZID=Europe/Moscow:20250925T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6441 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6441\nАудитория: каф.физ.воспитания\nПара №5\nПреподава
- тель: Федоров В.И.
+ тель: Федоров В. И.
 CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250925-1400-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250925-1400--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №9\nПре
- подаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250926-1130-6341-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T113000
 DTEND;TZID=Europe/Moscow:20250926T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6341 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6341\nАудитория: каф.физ.воспитания\nПара №2\nПреподава
- тель: Федоров В.И.
+ тель: Федоров В. И.
 CATEGORIES:Преподавание,6341
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250929-1130-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250929-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T113000
 DTEND;TZID=Europe/Moscow:20250929T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №11\nПр
- еподаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250930-0930-6541-6542-элективные-курсы-по-физической@gtifem.r
- u
-DTSTAMP:20260602T102639Z
+UID:teacher-20250930-0930--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250930T093000
 DTEND;TZID=Europe/Moscow:20250930T111000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
- ие · гр. 6541\,6542 · каф.физ.воспитания
-LOCATION:каф.физ.воспитания
-DESCRIPTION:Группа: 6541\,6542\nАудитория: каф.физ.воспитания\nПара №10\nПр
- еподаватель: Федоров В.И.
-CATEGORIES:Преподавание,6541\,6542
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1130--элективные-курсы-по-физической@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250930T113000
+DTEND;TZID=Europe/Moscow:20250930T131000
+SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Федоров В. И.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250930-1130-6341-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250930T113000
 DTEND;TZID=Europe/Moscow:20250930T131000
 SUMMARY:Элективные курсы по физической культуре и спорту практическое занят
  ие · гр. 6341 · каф.физ.воспитания
 LOCATION:каф.физ.воспитания
 DESCRIPTION:Группа: 6341\nАудитория: каф.физ.воспитания\nПара №3\nПреподава
- тель: Федоров В.И.
+ тель: Федоров В. И.
 CATEGORIES:Преподавание,6341
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260623-1400-6441-элективные-курсы-по-физической@gtifem.ru
-DTSTAMP:20260602T102639Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260623T140000
 DTEND;TZID=Europe/Moscow:20260623T154000
 SUMMARY:Элективные курсы по физической культуре и спорту (зачет) · гр. 6441
-  · а.Кафедра физ.в.
-LOCATION:а.Кафедра физ.в.
-DESCRIPTION:Группа: 6441\nАудитория: а.Кафедра физ.в.\nПреподаватель: Федор
- ов В.И.
+DESCRIPTION:Группа: 6441\nПреподаватель: Федоров В. И.
 CATEGORIES:Преподавание,6441
 STATUS:CONFIRMED
 END:VEVENT

@@ -20,7 +20,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250905-1400-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Основы российской государственности лекция · гр. 6571 · а.411
@@ -32,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1400-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -42,7 +42,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1600-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6571
@@ -52,7 +52,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1600-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Основы российской государственности лекция · гр. 6511 · а.403
@@ -64,7 +64,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1130-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T113000
 DTEND;TZID=Europe/Moscow:20250912T131000
 SUMMARY:Основы российской государственности лекция · гр. 6571 · а.403
@@ -76,7 +76,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1400-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T140000
 DTEND;TZID=Europe/Moscow:20250912T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -87,7 +87,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1600-6511-6512-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T160000
 DTEND;TZID=Europe/Moscow:20250912T174000
 SUMMARY:Основы российской государственности лекция · гр. 6511\,6512 · а.403
@@ -100,7 +100,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-0930-6541-6542-6581-основы-российской-государствен@gti
  fem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T093000
 DTEND;TZID=Europe/Moscow:20250915T111000
 SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581
@@ -109,8 +109,44 @@ CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250915-0930-6541-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Основы российской государственности лекция · гр. 6541 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\nАудитория: а.405\nПара №3\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Основы российской государственности лекция · гр. 6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6542\nАудитория: а.405\nПара №3\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Основы российской государственности лекция · гр. 6581 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6581\nАудитория: а.405\nПара №3\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250916-1400-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250916T140000
 DTEND;TZID=Europe/Moscow:20250916T154000
 SUMMARY:Основы российской государственности лекция · гр. 6571 · а.414
@@ -122,7 +158,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250916-1600-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250916T160000
 DTEND;TZID=Europe/Moscow:20250916T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6571
@@ -132,7 +168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1400-6541-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T140000
 DTEND;TZID=Europe/Moscow:20250919T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6541
@@ -141,9 +177,35 @@ CATEGORIES:Преподавание,6541
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250919-1400-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6542
+  · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №5\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1400-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T140000
+DTEND;TZID=Europe/Moscow:20250919T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6581
+  · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №5\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250919-1600-6541-6542-6581-основы-российской-государствен@gti
  fem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T160000
 DTEND;TZID=Europe/Moscow:20250919T174000
 SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581
@@ -152,8 +214,44 @@ CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250919-1600-6541-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Основы российской государственности лекция · гр. 6541 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6541\nАудитория: а.101\nПара №4\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Основы российской государственности лекция · гр. 6542 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6542\nАудитория: а.101\nПара №4\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1600-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T160000
+DTEND;TZID=Europe/Moscow:20250919T174000
+SUMMARY:Основы российской государственности лекция · гр. 6581 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6581\nАудитория: а.101\nПара №4\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250926-1130-6553-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T113000
 DTEND;TZID=Europe/Moscow:20250926T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
@@ -162,8 +260,21 @@ CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250926-1130-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T113000
+DTEND;TZID=Europe/Moscow:20250926T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6554\nАудитория: а.411\nПара №6\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251003-1130-6551-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
@@ -173,7 +284,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251003-1130-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -182,8 +293,21 @@ CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251003-1130-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6552
+  · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6552\nАудитория: а.409\nПара №10\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251007-1130-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251007T113000
 DTEND;TZID=Europe/Moscow:20251007T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6571
@@ -193,7 +317,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251007-1400-6521-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251007T140000
 DTEND;TZID=Europe/Moscow:20251007T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6521
@@ -202,8 +326,21 @@ CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251007-1400-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251007T140000
+DTEND;TZID=Europe/Moscow:20251007T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\nАудитория: а.406\nПара №8\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251007-1600-6521-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251007T160000
 DTEND;TZID=Europe/Moscow:20251007T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6521
@@ -212,9 +349,22 @@ CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251007-1600-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251007T160000
+DTEND;TZID=Europe/Moscow:20251007T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\nАудитория: а.406\nПара №9\nПреподаватель: Барышни
+ кова Е. И.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251010-1130-6531-6532-6533--основы-российской-государствен@gt
  ifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251010T113000
 DTEND;TZID=Europe/Moscow:20251010T131000
 SUMMARY:Основы российской государственности лекция · гр. 6531\,6532\, 6533\
@@ -225,7 +375,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1130-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T113000
 DTEND;TZID=Europe/Moscow:20251017T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6571
@@ -235,7 +385,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1130-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T113000
 DTEND;TZID=Europe/Moscow:20251024T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -245,7 +395,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1400-6551-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T140000
 DTEND;TZID=Europe/Moscow:20251024T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
@@ -254,8 +404,21 @@ CATEGORIES:Преподавание,6551
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251024-1400-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6552
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6552\nАудитория: а.403\nПара №13\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251101-1400-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T140000
 DTEND;TZID=Europe/Moscow:20251101T154000
 SUMMARY:Основы российской государственности лекция · гр. 6511 · а.403
@@ -267,7 +430,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251101-1600-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T160000
 DTEND;TZID=Europe/Moscow:20251101T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -277,7 +440,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1130-6541-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T113000
 DTEND;TZID=Europe/Moscow:20251107T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6541
@@ -286,9 +449,35 @@ CATEGORIES:Преподавание,6541
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251107-1130-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6542
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №14\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-1130-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T113000
+DTEND;TZID=Europe/Moscow:20251107T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6581
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №14\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251107-1400-6511-6512-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T140000
 DTEND;TZID=Europe/Moscow:20251107T154000
 SUMMARY:Основы российской государственности лекция · гр. 6511\,6512 · а.403
@@ -300,7 +489,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1600-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T160000
 DTEND;TZID=Europe/Moscow:20251107T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -310,7 +499,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1400-6531-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T140000
 DTEND;TZID=Europe/Moscow:20251111T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
@@ -320,7 +509,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1600-6531-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T160000
 DTEND;TZID=Europe/Moscow:20251111T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
@@ -330,7 +519,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251121-1130-6561-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T113000
 DTEND;TZID=Europe/Moscow:20251121T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6561
@@ -339,8 +528,21 @@ CATEGORIES:Преподавание,6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251121-1130-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T113000
+DTEND;TZID=Europe/Moscow:20251121T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6521
+  · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №18\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251121-1400-6541-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T140000
 DTEND;TZID=Europe/Moscow:20251121T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6541
@@ -349,8 +551,34 @@ CATEGORIES:Преподавание,6541
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251121-1400-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6542
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №17\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6581
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №17\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251121-1600-6541-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T160000
 DTEND;TZID=Europe/Moscow:20251121T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6541
@@ -359,8 +587,34 @@ CATEGORIES:Преподавание,6541
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251121-1600-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6542
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №18\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1600-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T160000
+DTEND;TZID=Europe/Moscow:20251121T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6581
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №18\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260324-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260324T113000
 DTEND;TZID=Europe/Moscow:20260324T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -370,8 +624,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260324-1130-6551-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6551 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6551\nАудитория: а.6116\nПара №1\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260324-1130-6552-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260324T113000
+DTEND;TZID=Europe/Moscow:20260324T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6552 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6552\nАудитория: а.6116\nПара №1\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260416-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T093000
 DTEND;TZID=Europe/Moscow:20260416T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -381,8 +661,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260416-0930-6441-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T093000
+DTEND;TZID=Europe/Moscow:20260416T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №1\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-0930-6471-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T093000
+DTEND;TZID=Europe/Moscow:20260416T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6471 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6471\nАудитория: а.6378\nПара №1\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260416-0930-6481-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T093000
 DTEND;TZID=Europe/Moscow:20260416T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -395,7 +701,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260416-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T113000
 DTEND;TZID=Europe/Moscow:20260416T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -405,8 +711,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260416-1130-6441-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T113000
+DTEND;TZID=Europe/Moscow:20260416T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6441 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6441\nАудитория: а.6378\nПара №2\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1130-6471-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T113000
+DTEND;TZID=Europe/Moscow:20260416T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6471 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6471\nАудитория: а.6378\nПара №2\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260416-1130-6481-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260416T113000
 DTEND;TZID=Europe/Moscow:20260416T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -419,7 +751,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T093000
 DTEND;TZID=Europe/Moscow:20260421T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -429,8 +761,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260421-0930-6441-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260421T093000
+DTEND;TZID=Europe/Moscow:20260421T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6441 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6441\nАудитория: а.6245\nПара №3\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-0930-6471-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260421T093000
+DTEND;TZID=Europe/Moscow:20260421T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6471 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6471\nАудитория: а.6245\nПара №3\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260421-0930-6481-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T093000
 DTEND;TZID=Europe/Moscow:20260421T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -443,7 +801,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260421-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T113000
 DTEND;TZID=Europe/Moscow:20260421T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -453,8 +811,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260421-1130-6441-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6441 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6441\nАудитория: а.6249\nПара №4\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260421-1130-6471-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260421T113000
+DTEND;TZID=Europe/Moscow:20260421T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6471 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №4\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260421-1130-6481-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T113000
 DTEND;TZID=Europe/Moscow:20260421T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -467,7 +851,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T093000
 DTEND;TZID=Europe/Moscow:20260422T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -477,8 +861,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260422-0930-6551-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260422T093000
+DTEND;TZID=Europe/Moscow:20260422T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6551 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6551\nАудитория: а.6378\nПара №2\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-0930-6552-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260422T093000
+DTEND;TZID=Europe/Moscow:20260422T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6552 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6552\nАудитория: а.6378\nПара №2\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260428-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T093000
 DTEND;TZID=Europe/Moscow:20260428T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -488,8 +898,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260428-0930-6461-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6461 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nАудитория: а.6235\nПара №1\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260428-0930-6421-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260428T093000
+DTEND;TZID=Europe/Moscow:20260428T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6421 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №1\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260430-1400--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T140000
 DTEND;TZID=Europe/Moscow:20260430T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -499,8 +935,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260430-1400-6461-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6461 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nАудитория: а.6235\nПара №2\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-6421-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6421 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №2\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260505-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T093000
 DTEND;TZID=Europe/Moscow:20260505T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -510,8 +972,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260505-0930-6551-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260505T093000
+DTEND;TZID=Europe/Moscow:20260505T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6551 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6551\nАудитория: а.6117\nПара №3\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-0930-6552-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260505T093000
+DTEND;TZID=Europe/Moscow:20260505T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6552 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6552\nАудитория: а.6117\nПара №3\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260514-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T093000
 DTEND;TZID=Europe/Moscow:20260514T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -521,8 +1009,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260514-0930-6461-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T093000
+DTEND;TZID=Europe/Moscow:20260514T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6461 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6461\nАудитория: а.6235\nПара №3\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-0930-6421-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T093000
+DTEND;TZID=Europe/Moscow:20260514T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6421 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6421\nАудитория: а.6235\nПара №3\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260514-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T113000
 DTEND;TZID=Europe/Moscow:20260514T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -532,8 +1046,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260514-1130-6441-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6441 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6441\nАудитория: а.6249\nПара №5\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6441
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260514-1130-6471-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260514T113000
+DTEND;TZID=Europe/Moscow:20260514T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6471 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №5\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6471
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260514-1130-6481-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T113000
 DTEND;TZID=Europe/Moscow:20260514T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -546,7 +1086,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T093000
 DTEND;TZID=Europe/Moscow:20260520T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -556,8 +1096,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260520-0930-6461-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6461 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6461\nАудитория: а.6376\nПара №4\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-0930-6421-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6421 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №4\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260520-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T113000
 DTEND;TZID=Europe/Moscow:20260520T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -567,8 +1133,34 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260520-1130-6461-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6461 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6461\nАудитория: а.6376\nПара №5\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6461
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6421-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6421 · а.6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6421\nАудитория: а.6376\nПара №5\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6421
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260525-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T093000
 DTEND;TZID=Europe/Moscow:20260525T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -578,14 +1170,66 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260525-0930-6551-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260525T093000
+DTEND;TZID=Europe/Moscow:20260525T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6551 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6551\nАудитория: а.6245\nПара №4\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-0930-6552-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260525T093000
+DTEND;TZID=Europe/Moscow:20260525T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6552 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6552\nАудитория: а.6245\nПара №4\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260525-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260604T131745Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T113000
 DTEND;TZID=Europe/Moscow:20260525T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
  р. 
 DESCRIPTION:Группа: \nПреподаватель: Барышникова Е. И.
 CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1130-6551-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260525T113000
+DTEND;TZID=Europe/Moscow:20260525T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6551 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6551\nАудитория: а.6245\nПара №5\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260525-1130-6552-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260525T113000
+DTEND;TZID=Europe/Moscow:20260525T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6552 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6552\nАудитория: а.6245\nПара №5\nПреподаватель: Барышн
+ икова Е. И.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

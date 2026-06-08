@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Гогуа Л.С. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Гогуа Л.С., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Гогуа Л. С. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Гогуа Л. С., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250903-0930--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T093000
 DTEND;TZID=Europe/Moscow:20250903T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
@@ -30,7 +30,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250903-1130--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T113000
 DTEND;TZID=Europe/Moscow:20250903T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
@@ -41,7 +41,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
@@ -51,229 +51,193 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250912-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250912-0930-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T093000
 DTEND;TZID=Europe/Moscow:20250912T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №2\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250912-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250912-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T113000
 DTEND;TZID=Europe/Moscow:20250912T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №1\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250912-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250912-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T140000
 DTEND;TZID=Europe/Moscow:20250912T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
- екция · гр. 6491 · 3
-LOCATION:3
-DESCRIPTION:Группа: 6491\nАудитория: 3\nПара №Онлайн занятие\nПреподаватель
- : Гогуа Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250915-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250915-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T093000
 DTEND;TZID=Europe/Moscow:20250915T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а. 6376
-LOCATION:а. 6376
-DESCRIPTION:Группа: 6281\nАудитория: а. 6376\nПара №2\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250915-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250915-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T113000
 DTEND;TZID=Europe/Moscow:20250915T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а. 6376
-LOCATION:а. 6376
-DESCRIPTION:Группа: 6281\nАудитория: а. 6376\nПара №3\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250917-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250917-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T093000
 DTEND;TZID=Europe/Moscow:20250917T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №4\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250917-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250917-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250917T113000
 DTEND;TZID=Europe/Moscow:20250917T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №5\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250919-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250919-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T140000
 DTEND;TZID=Europe/Moscow:20250919T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №6\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250919-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250919-1600--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T160000
 DTEND;TZID=Europe/Moscow:20250919T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №7\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250924-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250924-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250924T093000
 DTEND;TZID=Europe/Moscow:20250924T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
- екция · гр. 6491 · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6491\nАудитория: а. 6373\nПара №4\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250924-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250924-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250924T113000
 DTEND;TZID=Europe/Moscow:20250924T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами л
- екция · гр. 6491 · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6491\nАудитория: а. 6373\nПара №5\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250925-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T140000
 DTEND;TZID=Europe/Moscow:20250925T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а. 6
- 381
-LOCATION:а. 6381
-DESCRIPTION:Группа: 6281\nАудитория: а. 6381\nПара №4\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а. 6
+DESCRIPTION:Группа: 6281\nАудитория: а. 6\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250925-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250925-1600-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250925T160000
 DTEND;TZID=Europe/Moscow:20250925T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а. 6381
-LOCATION:а. 6381
-DESCRIPTION:Группа: 6281\nАудитория: а. 6381\nПара №3\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250926-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250926-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T093000
 DTEND;TZID=Europe/Moscow:20250926T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а. 6376
-LOCATION:а. 6376
-DESCRIPTION:Группа: 6281\nАудитория: а. 6376\nПара №8\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250926-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20250926-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T113000
 DTEND;TZID=Europe/Moscow:20250926T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а. 6376
-LOCATION:а. 6376
-DESCRIPTION:Группа: 6281\nАудитория: а. 6376\nПара №9\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251001-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T140000
 DTEND;TZID=Europe/Moscow:20251001T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №10\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251001-1600--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T160000
 DTEND;TZID=Europe/Moscow:20251001T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №11\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-0930--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T093000
 DTEND;TZID=Europe/Moscow:20251002T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -284,7 +248,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1130--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -295,7 +259,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -305,513 +269,483 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251003-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251003-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №12\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251003-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251003-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №1\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251008-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251008-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251008T093000
 DTEND;TZID=Europe/Moscow:20251008T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПара №4\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251008-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251008-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251008T113000
 DTEND;TZID=Europe/Moscow:20251008T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6281\nАудитория: а.6248\nПара №5\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251009-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T093000
 DTEND;TZID=Europe/Moscow:20251009T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа (пер
- енос с 06.10.2025) · гр. 6281 · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6281\nАудитория: а.6116\nПара №2\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251009-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T113000
 DTEND;TZID=Europe/Moscow:20251009T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа (пер
- енос с 06.10.2025) · гр. 6281 · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6281\nАудитория: а.6116\nПара №3\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251010-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251010-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251010T093000
 DTEND;TZID=Europe/Moscow:20251010T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №6\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251010-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251010-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251010T113000
 DTEND;TZID=Europe/Moscow:20251010T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №7\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251013-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251013-1400-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T140000
 DTEND;TZID=Europe/Moscow:20251013T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №3\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251013-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251013-1600-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T160000
 DTEND;TZID=Europe/Moscow:20251013T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №5\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T180000
 DTEND;TZID=Europe/Moscow:20251013T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лекц · гр. 629вф · а. 
- 6378
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 
+DESCRIPTION:Группа: 629вф\nАудитория: а. \nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T200000
 DTEND;TZID=Europe/Moscow:20251013T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, КР · гр. 629вф · а. 63
- 78
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 63
+DESCRIPTION:Группа: 629вф\nАудитория: а. 63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251014-1400-6361-6381-разработка-и-реализация-бизнес@gtifem.r
- u
-DTSTAMP:20260602T102635Z
+UID:teacher-20251014-1400-63-разработка-и-реализация-бизнес@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T140000
 DTEND;TZID=Europe/Moscow:20251014T154000
 SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
- 61\, 6381 · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6361\, 6381\nАудитория: а.6381\nПара №9\nПреподаватель:
-  Гогуа Л.С.
-CATEGORIES:Преподавание,6361\, 6381
+DESCRIPTION:Группа: 63\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,63
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251014-1600-6361-6381-разработка-и-реализация-бизнес@gtifem.r
- u
-DTSTAMP:20260602T102635Z
+UID:teacher-20251014-1400-6361-разработка-и-реализация-бизнес@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
+ 61 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6361\nАудитория: а.6381\nПара №9\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6381-разработка-и-реализация-бизнес@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
+ 81 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6381\nАудитория: а.6381\nПара №9\nПреподаватель: Гогуа 
+ Л. С.
+CATEGORIES:Преподавание,6381
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-63-разработка-и-реализация-бизнес@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T160000
 DTEND;TZID=Europe/Moscow:20251014T174000
 SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
- 61\, 6381 · а.6116
+DESCRIPTION:Группа: 63\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,63
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6361-разработка-и-реализация-бизнес@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
+ 61 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6361\, 6381\nАудитория: а.6116\nПара №10\nПреподаватель
- : Гогуа Л.С.
-CATEGORIES:Преподавание,6361\, 6381
+DESCRIPTION:Группа: 6361\nАудитория: а.6116\nПара №10\nПреподаватель: Гогуа
+  Л. С.
+CATEGORIES:Преподавание,6361
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6381-разработка-и-реализация-бизнес@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Разработка и реализация бизнес-планов Практическое занятие · гр. 63
+ 81 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6381\nАудитория: а.6116\nПара №10\nПреподаватель: Гогуа
+  Л. С.
+CATEGORIES:Преподавание,6381
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251015-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T093000
 DTEND;TZID=Europe/Moscow:20251015T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.62
- 35
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №5\nПреподаватель: Гогуа 
- Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 6281\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251015-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251015-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T113000
 DTEND;TZID=Europe/Moscow:20251015T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №8\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251017-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251017-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T093000
 DTEND;TZID=Europe/Moscow:20251017T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6281\nАудитория: а.6248\nПара №9\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251017-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251017-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T113000
 DTEND;TZID=Europe/Moscow:20251017T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №10\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251020-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T180000
 DTEND;TZID=Europe/Moscow:20251020T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, КР · гр. 629вф · а. 63
- 78
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 63
+DESCRIPTION:Группа: 629вф\nАудитория: а. 63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251020-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T200000
 DTEND;TZID=Europe/Moscow:20251020T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, практ · гр. 629вф · а.
-  6378
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.
+DESCRIPTION:Группа: 629вф\nАудитория: а.\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251021-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251021-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251021T140000
 DTEND;TZID=Europe/Moscow:20251021T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 6281\nАудитория: а.6107\nПара №11\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251021-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251021T160000
 DTEND;TZID=Europe/Moscow:20251021T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 6281\nАудитория: а.6115\nПара №6\nПреподаватель: Гогуа 
- Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 6281\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251022-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251022-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T140000
 DTEND;TZID=Europe/Moscow:20251022T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №13\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251022-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251022-1600--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T160000
 DTEND;TZID=Europe/Moscow:20251022T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №14\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251023-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251023-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T093000
 DTEND;TZID=Europe/Moscow:20251023T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №3\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251023-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251023-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T113000
 DTEND;TZID=Europe/Moscow:20251023T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №4\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251024-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251024-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T140000
 DTEND;TZID=Europe/Moscow:20251024T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №15\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251024-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251024-1600-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T160000
 DTEND;TZID=Europe/Moscow:20251024T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №6\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T180000
 DTEND;TZID=Europe/Moscow:20251024T184500
 SUMMARY:Риск-менеджмент и антикризисное управление · гр. 629вф · а. 6382
 LOCATION:а. 6382
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6382\nПреподаватель: Гогуа Л.С.
+DESCRIPTION:Группа: 629вф\nАудитория: а. 6382\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T200000
 DTEND;TZID=Europe/Moscow:20251024T204500
 SUMMARY:Риск-менеджмент и антикризисное управление · гр. 629вф · а. 6382
 LOCATION:а. 6382
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6382\nПреподаватель: Гогуа Л.С.
+DESCRIPTION:Группа: 629вф\nАудитория: а. 6382\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251027-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251027-1400-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T140000
 DTEND;TZID=Europe/Moscow:20251027T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №7\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251027-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T160000
 DTEND;TZID=Europe/Moscow:20251027T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.63
- 76
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №7\nПреподаватель: Гогуа 
- Л.С.
+LOCATION:а.63
+DESCRIPTION:Группа: 6281\nАудитория: а.63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251027-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T180000
 DTEND;TZID=Europe/Moscow:20251027T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, КР · гр. 629вф · а. 63
- 78
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 63
+DESCRIPTION:Группа: 629вф\nАудитория: а. 63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251027-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T200000
 DTEND;TZID=Europe/Moscow:20251027T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, практ · гр. 629вф · а.
-  6378
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.
+DESCRIPTION:Группа: 629вф\nАудитория: а.\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251029-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251029-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251029T093000
 DTEND;TZID=Europe/Moscow:20251029T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №12\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251029-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251029-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251029T113000
 DTEND;TZID=Europe/Moscow:20251029T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №13\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251030-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251030-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T093000
 DTEND;TZID=Europe/Moscow:20251030T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №16\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251030-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T113000
 DTEND;TZID=Europe/Moscow:20251030T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.62
- 40
-LOCATION:а.6240
-DESCRIPTION:Группа: 6281\nАудитория: а.6240\nПара №8\nПреподаватель: Гогуа 
- Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 6281\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251030-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251030-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251030T140000
 DTEND;TZID=Europe/Moscow:20251030T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие (перенос с 17.10.2025) · гр. 6491 · 6236
-LOCATION:6236
-DESCRIPTION:Группа: 6491\nАудитория: 6236\nПара №1\nПреподаватель: Гогуа Л.
- С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251104-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251104T140000
 DTEND;TZID=Europe/Moscow:20251104T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -822,7 +756,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251104-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251104T160000
 DTEND;TZID=Europe/Moscow:20251104T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -833,72 +767,62 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T180000
 DTEND;TZID=Europe/Moscow:20251105T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лаб · гр. 629вф · а. 6
- 242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 6
+DESCRIPTION:Группа: 629вф\nАудитория: а. 6\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T200000
 DTEND;TZID=Europe/Moscow:20251105T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, практ · гр. 629вф · а.
-  6242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.
+DESCRIPTION:Группа: 629вф\nАудитория: а.\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251106-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T093000
 DTEND;TZID=Europe/Moscow:20251106T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа (пер
- енос с 01.11.2025) · гр. 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №14\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251106-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T113000
 DTEND;TZID=Europe/Moscow:20251106T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа (пер
- енос с 01.11.2025) · гр. 6281 · а.6373
-LOCATION:а.6373
-DESCRIPTION:Группа: 6281\nАудитория: а.6373\nПара №15\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251106-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №18\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T140000
 DTEND;TZID=Europe/Moscow:20251106T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -909,7 +833,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251106-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T160000
 DTEND;TZID=Europe/Moscow:20251106T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -920,358 +844,301 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T093000
 DTEND;TZID=Europe/Moscow:20251107T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а. 6
- 373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6281\nАудитория: а. 6373\nПара №9\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а. 6
+DESCRIPTION:Группа: 6281\nАудитория: а. 6\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251107-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251107-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T113000
 DTEND;TZID=Europe/Moscow:20251107T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическая работа · гр
- . 6281 · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6281\nАудитория: а. 6373\nПара №19\nПреподаватель: Гогу
- а Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251110-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251110-0930-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T093000
 DTEND;TZID=Europe/Moscow:20251110T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №8\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251110-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251110-1130-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T113000
 DTEND;TZID=Europe/Moscow:20251110T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №9\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251111-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251111-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T140000
 DTEND;TZID=Europe/Moscow:20251111T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №5\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251111-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251111-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T160000
 DTEND;TZID=Europe/Moscow:20251111T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №6\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T180000
 DTEND;TZID=Europe/Moscow:20251112T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лаб · гр. 629вф · а. 6
- 242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 6
+DESCRIPTION:Группа: 629вф\nАудитория: а. 6\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T200000
 DTEND;TZID=Europe/Moscow:20251112T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, практ · гр. 629вф · а.
-  6242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.
+DESCRIPTION:Группа: 629вф\nАудитория: а.\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251117-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251117-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T093000
 DTEND;TZID=Europe/Moscow:20251117T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №20\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251117-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251117-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T113000
 DTEND;TZID=Europe/Moscow:20251117T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №21\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251118-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251118-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T140000
 DTEND;TZID=Europe/Moscow:20251118T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №7\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251118-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251118-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T160000
 DTEND;TZID=Europe/Moscow:20251118T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №8\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251119-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251119-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T140000
 DTEND;TZID=Europe/Moscow:20251119T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6281\nАудитория: а.6115\nПара №22\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T160000
 DTEND;TZID=Europe/Moscow:20251119T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 6281\nАудитория: а.6115\nПара №12\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 6281\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T180000
 DTEND;TZID=Europe/Moscow:20251119T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лаб · гр. 629вф · а. 6
- 242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 6
+DESCRIPTION:Группа: 629вф\nАудитория: а. 6\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251119-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251119T200000
 DTEND;TZID=Europe/Moscow:20251119T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, практ · гр. 629вф · а.
-  6242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.
+DESCRIPTION:Группа: 629вф\nАудитория: а.\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251120-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251120-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T140000
 DTEND;TZID=Europe/Moscow:20251120T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №9\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251120-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251120-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251120T160000
 DTEND;TZID=Europe/Moscow:20251120T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
- рактическое занятие · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №10\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251121-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251121-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T093000
 DTEND;TZID=Europe/Moscow:20251121T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №17\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251121-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251121-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T113000
 DTEND;TZID=Europe/Moscow:20251121T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №18\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251126-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251126-1400-62-риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T140000
 DTEND;TZID=Europe/Moscow:20251126T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Курсовая работа · гр. 62
- 81 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №10\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+DESCRIPTION:Группа: 62\nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,62
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251126-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251126-1600--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T160000
 DTEND;TZID=Europe/Moscow:20251126T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №23\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T180000
 DTEND;TZID=Europe/Moscow:20251126T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лаб · гр. 629вф · а. 6
- 242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 6
+DESCRIPTION:Группа: 629вф\nАудитория: а. 6\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251126-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251126T200000
 DTEND;TZID=Europe/Moscow:20251126T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, практ · гр. 629вф · а.
-  6242
-LOCATION:а. 6242
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6242\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.
+DESCRIPTION:Группа: 629вф\nАудитория: а.\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251128-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251128-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T093000
 DTEND;TZID=Europe/Moscow:20251128T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №24\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251128-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251128-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T113000
 DTEND;TZID=Europe/Moscow:20251128T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №19\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.62
- 48
-LOCATION:а.6248
-DESCRIPTION:Группа: 6281\nАудитория: а.6248\nПара №13\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 6281\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -1281,21 +1148,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251204-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251204-1600--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №25\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -1306,59 +1171,51 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T180000
 DTEND;TZID=Europe/Moscow:20251204T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лаб · гр. 629вф · а. 6
- 117
-LOCATION:а. 6117
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6117\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 6
+DESCRIPTION:Группа: 629вф\nАудитория: а. 6\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T200000
 DTEND;TZID=Europe/Moscow:20251204T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, практ · гр. 629вф · а.
-  6117
-LOCATION:а. 6117
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6117\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.
+DESCRIPTION:Группа: 629вф\nАудитория: а.\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251205-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T140000
 DTEND;TZID=Europe/Moscow:20251205T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.62
- 48
-LOCATION:а.6248
-DESCRIPTION:Группа: 6281\nАудитория: а.6248\nПара №14\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 6281\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251205-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251205-1600--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T160000
 DTEND;TZID=Europe/Moscow:20251205T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №20\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251206-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251206T140000
 DTEND;TZID=Europe/Moscow:20251206T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -1369,7 +1226,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251206-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251206T160000
 DTEND;TZID=Europe/Moscow:20251206T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами п
@@ -1380,228 +1237,194 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251208-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T180000
 DTEND;TZID=Europe/Moscow:20251208T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лекц · гр. 629вф · а. 
- 6240
-LOCATION:а. 6240
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6240\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 
+DESCRIPTION:Группа: 629вф\nАудитория: а. \nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251208-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T200000
 DTEND;TZID=Europe/Moscow:20251208T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лекц · гр. 629вф · а. 
- 6240
-LOCATION:а. 6240
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6240\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 
+DESCRIPTION:Группа: 629вф\nАудитория: а. \nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251209-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251209-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251209T140000
 DTEND;TZID=Europe/Moscow:20251209T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №21\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251209-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251209T160000
 DTEND;TZID=Europe/Moscow:20251209T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.63
- 76
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №15\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.63
+DESCRIPTION:Группа: 6281\nАудитория: а.63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251210-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251210-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251210T093000
 DTEND;TZID=Europe/Moscow:20251210T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №22\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251210-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251210-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251210T113000
 DTEND;TZID=Europe/Moscow:20251210T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №23\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251212-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251212-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T093000
 DTEND;TZID=Europe/Moscow:20251212T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №26\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251212-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251212-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251212T113000
 DTEND;TZID=Europe/Moscow:20251212T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №27\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251215-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T180000
 DTEND;TZID=Europe/Moscow:20251215T184500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лекц · гр. 629вф · а. 
- 6378
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 
+DESCRIPTION:Группа: 629вф\nАудитория: а. \nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251215-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T200000
 DTEND;TZID=Europe/Moscow:20251215T204500
 SUMMARY:Риск-менеджмент и антикризисное управление\, лекц · гр. 629вф · а. 
- 6378
-LOCATION:а. 6378
-DESCRIPTION:Группа: 629вф\nАудитория: а. 6378\nПара №-\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а. 
+DESCRIPTION:Группа: 629вф\nАудитория: а. \nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251216T140000
 DTEND;TZID=Europe/Moscow:20251216T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 6281\nАудитория: а.6115\nПара №16\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 6281\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251216-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251216T160000
 DTEND;TZID=Europe/Moscow:20251216T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 6281\nАудитория: а.6115\nПара №17\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 6281\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251224-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251224-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251224T113000
 DTEND;TZID=Europe/Moscow:20251224T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие (пе
- ренос с 30.12.2025) · гр. 6281 · а.6117
-LOCATION:а.6117
-DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПара №31\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251224-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251224-1400--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251224T140000
 DTEND;TZID=Europe/Moscow:20251224T154000
 SUMMARY:Риск-менеджмент и антикризисное управление Практическое занятие · г
- р. 6281 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6281\nАудитория: а.6115\nПара №29\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251224-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251224T160000
 DTEND;TZID=Europe/Moscow:20251224T174000
 SUMMARY:Риск-менеджмент и антикризисное управление Лекция · гр. 6281 · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 6281\nАудитория: а.6115\nПара №18\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 6281\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251226-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251226-0930--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T093000
 DTEND;TZID=Europe/Moscow:20251226T111000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6281\nАудитория: а.6112\nПара №27\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251226-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20251226-1130--риск-менеджмент-и-антикризисно@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251226T113000
 DTEND;TZID=Europe/Moscow:20251226T131000
 SUMMARY:Риск-менеджмент и антикризисное управление Лабораторная работа · гр
- . 6281 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6281\nАудитория: а.6112\nПара №28\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6281
+ . 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260112-0930--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260112T093000
 DTEND;TZID=Europe/Moscow:20260112T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1612,33 +1435,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260112-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260112T140000
 DTEND;TZID=Europe/Moscow:20260112T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПара №11\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260113-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260113T140000
-DTEND;TZID=Europe/Moscow:20260113T154000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №1\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260113-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T140000
 DTEND;TZID=Europe/Moscow:20260113T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1648,21 +1455,8 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260113-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260113T160000
-DTEND;TZID=Europe/Moscow:20260113T174000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6491\nАудитория: а.6116\nПара №2\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260113-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260113T160000
 DTEND;TZID=Europe/Moscow:20260113T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1673,7 +1467,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T140000
 DTEND;TZID=Europe/Moscow:20260114T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1684,7 +1478,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T160000
 DTEND;TZID=Europe/Moscow:20260114T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1695,59 +1489,49 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T180000
 DTEND;TZID=Europe/Moscow:20260114T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №1\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T200000
 DTEND;TZID=Europe/Moscow:20260114T214000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №2\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260115-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T140000
 DTEND;TZID=Europe/Moscow:20260115T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №12\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T093000
 DTEND;TZID=Europe/Moscow:20260116T111000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №13\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-0930--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T093000
 DTEND;TZID=Europe/Moscow:20260116T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1758,20 +1542,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T113000
 DTEND;TZID=Europe/Moscow:20260116T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 6281 · а.638
- 2
-LOCATION:а.6382
-DESCRIPTION:Группа: 6281\nАудитория: а.6382\nПара №19\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.638
+DESCRIPTION:Группа: 6281\nАудитория: а.638\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-1130--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T113000
 DTEND;TZID=Europe/Moscow:20260116T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1781,45 +1563,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260116-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260116T140000
-DTEND;TZID=Europe/Moscow:20260116T154000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №3\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260116-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T140000
 DTEND;TZID=Europe/Moscow:20260116T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
   · гр. 
 DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260116-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260116T160000
-DTEND;TZID=Europe/Moscow:20260116T174000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №1\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260116-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260116T160000
 DTEND;TZID=Europe/Moscow:20260116T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -1829,234 +1585,206 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260120-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260120-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T140000
 DTEND;TZID=Europe/Moscow:20260120T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №1\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T140000
 DTEND;TZID=Europe/Moscow:20260121T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №32\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T180000
 DTEND;TZID=Europe/Moscow:20260121T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №3\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T200000
 DTEND;TZID=Europe/Moscow:20260121T214000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №4\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260122-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T160000
 DTEND;TZID=Europe/Moscow:20260122T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПара №33\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260126-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260126-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T093000
 DTEND;TZID=Europe/Moscow:20260126T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6491\nАудитория: а.6381\nПара №2\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T113000
 DTEND;TZID=Europe/Moscow:20260126T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 6281 · а.414
 LOCATION:а.414
-DESCRIPTION:Группа: 6281\nАудитория: а.414\nПара №20\nПреподаватель: Гогуа 
- Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.414\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260127-1600-639збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260127-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260127T160000
 DTEND;TZID=Europe/Moscow:20260127T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 639збу · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639збу\nАудитория: а.6376\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,639збу
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260128-0930-639збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260128-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T093000
 DTEND;TZID=Europe/Moscow:20260128T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 639збу · а.6378
-LOCATION:а.6378
-DESCRIPTION:Группа: 639збу\nАудитория: а.6378\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,639збу
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260128-1130-639збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260128-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T113000
 DTEND;TZID=Europe/Moscow:20260128T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- Консультация) · гр. 639збу · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 639збу\nАудитория: а.6376\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,639збу
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260128-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260128-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T140000
 DTEND;TZID=Europe/Moscow:20260128T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №4\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260128-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260128-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T160000
 DTEND;TZID=Europe/Moscow:20260128T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №2\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T180000
 DTEND;TZID=Europe/Moscow:20260128T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 629вф · а.611
- 7
-LOCATION:а.6117
-DESCRIPTION:Группа: 629вф\nАудитория: а.6117\nПара №1\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.611
+DESCRIPTION:Группа: 629вф\nАудитория: а.611\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T200000
 DTEND;TZID=Europe/Moscow:20260128T214000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 629вф · а.611
- 7
-LOCATION:а.6117
-DESCRIPTION:Группа: 629вф\nАудитория: а.6117\nПара №2\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.611
+DESCRIPTION:Группа: 629вф\nАудитория: а.611\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260130-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260130-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T093000
 DTEND;TZID=Europe/Moscow:20260130T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №3\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260130-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260130-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T113000
 DTEND;TZID=Europe/Moscow:20260130T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №4\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T140000
 DTEND;TZID=Europe/Moscow:20260130T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №34\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T160000
 DTEND;TZID=Europe/Moscow:20260130T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6245
 LOCATION:а.6245
-DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПара №35\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1130--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T113000
 DTEND;TZID=Europe/Moscow:20260202T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2067,7 +1795,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T140000
 DTEND;TZID=Europe/Moscow:20260202T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2077,45 +1805,30 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260202-1600-639збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260202-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами ·
-  гр. 639збу · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 639збу\nАудитория: а.6240\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,639збу
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260203-1400-639збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260203-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T140000
 DTEND;TZID=Europe/Moscow:20260203T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 639збу · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 639збу\nАудитория: а.414\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,639збу
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260203-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260203T160000
-DTEND;TZID=Europe/Moscow:20260203T174000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6378
-LOCATION:а.6378
-DESCRIPTION:Группа: 6491\nАудитория: а.6378\nПара №3\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T160000
 DTEND;TZID=Europe/Moscow:20260203T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2125,33 +1838,19 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260204-1130-639збу-пм-03-проведение-расчетов-с-бю@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260204-1130--пм-03-проведение-расчетов-с-бю@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T113000
 DTEND;TZID=Europe/Moscow:20260204T131000
 SUMMARY:ПМ.03 Проведение расчетов с бюджетом и внебюджетными фондами (экз) 
- · гр. 639збу · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 639збу\nАудитория: а.6107\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,639збу
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260204-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260204T140000
-DTEND;TZID=Europe/Moscow:20260204T154000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 6491 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6491\nАудитория: а.6115\nПара №5\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T140000
 DTEND;TZID=Europe/Moscow:20260204T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2161,21 +1860,8 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260204-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260204T160000
-DTEND;TZID=Europe/Moscow:20260204T174000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6378
-LOCATION:а.6378
-DESCRIPTION:Группа: 6491\nАудитория: а.6378\nПара №4\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260204-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
 DTEND;TZID=Europe/Moscow:20260204T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2186,33 +1872,29 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T180000
 DTEND;TZID=Europe/Moscow:20260204T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №5\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T200000
 DTEND;TZID=Europe/Moscow:20260204T214000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №6\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260205-1400--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T140000
 DTEND;TZID=Europe/Moscow:20260205T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2223,7 +1905,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260205-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
 DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2233,403 +1915,333 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260206-0930-649збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260206-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T093000
 DTEND;TZID=Europe/Moscow:20260206T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 649збу · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 649збу\nАудитория: а.6112\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,649збу
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260206-1130-649збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260206-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260206T113000
 DTEND;TZID=Europe/Moscow:20260206T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 649збу · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 649збу\nАудитория: а.6115\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,649збу
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260209-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260209-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260209T113000
 DTEND;TZID=Europe/Moscow:20260209T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №6\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260209-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260209-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260209T140000
 DTEND;TZID=Europe/Moscow:20260209T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №7\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260210-0930-649збу-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260210-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T093000
 DTEND;TZID=Europe/Moscow:20260210T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лек) · гр. 649збу · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 649збу\nАудитория: а.6107\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,649збу
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T113000
 DTEND;TZID=Europe/Moscow:20260210T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.623
- 6
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №29\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.623
+DESCRIPTION:Группа: 6281\nАудитория: а.623\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T140000
 DTEND;TZID=Europe/Moscow:20260210T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.623
- 6
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №30\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.623
+DESCRIPTION:Группа: 6281\nАудитория: а.623\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260210-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260210T160000
 DTEND;TZID=Europe/Moscow:20260210T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 6281 · а.638
- 2
-LOCATION:а.6382
-DESCRIPTION:Группа: 6281\nАудитория: а.6382\nПара №22\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.638
+DESCRIPTION:Группа: 6281\nАудитория: а.638\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260211-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T180000
 DTEND;TZID=Europe/Moscow:20260211T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №7\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260211-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T200000
 DTEND;TZID=Europe/Moscow:20260211T214000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 45
-LOCATION:а.6245
-DESCRIPTION:Группа: 629вф\nАудитория: а.6245\nПара №8\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T140000
 DTEND;TZID=Europe/Moscow:20260213T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.623
- 6
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №31\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.623
+DESCRIPTION:Группа: 6281\nАудитория: а.623\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260213-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260213T160000
 DTEND;TZID=Europe/Moscow:20260213T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6281\nАудитория: а.6382\nПара №39\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6382\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260216-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260216-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T113000
 DTEND;TZID=Europe/Moscow:20260216T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6491\nАудитория: а.6240\nПара №8\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260216-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260216-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T140000
 DTEND;TZID=Europe/Moscow:20260216T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6376
-LOCATION:а.6376
-DESCRIPTION:Группа: 6491\nАудитория: а.6376\nПара №9\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T113000
 DTEND;TZID=Europe/Moscow:20260217T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6281\nАудитория: а.6373\nПара №40\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6373\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T140000
 DTEND;TZID=Europe/Moscow:20260217T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6281\nАудитория: а.6248\nПара №41\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6248\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260218-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T140000
 DTEND;TZID=Europe/Moscow:20260218T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6249
 LOCATION:а.6249
-DESCRIPTION:Группа: 6281\nАудитория: а.6249\nПара №42\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6249\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260218-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T160000
 DTEND;TZID=Europe/Moscow:20260218T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6281\nАудитория: а.6381\nПара №43\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6381\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260218-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T180000
 DTEND;TZID=Europe/Moscow:20260218T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.61
- 07
-LOCATION:а.6107
-DESCRIPTION:Группа: 629вф\nАудитория: а.6107\nПара №9\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 629вф\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260218-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260218T200000
 DTEND;TZID=Europe/Moscow:20260218T214000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.61
- 07
-LOCATION:а.6107
-DESCRIPTION:Группа: 629вф\nАудитория: а.6107\nПара №10\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 629вф\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T113000
 DTEND;TZID=Europe/Moscow:20260220T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.623
- 5
-LOCATION:а.6235
-DESCRIPTION:Группа: 6281\nАудитория: а.6235\nПара №32\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.623
+DESCRIPTION:Группа: 6281\nАудитория: а.623\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T140000
 DTEND;TZID=Europe/Moscow:20260220T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.637
- 6
-LOCATION:а.6376
-DESCRIPTION:Группа: 6281\nАудитория: а.6376\nПара №33\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.637
+DESCRIPTION:Группа: 6281\nАудитория: а.637\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T160000
 DTEND;TZID=Europe/Moscow:20260220T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.638
- 2
-LOCATION:а.6382
-DESCRIPTION:Группа: 6281\nАудитория: а.6382\nПара №34\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.638
+DESCRIPTION:Группа: 6281\nАудитория: а.638\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260225T140000
 DTEND;TZID=Europe/Moscow:20260225T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПара №14\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260225-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260225T160000
 DTEND;TZID=Europe/Moscow:20260225T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПара №15\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260227-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260227T113000
 DTEND;TZID=Europe/Moscow:20260227T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6281\nАудитория: а.6112\nПара №16\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260227-1400-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260227-1400--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260227T140000
 DTEND;TZID=Europe/Moscow:20260227T154000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №5\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260227-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260227-1600--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260227T160000
 DTEND;TZID=Europe/Moscow:20260227T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6491\nАудитория: а.6112\nПара №10\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260302-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260302T093000
 DTEND;TZID=Europe/Moscow:20260302T111000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПара №17\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260302-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260302T113000
 DTEND;TZID=Europe/Moscow:20260302T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6281\nАудитория: а.6245\nПара №18\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260304-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260304T113000
-DTEND;TZID=Europe/Moscow:20260304T131000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПара №6\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260304-1130--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T113000
 DTEND;TZID=Europe/Moscow:20260304T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2640,31 +2252,29 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260304-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T140000
 DTEND;TZID=Europe/Moscow:20260304T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПара №46\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260304-1600-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260304T160000
 DTEND;TZID=Europe/Moscow:20260304T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (пр) · гр. 6281 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПара №47\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260305-0930--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260305T093000
 DTEND;TZID=Europe/Moscow:20260305T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2675,7 +2285,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260305-1130--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260305T113000
 DTEND;TZID=Europe/Moscow:20260305T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2686,33 +2296,18 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260306-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T140000
 DTEND;TZID=Europe/Moscow:20260306T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.623
- 6
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №35\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.623
+DESCRIPTION:Группа: 6281\nАудитория: а.623\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260306-1600-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
-DTSTART;TZID=Europe/Moscow:20260306T160000
-DTEND;TZID=Europe/Moscow:20260306T174000
-SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- лаб) · гр. 6491 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПара №7\nПреподаватель: Гогуа 
- Л.С.
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20260306-1600--мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260306T160000
 DTEND;TZID=Europe/Moscow:20260306T174000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
@@ -2722,97 +2317,83 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260312-0930-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260312-0930--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T093000
 DTEND;TZID=Europe/Moscow:20260312T111000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- пр) · гр. 6491 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6491\nАудитория: а.6236\nПара №11\nПреподаватель: Гогуа
-  Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260312-1130-6491-мдк-03-01-организация-расчетов@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260312-1130--мдк-03-01-организация-расчетов@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260312T113000
 DTEND;TZID=Europe/Moscow:20260312T131000
 SUMMARY:МДК.03.01 Организация расчетов с бюджетом и внебюджетными фондами (
- Консультация) · гр. 6491 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6491\nАудитория: а.6242\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T093000
 DTEND;TZID=Europe/Moscow:20260313T111000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.623
- 6
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №36\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.623
+DESCRIPTION:Группа: 6281\nАудитория: а.623\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T113000
 DTEND;TZID=Europe/Moscow:20260313T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6281\nАудитория: а.6236\nПара №19\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-0930-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T093000
 DTEND;TZID=Europe/Moscow:20260316T111000
 SUMMARY:Риск-менеджмент и антикризисное управление (Курс.работа) · гр. 6281
-  · а.6117
-LOCATION:а.6117
-DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПара №20\nПреподаватель: Гогуа
-  Л.С.
+DESCRIPTION:Группа: 6281\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1130-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T113000
 DTEND;TZID=Europe/Moscow:20260316T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лаб) · гр. 6281 · а.611
- 7
-LOCATION:а.6117
-DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПара №37\nПреподаватель: Гогуа
-  Л.С.
+LOCATION:а.611
+DESCRIPTION:Группа: 6281\nАудитория: а.611\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260324-1400-6281-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260324T140000
 DTEND;TZID=Europe/Moscow:20260324T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (экз) · гр. 6281 · а.611
- 7
-LOCATION:а.6117
-DESCRIPTION:Группа: 6281\nАудитория: а.6117\nПреподаватель: Гогуа Л.С.
+LOCATION:а.611
+DESCRIPTION:Группа: 6281\nАудитория: а.611\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,6281
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260403-0930--пм-03-проведение-расчетов-с-бю@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T093000
 DTEND;TZID=Europe/Moscow:20260403T111000
 SUMMARY:ПМ.03 Проведение расчетов с бюджетом и внебюджетными фондами (экз) 
@@ -2823,172 +2404,155 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T180000
 DTEND;TZID=Europe/Moscow:20260408T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 42
-LOCATION:а.6242
-DESCRIPTION:Группа: 629вф\nАудитория: а.6242\nПара №11\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260408-2000-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260408T200000
 DTEND;TZID=Europe/Moscow:20260408T214000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.62
- 42
-LOCATION:а.6242
-DESCRIPTION:Группа: 629вф\nАудитория: а.6242\nПара №12\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260417-0930-6491-пм-03-проведение-расчетов-с-бю@gtifem.ru
-DTSTAMP:20260602T102635Z
+UID:teacher-20260417-0930--пм-03-проведение-расчетов-с-бю@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T093000
 DTEND;TZID=Europe/Moscow:20260417T111000
 SUMMARY:ПМ.03 Проведение расчетов с бюджетом и внебюджетными фондами (экз) 
- · гр. 6491 · а.6235
-LOCATION:а.6235
-DESCRIPTION:Группа: 6491\nАудитория: а.6235\nПреподаватель: Гогуа Л.С.
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: Гогуа Л. С.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260429-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260429T180000
 DTEND;TZID=Europe/Moscow:20260429T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629вф · а.63
- 76
-LOCATION:а.6376
-DESCRIPTION:Группа: 629вф\nАудитория: а.6376\nПара №13\nПреподаватель: Гогу
- а Л.С.
+LOCATION:а.63
+DESCRIPTION:Группа: 629вф\nАудитория: а.63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1400-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T140000
 DTEND;TZID=Europe/Moscow:20260513T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.62
- 49
-LOCATION:а.6249
-DESCRIPTION:Группа: 629зф\nАудитория: а.6249\nПреподаватель: Гогуа Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629зф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1600-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T160000
 DTEND;TZID=Europe/Moscow:20260513T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.62
- 49
-LOCATION:а.6249
-DESCRIPTION:Группа: 629зф\nАудитория: а.6249\nПреподаватель: Гогуа Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629зф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1800-629вф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T180000
 DTEND;TZID=Europe/Moscow:20260513T194000
 SUMMARY:Риск-менеджмент и антикризисное управление (экз) · гр. 629вф · а.62
- 36
-LOCATION:а.6236
-DESCRIPTION:Группа: 629вф\nАудитория: а.6236\nПреподаватель: Гогуа Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629вф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629вф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-0930-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T093000
 DTEND;TZID=Europe/Moscow:20260515T111000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.63
- 73
-LOCATION:а.6373
-DESCRIPTION:Группа: 629зф\nАудитория: а.6373\nПреподаватель: Гогуа Л.С.
+LOCATION:а.63
+DESCRIPTION:Группа: 629зф\nАудитория: а.63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-1130-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T113000
 DTEND;TZID=Europe/Moscow:20260515T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.63
- 73
-LOCATION:а.6373
-DESCRIPTION:Группа: 629зф\nАудитория: а.6373\nПреподаватель: Гогуа Л.С.
+LOCATION:а.63
+DESCRIPTION:Группа: 629зф\nАудитория: а.63\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260519-0930-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T093000
 DTEND;TZID=Europe/Moscow:20260519T111000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.62
- 35
-LOCATION:а.6235
-DESCRIPTION:Группа: 629зф\nАудитория: а.6235\nПреподаватель: Гогуа Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629зф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260519-1130-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T113000
 DTEND;TZID=Europe/Moscow:20260519T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.62
- 35
-LOCATION:а.6235
-DESCRIPTION:Группа: 629зф\nАудитория: а.6235\nПреподаватель: Гогуа Л.С.
+LOCATION:а.62
+DESCRIPTION:Группа: 629зф\nАудитория: а.62\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-1130-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T113000
 DTEND;TZID=Europe/Moscow:20260525T131000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 629зф\nАудитория: а.6115\nПреподаватель: Гогуа Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 629зф\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-1400-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T140000
 DTEND;TZID=Europe/Moscow:20260525T154000
 SUMMARY:Риск-менеджмент и антикризисное управление (лек) · гр. 629зф · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 629зф\nАудитория: а.6115\nПреподаватель: Гогуа Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 629зф\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-1600-629зф-риск-менеджмент-и-антикризисно@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T160000
 DTEND;TZID=Europe/Moscow:20260525T174000
 SUMMARY:Риск-менеджмент и антикризисное управление (экз) · гр. 629зф · а.61
- 15
-LOCATION:а.6115
-DESCRIPTION:Группа: 629зф\nАудитория: а.6115\nПреподаватель: Гогуа Л.С.
+LOCATION:а.61
+DESCRIPTION:Группа: 629зф\nАудитория: а.61\nПреподаватель: Гогуа Л. С.
 CATEGORIES:Преподавание,629зф
 STATUS:CONFIRMED
 END:VEVENT

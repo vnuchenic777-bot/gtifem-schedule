@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Кармановская Т.В. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Кармановская Т.В., ФЭМ СПбГТИ (
- ТУ)
+X-WR-CALNAME:Расписание Кармановская Т. В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Кармановская Т. В., ФЭМ СПбГТИ 
+ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -20,1671 +20,3118 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250905-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T093000
 DTEND;TZID=Europe/Moscow:20250905T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6571 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6571\nАудитория: а.6381\nПара №1\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6381\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250905-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T113000
 DTEND;TZID=Europe/Moscow:20250905T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6571 · а.
- 6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6571\nАудитория: а.6381\nПара №1\nПреподаватель: Карман
- овская Т.В.
+LOCATION:а.
+DESCRIPTION:Группа: 6571\nАудитория: а.\nПреподаватель: Кармановская Т. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250909-1400-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T140000
 DTEND;TZID=Europe/Moscow:20250909T154000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6531\,6532\, 6533\,6534
-  · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №1\nПр
- еподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250909-1600-6531-6532-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20250909-1600-6531-653-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T160000
 DTEND;TZID=Europe/Moscow:20250909T174000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6531\,653
- 2 · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №1\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\,653\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6531\,653
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250911-0930-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T093000
 DTEND;TZID=Europe/Moscow:20250911T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6531\,6532\, 6533\,6534
-  · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №2\nПр
- еподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250911-1130-6531-6532-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20250911-1130-6531-653-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250911T113000
 DTEND;TZID=Europe/Moscow:20250911T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6531\,653
- 2 · а.638
-LOCATION:а.638
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.638\nПара №2\nПреподаватель: К
- армановская Т.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\,653\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6531\,653
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-0930-6551-6552-6553-6554-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T093000
 DTEND;TZID=Europe/Moscow:20250915T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6551\,6552\, 6553\,6554
-  · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6382\nПара №1\nПр
- еподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250915-1130-6551-6552-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20250915-0930-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6551 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6551\nАудитория: а.6382\nПара №1\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6552 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6552\nАудитория: а.6382\nПара №1\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6553-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6553 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6553\nАудитория: а.6382\nПара №1\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-0930-6554-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T093000
+DTEND;TZID=Europe/Moscow:20250915T111000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6554 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6554\nАудитория: а.6382\nПара №1\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6551-655-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T113000
 DTEND;TZID=Europe/Moscow:20250915T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551\,655
- 2 · а.6382
+DESCRIPTION:Группа: 6551\,655\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6551\,655
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551 · а.
+ 6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6382\nПара №1\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nАудитория: а.6382\nПара №1\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T113000
+DTEND;TZID=Europe/Moscow:20250915T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6552 · а.
+ 6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6552\nАудитория: а.6382\nПара №1\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T093000
 DTEND;TZID=Europe/Moscow:20250919T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6571 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПара №2\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T113000
 DTEND;TZID=Europe/Moscow:20250919T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6571 · а.
- 6373
-LOCATION:а.6373
-DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПара №2\nПреподаватель: Карман
- овская Т.В.
+LOCATION:а.
+DESCRIPTION:Группа: 6571\nАудитория: а.\nПреподаватель: Кармановская Т. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T093000
 DTEND;TZID=Europe/Moscow:20251014T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6571 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №3\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T113000
 DTEND;TZID=Europe/Moscow:20251014T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6571 · а.
- 6248
-LOCATION:а.6248
-DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №3\nПреподаватель: Карман
- овская Т.В.
+LOCATION:а.
+DESCRIPTION:Группа: 6571\nАудитория: а.\nПреподаватель: Кармановская Т. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251016-1400-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T140000
 DTEND;TZID=Europe/Moscow:20251016T154000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6531\,6532\, 6533\,6534
-  · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №3\nПр
- еподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251016-1600-6531-6532-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20251016-1600-6531-653-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251016T160000
 DTEND;TZID=Europe/Moscow:20251016T174000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6531\,653
- 2 · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №3\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\,653\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6531\,653
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251022-0930-6551-6552-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20251022-0930-6551-655-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T093000
 DTEND;TZID=Europe/Moscow:20251022T111000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551\,655
- 2 · а.6382
+DESCRIPTION:Группа: 6551\,655\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6551\,655
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551 · а.
+ 6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6382\nПара №2\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nАудитория: а.6382\nПара №2\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6552 · а.
+ 6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6552\nАудитория: а.6382\nПара №2\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-1130-6551-6552-6553-6554-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T113000
 DTEND;TZID=Europe/Moscow:20251022T131000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6551\,6552\, 6553\,6554
-  · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6382\nПара №2\nПр
- еподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-0930-6551-6552-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
-DTSTART;TZID=Europe/Moscow:20251106T093000
-DTEND;TZID=Europe/Moscow:20251106T111000
-SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551\,655
- 2 · а.6381
-LOCATION:а.6381
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6381\nПара №3\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6551\,6552
+UID:teacher-20251022-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6551 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6551\nАудитория: а.6382\nПара №2\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-1130-6551-6552-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20251022-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6552 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6552\nАудитория: а.6382\nПара №2\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6553-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6553 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6553\nАудитория: а.6382\nПара №2\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6554-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Безопасность жизнедеятельности лекция · гр. 6554 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6554\nАудитория: а.6382\nПара №2\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6551-655-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551\,655
+DESCRIPTION:Группа: 6551\,655\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6551\,655
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551 · а.
+ 6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6551\nАудитория: а.6381\nПара №3\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-0930-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T093000
+DTEND;TZID=Europe/Moscow:20251106T111000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6552 · а.
+ 6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6552\nАудитория: а.6381\nПара №3\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6551-655-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T113000
 DTEND;TZID=Europe/Moscow:20251106T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551\,655
- 2 · а.6381
+DESCRIPTION:Группа: 6551\,655\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6551\,655
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551 · а.
+ 6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6381\nПара №4\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nАудитория: а.6381\nПара №4\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6552 · а.
+ 6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6552\nАудитория: а.6381\nПара №4\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1130-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T113000
 DTEND;TZID=Europe/Moscow:20251111T131000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6531\,6532\, 6533\,6534
-  · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 6373\nПара №4\nП
- реподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251112-1130-6531-6532-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20251112-1130-6531-653-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T113000
 DTEND;TZID=Europe/Moscow:20251112T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6531\,653
- 2 · а.6240
-LOCATION:а.6240
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6240\nПара №4\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\,653\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6531\,653
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251118-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T093000
 DTEND;TZID=Europe/Moscow:20251118T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6571 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №4\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251118-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T113000
 DTEND;TZID=Europe/Moscow:20251118T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6571 · а.
- 6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6571\nАудитория: а.6245\nПара №4\nПреподаватель: Карман
- овская Т.В.
+LOCATION:а.
+DESCRIPTION:Группа: 6571\nАудитория: а.\nПреподаватель: Кармановская Т. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251128-1130-6551-6552-6553-6554-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T113000
 DTEND;TZID=Europe/Moscow:20251128T131000
 SUMMARY:Безопасность жизнедеятельности Лекция · гр. 6551\,6552\, 6553\,6554
-  · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6382\nПара №3\nПр
- еподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251128-1400-6551-6552-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20251128-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Безопасность жизнедеятельности Лекция · гр. 6551 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6551\nАудитория: а.6382\nПара №3\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Безопасность жизнедеятельности Лекция · гр. 6552 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6552\nАудитория: а.6382\nПара №3\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6553-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Безопасность жизнедеятельности Лекция · гр. 6553 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6553\nАудитория: а.6382\nПара №3\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6554-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Безопасность жизнедеятельности Лекция · гр. 6554 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6554\nАудитория: а.6382\nПара №3\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6551-655-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251128T140000
 DTEND;TZID=Europe/Moscow:20251128T154000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551\,655
- 2 · а.6382
+DESCRIPTION:Группа: 6551\,655\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6551\,655
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6551 · а.
+ 6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6382\nПара №5\nПреподаватель: 
- Кармановская Т.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nАудитория: а.6382\nПара №5\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6552 · а.
+ 6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6552\nАудитория: а.6382\nПара №5\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T093000
 DTEND;TZID=Europe/Moscow:20251203T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6571 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №5\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T113000
 DTEND;TZID=Europe/Moscow:20251203T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6571 · а.
- 6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6571\nАудитория: а.6116\nПара №5\nПреподаватель: Карман
- овская Т.В.
+LOCATION:а.
+DESCRIPTION:Группа: 6571\nАудитория: а.\nПреподаватель: Кармановская Т. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251211-0930-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T093000
 DTEND;TZID=Europe/Moscow:20251211T111000
 SUMMARY:Безопасность жизнедеятельности лекция · гр. 6531\,6532\, 6533\,6534
-  · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а. 6373\nПара №5\nП
- реподаватель: Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251211-1130-6531-6532-безопасность-жизнедеятельности@gtifem.r
- u
-DTSTAMP:20260602T102636Z
+UID:teacher-20251211-1130-6531-653-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251211T113000
 DTEND;TZID=Europe/Moscow:20251211T131000
 SUMMARY:Безопасность жизнедеятельности практическое занятие · гр. 6531\,653
- 2 · а. 6373
-LOCATION:а. 6373
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а. 6373\nПара №5\nПреподаватель:
-  Кармановская Т.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\,653\nПреподаватель: Кармановская Т. В.
+CATEGORIES:Преподавание,6531\,653
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260114-1400-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1400-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T140000
 DTEND;TZID=Europe/Moscow:20260114T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\nАудитория: а.6240
+DESCRIPTION:Группа: 6511\nАудитория: а.6240\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260114-1600-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260114-1600-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T160000
 DTEND;TZID=Europe/Moscow:20260114T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260115-0930-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260115-0930-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260115T093000
 DTEND;TZID=Europe/Moscow:20260115T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6511\nАудитория: а.6373
+DESCRIPTION:Группа: 6511\nАудитория: а.6373\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T113000
 DTEND;TZID=Europe/Moscow:20260120T131000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6571\nАудитория: а.106\nПара №6\nПреподаватель: Кармано
- вская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.106\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1400-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T140000
 DTEND;TZID=Europe/Moscow:20260120T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521\, 6561 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №6\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\nАудитория: а.409\nПара №6\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\nАудитория: а.409\nПара №6\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260120-1600-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260120T160000
 DTEND;TZID=Europe/Moscow:20260120T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521\, 6561 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №6\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260120-1600-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\nАудитория: а.409\nПара №6\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1600-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T160000
+DTEND;TZID=Europe/Moscow:20260120T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\nАудитория: а.409\nПара №6\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260121-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T093000
 DTEND;TZID=Europe/Moscow:20260121T111000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №6\nПреподаватель: Кармано
- вская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1130-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T113000
 DTEND;TZID=Europe/Moscow:20260121T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6381\nПара №6\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6381\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260121T113000
+DTEND;TZID=Europe/Moscow:20260121T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6551\nАудитория: а.6381\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260121-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260121T113000
+DTEND;TZID=Europe/Moscow:20260121T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6552\nАудитория: а.6381\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1400-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T140000
 DTEND;TZID=Europe/Moscow:20260121T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №6\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260121-1600-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260121T160000
 DTEND;TZID=Europe/Moscow:20260121T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №6\nПреподаватель: К
- армановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Кармановск
+ ая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260122-1400-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T140000
 DTEND;TZID=Europe/Moscow:20260122T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541\,6542\, 6581 · а.62
- 40
-LOCATION:а.6240
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6240\nПара №6\nПреподав
- атель: Кармановская Т.В.
+LOCATION:а.62
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.62\nПреподаватель: Карм
+ ановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1400-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T140000
+DTEND;TZID=Europe/Moscow:20260122T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\nАудитория: а.6240\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1400-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T140000
+DTEND;TZID=Europe/Moscow:20260122T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6542\nАудитория: а.6240\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1400-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T140000
+DTEND;TZID=Europe/Moscow:20260122T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6581\nАудитория: а.6240\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260122-1600-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T160000
 DTEND;TZID=Europe/Moscow:20260122T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541\,6542\, 6581 · а.637
- 3
-LOCATION:а.6373
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6373\nПара №6\nПреподав
- атель: Кармановская Т.В.
+LOCATION:а.637
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.637\nПреподаватель: Кар
+ мановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1600-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T160000
+DTEND;TZID=Europe/Moscow:20260122T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6541\nАудитория: а.6373\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1600-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T160000
+DTEND;TZID=Europe/Moscow:20260122T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6542 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6542\nАудитория: а.6373\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1600-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T160000
+DTEND;TZID=Europe/Moscow:20260122T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6581\nАудитория: а.6373\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1130-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T113000
 DTEND;TZID=Europe/Moscow:20260123T131000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №6\nПре
- подаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260123-1400-6531-6532-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260123T140000
 DTEND;TZID=Europe/Moscow:20260123T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6531\,6532 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПара №6\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6115\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260129-0930-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260129T093000
 DTEND;TZID=Europe/Moscow:20260129T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПара №7\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6373\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1400-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T140000
 DTEND;TZID=Europe/Moscow:20260202T154000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №7\nПре
- подаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260202-1400-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260202-1400-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T140000
 DTEND;TZID=Europe/Moscow:20260202T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6511\nАудитория: а.6107
+DESCRIPTION:Группа: 6511\nАудитория: а.6107\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1600-6531-6532-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T160000
 DTEND;TZID=Europe/Moscow:20260202T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6531\,6532 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.406\nПара №7\nПреподаватель: К
- армановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.406\nПреподаватель: Кармановск
+ ая Т. В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-1130-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T113000
 DTEND;TZID=Europe/Moscow:20260203T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6115\nПара №7\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6115\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260203-1130-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260203-1130-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T113000
 DTEND;TZID=Europe/Moscow:20260203T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6511\nАудитория: а.6115
+DESCRIPTION:Группа: 6511\nАудитория: а.6115\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-1400-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T140000
 DTEND;TZID=Europe/Moscow:20260203T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №7\nПреподаватель: Кармано
- вская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260203-1600-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260203T160000
 DTEND;TZID=Europe/Moscow:20260203T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521\, 6561 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №7\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1600-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6561\nАудитория: а.106\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260203-1600-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260203T160000
+DTEND;TZID=Europe/Moscow:20260203T174000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-0930-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T093000
 DTEND;TZID=Europe/Moscow:20260204T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541\,6542\, 6581 · а.41
- 1
-LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №7\nПреподава
- тель: Кармановская Т.В.
+LOCATION:а.41
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.41\nПреподаватель: Карм
+ ановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-0930-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T093000
+DTEND;TZID=Europe/Moscow:20260204T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1130-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T113000
 DTEND;TZID=Europe/Moscow:20260204T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541\,6542\, 6581 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №7\nПреподава
- тель: Кармановская Т.В.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПреподаватель: Кар
+ мановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260204-1130-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T113000
+DTEND;TZID=Europe/Moscow:20260204T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260204-1400-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T140000
 DTEND;TZID=Europe/Moscow:20260204T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6571\nАудитория: а.406\nПара №7\nПреподаватель: Кармано
- вская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.406\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1600-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T160000
 DTEND;TZID=Europe/Moscow:20260204T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521\, 6561 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПара №7\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.106\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1600-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6561\nАудитория: а.106\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260204-1600-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260204T160000
+DTEND;TZID=Europe/Moscow:20260204T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260205-1130-6551-6552-6553-6554-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T113000
 DTEND;TZID=Europe/Moscow:20260205T131000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551\,6552\, 6553\,6554 
- · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №4\nПре
- подаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551\,6552\, 6553\,6554
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260205-1600-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260205-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №4\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №4\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1130-6553-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №4\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1130-6554-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260205T113000
+DTEND;TZID=Europe/Moscow:20260205T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №4\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-1600-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260205T160000
 DTEND;TZID=Europe/Moscow:20260205T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-0930-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T093000
 DTEND;TZID=Europe/Moscow:20260217T111000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №8\nПре
- подаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1130-6531-6532-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T113000
 DTEND;TZID=Europe/Moscow:20260217T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6531\,6532 · а.411
 LOCATION:а.411
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №8\nПреподаватель: К
- армановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПреподаватель: Кармановск
+ ая Т. В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1400-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T140000
 DTEND;TZID=Europe/Moscow:20260217T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПара №8\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260217-1600-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260217T160000
 DTEND;TZID=Europe/Moscow:20260217T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №8\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-0930-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T093000
 DTEND;TZID=Europe/Moscow:20260219T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541\,6542\, 6581 · а.40
- 1
-LOCATION:а.401
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №8\nПреподава
- тель: Кармановская Т.В.
+LOCATION:а.40
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.40\nПреподаватель: Карм
+ ановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-0930-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T093000
+DTEND;TZID=Europe/Moscow:20260219T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1130-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T113000
 DTEND;TZID=Europe/Moscow:20260219T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541\,6542\, 6581 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПара №8\nПреподава
- тель: Кармановская Т.В.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.401\nПреподаватель: Кар
+ мановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1130-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T113000
+DTEND;TZID=Europe/Moscow:20260219T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1400-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T140000
 DTEND;TZID=Europe/Moscow:20260219T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521\, 6561 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПара №8\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.409\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6561\nАудитория: а.409\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260219-1400-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260219T140000
+DTEND;TZID=Europe/Moscow:20260219T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6521\nАудитория: а.409\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260219-1600-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260219T160000
 DTEND;TZID=Europe/Moscow:20260219T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПара №8\nПреподаватель: К
- армановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.101\nПреподаватель: Кармановск
+ ая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-0930-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T093000
 DTEND;TZID=Europe/Moscow:20260220T111000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.406\nПара №7\nПреподаватель: К
- армановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.406\nПреподаватель: Кармановск
+ ая Т. В.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6551\nАудитория: а.406\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-0930-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T093000
+DTEND;TZID=Europe/Moscow:20260220T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6552\nАудитория: а.406\nПара №7\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1130-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T113000
 DTEND;TZID=Europe/Moscow:20260220T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.406\nПара №8\nПреподаватель: К
- армановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.406\nПреподаватель: Кармановск
+ ая Т. В.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6551\nАудитория: а.406\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T113000
+DTEND;TZID=Europe/Moscow:20260220T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6552\nАудитория: а.406\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260220-1400-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260220T140000
 DTEND;TZID=Europe/Moscow:20260220T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521\, 6561 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПара №8\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.406\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6561\nАудитория: а.406\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260220-1400-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260220T140000
+DTEND;TZID=Europe/Moscow:20260220T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6521\nАудитория: а.406\nПара №8\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-0930-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T093000
 DTEND;TZID=Europe/Moscow:20260224T111000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.101\nПара №9\nПре
- подаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1130-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T113000
 DTEND;TZID=Europe/Moscow:20260224T131000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521\, 6561 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПара №9\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.403\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6561\nАудитория: а.403\nПара №9\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260224-1130-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260224T113000
+DTEND;TZID=Europe/Moscow:20260224T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6521\nАудитория: а.403\nПара №9\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260224-1400-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260224T140000
 DTEND;TZID=Europe/Moscow:20260224T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №8\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260226-1400-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T140000
 DTEND;TZID=Europe/Moscow:20260226T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541\,6542\, 6581 · а.63
- 73
-LOCATION:а.6373
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6373\nПара №9\nПреподав
- атель: Кармановская Т.В.
+LOCATION:а.63
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.63\nПреподаватель: Карм
+ ановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260226-1400-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260226T140000
+DTEND;TZID=Europe/Moscow:20260226T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6581\nАудитория: а.6373\nПара №9\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260226-1600-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T160000
 DTEND;TZID=Europe/Moscow:20260226T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №9\nПреподаватель: Кармано
- вская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260302-1400-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260302-1400-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260302T140000
 DTEND;TZID=Europe/Moscow:20260302T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6511\nАудитория: а.6107
+DESCRIPTION:Группа: 6511\nАудитория: а.6107\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260303-1130-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260303-1130-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260303T113000
 DTEND;TZID=Europe/Moscow:20260303T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6511\nАудитория: а.6115
+DESCRIPTION:Группа: 6511\nАудитория: а.6115\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260305-1600-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260305-1600-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260305T160000
 DTEND;TZID=Europe/Moscow:20260305T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260313-1130-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260313T113000
 DTEND;TZID=Europe/Moscow:20260313T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541\,6542\, 6581 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПара №9\nПреподава
- тель: Кармановская Т.В.
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.406\nПреподаватель: Кар
+ мановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6541\nАудитория: а.406\nПара №9\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6542 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6542\nАудитория: а.406\nПара №9\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260313-1130-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260313T113000
+DTEND;TZID=Europe/Moscow:20260313T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6581\nАудитория: а.406\nПара №9\nПреподаватель: Кармано
+ вская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-0930-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T093000
 DTEND;TZID=Europe/Moscow:20260316T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №9\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1130-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T113000
 DTEND;TZID=Europe/Moscow:20260316T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №9\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260316-1400-6531-6532-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260316T140000
 DTEND;TZID=Europe/Moscow:20260316T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6531\,6532 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПара №9\nПреподаватель: К
- армановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.106\nПреподаватель: Кармановск
+ ая Т. В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1400-6551-6552-6553-6554-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T140000
 DTEND;TZID=Europe/Moscow:20260318T154000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551\,6552\, 6553\,6554 
- · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6107\nПара №5\nПр
- еподаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551\,6552\, 6553\,6554
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1400-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6551\nАудитория: а.6107\nПара №5\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1400-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6552 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6552\nАудитория: а.6107\nПара №5\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1400-6553-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6553 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6553\nАудитория: а.6107\nПара №5\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260318-1400-6554-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260318T140000
+DTEND;TZID=Europe/Moscow:20260318T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6554 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6554\nАудитория: а.6107\nПара №5\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260319-1600-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260319T160000
 DTEND;TZID=Europe/Moscow:20260319T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №10\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1400-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260330T140000
 DTEND;TZID=Europe/Moscow:20260330T154000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6107\nПара №10\nП
- реподаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260330-1600-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260330T160000
 DTEND;TZID=Europe/Moscow:20260330T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №10\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1130-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T113000
 DTEND;TZID=Europe/Moscow:20260331T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №10\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260331-1400-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260331T140000
 DTEND;TZID=Europe/Moscow:20260331T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6240\nПара №9\nПреподаватель: 
- Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6240\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6551\,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260331-1400-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260331T140000
+DTEND;TZID=Europe/Moscow:20260331T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6551\nАудитория: а.6240\nПара №9\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260331-1400-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260331T140000
+DTEND;TZID=Europe/Moscow:20260331T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6552\nАудитория: а.6240\nПара №9\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260401-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T093000
 DTEND;TZID=Europe/Moscow:20260401T111000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПара №9\nПреподаватель: Карман
- овская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T113000
 DTEND;TZID=Europe/Moscow:20260401T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПара №10\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-1400-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T140000
 DTEND;TZID=Europe/Moscow:20260401T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521\, 6561 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6373\nПара №9\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6373\nПреподаватель: Карманов
+ ская Т. В.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260402-1400-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260401-1400-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6561\nАудитория: а.6373\nПара №9\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260401-1400-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260401T140000
+DTEND;TZID=Europe/Moscow:20260401T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\nАудитория: а.6373\nПара №9\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260402-1400-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T140000
 DTEND;TZID=Europe/Moscow:20260402T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6511\nАудитория: а.6107
+DESCRIPTION:Группа: 6511\nАудитория: а.6107\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260403-1130-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260403-1130-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260403T113000
 DTEND;TZID=Europe/Moscow:20260403T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6115
 LOCATION:а.6115
-DESCRIPTION:Группа: 6511\nАудитория: а.6115
+DESCRIPTION:Группа: 6511\nАудитория: а.6115\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260405-1600-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260405-1600-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260405T160000
 DTEND;TZID=Europe/Moscow:20260405T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.101
 LOCATION:а.101
-DESCRIPTION:Группа: 6511\nАудитория: а.101
+DESCRIPTION:Группа: 6511\nАудитория: а.101\nПреподаватель: Кармановская Т. 
+ В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1400-6551-6552-6553-6554-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T140000
 DTEND;TZID=Europe/Moscow:20260406T154000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551\,6552\, 6553\,6554 
- · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.6107\nПара №6\nПр
- еподаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551\,6552\, 6553\,6554
+DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1400-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6551 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6551\nАудитория: а.6107\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1400-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T140000
+DTEND;TZID=Europe/Moscow:20260406T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6552 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6552\nАудитория: а.6107\nПара №6\nПреподаватель: Карман
+ овская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260406-1600-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260406T160000
 DTEND;TZID=Europe/Moscow:20260406T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6107\nПара №10\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6107\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1600-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6551\nАудитория: а.6107\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260406-1600-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260406T160000
+DTEND;TZID=Europe/Moscow:20260406T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6552\nАудитория: а.6107\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1130-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T113000
 DTEND;TZID=Europe/Moscow:20260407T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541\,6542\, 6581 · а.610
- 7
-LOCATION:а.6107
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6107\nПара №10\nПрепода
- ватель: Кармановская Т.В.
+LOCATION:а.610
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.610\nПреподаватель: Кар
+ мановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260407T113000
+DTEND;TZID=Europe/Moscow:20260407T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6541\nАудитория: а.6107\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260407T113000
+DTEND;TZID=Europe/Moscow:20260407T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6542 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6542\nАудитория: а.6107\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260407-1130-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260407T113000
+DTEND;TZID=Europe/Moscow:20260407T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6581\nАудитория: а.6107\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-0930-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T093000
 DTEND;TZID=Europe/Moscow:20260409T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.6107
 LOCATION:а.6107
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПара №11\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6107\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1130-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T113000
 DTEND;TZID=Europe/Moscow:20260409T131000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541\,6542\, 6581 · а.63
- 82
-LOCATION:а.6382
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6382\nПара №10\nПрепода
- ватель: Кармановская Т.В.
+LOCATION:а.63
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.63\nПреподаватель: Карм
+ ановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\nАудитория: а.6382\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6542\nАудитория: а.6382\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260409-1130-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260409T113000
+DTEND;TZID=Europe/Moscow:20260409T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6581\nАудитория: а.6382\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1400-6531-6532-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
 DTEND;TZID=Europe/Moscow:20260409T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6531\,6532 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПара №10\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6248\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260413-1130-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260413T113000
 DTEND;TZID=Europe/Moscow:20260413T131000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521\, 6561 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6373\nПара №10\nПреподаватель
- : Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6373\nПреподаватель: Карманов
+ ская Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1130-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260413T113000
+DTEND;TZID=Europe/Moscow:20260413T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6561\nАудитория: а.6373\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1130-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260413T113000
+DTEND;TZID=Europe/Moscow:20260413T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\nАудитория: а.6373\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260413-1400-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260413T140000
 DTEND;TZID=Europe/Moscow:20260413T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПара №11\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6240\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260415-1400-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T140000
 DTEND;TZID=Europe/Moscow:20260415T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №11\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260415-1600-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260415T160000
 DTEND;TZID=Europe/Moscow:20260415T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПара №11\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6248\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1400-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T140000
 DTEND;TZID=Europe/Moscow:20260417T154000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №11\nП
- реподаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260417-1600-6531-6532-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260417T160000
 DTEND;TZID=Europe/Moscow:20260417T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6531\,6532 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПара №11\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6382\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1130-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T113000
 DTEND;TZID=Europe/Moscow:20260422T131000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541\,6542\, 6581 · а.63
- 82
-LOCATION:а.6382
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6382\nПара №11\nПрепода
- ватель: Кармановская Т.В.
+LOCATION:а.63
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.63\nПреподаватель: Карм
+ ановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1130-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260422T113000
+DTEND;TZID=Europe/Moscow:20260422T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\nАудитория: а.6382\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1130-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260422T113000
+DTEND;TZID=Europe/Moscow:20260422T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6542\nАудитория: а.6382\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260422-1130-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260422T113000
+DTEND;TZID=Europe/Moscow:20260422T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6581\nАудитория: а.6382\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260422-1400-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260422T140000
 DTEND;TZID=Europe/Moscow:20260422T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №12\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260427-0930-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260427T093000
 DTEND;TZID=Europe/Moscow:20260427T111000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541\,6542\, 6581 · а.624
- 0
-LOCATION:а.6240
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6240\nПара №11\nПрепода
- ватель: Кармановская Т.В.
+LOCATION:а.624
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.624\nПреподаватель: Кар
+ мановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\nАудитория: а.6240\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6542\nАудитория: а.6240\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-0930-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260427T093000
+DTEND;TZID=Europe/Moscow:20260427T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6581\nАудитория: а.6240\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-1400-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T140000
 DTEND;TZID=Europe/Moscow:20260430T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПара №12\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6381\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260430-1600-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T160000
 DTEND;TZID=Europe/Moscow:20260430T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6373\nПара №11\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6373\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1600-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T160000
+DTEND;TZID=Europe/Moscow:20260430T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6551\nАудитория: а.6373\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1600-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T160000
+DTEND;TZID=Europe/Moscow:20260430T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6552\nАудитория: а.6373\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1400-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T140000
 DTEND;TZID=Europe/Moscow:20260504T154000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №12\nП
- реподаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1600-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T160000
 DTEND;TZID=Europe/Moscow:20260504T174000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6571\nАудитория: а.6382\nПара №12\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6382\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260506-0930-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T093000
 DTEND;TZID=Europe/Moscow:20260506T111000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521\, 6561 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6240\nПара №10\nПреподаватель
- : Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6240\nПреподаватель: Карманов
+ ская Т. В.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260506-0930-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6561\nАудитория: а.6240\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260506-0930-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260506T093000
+DTEND;TZID=Europe/Moscow:20260506T111000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\nАудитория: а.6240\nПара №10\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260506-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T113000
 DTEND;TZID=Europe/Moscow:20260506T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПара №12\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260506-1400-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260506-1400-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T140000
 DTEND;TZID=Europe/Moscow:20260506T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6511\nАудитория: а.6382
+DESCRIPTION:Группа: 6511\nАудитория: а.6382\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-karmanovskaya-t-v-20260506-1600-бeзопасность-жизнeдeятeльности-
- 6511@gtifem.ru
-DTSTAMP:20260526T153747Z
+UID:teacher-20260506-1600-6511-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T160000
 DTEND;TZID=Europe/Moscow:20260506T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6511\nАудитория: а.6382
+DESCRIPTION:Группа: 6511\nАудитория: а.6382\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-0930-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T093000
 DTEND;TZID=Europe/Moscow:20260513T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521\, 6561 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6381\nПара №11\nПреподаватель
- : Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6381\nПреподаватель: Карманов
+ ская Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-0930-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260513T093000
+DTEND;TZID=Europe/Moscow:20260513T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6561\nАудитория: а.6381\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-0930-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260513T093000
+DTEND;TZID=Europe/Moscow:20260513T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6521\nАудитория: а.6381\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1130-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T113000
 DTEND;TZID=Europe/Moscow:20260513T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6381\nПара №12\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6381\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6551\nАудитория: а.6381\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260513-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260513T113000
+DTEND;TZID=Europe/Moscow:20260513T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6552\nАудитория: а.6381\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1400-6531-6532-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T140000
 DTEND;TZID=Europe/Moscow:20260513T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6531\,6532 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6381\nПара №12\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.6381\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1400-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T140000
 DTEND;TZID=Europe/Moscow:20260520T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541\,6542\, 6581 · а.63
- 82
-LOCATION:а.6382
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6382\nПара №12\nПрепода
- ватель: Кармановская Т.В.
+LOCATION:а.63
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.63\nПреподаватель: Карм
+ ановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\nАудитория: а.6382\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6542\nАудитория: а.6382\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6581\nАудитория: а.6382\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1600-6541-6542-6581-безопасность-жизнедеятельности@gti
  fem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T160000
 DTEND;TZID=Europe/Moscow:20260520T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541\,6542\, 6581 · а.638
- 2
-LOCATION:а.6382
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.6382\nПара №12\nПрепода
- ватель: Кармановская Т.В.
+LOCATION:а.638
+DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.638\nПреподаватель: Кар
+ мановская Т. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\nАудитория: а.6382\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6542\nАудитория: а.6382\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1600-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T160000
+DTEND;TZID=Europe/Moscow:20260520T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6581\nАудитория: а.6382\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1130-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T113000
 DTEND;TZID=Europe/Moscow:20260521T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521\, 6561 · а.6249
 LOCATION:а.6249
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6249\nПара №11\nПреподаватель
- : Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6249\nПреподаватель: Карманов
+ ская Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1130-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260521T113000
+DTEND;TZID=Europe/Moscow:20260521T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6561\nАудитория: а.6249\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260521-1130-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260521T113000
+DTEND;TZID=Europe/Moscow:20260521T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6521\nАудитория: а.6249\nПара №11\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260521-1400-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260521T140000
 DTEND;TZID=Europe/Moscow:20260521T154000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6511\,6512 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №13\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-0930-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T093000
 DTEND;TZID=Europe/Moscow:20260527T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6571 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПара №13\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1130-6571-безопасность-жизнедеятельности@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T113000
 DTEND;TZID=Europe/Moscow:20260527T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6571 · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПара №13\nПреподаватель: Карма
- новская Т.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.6373\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1400-6551-6552-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T140000
 DTEND;TZID=Europe/Moscow:20260527T154000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551\,6552 · а.6245
 LOCATION:а.6245
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6245\nПара №13\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6551\,6552\nАудитория: а.6245\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6551\,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1400-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260527T140000
+DTEND;TZID=Europe/Moscow:20260527T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6551 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6551\nАудитория: а.6245\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260527-1400-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260527T140000
+DTEND;TZID=Europe/Moscow:20260527T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6552 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6552\nАудитория: а.6245\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-0930-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T093000
 DTEND;TZID=Europe/Moscow:20260528T111000
 SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521\, 6561 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6240\nПара №12\nПреподаватель
- : Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6240\nПреподаватель: Карманов
+ ская Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-0930-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260528T093000
+DTEND;TZID=Europe/Moscow:20260528T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6561\nАудитория: а.6240\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-0930-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260528T093000
+DTEND;TZID=Europe/Moscow:20260528T111000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6521\nАудитория: а.6240\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-1130-6521-6561-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T113000
 DTEND;TZID=Europe/Moscow:20260528T131000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521\, 6561 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6242\nПара №12\nПреподаватель
- : Кармановская Т.В.
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.6242\nПреподаватель: Карманов
+ ская Т. В.
 CATEGORIES:Преподавание,6521\, 6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1130-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260528T113000
+DTEND;TZID=Europe/Moscow:20260528T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6561\nАудитория: а.6242\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260528-1130-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260528T113000
+DTEND;TZID=Europe/Moscow:20260528T131000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6521\nАудитория: а.6242\nПара №12\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-1400-6531-6532-6533-6534-безопасность-жизнедеятельност
  и@gtifem.ru
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T140000
 DTEND;TZID=Europe/Moscow:20260528T154000
-SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534 
- · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.6382\nПара №13\nП
- реподаватель: Кармановская Т.В.
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6531\,6532\, 6533\,6534
+DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nПреподаватель: Кармановская Т.
+  В.
 CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-1600-6511-6512-безопасность-жизнедеятельности@gtifem.r
  u
-DTSTAMP:20260602T102636Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T160000
 DTEND;TZID=Europe/Moscow:20260528T174000
 SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6511\,6512 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПара №13\nПреподаватель:
-  Кармановская Т.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.6382\nПреподаватель: Кармановс
+ кая Т. В.
 CATEGORIES:Преподавание,6511\,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1400-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T140000
+DTEND;TZID=Europe/Moscow:20260605T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6541 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6541\nАудитория: а.6382\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1400-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T140000
+DTEND;TZID=Europe/Moscow:20260605T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6542 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6542\nАудитория: а.6382\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1400-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T140000
+DTEND;TZID=Europe/Moscow:20260605T154000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6581 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6581\nАудитория: а.6382\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1600-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T160000
+DTEND;TZID=Europe/Moscow:20260605T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6541 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6541\nАудитория: а.6245\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1600-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T160000
+DTEND;TZID=Europe/Moscow:20260605T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6542 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6542\nАудитория: а.6245\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260605-1600-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260605T160000
+DTEND;TZID=Europe/Moscow:20260605T174000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6581 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6581\nАудитория: а.6245\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1130-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260610T113000
+DTEND;TZID=Europe/Moscow:20260610T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6561 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6561\nАудитория: а.6373\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1130-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260610T113000
+DTEND;TZID=Europe/Moscow:20260610T131000
+SUMMARY:Безопасность жизнедеятельности (лек) · гр. 6521 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\nАудитория: а.6373\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1400-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260610T140000
+DTEND;TZID=Europe/Moscow:20260610T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6561 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6561\nАудитория: а.6373\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1400-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260610T140000
+DTEND;TZID=Europe/Moscow:20260610T154000
+SUMMARY:Безопасность жизнедеятельности (пр) · гр. 6521 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6521\nАудитория: а.6373\nПара №13\nПреподаватель: Карма
+ новская Т. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-1130-6561-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260615T113000
+DTEND;TZID=Europe/Moscow:20260615T131000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6561 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6561\nАудитория: а.6240\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-1400-6541-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260615T140000
+DTEND;TZID=Europe/Moscow:20260615T154000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6541 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6541\nАудитория: а.6240\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-1400-6542-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260615T140000
+DTEND;TZID=Europe/Moscow:20260615T154000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6542 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6542\nАудитория: а.6240\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260615-1600-6571-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260615T160000
+DTEND;TZID=Europe/Moscow:20260615T174000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6571 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6571\nАудитория: а.6240\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-0930-6581-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260622T093000
+DTEND;TZID=Europe/Moscow:20260622T111000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6581 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6581\nАудитория: а.6382\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1400-6553-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260622T140000
+DTEND;TZID=Europe/Moscow:20260622T154000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6553 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6553\nАудитория: а.6382\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260622-1400-6554-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260622T140000
+DTEND;TZID=Europe/Moscow:20260622T154000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6554 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6554\nАудитория: а.6382\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260623-0930-6521-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260623T093000
+DTEND;TZID=Europe/Moscow:20260623T111000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6521 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6521\nАудитория: а.6112\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260623-1130-6551-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260623T113000
+DTEND;TZID=Europe/Moscow:20260623T131000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6551 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6551\nАудитория: а.6112\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260623-1130-6552-безопасность-жизнедеятельности@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260623T113000
+DTEND;TZID=Europe/Moscow:20260623T131000
+SUMMARY:Безопасность жизнедеятельности (зачет) · гр. 6552 · а.6112
+LOCATION:а.6112
+DESCRIPTION:Группа: 6552\nАудитория: а.6112\nПреподаватель: Кармановская Т.
+  В.
+CATEGORIES:Преподавание,6552
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

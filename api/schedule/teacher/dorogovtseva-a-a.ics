@@ -3,9 +3,9 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Дороговцева А.А. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Дороговцева А.А., ФЭМ СПбГТИ (Т
- У)
+X-WR-CALNAME:Расписание Дороговцева А. А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Дороговцева А. А., ФЭМ СПбГТИ (
+ ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -20,1425 +20,1758 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250902-1400-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T140000
 DTEND;TZID=Europe/Moscow:20250902T154000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №1\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250902-1600-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250902T160000
 DTEND;TZID=Europe/Moscow:20250902T174000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №2\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250903-1400-6451-6452-6453-теория-коммуникаций-лекция@gtifem.
  ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T140000
 DTEND;TZID=Europe/Moscow:20250903T154000
 SUMMARY:Теория коммуникаций\, Лекция · гр. 6451\,6452\, 6453 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.409\nПара №1\nПреподава
- тель: Дороговцева А.А.
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.409\nПреподаватель: Дор
+ оговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1400-6453-теория-коммуникаций-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Теория коммуникаций\, Лекция · гр. 6453 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6453\nАудитория: а.409\nПара №1\nПреподаватель: Дорогов
+ цева А. А.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250903-1600-6451-6452-6453-теория-коммуникаций-лекция@gtifem.
  ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T160000
 DTEND;TZID=Europe/Moscow:20250903T174000
 SUMMARY:Теория коммуникаций\, Лекция · гр. 6451\,6452\, 6453 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.409\nПара №2\nПреподава
- тель: Дороговцева А.А.
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.409\nПреподаватель: Дор
+ оговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250903-1600-6453-теория-коммуникаций-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Теория коммуникаций\, Лекция · гр. 6453 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6453\nАудитория: а.409\nПара №2\nПреподаватель: Дорогов
+ цева А. А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250904-0930-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T093000
 DTEND;TZID=Europe/Moscow:20250904T111000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №1\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250904-1130-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
 DTEND;TZID=Europe/Moscow:20250904T131000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №3\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250909-1400-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T140000
 DTEND;TZID=Europe/Moscow:20250909T154000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №4\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250909-1600-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250909T160000
 DTEND;TZID=Europe/Moscow:20250909T174000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №5\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250910-1400-6451-6452-6453-теория-коммуникаций-лекция@gtifem.
  ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250910T140000
 DTEND;TZID=Europe/Moscow:20250910T154000
 SUMMARY:Теория коммуникаций\, Лекция · гр. 6451\,6452\, 6453 · а. 401
 LOCATION:а. 401
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а. 401\nПара №3\nПреподав
- атель: Дороговцева А.А.
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а. 401\nПреподаватель: До
+ роговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250910-1400-6453-теория-коммуникаций-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Теория коммуникаций\, Лекция · гр. 6453 · а. 401
+LOCATION:а. 401
+DESCRIPTION:Группа: 6453\nАудитория: а. 401\nПара №3\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250912-0930-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T093000
 DTEND;TZID=Europe/Moscow:20250912T111000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №2\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250912-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250912T113000
 DTEND;TZID=Europe/Moscow:20250912T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №3\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250915-1400-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №4\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-0930-6451-6452-6453-теория-коммуникаций-лабораторн@gti
  fem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T093000
 DTEND;TZID=Europe/Moscow:20250919T111000
-SUMMARY:Теория коммуникаций лабораторный практикум · гр. 6451\,6452\, 6453 
- · а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №1\nПреподав
- атель: Дороговцева А.А.
+SUMMARY:Теория коммуникаций лабораторный практикум · гр. 6451\,6452\, 6453
+DESCRIPTION:Группа: 6451\,6452\, 6453\nПреподаватель: Дороговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6453-теория-коммуникаций-лабораторн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Теория коммуникаций лабораторный практикум · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №1\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250919-1130-6451-6452-6453-теория-коммуникаций-лекция@gtifem.
  ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250919T113000
 DTEND;TZID=Europe/Moscow:20250919T131000
 SUMMARY:Теория коммуникаций лекция · гр. 6451\,6452\, 6453 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №4\nПреподав
- атель: Дороговцева А.А.
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПреподаватель: До
+ роговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6453-теория-коммуникаций-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Теория коммуникаций лекция · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №4\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250922-1400-6451-6452-6453-теория-коммуникаций-лекция@gtifem.
  ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Теория коммуникаций лекция · гр. 6451\,6452\, 6453 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №5\nПреподав
- атель: Дороговцева А.А.
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПреподаватель: До
+ роговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250922-1400-6453-теория-коммуникаций-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Теория коммуникаций лекция · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №5\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251006-1800-639ву-управление-персоналом-лекц@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T180000
 DTEND;TZID=Europe/Moscow:20251006T184500
 SUMMARY:Управление персоналом\, лекц · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-2000-639ву-управление-персоналом-практ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T200000
 DTEND;TZID=Europe/Moscow:20251006T204500
 SUMMARY:Управление персоналом\, практ · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251008-1130-6453-теория-коммуникаций-лабораторн@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251008T113000
 DTEND;TZID=Europe/Moscow:20251008T131000
 SUMMARY:Теория коммуникаций лабораторный практикум · гр. 6453 · а.6245
 LOCATION:а.6245
-DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПара №2\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6245\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-0930-6453-теория-коммуникаций-лабораторн@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T093000
 DTEND;TZID=Europe/Moscow:20251013T111000
 SUMMARY:Теория коммуникаций лабораторный практикум · гр. 6453 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №3\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-1130-6453-теория-коммуникаций-лабораторн@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T113000
 DTEND;TZID=Europe/Moscow:20251013T131000
 SUMMARY:Теория коммуникаций лабораторный практикум · гр. 6453 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №4\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251014-1130-6371-сдача-отчетов-по-практике@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T113000
 DTEND;TZID=Europe/Moscow:20251014T131000
 SUMMARY:Сдача отчетов по практике · гр. 6371 · а.6236
 LOCATION:а.6236
-DESCRIPTION:Группа: 6371\nАудитория: а.6236\nПреподаватель: Дороговцева А.А
- .
+DESCRIPTION:Группа: 6371\nАудитория: а.6236\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6371
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251017-1130-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251017T113000
 DTEND;TZID=Europe/Moscow:20251017T131000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №8\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-1800-639ву-управление-персоналом-лаб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T180000
 DTEND;TZID=Europe/Moscow:20251022T184500
 SUMMARY:Управление персоналом\, лаб · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251022-2000-639ву-управление-персоналом-практ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251022T200000
 DTEND;TZID=Europe/Moscow:20251022T204500
 SUMMARY:Управление персоналом\, практ · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1400-6471-управление-персоналом-лекция@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T140000
 DTEND;TZID=Europe/Moscow:20251023T154000
 SUMMARY:Управление персоналом\, Лекция · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №9\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251023-1600-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T160000
 DTEND;TZID=Europe/Moscow:20251023T174000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №10\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-0930-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T093000
 DTEND;TZID=Europe/Moscow:20251024T111000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №11\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251024-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251024T113000
 DTEND;TZID=Europe/Moscow:20251024T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №12\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251031-0930-6451-6452-теория-коммуникаций-практическ@gtifem.r
  u
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T093000
 DTEND;TZID=Europe/Moscow:20251031T111000
 SUMMARY:Теория коммуникаций практическое занятие · гр. 6451\,6452 · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПара №13\nПреподаватель: 
- Дороговцева А.А.
+DESCRIPTION:Группа: 6451\,6452\nАудитория: а.409\nПреподаватель: Дороговцев
+ а А. А.
 CATEGORIES:Преподавание,6451\,6452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251031-0930-6451-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6451 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6451\nАудитория: а.409\nПара №13\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930-6452-теория-коммуникаций-практическ@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T093000
+DTEND;TZID=Europe/Moscow:20251031T111000
+SUMMARY:Теория коммуникаций практическое занятие · гр. 6452 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6452\nАудитория: а.409\nПара №13\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251105-1800-639ву-управление-персоналом-лаб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T180000
 DTEND;TZID=Europe/Moscow:20251105T184500
 SUMMARY:Управление персоналом\, лаб · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-2000-639ву-управление-персоналом-практ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T200000
 DTEND;TZID=Europe/Moscow:20251105T204500
 SUMMARY:Управление персоналом\, практ · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-1130-6453-теория-коммуникаций-кр@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T113000
 DTEND;TZID=Europe/Moscow:20251107T131000
 SUMMARY:Теория коммуникаций КР · гр. 6453 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №1\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-0930-6453-теория-коммуникаций-кр@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T093000
 DTEND;TZID=Europe/Moscow:20251111T111000
 SUMMARY:Теория коммуникаций КР · гр. 6453 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №2\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251111-1130-6453-теория-коммуникаций-кр@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251111T113000
 DTEND;TZID=Europe/Moscow:20251111T131000
 SUMMARY:Теория коммуникаций КР · гр. 6453 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПара №3\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251112-1130-6371-прием-ознакомительной-практики@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251112T113000
 DTEND;TZID=Europe/Moscow:20251112T131000
 SUMMARY:Прием Ознакомительной практики · гр. 6371 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6371\nАудитория: а.6248\nПреподаватель: Дороговцева А.А
- .
+DESCRIPTION:Группа: 6371\nАудитория: а.6248\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6371
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251117-1400-6471-управление-персоналом-курсовая@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T140000
 DTEND;TZID=Europe/Moscow:20251117T154000
 SUMMARY:Управление персоналом\, Курсовая работа · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №1\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251117-1800-639ву-управление-персоналом-лаб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T180000
 DTEND;TZID=Europe/Moscow:20251117T184500
 SUMMARY:Управление персоналом\, лаб · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251117-2000-639ву-управление-персоналом-практ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T200000
 DTEND;TZID=Europe/Moscow:20251117T204500
 SUMMARY:Управление персоналом\, практ · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251124-1800-639ву-управление-персоналом-кр@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T180000
 DTEND;TZID=Europe/Moscow:20251124T184500
 SUMMARY:Управление персоналом\, КР · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251124-2000-639ву-управление-персоналом-кр@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251124T200000
 DTEND;TZID=Europe/Moscow:20251124T204500
 SUMMARY:Управление персоналом\, КР · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-0930-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T093000
 DTEND;TZID=Europe/Moscow:20251127T111000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №22\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251127-1130-6471-управление-персоналом-практиче@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251127T113000
 DTEND;TZID=Europe/Moscow:20251127T131000
 SUMMARY:Управление персоналом\, Практическое занятие · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №23\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1400-6471-управление-персоналом-курсовая@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T140000
 DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Управление персоналом\, Курсовая работа · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №2\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1600-6471-управление-персоналом-курсовая@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T160000
 DTEND;TZID=Europe/Moscow:20251202T174000
 SUMMARY:Управление персоналом\, Курсовая работа · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №3\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251205-0930-6471-управление-персоналом-лаборато@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T093000
 DTEND;TZID=Europe/Moscow:20251205T111000
 SUMMARY:Управление персоналом\, Лабораторное занятие · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №8\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251205-1130-6471-управление-персоналом-лаборато@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251205T113000
 DTEND;TZID=Europe/Moscow:20251205T131000
 SUMMARY:Управление персоналом\, Лабораторное занятие · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №9\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251208-1400-6471-управление-персоналом-лаборато@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T140000
 DTEND;TZID=Europe/Moscow:20251208T154000
 SUMMARY:Управление персоналом\, Лабораторное занятие · гр. 6471 · а.6249
 LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №10\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251208-1600-6471-управление-персоналом-лаборато@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T160000
 DTEND;TZID=Europe/Moscow:20251208T174000
 SUMMARY:Управление персоналом\, Лабораторное занятие · гр. 6471 · а.6249
 LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №11\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251208-1800-639ву-управление-персоналом-лекц@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T180000
 DTEND;TZID=Europe/Moscow:20251208T184500
 SUMMARY:Управление персоналом\, лекц · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251208-2000-639ву-управление-персоналом-лекц@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251208T200000
 DTEND;TZID=Europe/Moscow:20251208T204500
 SUMMARY:Управление персоналом\, лекц · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251215-0930-6451-6452-6453-теория-коммуникаций-лабораторн@gti
  fem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T093000
 DTEND;TZID=Europe/Moscow:20251215T111000
-SUMMARY:Теория коммуникаций Лабораторное занятие · гр. 6451\,6452\, 6453 · 
- а.6382
-LOCATION:а.6382
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6382\nПара №7\nПреподав
- атель: Дороговцева А.А.
+SUMMARY:Теория коммуникаций Лабораторное занятие · гр. 6451\,6452\, 6453
+DESCRIPTION:Группа: 6451\,6452\, 6453\nПреподаватель: Дороговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6451-теория-коммуникаций-лабораторн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Теория коммуникаций Лабораторное занятие · гр. 6451 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6451\nАудитория: а.6382\nПара №7\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6452-теория-коммуникаций-лабораторн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Теория коммуникаций Лабораторное занятие · гр. 6452 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6452\nАудитория: а.6382\nПара №7\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6453-теория-коммуникаций-лабораторн@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Теория коммуникаций Лабораторное занятие · гр. 6453 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6453\nАудитория: а.6382\nПара №7\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251215-1130-6451-6452-6453-теория-коммуникаций-лекция-ауд@gti
  fem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T113000
 DTEND;TZID=Europe/Moscow:20251215T131000
 SUMMARY:Теория коммуникаций Лекция (ауд) · гр. 6451\,6452\, 6453 · а.6378
 LOCATION:а.6378
-DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6378\nПара №11\nПрепода
- ватель: Дороговцева А.А.
+DESCRIPTION:Группа: 6451\,6452\, 6453\nАудитория: а.6378\nПреподаватель: До
+ роговцева А. А.
 CATEGORIES:Преподавание,6451\,6452\, 6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251215-1130-6451-теория-коммуникаций-лекция-ауд@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Теория коммуникаций Лекция (ауд) · гр. 6451 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\nАудитория: а.6378\nПара №11\nПреподаватель: Дорог
+ овцева А. А.
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6452-теория-коммуникаций-лекция-ауд@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Теория коммуникаций Лекция (ауд) · гр. 6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6452\nАудитория: а.6378\nПара №11\nПреподаватель: Дорог
+ овцева А. А.
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6453-теория-коммуникаций-лекция-ауд@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Теория коммуникаций Лекция (ауд) · гр. 6453 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6453\nАудитория: а.6378\nПара №11\nПреподаватель: Дорог
+ овцева А. А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251215-1800-639ву-управление-персоналом-лекц@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251215T180000
 DTEND;TZID=Europe/Moscow:20251215T184500
 SUMMARY:Управление персоналом\, лекц · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251222-1800-639ву-управление-персоналом-практ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251222T180000
 DTEND;TZID=Europe/Moscow:20251222T184500
 SUMMARY:Управление персоналом\, практ · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251222-2000-639ву-управление-персоналом-практ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251222T200000
 DTEND;TZID=Europe/Moscow:20251222T204500
 SUMMARY:Управление персоналом\, практ · гр. 639ву · а. 6381
 LOCATION:а. 6381
-DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПара №-\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а. 6381\nПреподаватель: Дороговцева А
+ . А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T180000
 DTEND;TZID=Europe/Moscow:20260114T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №1\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260114-2000-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260114T200000
 DTEND;TZID=Europe/Moscow:20260114T214000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №2\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260119-1130-6451-6452-прием-практики-гр-6451-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260119T113000
 DTEND;TZID=Europe/Moscow:20260119T131000
 SUMMARY:Прием практики гр.6451 (лек) · гр. 6451\,6452 · а.6373
 LOCATION:а.6373
 DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6373\nПреподаватель: Дороговце
- ва А.А.
+ ва А. А.
 CATEGORIES:Преподавание,6451\,6452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260119-1130-6451-прием-практики-гр-6451-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Прием практики гр.6451 (лек) · гр. 6451 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6451\nАудитория: а.6373\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1130-6452-прием-практики-гр-6451-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260119T113000
+DTEND;TZID=Europe/Moscow:20260119T131000
+SUMMARY:Прием практики гр.6451 (лек) · гр. 6452 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6452\nАудитория: а.6373\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260119-1400-6451-6452-прием-практики-гр-6451-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260119T140000
 DTEND;TZID=Europe/Moscow:20260119T154000
 SUMMARY:Прием практики гр.6451 (лек) · гр. 6451\,6452 · а.406
 LOCATION:а.406
 DESCRIPTION:Группа: 6451\,6452\nАудитория: а.406\nПреподаватель: Дороговцев
- а А.А.
+ а А. А.
 CATEGORIES:Преподавание,6451\,6452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260119-1400-6451-прием-практики-гр-6451-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Прием практики гр.6451 (лек) · гр. 6451 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6451\nАудитория: а.406\nПреподаватель: Дороговцева А. А
+ .
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260119-1400-6452-прием-практики-гр-6451-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260119T140000
+DTEND;TZID=Europe/Moscow:20260119T154000
+SUMMARY:Прием практики гр.6451 (лек) · гр. 6452 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6452\nАудитория: а.406\nПреподаватель: Дороговцева А. А
+ .
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260122-0930-6451-6452-прием-практики-гр-6452-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T093000
 DTEND;TZID=Europe/Moscow:20260122T111000
 SUMMARY:Прием практики гр.6452 (лек) · гр. 6451\,6452 · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6378\nПреподаватель: Дороговце
- ва А.А.
+ ва А. А.
 CATEGORIES:Преподавание,6451\,6452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260122-0930-6451-прием-практики-гр-6452-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Прием практики гр.6452 (лек) · гр. 6451 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6451\nАудитория: а.6378\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-0930-6452-прием-практики-гр-6452-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T093000
+DTEND;TZID=Europe/Moscow:20260122T111000
+SUMMARY:Прием практики гр.6452 (лек) · гр. 6452 · а.6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6452\nАудитория: а.6378\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260122-1130-6451-6452-прием-практики-гр-6452-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260122T113000
 DTEND;TZID=Europe/Moscow:20260122T131000
 SUMMARY:Прием практики гр.6452 (лек) · гр. 6451\,6452 · а.6117
 LOCATION:а.6117
 DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6117\nПреподаватель: Дороговце
- ва А.А.
+ ва А. А.
 CATEGORIES:Преподавание,6451\,6452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260122-1130-6451-прием-практики-гр-6452-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Прием практики гр.6452 (лек) · гр. 6451 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6451\nАудитория: а.6117\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260122-1130-6452-прием-практики-гр-6452-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260122T113000
+DTEND;TZID=Europe/Moscow:20260122T131000
+SUMMARY:Прием практики гр.6452 (лек) · гр. 6452 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6452\nАудитория: а.6117\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260126-1400-6453-прием-практики-гр-6453-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T140000
 DTEND;TZID=Europe/Moscow:20260126T154000
 SUMMARY:Прием практики гр.6453 (лек) · гр. 6453 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6453\nАудитория: а.401\nПреподаватель: Дороговцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.401\nПреподаватель: Дороговцева А. А
+ .
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260126-1600-6453-прием-практики-гр-6453-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260126T160000
 DTEND;TZID=Europe/Moscow:20260126T174000
 SUMMARY:Прием практики гр.6453 (лек) · гр. 6453 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6453\nАудитория: а.401\nПреподаватель: Дороговцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.401\nПреподаватель: Дороговцева А. А
+ .
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260128-1130-6453-прием-практики-гр-6453-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260128T113000
 DTEND;TZID=Europe/Moscow:20260128T131000
 SUMMARY:Прием практики гр.6453 (лек) · гр. 6453 · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6453\nАудитория: а.106\nПреподаватель: Дороговцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.106\nПреподаватель: Дороговцева А. А
+ .
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-1130-6451-6452-прием-практики-гр-6451-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T113000
 DTEND;TZID=Europe/Moscow:20260130T131000
 SUMMARY:Прием практики гр.6451 (лек) · гр. 6451\,6452 · а.6381
 LOCATION:а.6381
 DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6381\nПреподаватель: Дороговце
- ва А.А.
+ ва А. А.
 CATEGORIES:Преподавание,6451\,6452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20260130-1130-6451-прием-практики-гр-6451-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Прием практики гр.6451 (лек) · гр. 6451 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6451\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6451
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6452-прием-практики-гр-6451-лек-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Прием практики гр.6451 (лек) · гр. 6452 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6452\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6452
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20260130-1400-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T140000
 DTEND;TZID=Europe/Moscow:20260130T154000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6249
 LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №4\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260130-1600-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260130T160000
 DTEND;TZID=Europe/Moscow:20260130T174000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6249
 LOCATION:а.6249
-DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПара №5\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6249\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-0930-6453-теория-коммуникаций-курс-работ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T093000
 DTEND;TZID=Europe/Moscow:20260202T111000
 SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №4\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260202-1130-6453-теория-коммуникаций-курс-работ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260202T113000
 DTEND;TZID=Europe/Moscow:20260202T131000
 SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6453\nАудитория: а.406\nПара №5\nПреподаватель: Дорогов
- цева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.406\nПреподаватель: Дороговцева А. А
+ .
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T180000
 DTEND;TZID=Europe/Moscow:20260204T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №3\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260204-2000-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260204T200000
 DTEND;TZID=Europe/Moscow:20260204T214000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №4\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260211-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T180000
 DTEND;TZID=Europe/Moscow:20260211T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №5\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260211-2000-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260211T200000
 DTEND;TZID=Europe/Moscow:20260211T214000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №6\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-0930-6453-теория-коммуникаций-курс-работ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T093000
 DTEND;TZID=Europe/Moscow:20260216T111000
 SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПара №6\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260216-1130-6453-теория-коммуникаций-курс-работ@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260216T113000
 DTEND;TZID=Europe/Moscow:20260216T131000
 SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №7\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260226-1130-6451-6452-прием-практики-гр-6452@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260226T113000
 DTEND;TZID=Europe/Moscow:20260226T131000
 SUMMARY:Прием практики гр 6452 · гр. 6451\,6452 · а.6240
 LOCATION:а.6240
 DESCRIPTION:Группа: 6451\,6452\nАудитория: а.6240\nПреподаватель: Дороговце
- ва А.А.
+ ва А. А.
 CATEGORIES:Преподавание,6451\,6452
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260311-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260311T180000
 DTEND;TZID=Europe/Moscow:20260311T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №7\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260311-2000-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260311T200000
 DTEND;TZID=Europe/Moscow:20260311T214000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №8\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1130-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T113000
 DTEND;TZID=Europe/Moscow:20260318T131000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №6\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1400-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T140000
 DTEND;TZID=Europe/Moscow:20260318T154000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №7\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1600-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T160000
 DTEND;TZID=Europe/Moscow:20260318T174000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №8\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260318-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260318T180000
 DTEND;TZID=Europe/Moscow:20260318T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №9\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-0930-6453-теория-коммуникаций-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260325T093000
 DTEND;TZID=Europe/Moscow:20260325T111000
 SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №26\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260325-1130-6453-теория-коммуникаций-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260325T113000
 DTEND;TZID=Europe/Moscow:20260325T131000
 SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №27\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T180000
 DTEND;TZID=Europe/Moscow:20260401T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №10\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260401-2000-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260401T200000
 DTEND;TZID=Europe/Moscow:20260401T214000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №11\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1130-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T113000
 DTEND;TZID=Europe/Moscow:20260409T131000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №50\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260409-1400-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
 DTEND;TZID=Europe/Moscow:20260409T154000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №51\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260410-1400-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T140000
 DTEND;TZID=Europe/Moscow:20260410T154000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №9\nПреподаватель: Дорого
- вцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260410-1600-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260410T160000
 DTEND;TZID=Europe/Moscow:20260410T174000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №10\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T180000
 DTEND;TZID=Europe/Moscow:20260423T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 639ву\nАудитория: а.6373\nПара №12\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6373\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260423-2000-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T200000
 DTEND;TZID=Europe/Moscow:20260423T214000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6373
 LOCATION:а.6373
-DESCRIPTION:Группа: 639ву\nАудитория: а.6373\nПара №13\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6373\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1400-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T140000
 DTEND;TZID=Europe/Moscow:20260504T154000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПара №11\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260504-1600-6471-управление-персоналом-курс-раб@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260504T160000
 DTEND;TZID=Europe/Moscow:20260504T174000
 SUMMARY:Управление персоналом (Курс.работа) · гр. 6471 · а.6248
 LOCATION:а.6248
-DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПара №12\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6248\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260506-1400-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T140000
 DTEND;TZID=Europe/Moscow:20260506T154000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №58\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260506-1600-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260506T160000
 DTEND;TZID=Europe/Moscow:20260506T174000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПара №59\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1600-6453-теория-коммуникаций-лаб-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T160000
 DTEND;TZID=Europe/Moscow:20260513T174000
 SUMMARY:Теория коммуникаций (лаб) · гр. 6453 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПара №23\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6242\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-1800-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T180000
 DTEND;TZID=Europe/Moscow:20260513T194000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №14\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260513-2000-639ву-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260513T200000
 DTEND;TZID=Europe/Moscow:20260513T214000
 SUMMARY:Управление персоналом (лек) · гр. 639ву · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПара №15\nПреподаватель: Доро
- говцева А.А.
+DESCRIPTION:Группа: 639ву\nАудитория: а.6381\nПреподаватель: Дороговцева А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1400-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T140000
 DTEND;TZID=Europe/Moscow:20260514T154000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №60\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260514-1600-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260514T160000
 DTEND;TZID=Europe/Moscow:20260514T174000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №61\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-0930-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T093000
 DTEND;TZID=Europe/Moscow:20260515T111000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПара №27\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260515-1130-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260515T113000
 DTEND;TZID=Europe/Moscow:20260515T131000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6471\nАудитория: а.6117\nПара №28\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6117\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-0930-6453-теория-коммуникаций-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T093000
 DTEND;TZID=Europe/Moscow:20260520T111000
 SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПара №29\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260520-1130-6453-теория-коммуникаций-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260520T113000
 DTEND;TZID=Europe/Moscow:20260520T131000
 SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.6381
 LOCATION:а.6381
-DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПара №30\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6381\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260525-1130-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260525T113000
 DTEND;TZID=Europe/Moscow:20260525T131000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6382
 LOCATION:а.6382
-DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПара №64\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6382\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260526-1400-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T140000
 DTEND;TZID=Europe/Moscow:20260526T154000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6471\nАудитория: а.6240\nПара №29\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6240\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260526-1600-6471-управление-персоналом-лек-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T160000
 DTEND;TZID=Europe/Moscow:20260526T174000
 SUMMARY:Управление персоналом (лек) · гр. 6471 · а.6240
 LOCATION:а.6240
-DESCRIPTION:Группа: 6471\nАудитория: а.6240\nПара №30\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6240\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1400-6453-теория-коммуникаций-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T140000
 DTEND;TZID=Europe/Moscow:20260527T154000
 SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №31\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260527-1600-6453-теория-коммуникаций-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260527T160000
 DTEND;TZID=Europe/Moscow:20260527T174000
 SUMMARY:Теория коммуникаций (пр) · гр. 6453 · а.6235
 LOCATION:а.6235
-DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №32\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-1400-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T140000
 DTEND;TZID=Europe/Moscow:20260528T154000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №67\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260528-1600-6471-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260528T160000
 DTEND;TZID=Europe/Moscow:20260528T174000
 SUMMARY:Управление персоналом (пр) · гр. 6471 · а.6376
 LOCATION:а.6376
-DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПара №68\nПреподаватель: Дорог
- овцева А.А.
+DESCRIPTION:Группа: 6471\nАудитория: а.6376\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6471
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260529-1400-6453-теория-коммуникаций-тестирован@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260529T140000
 DTEND;TZID=Europe/Moscow:20260529T154000
 SUMMARY:Теория коммуникаций ТЕСТИРОВАНИЕ · гр. 6453 · а.6116
 LOCATION:а.6116
-DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПреподаватель: Дороговцева А.А
- .
+DESCRIPTION:Группа: 6453\nАудитория: а.6116\nПреподаватель: Дороговцева А. 
+ А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1400-6453-теория-коммуникаций-курс-работ@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260602T140000
+DTEND;TZID=Europe/Moscow:20260602T154000
+SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №8\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260602-1600-6453-теория-коммуникаций-курс-работ@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260602T160000
+DTEND;TZID=Europe/Moscow:20260602T174000
+SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6453\nАудитория: а.6235\nПара №9\nПреподаватель: Дорого
+ вцева А. А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260617-1130-6453-теория-коммуникаций-курс-работ@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260617T113000
+DTEND;TZID=Europe/Moscow:20260617T131000
+SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №10\nПреподаватель: Дорог
+ овцева А. А.
+CATEGORIES:Преподавание,6453
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260617-1400-6453-теория-коммуникаций-курс-работ@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260617T140000
+DTEND;TZID=Europe/Moscow:20260617T154000
+SUMMARY:Теория коммуникаций (Курс.работа) · гр. 6453 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПара №11\nПреподаватель: Дорог
+ овцева А. А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260706-1130-6453-теория-коммуникаций-экз-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260706T113000
 DTEND;TZID=Europe/Moscow:20260706T131000
 SUMMARY:Теория коммуникаций (экз) · гр. 6453 · а.6117
 LOCATION:а.6117
-DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПреподаватель: Дороговцева А.А
- .
+DESCRIPTION:Группа: 6453\nАудитория: а.6117\nПреподаватель: Дороговцева А. 
+ А.
 CATEGORIES:Преподавание,6453
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260708-1130-639зу-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260708T113000
 DTEND;TZID=Europe/Moscow:20260708T131000
 SUMMARY:Управление персоналом (пр) · гр. 639зу · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 639зу\nАудитория: а.6378\nПреподаватель: Дороговцева А.
- А.
+  А.
 CATEGORIES:Преподавание,639зу
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260708-1400-639зу-управление-персоналом-пр-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260708T140000
 DTEND;TZID=Europe/Moscow:20260708T154000
 SUMMARY:Управление персоналом (пр) · гр. 639зу · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 639зу\nАудитория: а.6378\nПреподаватель: Дороговцева А.
- А.
+  А.
 CATEGORIES:Преподавание,639зу
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260708-1600-639зу-управление-персоналом-экз-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260708T160000
 DTEND;TZID=Europe/Moscow:20260708T174000
 SUMMARY:Управление персоналом (экз) · гр. 639зу · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 639зу\nАудитория: а.6378\nПреподаватель: Дороговцева А.
- А.
+  А.
 CATEGORIES:Преподавание,639зу
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260708-1800-639ву-управление-персоналом-экз-@gtifem.ru
-DTSTAMP:20260602T102635Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260708T180000
 DTEND;TZID=Europe/Moscow:20260708T194000
 SUMMARY:Управление персоналом (экз) · гр. 639ву · а.6378
 LOCATION:а.6378
 DESCRIPTION:Группа: 639ву\nАудитория: а.6378\nПреподаватель: Дороговцева А.
- А.
+  А.
 CATEGORIES:Преподавание,639ву
 STATUS:CONFIRMED
 END:VEVENT

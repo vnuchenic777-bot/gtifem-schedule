@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:Расписание Пищикова М.В. (ФЭМ)
-X-WR-CALDESC:Учебная нагрузка преподавателя Пищикова М.В., ФЭМ СПбГТИ (ТУ)
+X-WR-CALNAME:Расписание Пищикова М. В. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Пищикова М. В., ФЭМ СПбГТИ (ТУ)
 X-WR-TIMEZONE:Europe/Moscow
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
@@ -18,22 +18,20 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:teacher-20250901-1400-6551-6552-6553-6554-основы-российской-государстве
- н@gtifem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20250901-1400-6551-6552-6553--основы-российской-государствен@gt
+ ifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250901T140000
 DTEND;TZID=Europe/Moscow:20250901T154000
 SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
- ,6554 · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.101\nПара №1\nПре
- подаватель: Пищикова М.В.
-CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+ \
+DESCRIPTION:Группа: 6551\,6552\, 6553\\\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\\
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250901-1400-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250901T140000
 DTEND;TZID=Europe/Moscow:20250901T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -43,7 +41,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250901-1400-6512-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250901T140000
 DTEND;TZID=Europe/Moscow:20250901T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6512
@@ -52,260 +50,383 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250901-1600-6551-6552-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250901-1400-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Основы российской государственности лекция · гр. 6551 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6551\nАудитория: а.101\nПара №1\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1400-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Основы российской государственности лекция · гр. 6552 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №1\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Основы российской государственности лекция · гр. 6553 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6553\nАудитория: а.101\nПара №1\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250901T140000
+DTEND;TZID=Europe/Moscow:20250901T154000
+SUMMARY:Основы российской государственности лекция · гр. 6554 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6554\nАудитория: а.101\nПара №1\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250901-1600-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250901T160000
 DTEND;TZID=Europe/Moscow:20250901T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
- \,6552 · а.101
-LOCATION:а.101
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.101\nПара №1\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250904-1130-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250901-1600-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250901T160000
+DTEND;TZID=Europe/Moscow:20250901T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6552
+  · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6552\nАудитория: а.101\nПара №1\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1130-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250904T113000
 DTEND;TZID=Europe/Moscow:20250904T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.406\nПара №1\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250905-0930-6561-6521-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250905-0930-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T093000
 DTEND;TZID=Europe/Moscow:20250905T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6561
- \, 6521 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.414\nПара №2\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6561\, 6521
+DESCRIPTION:Группа: 6561\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250908-0930-6531-6532-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250905-0930-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6521
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6521\nАудитория: а.414\nПара №2\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250908-0930-6531-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T093000
 DTEND;TZID=Europe/Moscow:20250908T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
- \,6532 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №2\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6531
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250908-1130-6531-6532-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250908-1130-6531-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T113000
 DTEND;TZID=Europe/Moscow:20250908T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
- \,6532 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.411\nПара №3\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6531
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250908-1400-6511-6512-6533-6534-основы-российской-государстве
- н@gtifem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20250908-1400-6511-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T140000
 DTEND;TZID=Europe/Moscow:20250908T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
- \,6512\, 6533\,6534 · а.106
-LOCATION:а.106
-DESCRIPTION:Группа: 6511\,6512\, 6533\,6534\nАудитория: а.106\nПара №2\nПре
- подаватель: Пищикова М.В.
-CATEGORIES:Преподавание,6511\,6512\, 6533\,6534
+DESCRIPTION:Группа: 6511\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6511
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250908-1600-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250908-1600-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250908T160000
 DTEND;TZID=Europe/Moscow:20250908T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №3\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250915-1400-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250915-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T140000
 DTEND;TZID=Europe/Moscow:20250915T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.414\nПара №4\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250915-1600-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250915-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T140000
+DTEND;TZID=Europe/Moscow:20250915T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6554\nАудитория: а.414\nПара №4\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250915-1600-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250915T160000
 DTEND;TZID=Europe/Moscow:20250915T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.414\nПара №5\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250922-1400-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20250915-1600-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250915T160000
+DTEND;TZID=Europe/Moscow:20250915T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6554\nАудитория: а.414\nПара №5\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250922T140000
 DTEND;TZID=Europe/Moscow:20250922T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.6115
-LOCATION:а.6115
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.6115\nПара №5\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250926-0930-6551-6552-6553-6554-основы-российской-государстве
- н@gtifem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20250926-0930-6551-6552-6553--основы-российской-государствен@gt
+ ifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250926T093000
 DTEND;TZID=Europe/Moscow:20250926T111000
 SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
- ,6554 · а.401
+ \
+DESCRIPTION:Группа: 6551\,6552\, 6553\\\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\\
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Основы российской государственности лекция · гр. 6551 · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПара №5\nПре
- подаватель: Пищикова М.В.
-CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+DESCRIPTION:Группа: 6551\nАудитория: а.401\nПара №5\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Основы российской государственности лекция · гр. 6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6552\nАудитория: а.401\nПара №5\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Основы российской государственности лекция · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПара №5\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250926-0930-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250926T093000
+DTEND;TZID=Europe/Moscow:20250926T111000
+SUMMARY:Основы российской государственности лекция · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №5\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250929-1400-6561-6521-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T140000
 DTEND;TZID=Europe/Moscow:20250929T154000
 SUMMARY:Основы российской государственности лекция · гр. 6561\, 6521 · а.41
- 1
-LOCATION:а.411
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.411\nПара №5\nПреподаватель: 
- Пищикова М.В.
+LOCATION:а.41
+DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.41\nПреподаватель: Пищикова М
+ . В.
 CATEGORIES:Преподавание,6561\, 6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20250929-1600-6531-6532-6533-6534-основы-российской-государстве
- н@gtifem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20250929-1400-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Основы российской государственности лекция · гр. 6561 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\nАудитория: а.411\nПара №5\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Основы российской государственности лекция · гр. 6521 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6521\nАудитория: а.411\nПара №5\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6531-6532-6533--основы-российской-государствен@gt
+ ifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250929T160000
 DTEND;TZID=Europe/Moscow:20250929T174000
 SUMMARY:Основы российской государственности лекция · гр. 6531\,6532\, 6533\
- ,6534 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6531\,6532\, 6533\,6534\nАудитория: а.411\nПара №5\nПре
- подаватель: Пищикова М.В.
-CATEGORIES:Преподавание,6531\,6532\, 6533\,6534
+ \
+DESCRIPTION:Группа: 6531\,6532\, 6533\\\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6531\,6532\, 6533\\
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-0930-6521-6561-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251001-0930-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T093000
 DTEND;TZID=Europe/Moscow:20251001T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6521
- \, 6561 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.411\nПара №6\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6521\, 6561
+DESCRIPTION:Группа: 6521\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-1130-6521-6561-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251001-0930-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T093000
+DTEND;TZID=Europe/Moscow:20251001T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\nАудитория: а.411\nПара №6\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1130-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T113000
 DTEND;TZID=Europe/Moscow:20251001T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6521
- \, 6561 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.411\nПара №7\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6521\, 6561
+DESCRIPTION:Группа: 6521\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-1400-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251001-1130-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251001T113000
+DTEND;TZID=Europe/Moscow:20251001T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6561
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6561\nАудитория: а.411\nПара №7\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251001-1400-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T140000
 DTEND;TZID=Europe/Moscow:20251001T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №6\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251001-1600-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251001-1600-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T160000
 DTEND;TZID=Europe/Moscow:20251001T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.411\nПара №7\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20251002-1130-6511-6512-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
-DTSTART;TZID=Europe/Moscow:20251002T113000
-DTEND;TZID=Europe/Moscow:20251002T131000
-SUMMARY:Основы российской государственности практическое занятие · гр. 6511
- \,6512 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №7\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6511\,6512
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1130-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -315,7 +436,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1130-6512-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6512
@@ -324,78 +445,87 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251002-1400-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251002-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №7\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251002-1600-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251002-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T140000
+DTEND;TZID=Europe/Moscow:20251002T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6554\nАудитория: а.406\nПара №7\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1600-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.406\nПара №8\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251003-0930-6551-6552-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251002-1600-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T160000
+DTEND;TZID=Europe/Moscow:20251002T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6554\nАудитория: а.406\nПара №8\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-0930-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
- \,6552 · а.409
-LOCATION:а.409
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПара №9\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251006-0930-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251003-0930-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6552
+  · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6552\nАудитория: а.409\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T093000
 DTEND;TZID=Europe/Moscow:20251006T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.403\nПара №8\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20251006-1130-6511-6512-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
-DTSTART;TZID=Europe/Moscow:20251006T113000
-DTEND;TZID=Europe/Moscow:20251006T131000
-SUMMARY:Основы российской государственности практическое занятие · гр. 6511
- \,6512 · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №8\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6511\,6512
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1130-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6511
@@ -405,7 +535,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1130-6512-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T113000
 DTEND;TZID=Europe/Moscow:20251006T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6512
@@ -415,20 +545,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1400-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T140000
 DTEND;TZID=Europe/Moscow:20251006T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6571
-  · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6571\nАудитория: а.406\nПара №6\nПреподаватель: Пищиков
- а М.В.
+DESCRIPTION:Группа: 6571\nПреподаватель: Пищикова М. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1400-6511-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T140000
 DTEND;TZID=Europe/Moscow:20251006T154000
 SUMMARY:Основы российской государственности лекция · гр. 6511 · а.406
@@ -439,7 +566,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1400-6512-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T140000
 DTEND;TZID=Europe/Moscow:20251006T154000
 SUMMARY:Основы российской государственности лекция · гр. 6512 · а.406
@@ -450,393 +577,712 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251006-1600-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251006T160000
 DTEND;TZID=Europe/Moscow:20251006T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6571
-  · а.406
-LOCATION:а.406
-DESCRIPTION:Группа: 6571\nАудитория: а.406\nПара №7\nПреподаватель: Пищиков
- а М.В.
+DESCRIPTION:Группа: 6571\nПреподаватель: Пищикова М. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-0930-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251009-0930-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T093000
 DTEND;TZID=Europe/Moscow:20251009T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №9\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-1130-6533-6534-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251009-1130-6533-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T113000
 DTEND;TZID=Europe/Moscow:20251009T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6533
- \,6534 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6533\,6534\nАудитория: а.414\nПара №10\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6533\,6534
+DESCRIPTION:Группа: 6533\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6533
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-1400-6531-6532-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251009-1400-6531-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T140000
 DTEND;TZID=Europe/Moscow:20251009T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
- \,6532 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПара №9\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6531
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-1600-6531-6532-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251009-1600-6531-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T160000
 DTEND;TZID=Europe/Moscow:20251009T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
- \,6532 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.414\nПара №10\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6531
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251013-1400-6511-6512-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251013T140000
 DTEND;TZID=Europe/Moscow:20251013T154000
 SUMMARY:Основы российской государственности лекция · гр. 6511\,6512 · а.406
 LOCATION:а.406
-DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПара №6\nПреподаватель: П
- ищикова М.В.
+DESCRIPTION:Группа: 6511\,6512\nАудитория: а.406\nПреподаватель: Пищикова М
+ . В.
 CATEGORIES:Преподавание,6511\,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251014-1400-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251014-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251014T140000
 DTEND;TZID=Europe/Moscow:20251014T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.401
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.401
 LOCATION:а.401
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.401\nПара №11\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №11\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251020-1400-6531-6532-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T140000
 DTEND;TZID=Europe/Moscow:20251020T154000
 SUMMARY:Основы российской государственности лекция · гр. 6531\,6532 · а.403
 LOCATION:а.403
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.403\nПара №7\nПреподаватель: П
- ищикова М.В.
+DESCRIPTION:Группа: 6531\,6532\nАудитория: а.403\nПреподаватель: Пищикова М
+ . В.
 CATEGORIES:Преподавание,6531\,6532
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251020-1600-6531-6532-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251020-1600-6531-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251020T160000
 DTEND;TZID=Europe/Moscow:20251020T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6531
- \,6532 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6531\,6532\nАудитория: а.403\nПара №11\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6531\,6532
+DESCRIPTION:Группа: 6531\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6531
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251021-1400-6541-6542-6581-основы-российской-государствен@gti
- fem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20251021-1400-6541-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251021T140000
 DTEND;TZID=Europe/Moscow:20251021T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6541
- \,6542\, 6581 · а.411
-LOCATION:а.411
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.411\nПара №12\nПреподав
- атель: Пищикова М.В.
-CATEGORIES:Преподавание,6541\,6542\, 6581
+DESCRIPTION:Группа: 6541\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6541
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251023-1130-6541-6542-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251021-1400-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6542
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6542\nАудитория: а.411\nПара №12\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251021-1400-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251021T140000
+DTEND;TZID=Europe/Moscow:20251021T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6581
+  · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6581\nАудитория: а.411\nПара №12\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6541-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251023T113000
 DTEND;TZID=Europe/Moscow:20251023T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6541
- \,6542 · а.409
+DESCRIPTION:Группа: 6541\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6542
+  · а.409
 LOCATION:а.409
-DESCRIPTION:Группа: 6541\,6542\nАудитория: а.409\nПара №12\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6541\,6542
+DESCRIPTION:Группа: 6542\nАудитория: а.409\nПара №12\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6542
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251027-1130-6521-6561-основы-российской-государствен@gtifem.r
  u
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T113000
 DTEND;TZID=Europe/Moscow:20251027T131000
 SUMMARY:Основы российской государственности лекция · гр. 6521\, 6561 · а.40
- 1
-LOCATION:а.401
-DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.401\nПара №8\nПреподаватель: 
- Пищикова М.В.
+LOCATION:а.40
+DESCRIPTION:Группа: 6521\, 6561\nАудитория: а.40\nПреподаватель: Пищикова М
+ . В.
 CATEGORIES:Преподавание,6521\, 6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251027-1400-6551-6552-6553-6554-основы-российской-государстве
- н@gtifem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20251027-1130-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Основы российской государственности лекция · гр. 6561 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6561\nАудитория: а.401\nПара №8\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1130-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T113000
+DTEND;TZID=Europe/Moscow:20251027T131000
+SUMMARY:Основы российской государственности лекция · гр. 6521 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6521\nАудитория: а.401\nПара №8\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6551-6552-6553--основы-российской-государствен@gt
+ ifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T140000
 DTEND;TZID=Europe/Moscow:20251027T154000
 SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
- ,6554 · а.401
-LOCATION:а.401
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПара №8\nПре
- подаватель: Пищикова М.В.
-CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+ \
+DESCRIPTION:Группа: 6551\,6552\, 6553\\\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\\
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251027-1600-6551-6552-6553-6554-основы-российской-государстве
- н@gtifem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20251027-1400-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Основы российской государственности лекция · гр. 6551 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\nАудитория: а.401\nПара №8\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Основы российской государственности лекция · гр. 6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6552\nАудитория: а.401\nПара №8\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Основы российской государственности лекция · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПара №8\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Основы российской государственности лекция · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №8\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6551-6552-6553--основы-российской-государствен@gt
+ ifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251027T160000
 DTEND;TZID=Europe/Moscow:20251027T174000
 SUMMARY:Основы российской государственности лекция · гр. 6551\,6552\, 6553\
- ,6554 · а.401
-LOCATION:а.401
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПара №9\nПре
- подаватель: Пищикова М.В.
-CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+ \
+DESCRIPTION:Группа: 6551\,6552\, 6553\\\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551\,6552\, 6553\\
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251028-1400-6551-6552-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251027-1600-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Основы российской государственности лекция · гр. 6551 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\nАудитория: а.401\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Основы российской государственности лекция · гр. 6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6552\nАудитория: а.401\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Основы российской государственности лекция · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Основы российской государственности лекция · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1400-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251028T140000
 DTEND;TZID=Europe/Moscow:20251028T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
- \,6552 · а.409
-LOCATION:а.409
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.409\nПара №14\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251101-1130-6561-6521-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251028-1400-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T140000
+DTEND;TZID=Europe/Moscow:20251028T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6552
+  · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6552\nАудитория: а.409\nПара №14\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T113000
 DTEND;TZID=Europe/Moscow:20251101T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6561
- \, 6521 · а.106
+DESCRIPTION:Группа: 6561\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6521
+  · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.106\nПара №14\nПреподаватель:
-  Пищикова М.В.
-CATEGORIES:Преподавание,6561\, 6521
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №14\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251101-1400-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T140000
 DTEND;TZID=Europe/Moscow:20251101T154000
 SUMMARY:Основы российской государственности лекция · гр. 6571 · а.405
 LOCATION:а.405
-DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №9\nПреподаватель: Пищиков
- а М.В.
+DESCRIPTION:Группа: 6571\nАудитория: а.405\nПреподаватель: Пищикова М. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251101-1600-6571-основы-российской-государствен@gtifem.ru
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251101T160000
 DTEND;TZID=Europe/Moscow:20251101T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6571
-  · а.405
-LOCATION:а.405
-DESCRIPTION:Группа: 6571\nАудитория: а.405\nПара №14\nПреподаватель: Пищико
- ва М.В.
+DESCRIPTION:Группа: 6571\nПреподаватель: Пищикова М. В.
 CATEGORIES:Преподавание,6571
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251106-1130-6561-6521-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251106-1130-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251106T113000
 DTEND;TZID=Europe/Moscow:20251106T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6561
- \, 6521 · а.106
+DESCRIPTION:Группа: 6561\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251106-1130-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251106T113000
+DTEND;TZID=Europe/Moscow:20251106T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6521
+  · а.106
 LOCATION:а.106
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.106\nПара №16\nПреподаватель:
-  Пищикова М.В.
-CATEGORIES:Преподавание,6561\, 6521
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №16\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6521
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251107-0930-6541-6542-6581-основы-российской-государствен@gti
  fem.ru
-DTSTAMP:20260602T102637Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251107T093000
 DTEND;TZID=Europe/Moscow:20251107T111000
-SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581 
- · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №9\nПреподава
- тель: Пищикова М.В.
+SUMMARY:Основы российской государственности лекция · гр. 6541\,6542\, 6581
+DESCRIPTION:Группа: 6541\,6542\, 6581\nПреподаватель: Пищикова М. В.
 CATEGORIES:Преподавание,6541\,6542\, 6581
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251110-1400-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251107-0930-6541-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Основы российской государственности лекция · гр. 6541 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6541\nАудитория: а.403\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Основы российской государственности лекция · гр. 6542 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251107-0930-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251107T093000
+DTEND;TZID=Europe/Moscow:20251107T111000
+SUMMARY:Основы российской государственности лекция · гр. 6581 · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №9\nПреподаватель: Пищиков
+ а М. В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T140000
 DTEND;TZID=Europe/Moscow:20251110T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №16\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251110-1600-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251110-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251110T140000
+DTEND;TZID=Europe/Moscow:20251110T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №16\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251110-1600-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T160000
 DTEND;TZID=Europe/Moscow:20251110T174000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №17\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251114-0930-6541-6542-6581-основы-российской-государствен@gti
- fem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20251110-1600-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251110T160000
+DTEND;TZID=Europe/Moscow:20251110T174000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №17\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-0930-6541-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251114T093000
 DTEND;TZID=Europe/Moscow:20251114T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6541
- \,6542\, 6581 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6541\,6542\, 6581\nАудитория: а.403\nПара №15\nПреподав
- атель: Пищикова М.В.
-CATEGORIES:Преподавание,6541\,6542\, 6581
+DESCRIPTION:Группа: 6541\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6541
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251117-1130-6551-6552-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251114-0930-6542-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T093000
+DTEND;TZID=Europe/Moscow:20251114T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6542
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6542\nАудитория: а.403\nПара №15\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251114-0930-6581-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251114T093000
+DTEND;TZID=Europe/Moscow:20251114T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6581
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6581\nАудитория: а.403\nПара №15\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T113000
 DTEND;TZID=Europe/Moscow:20251117T131000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6551
- \,6552 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6551\,6552\nАудитория: а.403\nПара №18\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6551\,6552
+DESCRIPTION:Группа: 6551\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251117-1400-6553-6554-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251117-1130-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251117T113000
+DTEND;TZID=Europe/Moscow:20251117T131000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6552
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6552\nАудитория: а.403\nПара №18\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T140000
 DTEND;TZID=Europe/Moscow:20251117T154000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6553
- \,6554 · а.403
-LOCATION:а.403
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.403\nПара №18\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251121-0930-6561-6521-основы-российской-государствен@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251117-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251117T140000
+DTEND;TZID=Europe/Moscow:20251117T154000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6554
+  · а.403
+LOCATION:а.403
+DESCRIPTION:Группа: 6554\nАудитория: а.403\nПара №18\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-0930-6561-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T093000
 DTEND;TZID=Europe/Moscow:20251121T111000
 SUMMARY:Основы российской государственности практическое занятие · гр. 6561
- \, 6521 · а.106
-LOCATION:а.106
-DESCRIPTION:Группа: 6561\, 6521\nАудитория: а.106\nПара №17\nПреподаватель:
-  Пищикова М.В.
-CATEGORIES:Преподавание,6561\, 6521
+DESCRIPTION:Группа: 6561\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6561
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251121-1400-6551-6552-6553-6554-основы-российской-государстве
- н@gtifem.ru
-DTSTAMP:20260602T102637Z
+UID:teacher-20251121-0930-6521-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T093000
+DTEND;TZID=Europe/Moscow:20251121T111000
+SUMMARY:Основы российской государственности практическое занятие · гр. 6521
+  · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6521\nАудитория: а.106\nПара №17\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6551-6552--основы-российской-государствен@gtifem.
+ ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251121T140000
 DTEND;TZID=Europe/Moscow:20251121T154000
-SUMMARY:Основы российской государственности Тест ИНДИГО · гр. 6551\,6552\, 
- 6553\,6554 · а.401
-LOCATION:а.401
-DESCRIPTION:Группа: 6551\,6552\, 6553\,6554\nАудитория: а.401\nПреподавател
- ь: Пищикова М.В.
-CATEGORIES:Преподавание,6551\,6552\, 6553\,6554
+SUMMARY:Основы российской государственности Тест ИНДИГО · гр. 6551\,6552\,
+DESCRIPTION:Группа: 6551\,6552\,\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551\,6552\,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260323-1130-6553-6554-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20251121-1400-6551-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Основы российской государственности Тест ИНДИГО · гр. 6551 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6551\nАудитория: а.401\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6552-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Основы российской государственности Тест ИНДИГО · гр. 6552 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6552\nАудитория: а.401\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6553-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Основы российской государственности Тест ИНДИГО · гр. 6553 · а. 401
+LOCATION:а. 401
+DESCRIPTION:Группа: 6553\nАудитория: а. 401\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251121-1400-6554-основы-российской-государствен@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251121T140000
+DTEND;TZID=Europe/Moscow:20251121T154000
+SUMMARY:Основы российской государственности Тест ИНДИГО · гр. 6554 · а. 401
+LOCATION:а. 401
+DESCRIPTION:Группа: 6554\nАудитория: а. 401\nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260323T113000
 DTEND;TZID=Europe/Moscow:20260323T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6553\,6554 · а.6242
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6553-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6553 · а.6242
 LOCATION:а.6242
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.6242\nПара №1\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nАудитория: а.6242\nПара №1\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260323-1130-6554-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260323T113000
+DTEND;TZID=Europe/Moscow:20260323T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6554 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6554\nАудитория: а.6242\nПара №1\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-0930--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T093000
 DTEND;TZID=Europe/Moscow:20260402T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -847,7 +1293,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260402-1130--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260402T113000
 DTEND;TZID=Europe/Moscow:20260402T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -858,7 +1304,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1400--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T140000
 DTEND;TZID=Europe/Moscow:20260407T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -869,7 +1315,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260407-1600--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260407T160000
 DTEND;TZID=Europe/Moscow:20260407T174000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -879,266 +1325,144 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260409-1400-6431-6432-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260409-1400--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260409T140000
 DTEND;TZID=Europe/Moscow:20260409T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6431\,6432 · а.6249
-LOCATION:а.6249
-DESCRIPTION:Группа: 6431\,6432\nАудитория: а.6249\nПара №1\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6431\,6432
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260414-1400-6411-6412-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260414-1400--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T140000
 DTEND;TZID=Europe/Moscow:20260414T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411\,6412 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №1\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6411\,6412
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260414-1400-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260414T140000
-DTEND;TZID=Europe/Moscow:20260414T154000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6411\nАудитория: а.6242\nПара №1\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260414-1400-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260414T140000
-DTEND;TZID=Europe/Moscow:20260414T154000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6412 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №1\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6412
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260414-1600-6411-6412-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260414-1600--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260414T160000
 DTEND;TZID=Europe/Moscow:20260414T174000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411\,6412 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6242\nПара №2\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6411\,6412
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260414-1600-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260414T160000
-DTEND;TZID=Europe/Moscow:20260414T174000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6411\nАудитория: а.6242\nПара №2\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260414-1600-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260414T160000
-DTEND;TZID=Europe/Moscow:20260414T174000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6412 · а.6242
-LOCATION:а.6242
-DESCRIPTION:Группа: 6412\nАудитория: а.6242\nПара №2\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6412
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260421-1400-6431-6432-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260421-1400--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260421T140000
 DTEND;TZID=Europe/Moscow:20260421T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6431\,6432 · а.414
-LOCATION:а.414
-DESCRIPTION:Группа: 6431\,6432\nАудитория: а.414\nПара №2\nПреподаватель: П
- ищикова М.В.
-CATEGORIES:Преподавание,6431\,6432
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260423-1130-6553-6554-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260423-1130--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260423T113000
 DTEND;TZID=Europe/Moscow:20260423T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6553\,6554 · а.6107
-LOCATION:а.6107
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.6107\nПара №2\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260428-1400-6431-6432-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260428-1400--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T140000
 DTEND;TZID=Europe/Moscow:20260428T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6431\,6432 · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6431\,6432\nАудитория: а.6116\nПара №3\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6431\,6432
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260428-1600-6431-6432-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260428-1600--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260428T160000
 DTEND;TZID=Europe/Moscow:20260428T174000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6431\,6432 · а.6116
-LOCATION:а.6116
-DESCRIPTION:Группа: 6431\,6432\nАудитория: а.6116\nПара №4\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6431\,6432
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260430-0930-6411-6412-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260430-0930--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T093000
 DTEND;TZID=Europe/Moscow:20260430T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411\,6412 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №3\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6411\,6412
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260430-0930-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260430T093000
-DTEND;TZID=Europe/Moscow:20260430T111000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6411\nАудитория: а.6112\nПара №3\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260430-0930-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260430T093000
-DTEND;TZID=Europe/Moscow:20260430T111000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6412 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6412\nАудитория: а.6112\nПара №3\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6412
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260430-1130-6411-6412-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260430-1130--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260430T113000
 DTEND;TZID=Europe/Moscow:20260430T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411\,6412 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6112\nПара №4\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6411\,6412
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260430-1130-6411-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260430T113000
-DTEND;TZID=Europe/Moscow:20260430T131000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6411\nАудитория: а.6112\nПара №4\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6411
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260430-1130-6412-основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20260430T113000
-DTEND;TZID=Europe/Moscow:20260430T131000
-SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6412 · а.6112
-LOCATION:а.6112
-DESCRIPTION:Группа: 6412\nАудитория: а.6112\nПара №4\nПреподаватель: Пищико
- ва М. В.
-CATEGORIES:Преподавание,6412
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:teacher-20260505-1130-6553-6554-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260505-1130--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T113000
 DTEND;TZID=Europe/Moscow:20260505T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6553\,6554 · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.6245\nПара №3\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260505-1400-6411-6412-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
-DTSTART;TZID=Europe/Moscow:20260505T140000
-DTEND;TZID=Europe/Moscow:20260505T154000
+UID:teacher-20260505-1130-6553-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6411\,6412 · а.6245
+ р. 6553 · а.6245
 LOCATION:а.6245
-DESCRIPTION:Группа: 6411\,6412\nАудитория: а.6245\nПара №5\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6411\,6412
+DESCRIPTION:Группа: 6553\nАудитория: а.6245\nПара №3\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260505-1130-6554-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260505T113000
+DTEND;TZID=Europe/Moscow:20260505T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6554 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6554\nАудитория: а.6245\nПара №3\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20260505-1400--основы-управления-в-профессион@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260505T140000
 DTEND;TZID=Europe/Moscow:20260505T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
@@ -1148,45 +1472,88 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260519-1400-6431-6432-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260519-1400--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260519T140000
 DTEND;TZID=Europe/Moscow:20260519T154000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6431\,6432 · а.6236
-LOCATION:а.6236
-DESCRIPTION:Группа: 6431\,6432\nАудитория: а.6236\nПара №5\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6431\,6432
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260526-0930-6553-6554-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260526-0930--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T093000
 DTEND;TZID=Europe/Moscow:20260526T111000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6553\,6554 · а.6245
-LOCATION:а.6245
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.6245\nПара №4\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20260526-1130-6553-6554-основы-управления-в-профессион@gtifem.r
- u
-DTSTAMP:20260602T102637Z
+UID:teacher-20260526-0930-6553-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260526T093000
+DTEND;TZID=Europe/Moscow:20260526T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6553 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6553\nАудитория: а.6245\nПара №4\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-0930-6554-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260526T093000
+DTEND;TZID=Europe/Moscow:20260526T111000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6554 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6554\nАудитория: а.6245\nПара №4\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130--основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20260526T113000
 DTEND;TZID=Europe/Moscow:20260526T131000
 SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
- р. 6553\,6554 · а.6245
+ р. 
+DESCRIPTION:Группа: \nПреподаватель: Пищикова М. В.
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-6553-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6553 · а.6245
 LOCATION:а.6245
-DESCRIPTION:Группа: 6553\,6554\nАудитория: а.6245\nПара №5\nПреподаватель: 
- Пищикова М.В.
-CATEGORIES:Преподавание,6553\,6554
+DESCRIPTION:Группа: 6553\nАудитория: а.6245\nПара №5\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260526-1130-6554-основы-управления-в-профессион@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260526T113000
+DTEND;TZID=Europe/Moscow:20260526T131000
+SUMMARY:Основы управления в профессиональной деятельности (Курс.работа) · г
+ р. 6554 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6554\nАудитория: а.6245\nПара №5\nПреподаватель: Пищико
+ ва М. В.
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

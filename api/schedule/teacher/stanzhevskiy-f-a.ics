@@ -1,0 +1,619 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Станжевский Ф. А. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Станжевский Ф. А., ФЭМ СПбГТИ (
+ ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250902-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T140000
+DTEND;TZID=Europe/Moscow:20250902T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250902-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250902T160000
+DTEND;TZID=Europe/Moscow:20250902T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1400-6571-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T140000
+DTEND;TZID=Europe/Moscow:20250903T154000
+SUMMARY:Философия лекция · гр. 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250903-1600-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250903T160000
+DTEND;TZID=Europe/Moscow:20250903T174000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6571\nАудитория: а.401\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T140000
+DTEND;TZID=Europe/Moscow:20250904T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250904-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250904T160000
+DTEND;TZID=Europe/Moscow:20250904T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-0930-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250909T093000
+DTEND;TZID=Europe/Moscow:20250909T111000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250909-1130-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250909T113000
+DTEND;TZID=Europe/Moscow:20250909T131000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6501\nАудитория: а.106\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6553-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Философия практическое занятие · гр. 6553 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6553\nАудитория: а.411\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1130-6554-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T113000
+DTEND;TZID=Europe/Moscow:20250910T131000
+SUMMARY:Философия практическое занятие · гр. 6554 · а.411
+LOCATION:а.411
+DESCRIPTION:Группа: 6554\nАудитория: а.411\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6541-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Философия лекция · гр. 6541 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\nАудитория: а.414\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6542-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Философия лекция · гр. 6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6542\nАудитория: а.414\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1400-6581-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T140000
+DTEND;TZID=Europe/Moscow:20250910T154000
+SUMMARY:Философия лекция · гр. 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6581\nАудитория: а.414\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6541\nАудитория: а.414\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6542\nАудитория: а.414\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250910-1600-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250910T160000
+DTEND;TZID=Europe/Moscow:20250910T174000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6581\nАудитория: а.414\nПара №1\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6571-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Философия лекция · гр. 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.409
+LOCATION:а.409
+DESCRIPTION:Группа: 6571\nАудитория: а.409\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-6541-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Философия лекция · гр. 6541 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-6542-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Философия лекция · гр. 6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6542\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1400-6581-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T140000
+DTEND;TZID=Europe/Moscow:20250912T154000
+SUMMARY:Философия лекция · гр. 6581 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6581\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1600-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6541\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1600-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6542\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250912-1600-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250912T160000
+DTEND;TZID=Europe/Moscow:20250912T174000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.106
+LOCATION:а.106
+DESCRIPTION:Группа: 6581\nАудитория: а.106\nПара №2\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-0930-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T093000
+DTEND;TZID=Europe/Moscow:20250916T111000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6501\nАудитория: а.401\nПара №4\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1130-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T113000
+DTEND;TZID=Europe/Moscow:20250916T131000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6501\nАудитория: а.401\nПара №4\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6553-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Философия практическое занятие · гр. 6553 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6553\nАудитория: а.6248\nПара №2\nПреподаватель: Станже
+ вский Ф. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250916-1600-6554-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250916T160000
+DTEND;TZID=Europe/Moscow:20250916T174000
+SUMMARY:Философия практическое занятие · гр. 6554 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6554\nАудитория: а.6248\nПара №2\nПреподаватель: Станже
+ вский Ф. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6541\nАудитория: а.401\nПара №4\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6542\nАудитория: а.401\nПара №4\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6581\nАудитория: а.401\nПара №4\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №3\nПреподаватель: Станже
+ вский Ф. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.6107
+LOCATION:а.6107
+DESCRIPTION:Группа: 6571\nАудитория: а.6107\nПара №4\nПреподаватель: Станже
+ вский Ф. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва лекция · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №5\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6501-философия-и-антропология-челов@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Философия и антропология человека в культуре информационного общест
+ ва практическое занятие · гр. 6501 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6501\nАудитория: а.405\nПара №5\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6501
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6553-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Философия практическое занятие · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-0930-6554-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T093000
+DTEND;TZID=Europe/Moscow:20250923T111000
+SUMMARY:Философия практическое занятие · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6553-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Философия практическое занятие · гр. 6553 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6553\nАудитория: а.401\nПара №4\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250923-1130-6554-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250923T113000
+DTEND;TZID=Europe/Moscow:20250923T131000
+SUMMARY:Философия практическое занятие · гр. 6554 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6554\nАудитория: а.401\nПара №4\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6571-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Философия практическое занятие · гр. 6571 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6571\nАудитория: а.6115\nПара №5\nПреподаватель: Станже
+ вский Ф. А.
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6541-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Философия практическое занятие · гр. 6541 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\nАудитория: а.405\nПара №5\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6542-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Философия практическое занятие · гр. 6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6542\nАудитория: а.405\nПара №5\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1400-6581-философия-практическое-занятие@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T140000
+DTEND;TZID=Europe/Moscow:20250929T154000
+SUMMARY:Философия практическое занятие · гр. 6581 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6581\nАудитория: а.405\nПара №5\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6541-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Философия лекция · гр. 6541 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6541\nАудитория: а.405\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6542-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Философия лекция · гр. 6542 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6542\nАудитория: а.405\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1600-6581-философия-лекция@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T160000
+DTEND;TZID=Europe/Moscow:20250929T174000
+SUMMARY:Философия лекция · гр. 6581 · а.405
+LOCATION:а.405
+DESCRIPTION:Группа: 6581\nАудитория: а.405\nПара №3\nПреподаватель: Станжев
+ ский Ф. А.
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

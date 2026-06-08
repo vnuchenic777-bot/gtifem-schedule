@@ -19,7 +19,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:teacher-20250903-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T093000
 DTEND;TZID=Europe/Moscow:20250903T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -30,7 +30,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250903-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T113000
 DTEND;TZID=Europe/Moscow:20250903T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -41,7 +41,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250903-1400--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T140000
 DTEND;TZID=Europe/Moscow:20250903T154000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -52,7 +52,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20250903-1600--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250903T160000
 DTEND;TZID=Europe/Moscow:20250903T174000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -62,8 +62,56 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250905-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №1\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T093000
+DTEND;TZID=Europe/Moscow:20250905T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №1\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №2\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T113000
+DTEND;TZID=Europe/Moscow:20250905T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №2\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250905-1400--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T140000
 DTEND;TZID=Europe/Moscow:20250905T154000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -73,8 +121,32 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250905-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №1\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250905-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250905T140000
+DTEND;TZID=Europe/Moscow:20250905T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №1\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20250905-1600--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20250905T160000
 DTEND;TZID=Europe/Moscow:20250905T174000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -84,8 +156,200 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20250911-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №3\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T093000
+DTEND;TZID=Europe/Moscow:20250911T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №3\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №4\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T113000
+DTEND;TZID=Europe/Moscow:20250911T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №4\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №3\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T140000
+DTEND;TZID=Europe/Moscow:20250911T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №3\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №4\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250911-1600-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250911T160000
+DTEND;TZID=Europe/Moscow:20250911T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №4\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №5\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-0930-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T093000
+DTEND;TZID=Europe/Moscow:20250922T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №5\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №6\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1130-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T113000
+DTEND;TZID=Europe/Moscow:20250922T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №6\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №5\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1400-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T140000
+DTEND;TZID=Europe/Moscow:20250922T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №5\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №6\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250922-1600-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250922T160000
+DTEND;TZID=Europe/Moscow:20250922T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №6\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251001-0930-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T093000
 DTEND;TZID=Europe/Moscow:20251001T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -95,7 +359,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-0930-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T093000
 DTEND;TZID=Europe/Moscow:20251001T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -105,7 +369,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T093000
 DTEND;TZID=Europe/Moscow:20251001T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -116,7 +380,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-1130-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T113000
 DTEND;TZID=Europe/Moscow:20251001T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -126,7 +390,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-1130-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T113000
 DTEND;TZID=Europe/Moscow:20251001T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -136,7 +400,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251001-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251001T113000
 DTEND;TZID=Europe/Moscow:20251001T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -147,7 +411,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-0930-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T093000
 DTEND;TZID=Europe/Moscow:20251002T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -157,7 +421,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-0930-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T093000
 DTEND;TZID=Europe/Moscow:20251002T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -167,7 +431,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T093000
 DTEND;TZID=Europe/Moscow:20251002T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -177,8 +441,44 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251002-0930-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-0930-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T093000
+DTEND;TZID=Europe/Moscow:20251002T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251002-1130-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -188,7 +488,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1130-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -198,7 +498,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T113000
 DTEND;TZID=Europe/Moscow:20251002T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -208,8 +508,44 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251002-1130-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251002-1130-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251002T113000
+DTEND;TZID=Europe/Moscow:20251002T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251002-1400-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -219,7 +555,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1400-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -229,7 +565,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1400--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T140000
 DTEND;TZID=Europe/Moscow:20251002T154000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -239,21 +575,8 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251002-1400-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251002T140000
-DTEND;TZID=Europe/Moscow:20251002T154000
-SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №40\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20251002-1600-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -263,7 +586,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1600-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -273,7 +596,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251002-1600--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251002T160000
 DTEND;TZID=Europe/Moscow:20251002T174000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -283,21 +606,8 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251002-1600-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
-DTSTART;TZID=Europe/Moscow:20251002T160000
-DTEND;TZID=Europe/Moscow:20251002T174000
-SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №41\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:teacher-20251003-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T093000
 DTEND;TZID=Europe/Moscow:20251003T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -307,8 +617,20 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251003-0930-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T093000
+DTEND;TZID=Europe/Moscow:20251003T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251003-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T113000
 DTEND;TZID=Europe/Moscow:20251003T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -318,8 +640,20 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251003-1130-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T113000
+DTEND;TZID=Europe/Moscow:20251003T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251003-1400--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T140000
 DTEND;TZID=Europe/Moscow:20251003T154000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -329,8 +663,32 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:teacher-20251003-1400-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1400-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T140000
+DTEND;TZID=Europe/Moscow:20251003T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:teacher-20251003-1600--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251003T160000
 DTEND;TZID=Europe/Moscow:20251003T174000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -340,86 +698,818 @@ CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-1400-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251003-1600-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251003-1600-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251003T160000
+DTEND;TZID=Europe/Moscow:20251003T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T093000
+DTEND;TZID=Europe/Moscow:20251006T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T113000
+DTEND;TZID=Europe/Moscow:20251006T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №7\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №8\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T140000
 DTEND;TZID=Europe/Moscow:20251009T154000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №42\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251009-1600-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251009-1600--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251009T160000
 DTEND;TZID=Europe/Moscow:20251009T174000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №43\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251015-0930-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251014-0930-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-0930-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T093000
+DTEND;TZID=Europe/Moscow:20251014T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1130-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T113000
+DTEND;TZID=Europe/Moscow:20251014T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1400-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T140000
+DTEND;TZID=Europe/Moscow:20251014T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251014-1600-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251014T160000
+DTEND;TZID=Europe/Moscow:20251014T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-0930--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T093000
 DTEND;TZID=Europe/Moscow:20251015T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №44\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251015-1130-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251015-1130--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251015T113000
 DTEND;TZID=Europe/Moscow:20251015T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №45\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251031-0930-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251015-1400-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1600-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-0930-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T093000
+DTEND;TZID=Europe/Moscow:20251022T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1130-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T113000
+DTEND;TZID=Europe/Moscow:20251022T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1400-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T140000
+DTEND;TZID=Europe/Moscow:20251022T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251022-1600-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251022T160000
+DTEND;TZID=Europe/Moscow:20251022T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1400-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T140000
+DTEND;TZID=Europe/Moscow:20251023T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1600-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T160000
+DTEND;TZID=Europe/Moscow:20251023T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T093000
+DTEND;TZID=Europe/Moscow:20251024T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T113000
+DTEND;TZID=Europe/Moscow:20251024T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T140000
+DTEND;TZID=Europe/Moscow:20251024T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №9\nПреподаватель
+ : каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251024-1600-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251024T160000
+DTEND;TZID=Europe/Moscow:20251024T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №10\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1400-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T140000
+DTEND;TZID=Europe/Moscow:20251027T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251027-1600-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251027T160000
+DTEND;TZID=Europe/Moscow:20251027T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-0930-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T093000
+DTEND;TZID=Europe/Moscow:20251028T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251028-1130-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251028T113000
+DTEND;TZID=Europe/Moscow:20251028T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-0930--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T093000
 DTEND;TZID=Europe/Moscow:20251031T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №46\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251031-1130-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251031-1130--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251031T113000
 DTEND;TZID=Europe/Moscow:20251031T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
 LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №47\nПреподавател
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
  ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T093000
+DTEND;TZID=Europe/Moscow:20251101T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T113000
+DTEND;TZID=Europe/Moscow:20251101T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T140000
+DTEND;TZID=Europe/Moscow:20251101T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №11\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251101-1600-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251101T160000
+DTEND;TZID=Europe/Moscow:20251101T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №12\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251103-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251103T093000
 DTEND;TZID=Europe/Moscow:20251103T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -430,7 +1520,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251103-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251103T113000
 DTEND;TZID=Europe/Moscow:20251103T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -441,7 +1531,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251104-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251104T093000
 DTEND;TZID=Europe/Moscow:20251104T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -452,7 +1542,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251104-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251104T113000
 DTEND;TZID=Europe/Moscow:20251104T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -463,7 +1553,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-0930-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T093000
 DTEND;TZID=Europe/Moscow:20251105T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -473,7 +1563,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-0930-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T093000
 DTEND;TZID=Europe/Moscow:20251105T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -483,7 +1573,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-1130-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T113000
 DTEND;TZID=Europe/Moscow:20251105T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -493,7 +1583,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251105-1130-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251105T113000
 DTEND;TZID=Europe/Moscow:20251105T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -502,73 +1592,543 @@ CATEGORIES:Преподавание,6512
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251110-0930-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251110-0930--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T093000
 DTEND;TZID=Europe/Moscow:20251110T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №48\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251110-1130-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251110-1130--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251110T113000
 DTEND;TZID=Europe/Moscow:20251110T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №49\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251117-1130-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251113-0930-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-0930-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-0930-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T093000
+DTEND;TZID=Europe/Moscow:20251113T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251113-1130-6581-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251113T113000
+DTEND;TZID=Europe/Moscow:20251113T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6581 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6581\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6581
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251117-1130--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251117T113000
 DTEND;TZID=Europe/Moscow:20251117T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №50\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251118-0930-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251118-0930--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T093000
 DTEND;TZID=Europe/Moscow:20251118T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
-LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №51\nПреподавател
- ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:teacher-20251118-1130-6491-иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+UID:teacher-20251118-1130--иностранный-язык-в-профессиона@gtifem.ru
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251118T113000
 DTEND;TZID=Europe/Moscow:20251118T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
- ие · гр. 6491 · ауд.каф.ин.яз.
+  · гр. 
+DESCRIPTION:Группа: \nПреподаватель: каф.ин яз
+CATEGORIES:Преподавание,
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T093000
+DTEND;TZID=Europe/Moscow:20251119T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
 LOCATION:ауд.каф.ин.яз.
-DESCRIPTION:Группа: 6491\nАудитория: ауд.каф.ин.яз.\nПара №52\nПреподавател
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
  ь: каф.ин яз
-CATEGORIES:Преподавание,6491
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T093000
+DTEND;TZID=Europe/Moscow:20251119T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T113000
+DTEND;TZID=Europe/Moscow:20251119T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T140000
+DTEND;TZID=Europe/Moscow:20251119T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №13\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251119-1600-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251119T160000
+DTEND;TZID=Europe/Moscow:20251119T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №14\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1400-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1400-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T140000
+DTEND;TZID=Europe/Moscow:20251124T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251124-1600-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251124T160000
+DTEND;TZID=Europe/Moscow:20251124T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-0930-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T093000
+DTEND;TZID=Europe/Moscow:20251127T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251127-1130-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251127T113000
+DTEND;TZID=Europe/Moscow:20251127T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-0930-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T093000
+DTEND;TZID=Europe/Moscow:20251128T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1130-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T113000
+DTEND;TZID=Europe/Moscow:20251128T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1400-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T140000
+DTEND;TZID=Europe/Moscow:20251128T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №15\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251128-1600-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251128T160000
+DTEND;TZID=Europe/Moscow:20251128T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №16\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-0930-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T093000
+DTEND;TZID=Europe/Moscow:20251201T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1130-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1130-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T113000
+DTEND;TZID=Europe/Moscow:20251201T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1400-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1400-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T140000
+DTEND;TZID=Europe/Moscow:20251201T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1600-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251201-1600-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251201T160000
+DTEND;TZID=Europe/Moscow:20251201T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-0930-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T093000
+DTEND;TZID=Europe/Moscow:20251202T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251202-1130-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251202T113000
+DTEND;TZID=Europe/Moscow:20251202T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1400-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T140000
 DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -578,7 +2138,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1400-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T140000
 DTEND;TZID=Europe/Moscow:20251202T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -588,7 +2148,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1600-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T160000
 DTEND;TZID=Europe/Moscow:20251202T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -598,7 +2158,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251202-1600-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251202T160000
 DTEND;TZID=Europe/Moscow:20251202T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -608,7 +2168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T093000
 DTEND;TZID=Europe/Moscow:20251203T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -619,7 +2179,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T113000
 DTEND;TZID=Europe/Moscow:20251203T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -630,7 +2190,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1400-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T140000
 DTEND;TZID=Europe/Moscow:20251203T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -640,7 +2200,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1400-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T140000
 DTEND;TZID=Europe/Moscow:20251203T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -650,7 +2210,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1600-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T160000
 DTEND;TZID=Europe/Moscow:20251203T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -660,7 +2220,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251203-1600-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251203T160000
 DTEND;TZID=Europe/Moscow:20251203T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -670,7 +2230,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-0930-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T093000
 DTEND;TZID=Europe/Moscow:20251204T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -680,7 +2240,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-0930-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T093000
 DTEND;TZID=Europe/Moscow:20251204T111000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -690,7 +2250,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-0930--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T093000
 DTEND;TZID=Europe/Moscow:20251204T111000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -701,7 +2261,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1130-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T113000
 DTEND;TZID=Europe/Moscow:20251204T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -711,7 +2271,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1130-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T113000
 DTEND;TZID=Europe/Moscow:20251204T131000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -721,7 +2281,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1130--иностранный-язык-в-профессиона@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T113000
 DTEND;TZID=Europe/Moscow:20251204T131000
 SUMMARY:Иностранный язык в профессиональной деятельности практическое занят
@@ -732,7 +2292,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1400-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -742,7 +2302,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1400-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T140000
 DTEND;TZID=Europe/Moscow:20251204T154000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
@@ -752,7 +2312,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1600-6511-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6511
@@ -762,12 +2322,708 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:teacher-20251204-1600-6512-иностранный-язык-практическое-@gtifem.ru
-DTSTAMP:20260528T172937Z
+DTSTAMP:20260608T121613Z
 DTSTART;TZID=Europe/Moscow:20251204T160000
 DTEND;TZID=Europe/Moscow:20251204T174000
 SUMMARY:Иностранный язык практическое занятие · гр. 6512
 DESCRIPTION:Группа: 6512\nПреподаватель: каф.ин яз
 CATEGORIES:Преподавание,6512
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T093000
+DTEND;TZID=Europe/Moscow:20251205T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T113000
+DTEND;TZID=Europe/Moscow:20251205T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1400-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T140000
+DTEND;TZID=Europe/Moscow:20251205T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №17\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251205-1600-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251205T160000
+DTEND;TZID=Europe/Moscow:20251205T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №18\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-0930-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-0930-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T093000
+DTEND;TZID=Europe/Moscow:20251208T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1130-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T113000
+DTEND;TZID=Europe/Moscow:20251208T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1400-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T140000
+DTEND;TZID=Europe/Moscow:20251208T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251208-1600-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251208T160000
+DTEND;TZID=Europe/Moscow:20251208T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-0930-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T093000
+DTEND;TZID=Europe/Moscow:20251209T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251209-1130-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251209T113000
+DTEND;TZID=Europe/Moscow:20251209T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1400-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T140000
+DTEND;TZID=Europe/Moscow:20251211T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251211-1600-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251211T160000
+DTEND;TZID=Europe/Moscow:20251211T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-0930-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251212T093000
+DTEND;TZID=Europe/Moscow:20251212T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №19\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251212-1130-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251212T113000
+DTEND;TZID=Europe/Moscow:20251212T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №20\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-0930-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T093000
+DTEND;TZID=Europe/Moscow:20251215T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1130-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T113000
+DTEND;TZID=Europe/Moscow:20251215T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1400-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1400-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T140000
+DTEND;TZID=Europe/Moscow:20251215T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1600-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251215-1600-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251215T160000
+DTEND;TZID=Europe/Moscow:20251215T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251217T093000
+DTEND;TZID=Europe/Moscow:20251217T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251217T093000
+DTEND;TZID=Europe/Moscow:20251217T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251217-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251217T113000
+DTEND;TZID=Europe/Moscow:20251217T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T140000
+DTEND;TZID=Europe/Moscow:20251218T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1600-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251218-1600-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251218T160000
+DTEND;TZID=Europe/Moscow:20251218T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-0930-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T093000
+DTEND;TZID=Europe/Moscow:20251219T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №21\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251219-1130-6571-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251219T113000
+DTEND;TZID=Europe/Moscow:20251219T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6571 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6571\nАудитория: ауд.каф.ин.яз.\nПара №22\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6571
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-0930-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T093000
+DTEND;TZID=Europe/Moscow:20251222T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-6561-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6561 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6561\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6561
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251222-1130-6521-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251222T113000
+DTEND;TZID=Europe/Moscow:20251222T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6521 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6521\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6521
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-0930-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-0930-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T093000
+DTEND;TZID=Europe/Moscow:20251224T111000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6551-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6551 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6551\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6551
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1130-6552-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T113000
+DTEND;TZID=Europe/Moscow:20251224T131000
+SUMMARY:Иностранный язык практическое занятие · гр. 6552 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6552\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6552
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1400-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T140000
+DTEND;TZID=Europe/Moscow:20251224T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6553-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6553 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6553\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6553
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251224-1600-6554-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251224T160000
+DTEND;TZID=Europe/Moscow:20251224T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6554 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6554\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6554
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1400-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T140000
+DTEND;TZID=Europe/Moscow:20251225T154000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №23\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6541-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6541 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6541\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6541
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251225-1600-6542-иностранный-язык-практическое-@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251225T160000
+DTEND;TZID=Europe/Moscow:20251225T174000
+SUMMARY:Иностранный язык практическое занятие · гр. 6542 · ауд.каф.ин.яз.
+LOCATION:ауд.каф.ин.яз.
+DESCRIPTION:Группа: 6542\nАудитория: ауд.каф.ин.яз.\nПара №24\nПреподавател
+ ь: каф.ин яз
+CATEGORIES:Преподавание,6542
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

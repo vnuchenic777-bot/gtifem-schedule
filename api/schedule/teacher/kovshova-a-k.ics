@@ -1,0 +1,936 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FEM SPbGTI//Teacher Schedule v2//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Расписание Ковшова А. К. (ФЭМ)
+X-WR-CALDESC:Учебная нагрузка преподавателя Ковшова А. К., ФЭМ СПбГТИ (ТУ)
+X-WR-TIMEZONE:Europe/Moscow
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VTIMEZONE
+TZID:Europe/Moscow
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:MSK
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:teacher-20250918-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T093000
+DTEND;TZID=Europe/Moscow:20250918T111000
+SUMMARY:Организация и нормирование труда Лекция · гр. 6371 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №1\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250918-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250918T113000
+DTEND;TZID=Europe/Moscow:20250918T131000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №1\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T093000
+DTEND;TZID=Europe/Moscow:20250919T111000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №2\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250919-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250919T113000
+DTEND;TZID=Europe/Moscow:20250919T131000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №1\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T093000
+DTEND;TZID=Europe/Moscow:20250929T111000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №3\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250929-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250929T113000
+DTEND;TZID=Europe/Moscow:20250929T131000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №4\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250930T140000
+DTEND;TZID=Europe/Moscow:20250930T154000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №2\nПреподаватель: Ковшова
+  А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20250930-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20250930T160000
+DTEND;TZID=Europe/Moscow:20250930T174000
+SUMMARY:Организация и нормирование труда Лекция · гр. 6371 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №2\nПреподаватель: Ковшова
+  А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T140000
+DTEND;TZID=Europe/Moscow:20251006T154000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №3\nПреподаватель: Ковшова
+  А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251006-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251006T160000
+DTEND;TZID=Europe/Moscow:20251006T174000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №4\nПреподаватель: Ковшова
+  А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251008T140000
+DTEND;TZID=Europe/Moscow:20251008T154000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6371\nАудитория: а.6381\nПара №5\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251008-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251008T160000
+DTEND;TZID=Europe/Moscow:20251008T174000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .6378
+LOCATION:а.6378
+DESCRIPTION:Группа: 6371\nАудитория: а.6378\nПара №5\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T140000
+DTEND;TZID=Europe/Moscow:20251009T154000
+SUMMARY:Организация и нормирование труда Лекция · гр. 6371 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6371\nАудитория: а.6115\nПара №3\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251009-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251009T160000
+DTEND;TZID=Europe/Moscow:20251009T174000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6371\nАудитория: а.6115\nПара №6\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T140000
+DTEND;TZID=Europe/Moscow:20251015T154000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6371\nАудитория: а.6382\nПара №6\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251015-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251015T160000
+DTEND;TZID=Europe/Moscow:20251015T174000
+SUMMARY:Организация и нормирование труда Лекция · гр. 6371 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6371\nАудитория: а.6115\nПара №4\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T093000
+DTEND;TZID=Europe/Moscow:20251023T111000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6371\nАудитория: а.6240\nПара №7\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251023-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251023T113000
+DTEND;TZID=Europe/Moscow:20251023T131000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6371\nАудитория: а.6240\nПара №8\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T140000
+DTEND;TZID=Europe/Moscow:20251029T154000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6371\nАудитория: а.6376\nПара №7\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251029-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251029T160000
+DTEND;TZID=Europe/Moscow:20251029T174000
+SUMMARY:Организация и нормирование труда Лабораторная работа · гр. 6371 · а
+ .6376
+LOCATION:а.6376
+DESCRIPTION:Группа: 6371\nАудитория: а.6376\nПара №8\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T140000
+DTEND;TZID=Europe/Moscow:20251031T154000
+SUMMARY:Организация и нормирование труда Лекция · гр. 6371 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6371\nАудитория: а.406\nПара №5\nПреподаватель: Ковшова
+  А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20251031-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20251031T160000
+DTEND;TZID=Europe/Moscow:20251031T174000
+SUMMARY:Организация и нормирование труда Практическое занятие · гр. 6371 · 
+ а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6371\nАудитория: а.406\nПара №9\nПреподаватель: Ковшова
+  А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260114T093000
+DTEND;TZID=Europe/Moscow:20260114T111000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6371\nАудитория: а.6235\nПара №23\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260114T113000
+DTEND;TZID=Europe/Moscow:20260114T131000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6371\nАудитория: а.6235\nПара №24\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260114T140000
+DTEND;TZID=Europe/Moscow:20260114T154000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.406
+LOCATION:а.406
+DESCRIPTION:Группа: 6371\nАудитория: а.406\nПара №14\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260114-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260114T160000
+DTEND;TZID=Europe/Moscow:20260114T174000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6371\nАудитория: а.6115\nПара №29\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T113000
+DTEND;TZID=Europe/Moscow:20260120T131000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6371\nАудитория: а.6245\nПара №25\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260120-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260120T140000
+DTEND;TZID=Europe/Moscow:20260120T154000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6371\nАудитория: а.6245\nПара №26\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260123-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260123T140000
+DTEND;TZID=Europe/Moscow:20260123T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6371\nАудитория: а.414\nПара №30\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260126-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260126T113000
+DTEND;TZID=Europe/Moscow:20260126T131000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №27\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260130T113000
+DTEND;TZID=Europe/Moscow:20260130T131000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6371\nАудитория: а.6382\nПара №31\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260130-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260130T140000
+DTEND;TZID=Europe/Moscow:20260130T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6371\nАудитория: а.6242\nПара №32\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260205-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260205T093000
+DTEND;TZID=Europe/Moscow:20260205T111000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6371\nАудитория: а.6245\nПара №28\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260210T140000
+DTEND;TZID=Europe/Moscow:20260210T154000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.101
+LOCATION:а.101
+DESCRIPTION:Группа: 6371\nАудитория: а.101\nПара №15\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260210-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260210T160000
+DTEND;TZID=Europe/Moscow:20260210T174000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №29\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T113000
+DTEND;TZID=Europe/Moscow:20260217T131000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6371\nАудитория: а.414\nПара №33\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T140000
+DTEND;TZID=Europe/Moscow:20260217T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.414
+LOCATION:а.414
+DESCRIPTION:Группа: 6371\nАудитория: а.414\nПара №34\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260217-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260217T160000
+DTEND;TZID=Europe/Moscow:20260217T174000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №30\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T093000
+DTEND;TZID=Europe/Moscow:20260303T111000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6371\nАудитория: а.6235\nПара №35\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T113000
+DTEND;TZID=Europe/Moscow:20260303T131000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6371\nАудитория: а.6235\nПара №36\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260303-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260303T140000
+DTEND;TZID=Europe/Moscow:20260303T154000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6371\nАудитория: а.6248\nПара №16\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T093000
+DTEND;TZID=Europe/Moscow:20260311T111000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6371\nАудитория: а.401\nПара №37\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T113000
+DTEND;TZID=Europe/Moscow:20260311T131000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6371\nАудитория: а.401\nПара №38\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260311-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260311T140000
+DTEND;TZID=Europe/Moscow:20260311T154000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.401
+LOCATION:а.401
+DESCRIPTION:Группа: 6371\nАудитория: а.401\nПара №17\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260316T113000
+DTEND;TZID=Europe/Moscow:20260316T131000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6382
+LOCATION:а.6382
+DESCRIPTION:Группа: 6371\nАудитория: а.6382\nПара №18\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260316T140000
+DTEND;TZID=Europe/Moscow:20260316T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №39\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260316-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260316T160000
+DTEND;TZID=Europe/Moscow:20260316T174000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.408
+LOCATION:а.408
+DESCRIPTION:Группа: 6371\nАудитория: а.408\nПара №40\nПреподаватель: Ковшов
+ а А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260325T093000
+DTEND;TZID=Europe/Moscow:20260325T111000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6371\nАудитория: а.6381\nПара №41\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260325T113000
+DTEND;TZID=Europe/Moscow:20260325T131000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6371\nАудитория: а.6381\nПара №42\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260325-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260325T140000
+DTEND;TZID=Europe/Moscow:20260325T154000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6371\nАудитория: а.6373\nПара №19\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T093000
+DTEND;TZID=Europe/Moscow:20260403T111000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6245
+LOCATION:а.6245
+DESCRIPTION:Группа: 6371\nАудитория: а.6245\nПара №43\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T113000
+DTEND;TZID=Europe/Moscow:20260403T131000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6371\nАудитория: а.6240\nПара №44\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260403-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260403T140000
+DTEND;TZID=Europe/Moscow:20260403T154000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6371\nАудитория: а.6373\nПара №20\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260413T140000
+DTEND;TZID=Europe/Moscow:20260413T154000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6371\nАудитория: а.6236\nПара №31\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260413-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260413T160000
+DTEND;TZID=Europe/Moscow:20260413T174000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6236
+LOCATION:а.6236
+DESCRIPTION:Группа: 6371\nАудитория: а.6236\nПара №32\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260414-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260414T160000
+DTEND;TZID=Europe/Moscow:20260414T174000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6371\nАудитория: а.6115\nПара №21\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T113000
+DTEND;TZID=Europe/Moscow:20260416T131000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6371\nАудитория: а.6242\nПара №45\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260416-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260416T140000
+DTEND;TZID=Europe/Moscow:20260416T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6242
+LOCATION:а.6242
+DESCRIPTION:Группа: 6371\nАудитория: а.6242\nПара №46\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260420T093000
+DTEND;TZID=Europe/Moscow:20260420T111000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №33\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260420T113000
+DTEND;TZID=Europe/Moscow:20260420T131000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6117
+LOCATION:а.6117
+DESCRIPTION:Группа: 6371\nАудитория: а.6117\nПара №34\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260420-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260420T140000
+DTEND;TZID=Europe/Moscow:20260420T154000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6371\nАудитория: а.6240\nПара №22\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260424T140000
+DTEND;TZID=Europe/Moscow:20260424T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6371\nАудитория: а.6381\nПара №47\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260424-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260424T160000
+DTEND;TZID=Europe/Moscow:20260424T174000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6381
+LOCATION:а.6381
+DESCRIPTION:Группа: 6371\nАудитория: а.6381\nПара №48\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260427-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260427T160000
+DTEND;TZID=Europe/Moscow:20260427T174000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6115
+LOCATION:а.6115
+DESCRIPTION:Группа: 6371\nАудитория: а.6115\nПара №23\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T140000
+DTEND;TZID=Europe/Moscow:20260429T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6371\nАудитория: а.6373\nПара №49\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260429-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260429T160000
+DTEND;TZID=Europe/Moscow:20260429T174000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6371\nАудитория: а.6373\nПара №50\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T113000
+DTEND;TZID=Europe/Moscow:20260430T131000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6249
+LOCATION:а.6249
+DESCRIPTION:Группа: 6371\nАудитория: а.6249\nПара №35\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260430-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260430T140000
+DTEND;TZID=Europe/Moscow:20260430T154000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6116
+LOCATION:а.6116
+DESCRIPTION:Группа: 6371\nАудитория: а.6116\nПара №36\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T113000
+DTEND;TZID=Europe/Moscow:20260512T131000
+SUMMARY:Организация и нормирование труда (лек) · гр. 6371 · а.6248
+LOCATION:а.6248
+DESCRIPTION:Группа: 6371\nАудитория: а.6248\nПара №24\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T140000
+DTEND;TZID=Europe/Moscow:20260512T154000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6371\nАудитория: а.6373\nПара №51\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260512-1600-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260512T160000
+DTEND;TZID=Europe/Moscow:20260512T174000
+SUMMARY:Организация и нормирование труда (пр) · гр. 6371 · а.6373
+LOCATION:а.6373
+DESCRIPTION:Группа: 6371\nАудитория: а.6373\nПара №52\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-0930-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T093000
+DTEND;TZID=Europe/Moscow:20260520T111000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6371\nАудитория: а.6235\nПара №37\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T113000
+DTEND;TZID=Europe/Moscow:20260520T131000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6371\nАудитория: а.6235\nПара №38\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260520-1400-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260520T140000
+DTEND;TZID=Europe/Moscow:20260520T154000
+SUMMARY:Организация и нормирование труда (лаб) · гр. 6371 · а.6235
+LOCATION:а.6235
+DESCRIPTION:Группа: 6371\nАудитория: а.6235\nПара №39\nПреподаватель: Ковшо
+ ва А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:teacher-20260610-1130-6371-организация-и-нормирование-тру@gtifem.ru
+DTSTAMP:20260608T121613Z
+DTSTART;TZID=Europe/Moscow:20260610T113000
+DTEND;TZID=Europe/Moscow:20260610T131000
+SUMMARY:Организация и нормирование труда (экз) · гр. 6371 · а.6240
+LOCATION:а.6240
+DESCRIPTION:Группа: 6371\nАудитория: а.6240\nПреподаватель: Ковшова А. К.
+CATEGORIES:Преподавание,6371
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
